@@ -26,4 +26,4 @@ Rosters are named `<team_name>-roster.csv` with `<team_name>` is the name used b
 
 Schedules are named similarly: `<team_name>-schedule.csv`
 
-Box scores are done a bit differently: `<date_played><team_name>-boxscore.csv`, where `<date_played>` is an ISO-like date of the format `YYYY-MM-DD-HH` (the format used in SR CBB's urls).
+Box scores are done a bit differently: `<date_played>-<team_name>-boxscore.csv`, where `<date_played>` is an ISO-like date of the format `YYYY-MM-DD-HH` (the format used in SR CBB's urls).
