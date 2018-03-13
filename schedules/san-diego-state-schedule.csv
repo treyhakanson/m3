@@ -1,0 +1,34 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",10:00 pm/est,,REG,,San Diego Christian,,W,91,52,,1,0,W 1,Viejas Arena
+1,2,"Tue, Nov 14, 2017",9:00 pm/est,,REG,@,Arizona State,Pac-12,L,68,90,,1,1,L 1,Wells Fargo Arena
+2,3,"Fri, Nov 17, 2017",10:30 pm/est,,REG,,McNeese State,Southland,W,83,52,,2,1,W 1,Viejas Arena
+3,4,"Mon, Nov 20, 2017",10:30 pm/est,,REG,,Eastern Illinois,OVC,W,94,63,,3,1,W 2,Viejas Arena
+4,5,"Fri, Nov 24, 2017",7:00 pm/est,,REG,N,Georgia,SEC,W,75,68,,4,1,W 3,Titan Gym
+5,6,"Fri, Nov 24, 2017",1:00 am/est,,REG,@,Sacramento State,Big Sky,W,89,52,,5,1,W 4,The Nest
+6,7,"Sun, Nov 26, 2017",11:59 pm/est,,REG,N,Washington State,Pac-12,L,86,93,,5,2,L 1,Titan Gym
+7,8,"Thu, Nov 30, 2017",11:00 pm/est,,REG,@,San Diego,WCC,W,66,57,,6,2,W 1,Jenny Craig Pavillion
+8,9,"Sun, Dec 3, 2017",6:00 pm/est,,REG,,Bradley,MVC,W,75,52,,7,2,W 2,Viejas Arena
+9,10,"Sat, Dec 9, 2017",5:00 pm/est,,REG,,University of California,Pac-12,L,62,63,,7,3,L 1,Viejas Arena
+10,11,"Thu, Dec 21, 2017",10:00 pm/est,,REG,,Gonzaga (12),WCC,W,72,70,,8,3,W 1,Viejas Arena
+11,12,"Wed, Dec 27, 2017",9:00 pm/est,,REG,@,Wyoming,MWC,L,69,82,,8,4,L 1,Arena-Auditorium
+12,13,"Sat, Dec 30, 2017",10:00 pm/est,,REG,,Utah State,MWC,W,79,59,,9,4,W 1,Viejas Arena
+13,14,"Tue, Jan 2, 2018",9:00 pm/est,,REG,@,Colorado State,MWC,W,77,68,,10,4,W 2,Moby Arena
+14,15,"Tue, Jan 9, 2018",11:00 pm/est,,REG,,San Jose State,MWC,W,85,49,,11,4,W 3,Viejas Arena
+15,16,"Sat, Jan 13, 2018",10:00 pm/est,,REG,@,Boise State,MWC,L,80,83,,11,5,L 1,Taco Bell Arena
+16,17,"Wed, Jan 17, 2018",11:00 pm/est,,REG,,Fresno State,MWC,L,73,77,,11,6,L 2,Viejas Arena
+17,18,"Sat, Jan 20, 2018",7:00 pm/est,,REG,@,New Mexico,MWC,L,75,79,,11,7,L 3,The Pit
+18,19,"Wed, Jan 24, 2018",11:00 pm/est,,REG,,Colorado State,MWC,W,97,78,,12,7,W 1,Viejas Arena
+19,20,"Sat, Jan 27, 2018",10:00 pm/est,,REG,@,Nevada-Las Vegas,MWC,L,78,88,,12,8,L 1,Thomas & Mack Center
+20,21,"Sat, Feb 3, 2018",10:00 pm/est,,REG,,Air Force,MWC,W,81,50,,13,8,W 1,Viejas Arena
+21,22,"Tue, Feb 6, 2018",11:00 pm/est,,REG,@,Fresno State,MWC,L,61,79,,13,9,L 1,Save Mart Center
+22,23,"Sat, Feb 10, 2018",8:00 pm/est,,REG,@,Nevada (23),MWC,L,58,83,,13,10,L 2,Lawlor Events Center
+23,24,"Wed, Feb 14, 2018",11:00 pm/est,,REG,,Wyoming,MWC,W,87,77,,14,10,W 1,Viejas Arena
+24,25,"Sat, Feb 17, 2018",4:00 pm/est,,REG,,Nevada-Las Vegas,MWC,W,94,56,,15,10,W 2,Viejas Arena
+25,26,"Wed, Feb 21, 2018",9:30 pm/est,,REG,@,Air Force,MWC,W,67,56,,16,10,W 3,Clune Arena 
+26,27,"Sat, Feb 24, 2018",10:00 pm/est,,REG,@,San Jose State,MWC,W,71,59,,17,10,W 4,San Jose State Event Center
+27,28,"Tue, Feb 27, 2018",11:00 pm/est,,REG,,Boise State,MWC,W,72,64,,18,10,W 5,Viejas Arena
+28,29,"Sat, Mar 3, 2018",10:00 pm/est,,REG,,Nevada (21),MWC,W,79,74,,19,10,W 6,Viejas Arena
+29,30,"Thu, Mar 8, 2018",5:30 pm/est,,CTOURN,N,Fresno State,MWC,W,64,52,,20,10,W 7,Thomas & Mack Center
+30,31,"Fri, Mar 9, 2018",9:00 pm/est,,CTOURN,N,Nevada (22),MWC,W,90,73,,21,10,W 8,Thomas & Mack Center
+31,32,"Sat, Mar 10, 2018",6:00 pm/est,,CTOURN,N,New Mexico,MWC,W,82,75,,22,10,W 9,Thomas & Mack Center
+32,33,"Thu, Mar 15, 2018",7:20 pm/est,,NCAA,N,Houston (21),AAC,,,,,,,,

@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",9:15 pm/est,,REG,,UC-Irvine,Big West,W,65,54,,1,0,W 1,Frost Arena
+1,2,"Sun, Nov 12, 2017",3:00 pm/est,,REG,,Mary,,W,78,54,,2,0,W 2,Frost Arena
+2,3,"Tue, Nov 14, 2017",8:00 pm/est,,REG,,Alabama State,SWAC,W,94,63,,3,0,W 3,Frost Arena
+3,4,"Fri, Nov 17, 2017",8:00 pm/est,,REG,@,Kansas (4),Big 12,L,64,98,,3,1,L 1,Allen Fieldhouse
+4,5,"Mon, Nov 20, 2017",2:30 pm/est,,REG,@,Wyoming,MWC,L,65,77,,3,2,L 2,Arena-Auditorium
+5,6,"Tue, Nov 21, 2017",12:00 pm/est,,REG,N,Iowa,Big Ten,W,80,72,,4,2,W 1,
+6,7,"Wed, Nov 22, 2017",2:30 pm/est,,REG,N,Buffalo,MAC,W,94,80,,5,2,W 2,
+7,8,"Sun, Nov 26, 2017",3:00 pm/est,,REG,,Dakota State,,W,92,60,,6,2,W 3,Frost Arena
+8,9,"Tue, Nov 28, 2017",8:00 pm/est,,REG,@,Mississippi,SEC,W,99,97,OT,7,2,W 4,The Pavilion at Ole Miss
+9,10,"Sat, Dec 2, 2017",8:00 pm/est,,REG,N,Missouri State,MVC,L,53,73,,7,3,L 1,Sanford Pentagon
+10,11,"Tue, Dec 5, 2017",8:00 pm/est,,REG,@,Wichita State (6),AAC,L,85,95,,7,4,L 2,Charles Koch Arena
+11,12,"Fri, Dec 8, 2017",6:30 pm/est,,REG,,Concordia (NE),,W,103,67,,8,4,W 1,Frost Arena
+12,13,"Tue, Dec 12, 2017",8:00 pm/est,,REG,,North Dakota,Big Sky,W,99,63,,9,4,W 2,Frost Arena
+13,14,"Fri, Dec 15, 2017",8:00 pm/est,,REG,@,Colorado,Pac-12,L,103,112,2OT,9,5,L 1,Coors Events/Conference Center
+14,15,"Tue, Dec 19, 2017",8:00 pm/est,,REG,,Drake,MVC,W,87,74,,10,5,W 1,Frost Arena
+15,16,"Fri, Dec 22, 2017",7:00 pm/est,,REG,@,Missouri-Kansas City,WAC,W,85,60,,11,5,W 2,Municipal Auditorium
+16,17,"Sat, Dec 30, 2017",3:00 pm/est,,REG,,Presentation College,,W,111,68,,12,5,W 3,Frost Arena
+17,18,"Wed, Jan 3, 2018",8:00 pm/est,,REG,@,North Dakota State,Summit,W,87,80,,13,5,W 4,
+18,19,"Sat, Jan 6, 2018",8:00 pm/est,,REG,@,Nebraska-Omaha,Summit,W,101,88,,14,5,W 5,Baxter Arena
+19,20,"Thu, Jan 11, 2018",8:00 pm/est,,REG,,Oral Roberts,Summit,W,78,75,,15,5,W 6,Frost Arena
+20,21,"Sat, Jan 13, 2018",3:00 pm/est,,REG,,Denver,Summit,W,94,72,,16,5,W 7,Frost Arena
+21,22,"Sat, Jan 20, 2018",8:00 pm/est,,REG,@,Western Illinois,Summit,W,98,70,,17,5,W 8,Western Hall
+22,23,"Wed, Jan 24, 2018",8:00 pm/est,,REG,@,South Dakota,Summit,L,68,87,,17,6,L 1,
+23,24,"Sat, Jan 27, 2018",5:15 pm/est,,REG,,IPFW,Summit,W,78,76,,18,6,W 1,Frost Arena
+24,25,"Tue, Jan 30, 2018",8:00 pm/est,,REG,,Nebraska-Omaha,Summit,W,80,60,,19,6,W 2,Frost Arena
+25,26,"Thu, Feb 1, 2018",8:00 pm/est,,REG,,North Dakota State,Summit,W,82,63,,20,6,W 3,Frost Arena
+26,27,"Thu, Feb 8, 2018",9:00 pm/est,,REG,@,Denver,Summit,W,81,77,,21,6,W 4,Magness Arena
+27,28,"Sat, Feb 10, 2018",8:00 pm/est,,REG,@,Oral Roberts,Summit,W,85,75,,22,6,W 5,Mabee Center
+28,29,"Sat, Feb 17, 2018",3:00 pm/est,,REG,,Western Illinois,Summit,W,82,62,,23,6,W 6,Frost Arena
+29,30,"Thu, Feb 22, 2018",8:00 pm/est,,REG,,South Dakota,Summit,W,76,72,,24,6,W 7,Frost Arena
+30,31,"Sat, Feb 24, 2018",7:00 pm/est,,REG,@,IPFW,Summit,W,97,90,,25,6,W 8,Hilliard Gates Sports Center
+31,32,"Sat, Mar 3, 2018",7:00 pm/est,,CTOURN,N,Western Illinois,Summit,W,66,60,,26,6,W 9,
+32,33,"Mon, Mar 5, 2018",7:00 pm/est,,CTOURN,N,North Dakota State,Summit,W,78,57,,27,6,W 10,
+33,34,"Tue, Mar 6, 2018",9:00 pm/est,,CTOURN,N,South Dakota,Summit,W,97,87,,28,6,W 11,
+34,35,"Thu, Mar 15, 2018",4:00 pm/est,,NCAA,N,Ohio State (17),Big Ten,,,,,,,,

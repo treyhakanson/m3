@@ -1,0 +1,33 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:00 pm/est,,REG,,Gardner-Webb,Big South,W,77,45,,1,0,W 1,BankUnited Center
+1,2,"Sun, Nov 12, 2017",4:00 pm/est,,REG,,Navy,Patriot,W,89,55,,2,0,W 2,BankUnited Center
+2,3,"Thu, Nov 16, 2017",7:00 pm/est,,REG,,Florida A&M,MEAC,W,90,59,,3,0,W 3,BankUnited Center
+3,4,"Wed, Nov 22, 2017",6:00 pm/est,,REG,N,La Salle,A-10,W,57,46,,4,0,W 4,
+4,5,"Sat, Nov 25, 2017",4:00 pm/est,,REG,,North Florida,A-Sun,W,86,65,,5,0,W 5,BankUnited Center
+5,6,"Wed, Nov 29, 2017",9:15 pm/est,,REG,@,Minnesota (12),Big Ten,W,86,81,,6,0,W 6,Williams Arena
+6,7,"Sat, Dec 2, 2017",8:00 pm/est,,REG,N,Princeton,Ivy,W,80,52,,7,0,W 7,American Airlines Arena
+7,8,"Tue, Dec 5, 2017",7:00 pm/est,,REG,,Boston University,Patriot,W,69,54,,8,0,W 8,BankUnited Center
+8,9,"Sat, Dec 16, 2017",12:00 pm/est,,REG,@,George Washington,A-10,W,59,50,,9,0,W 9,Charles E. Smith Center
+9,10,"Sat, Dec 23, 2017",10:00 pm/est,,REG,N,New Mexico State,WAC,L,54,63,,9,1,L 1,Stan Sheriff Center
+10,11,"Sat, Dec 23, 2017",1:00 am/est,,REG,@,Hawaii,Big West,W,75,57,,10,1,W 1,Stan Sheriff Center
+11,12,"Mon, Dec 25, 2017",8:30 pm/est,,REG,N,Middle Tennessee,CUSA,W,84,81,,11,1,W 2,Stan Sheriff Center
+12,13,"Sat, Dec 30, 2017",4:00 pm/est,,REG,@,Pittsburgh,ACC,W,67,53,,12,1,W 3,Petersen Events Center
+13,14,"Wed, Jan 3, 2018",9:00 pm/est,,REG,@,Georgia Tech,ACC,L,54,64,,12,2,L 1,McCamish Pavilion
+14,15,"Sun, Jan 7, 2018",6:00 pm/est,,REG,,Florida State (24),ACC,W,80,74,,13,2,W 1,BankUnited Center
+15,16,"Sat, Jan 13, 2018",3:00 pm/est,,REG,@,Clemson (19),ACC,L,63,72,,13,3,L 1,Littlejohn Coliseum
+16,17,"Mon, Jan 15, 2018",7:00 pm/est,,REG,,Duke (5),ACC,L,75,83,,13,4,L 2,BankUnited Center
+17,18,"Sun, Jan 21, 2018",12:00 pm/est,,REG,@,North Carolina State,ACC,W,86,81,,14,4,W 1,PNC Arena
+18,19,"Wed, Jan 24, 2018",8:00 pm/est,,REG,,Louisville,ACC,W,78,75,OT,15,4,W 2,BankUnited Center
+19,20,"Sat, Jan 27, 2018",4:00 pm/est,,REG,@,Florida State,ACC,L,94,103,OT,15,5,L 1,Donald L. Tucker Center
+20,21,"Wed, Jan 31, 2018",7:00 pm/est,,REG,,Pittsburgh,ACC,W,69,57,,16,5,W 1,BankUnited Center
+21,22,"Sat, Feb 3, 2018",2:00 pm/est,,REG,@,Virginia Tech,ACC,W,84,75,,17,5,W 2,Cassell Coliseum
+22,23,"Wed, Feb 7, 2018",7:00 pm/est,,REG,,Wake Forest,ACC,W,87,81,,18,5,W 3,BankUnited Center
+23,24,"Sat, Feb 10, 2018",2:00 pm/est,,REG,@,Boston College,ACC,L,70,72,,18,6,L 1,Silvio O. Conte Forum
+24,25,"Tue, Feb 13, 2018",9:00 pm/est,,REG,,Virginia (1),ACC,L,50,59,,18,7,L 2,BankUnited Center
+25,26,"Sat, Feb 17, 2018",12:00 pm/est,,REG,,Syracuse,ACC,L,55,62,,18,8,L 3,BankUnited Center
+26,27,"Mon, Feb 19, 2018",7:00 pm/est,,REG,@,Notre Dame,ACC,W,77,74,,19,8,W 1,Purcell Pavilion at the Joyce Center
+27,28,"Sat, Feb 24, 2018",2:00 pm/est,,REG,,Boston College,ACC,W,79,78,,20,8,W 2,BankUnited Center
+28,29,"Tue, Feb 27, 2018",9:00 pm/est,,REG,@,North Carolina (9),ACC,W,91,88,,21,8,W 3,Dean Smith Center
+29,30,"Sat, Mar 3, 2018",12:00 pm/est,,REG,,Virginia Tech,ACC,W,69,68,,22,8,W 4,BankUnited Center
+30,31,"Thu, Mar 8, 2018",9:00 pm/est,,CTOURN,N,North Carolina (12),ACC,L,65,82,,22,9,L 1,Barclays Center
+31,32,"Thu, Mar 15, 2018",3:10 pm/est,,NCAA,N,Loyola (IL),MVC,,,,,,,,

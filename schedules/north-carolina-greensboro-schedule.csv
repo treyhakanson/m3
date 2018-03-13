@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,@,Virginia,ACC,L,48,60,,0,1,L 1,John Paul Jones Arena
+1,2,"Wed, Nov 15, 2017",7:00 pm/est,,REG,,North Carolina Wesleyan,,W,82,48,,1,1,W 1,Fleming Gymnasium
+2,3,"Fri, Nov 17, 2017",7:00 pm/est,,REG,,Ferrum,,W,95,43,,2,1,W 2,Fleming Gymnasium
+3,4,"Mon, Nov 20, 2017",7:00 pm/est,,REG,,Delaware,CAA,W,79,66,,3,1,W 3,Greensboro Coliseum
+4,5,"Tue, Nov 21, 2017",7:30 pm/est,,REG,,Longwood,Big South,W,71,40,,4,1,W 4,Greensboro Coliseum
+5,6,"Fri, Nov 24, 2017",7:00 pm/est,,REG,@,Wake Forest,ACC,L,75,81,,4,2,L 1,Lawrence Joel Coliseum
+6,7,"Tue, Nov 28, 2017",7:00 pm/est,,REG,@,Presbyterian,Big South,L,72,74,,4,3,L 2,Ross E.Templeton Center
+7,8,"Sat, Dec 2, 2017",1:00 pm/est,,REG,@,Liberty,Big South,W,76,75,3OT,5,3,W 1,Vines Center
+8,9,"Thu, Dec 7, 2017",7:00 pm/est,,REG,,Elon,CAA,W,75,44,,6,3,W 2,Greensboro Coliseum
+9,10,"Wed, Dec 13, 2017",7:00 pm/est,,REG,,North Carolina-Wilmington,CAA,W,71,58,,7,3,W 3,Greensboro Coliseum
+10,11,"Sat, Dec 16, 2017",12:00 pm/est,,REG,@,North Carolina State,ACC,W,81,76,,8,3,W 4,PNC Arena
+11,12,"Tue, Dec 19, 2017",7:00 pm/est,,REG,,North Carolina-Asheville,Big South,L,60,67,,8,4,L 1,Greensboro Coliseum
+12,13,"Thu, Dec 21, 2017",5:00 pm/est,,REG,,Southeastern,,W,85,67,,9,4,W 1,Greensboro Coliseum
+13,14,"Sat, Dec 30, 2017",5:00 pm/est,,REG,,Wofford,Southern,W,71,67,,10,4,W 2,Greensboro Coliseum
+14,15,"Sat, Jan 6, 2018",1:00 pm/est,,REG,@,Virginia Military Institute,Southern,W,63,61,,11,4,W 3,Cameron Hall
+15,16,"Thu, Jan 11, 2018",7:00 pm/est,,REG,@,East Tennessee State,Southern,L,58,68,,11,5,L 1,Freedom Hall Civic Center
+16,17,"Sat, Jan 13, 2018",7:30 pm/est,,REG,@,Western Carolina,Southern,W,66,55,,12,5,W 1,Ramsey Center
+17,18,"Thu, Jan 18, 2018",7:00 pm/est,,REG,,Citadel,Southern,W,72,58,,13,5,W 2,Greensboro Coliseum
+18,19,"Sat, Jan 20, 2018",5:00 pm/est,,REG,,Mercer,Southern,W,70,66,OT,14,5,W 3,Greensboro Coliseum
+19,20,"Wed, Jan 24, 2018",7:00 pm/est,,REG,,Furman,Southern,W,71,61,,15,5,W 4,Greensboro Coliseum
+20,21,"Sat, Jan 27, 2018",8:00 pm/est,,REG,@,Samford,Southern,W,98,82,,16,5,W 5,Pete Hanna Center
+21,22,"Mon, Jan 29, 2018",7:00 pm/est,,REG,@,Chattanooga,Southern,L,85,87,2OT,16,6,L 1,The McKenzie Arena
+22,23,"Thu, Feb 1, 2018",7:00 pm/est,,REG,,Virginia Military Institute,Southern,W,73,51,,17,6,W 1,Greensboro Coliseum
+23,24,"Wed, Feb 7, 2018",7:00 pm/est,,REG,@,Furman,Southern,W,80,67,,18,6,W 2,Timmons Arena
+24,25,"Sat, Feb 10, 2018",5:00 pm/est,,REG,,Western Carolina,Southern,W,65,48,,19,6,W 3,Fleming Gymnasium
+25,26,"Mon, Feb 12, 2018",7:00 pm/est,,REG,,East Tennessee State,Southern,W,74,56,,20,6,W 4,Greensboro Coliseum
+26,27,"Thu, Feb 15, 2018",6:00 pm/est,,REG,@,Citadel,Southern,W,82,66,,21,6,W 5,McAlister Field House
+27,28,"Sat, Feb 17, 2018",4:00 pm/est,,REG,@,Mercer,Southern,L,74,77,,21,7,L 1,Hawkins Arena
+28,29,"Tue, Feb 20, 2018",7:00 pm/est,,REG,@,Wofford,Southern,W,76,66,,22,7,W 1,
+29,30,"Fri, Feb 23, 2018",7:00 pm/est,,REG,,Chattanooga,Southern,W,72,51,,23,7,W 2,Greensboro Coliseum
+30,31,"Sun, Feb 25, 2018",4:00 pm/est,,REG,,Samford,Southern,W,88,75,,24,7,W 3,Greensboro Coliseum
+31,32,"Sat, Mar 3, 2018",12:00 pm/est,,CTOURN,N,Citadel,Southern,W,72,58,,25,7,W 4,
+32,33,"Sun, Mar 4, 2018",4:00 pm/est,,CTOURN,N,Wofford,Southern,W,56,55,,26,7,W 5,
+33,34,"Mon, Mar 5, 2018",9:00 pm/est,,CTOURN,N,East Tennessee State,Southern,W,62,47,,27,7,W 6,
+34,35,"Thu, Mar 15, 2018",1:30 pm/est,,NCAA,N,Gonzaga (8),WCC,,,,,,,,

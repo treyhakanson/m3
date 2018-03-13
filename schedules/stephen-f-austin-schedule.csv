@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Sat, Nov 11, 2017",3:00 pm/est,,REG,@,Longwood,Big South,W,74,61,,1,0,W 1,Willett Hall
+1,2,"Wed, Nov 15, 2017",8:00 pm/est,,REG,,St. Edward's,,W,89,66,,2,0,W 2,William Johnson Coliseum
+2,3,"Thu, Nov 16, 2017",8:00 pm/est,,REG,,LeTourneau,,W,91,68,,3,0,W 3,William Johnson Coliseum
+3,4,"Sat, Nov 18, 2017",5:00 pm/est,,REG,,Howard Payne,,W,118,64,,4,0,W 4,William Johnson Coliseum
+4,5,"Wed, Nov 22, 2017",8:00 pm/est,,REG,@,Mississippi State,SEC,L,75,80,,4,1,L 1,Humphrey Coliseum
+5,6,"Sun, Nov 26, 2017",3:00 pm/est,,REG,,Florida A&M,MEAC,W,79,63,,5,1,W 1,William Johnson Coliseum
+6,7,"Tue, Nov 28, 2017",8:30 pm/est,,REG,,North Dakota State,Summit,W,54,50,,6,1,W 2,William Johnson Coliseum
+7,8,"Sat, Dec 2, 2017",4:30 pm/est,,REG,,Louisiana-Monroe,Sun Belt,W,68,65,,7,1,W 3,William Johnson Coliseum
+8,9,"Wed, Dec 6, 2017",7:30 pm/est,,REG,@,Louisiana Tech,CUSA,W,85,83,,8,1,W 4,Thomas Assembly Center
+9,10,"Sat, Dec 9, 2017",3:00 pm/est,,REG,,Rice,CUSA,W,81,62,,9,1,W 5,William Johnson Coliseum
+10,11,"Sat, Dec 16, 2017",1:00 pm/est,,REG,@,Louisiana State,SEC,W,83,82,,10,1,W 6,Maravich Assembly Center
+11,12,"Tue, Dec 19, 2017",9:00 pm/est,,REG,@,Missouri,SEC,L,81,82,,10,2,L 1,Mizzou Arena
+12,13,"Thu, Dec 21, 2017",7:00 pm/est,,REG,,Arlington Baptist,,W,116,66,,11,2,W 1,William Johnson Coliseum
+13,14,"Thu, Dec 28, 2017",8:00 pm/est,,REG,@,Southeastern Louisiana,Southland,L,62,73,,11,3,L 1,University Center
+14,15,"Wed, Jan 3, 2018",8:00 pm/est,,REG,,Nicholls State,Southland,W,81,64,,12,3,W 1,William Johnson Coliseum
+15,16,"Sat, Jan 6, 2018",4:30 pm/est,,REG,@,Northwestern State,Southland,W,64,56,,13,3,W 2,Prather Coliseum
+16,17,"Wed, Jan 10, 2018",8:00 pm/est,,REG,,New Orleans,Southland,W,78,68,,14,3,W 3,William Johnson Coliseum
+17,18,"Sat, Jan 13, 2018",7:00 pm/est,,REG,,Incarnate Word,Southland,W,83,63,,15,3,W 4,William Johnson Coliseum
+18,19,"Wed, Jan 17, 2018",8:00 pm/est,,REG,@,Abilene Christian,Southland,W,76,66,,16,3,W 5,Moody Coliseum 
+19,20,"Wed, Jan 24, 2018",8:00 pm/est,,REG,@,Central Arkansas,Southland,L,92,100,,16,4,L 1,Jeff Farris Center
+20,21,"Sat, Jan 27, 2018",7:00 pm/est,,REG,,Sam Houston State,Southland,W,82,66,,17,4,W 1,William Johnson Coliseum
+21,22,"Wed, Jan 31, 2018",8:00 pm/est,,REG,,Houston Baptist,Southland,W,102,82,,18,4,W 2,William Johnson Coliseum
+22,23,"Sat, Feb 3, 2018",5:30 pm/est,,REG,@,Lamar,Southland,L,54,76,,18,5,L 1,Montagne Center
+23,24,"Thu, Feb 8, 2018",7:30 pm/est,,REG,@,McNeese State,Southland,W,99,95,,19,5,W 1,Burton Coliseum
+24,25,"Sat, Feb 10, 2018",7:00 pm/est,,REG,,Northwestern State,Southland,W,97,50,,20,5,W 2,William Johnson Coliseum
+25,26,"Wed, Feb 14, 2018",8:00 pm/est,,REG,@,Texas A&M-Corpus Christi,Southland,W,87,68,,21,5,W 3,American Bank Center
+26,27,"Sat, Feb 17, 2018",4:00 pm/est,,REG,@,Incarnate Word,Southland,W,81,70,,22,5,W 4,McDermott Center
+27,28,"Wed, Feb 21, 2018",8:00 pm/est,,REG,,Central Arkansas,Southland,W,97,62,,23,5,W 5,William Johnson Coliseum
+28,29,"Sat, Feb 24, 2018",7:00 pm/est,,REG,,Lamar,Southland,L,66,71,,23,6,L 1,William Johnson Coliseum
+29,30,"Wed, Feb 28, 2018",8:00 pm/est,,REG,,Abilene Christian,Southland,W,76,56,,24,6,W 1,William Johnson Coliseum
+30,31,"Sat, Mar 3, 2018",8:00 pm/est,,REG,@,Sam Houston State,Southland,W,65,53,,25,6,W 2,Johnson Coliseum
+31,32,"Thu, Mar 8, 2018",8:30 pm/est,,CTOURN,N,Central Arkansas,Southland,W,86,64,,26,6,W 3,
+32,33,"Fri, Mar 9, 2018",8:30 pm/est,,CTOURN,N,Nicholls State,Southland,W,78,66,,27,6,W 4,
+33,34,"Sat, Mar 10, 2018",9:00 pm/est,,CTOURN,N,Southeastern Louisiana,Southland,W,59,55,,28,6,W 5,
+34,35,"Thu, Mar 15, 2018",7:27 pm/est,,NCAA,N,Texas Tech (14),Big 12,,,,,,,,

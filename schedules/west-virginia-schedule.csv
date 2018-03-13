@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",6:00 pm/est,,REG,N,Texas A&M (25),SEC,L,65,88,,0,1,L 1,
+1,2,"Wed, Nov 15, 2017",7:00 pm/est,,REG,,American,Patriot,W,98,64,,1,1,W 1,WVU Coliseum
+2,3,"Sat, Nov 18, 2017",7:30 pm/est,,REG,,Morgan State,MEAC,W,111,48,,2,1,W 2,WVU Coliseum
+3,4,"Mon, Nov 20, 2017",7:00 pm/est,,REG,,Long Beach State,Big West,W,91,62,,3,1,W 3,WVU Coliseum
+4,5,"Thu, Nov 23, 2017",8:30 pm/est,,REG,N,Marist,MAAC,W,84,78,,4,1,W 4,HP Field House
+5,6,"Fri, Nov 24, 2017",5:00 pm/est,,REG,N,Central Florida,AAC,W,83,45,,5,1,W 5,HP Field House
+6,7,"Sun, Nov 26, 2017",9:30 pm/est,,REG,N,Missouri,SEC,W,83,79,,6,1,W 6,HP Field House
+7,8,"Thu, Nov 30, 2017",7:00 pm/est,,REG,,NJIT,A-Sun,W,102,69,,7,1,W 7,WVU Coliseum
+8,9,"Tue, Dec 5, 2017",7:00 pm/est,,REG,,Virginia (15),ACC,W,68,61,,8,1,W 8,WVU Coliseum
+9,10,"Sat, Dec 9, 2017",8:00 pm/est,,REG,@,Pittsburgh,ACC,W,69,60,,9,1,W 9,Petersen Events Center
+10,11,"Wed, Dec 20, 2017",7:00 pm/est,,REG,,Coppin State,MEAC,W,77,38,,10,1,W 10,WVU Coliseum
+11,12,"Sat, Dec 23, 2017",12:00 pm/est,,REG,,Fordham,A-10,W,86,69,,11,1,W 11,WVU Coliseum
+12,13,"Fri, Dec 29, 2017",7:00 pm/est,,REG,@,Oklahoma State,Big 12,W,85,79,,12,1,W 12,Gallagher-Iba Arena
+13,14,"Mon, Jan 1, 2018",5:00 pm/est,,REG,@,Kansas State,Big 12,W,77,69,,13,1,W 13,Bramlage Coliseum
+14,15,"Sat, Jan 6, 2018",7:15 pm/est,,REG,,Oklahoma (7),Big 12,W,89,76,,14,1,W 14,WVU Coliseum
+15,16,"Tue, Jan 9, 2018",7:00 pm/est,,REG,,Baylor,Big 12,W,57,54,,15,1,W 15,WVU Coliseum
+16,17,"Sat, Jan 13, 2018",2:00 pm/est,,REG,@,Texas Tech (8),Big 12,L,71,72,,15,2,L 1,United Supermarkets Arena
+17,18,"Mon, Jan 15, 2018",9:00 pm/est,,REG,,Kansas (10),Big 12,L,66,71,,15,3,L 2,WVU Coliseum
+18,19,"Sat, Jan 20, 2018",2:00 pm/est,,REG,,Texas,Big 12,W,86,51,,16,3,W 1,WVU Coliseum
+19,20,"Mon, Jan 22, 2018",9:00 pm/est,,REG,@,Texas Christian,Big 12,L,73,82,,16,4,L 1,Ed & Rae Schollmaier Arena
+20,21,"Sat, Jan 27, 2018",7:00 pm/est,,REG,,Kentucky,SEC,L,76,83,,16,5,L 2,WVU Coliseum
+21,22,"Wed, Jan 31, 2018",7:00 pm/est,,REG,@,Iowa State,Big 12,L,77,93,,16,6,L 3,James H. Hilton Coliseum 
+22,23,"Sat, Feb 3, 2018",4:00 pm/est,,REG,,Kansas State,Big 12,W,89,51,,17,6,W 1,WVU Coliseum
+23,24,"Mon, Feb 5, 2018",9:00 pm/est,,REG,@,Oklahoma (17),Big 12,W,75,73,,18,6,W 2,Lloyd Noble Center
+24,25,"Sat, Feb 10, 2018",12:00 pm/est,,REG,,Oklahoma State,Big 12,L,85,88,,18,7,L 1,WVU Coliseum
+25,26,"Mon, Feb 12, 2018",9:00 pm/est,,REG,,Texas Christian,Big 12,W,82,66,,19,7,W 1,WVU Coliseum
+26,27,"Sat, Feb 17, 2018",6:00 pm/est,,REG,@,Kansas (13),Big 12,L,69,77,,19,8,L 1,Allen Fieldhouse
+27,28,"Tue, Feb 20, 2018",7:00 pm/est,,REG,@,Baylor,Big 12,W,71,60,,20,8,W 1,Ferrell Center
+28,29,"Sat, Feb 24, 2018",6:00 pm/est,,REG,,Iowa State,Big 12,W,85,70,,21,8,W 2,WVU Coliseum
+29,30,"Mon, Feb 26, 2018",9:00 pm/est,,REG,,Texas Tech (12),Big 12,W,84,74,,22,8,W 3,WVU Coliseum
+30,31,"Sat, Mar 3, 2018",12:00 pm/est,,REG,@,Texas,Big 12,L,79,87,OT,22,9,L 1,Frank Erwin Center
+31,32,"Thu, Mar 8, 2018",9:00 pm/est,,CTOURN,N,Baylor,Big 12,W,78,65,,23,9,W 1,Sprint Center
+32,33,"Fri, Mar 9, 2018",9:00 pm/est,,CTOURN,N,Texas Tech (14),Big 12,W,66,63,,24,9,W 2,Sprint Center
+33,34,"Sat, Mar 10, 2018",6:00 pm/est,,CTOURN,N,Kansas (9),Big 12,L,70,81,,24,10,L 1,Sprint Center
+34,35,"Fri, Mar 16, 2018",4:00 pm/est,,NCAA,N,Murray State,OVC,,,,,,,,

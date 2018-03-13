@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:00 pm/est,,REG,,Northern Arizona,Big Sky,W,101,67,,1,0,W 1,McKale Center
+1,2,"Sun, Nov 12, 2017",6:00 pm/est,,REG,,Maryland-Baltimore County,AEC,W,103,78,,2,0,W 2,McKale Center
+2,3,"Thu, Nov 16, 2017",10:00 pm/est,,REG,,Cal State Bakersfield,WAC,W,91,59,,3,0,W 3,McKale Center
+3,4,"Wed, Nov 22, 2017",7:00 pm/est,,REG,N,North Carolina State,ACC,L,84,90,,3,1,L 1,Imperial Arena at Atlantis Resort
+4,5,"Thu, Nov 23, 2017",9:30 pm/est,,REG,N,Southern Methodist,AAC,L,60,66,,3,2,L 2,Imperial Arena at Atlantis Resort
+5,6,"Fri, Nov 24, 2017",9:30 pm/est,,REG,N,Purdue (18),Big Ten,L,64,89,,3,3,L 3,Imperial Arena at Atlantis Resort
+6,7,"Wed, Nov 29, 2017",8:00 pm/est,,REG,,Long Beach State,Big West,W,91,56,,4,3,W 1,McKale Center
+7,8,"Sat, Dec 2, 2017",10:00 pm/est,,REG,@,Nevada-Las Vegas,MWC,W,91,88,OT,5,3,W 2,Thomas & Mack Center
+8,9,"Tue, Dec 5, 2017",9:00 pm/est,,REG,N,Texas A&M (7),SEC,W,67,64,,6,3,W 3,
+9,10,"Sat, Dec 9, 2017",10:00 pm/est,,REG,,Alabama,SEC,W,88,82,,7,3,W 4,McKale Center
+10,11,"Sat, Dec 16, 2017",8:00 pm/est,,REG,@,New Mexico,MWC,W,89,73,,8,3,W 5,The Pit
+11,12,"Mon, Dec 18, 2017",9:00 pm/est,,REG,,North Dakota State,Summit,W,83,53,,9,3,W 6,McKale Center
+12,13,"Thu, Dec 21, 2017",9:00 pm/est,,REG,,Connecticut,AAC,W,73,58,,10,3,W 7,McKale Center
+13,14,"Sat, Dec 30, 2017",9:00 pm/est,,REG,,Arizona State (3),Pac-12,W,84,78,,11,3,W 8,McKale Center
+14,15,"Thu, Jan 4, 2018",9:00 pm/est,,REG,@,Utah,Pac-12,W,94,82,,12,3,W 9,Jon M. Huntsman Center
+15,16,"Sat, Jan 6, 2018",2:00 pm/est,,REG,@,Colorado,Pac-12,L,77,80,,12,4,L 1,Coors Events/Conference Center
+16,17,"Thu, Jan 11, 2018",9:00 pm/est,,REG,,Oregon State,Pac-12,W,62,53,,13,4,W 1,McKale Center
+17,18,"Sat, Jan 13, 2018",2:00 pm/est,,REG,,Oregon,Pac-12,W,90,83,,14,4,W 2,McKale Center
+18,19,"Wed, Jan 17, 2018",9:00 pm/est,,REG,@,University of California,Pac-12,W,79,58,,15,4,W 3,Haas Pavilion
+19,20,"Sat, Jan 20, 2018",4:00 pm/est,,REG,@,Stanford,Pac-12,W,73,71,,16,4,W 4,Maples Pavilion
+20,21,"Thu, Jan 25, 2018",8:30 pm/est,,REG,,Colorado,Pac-12,W,80,71,,17,4,W 5,McKale Center
+21,22,"Sat, Jan 27, 2018",5:30 pm/est,,REG,,Utah,Pac-12,W,74,73,,18,4,W 6,McKale Center
+22,23,"Wed, Jan 31, 2018",10:00 pm/est,,REG,@,Washington State,Pac-12,W,100,72,,19,4,W 7,Beasley Coliseum
+23,24,"Sat, Feb 3, 2018",10:30 pm/est,,REG,@,Washington,Pac-12,L,75,78,,19,5,L 1,Alaska Airlines Arena
+24,25,"Thu, Feb 8, 2018",10:00 pm/est,,REG,,UCLA,Pac-12,L,74,82,,19,6,L 2,McKale Center
+25,26,"Sat, Feb 10, 2018",10:15 pm/est,,REG,,Southern California,Pac-12,W,81,67,,20,6,W 1,McKale Center
+26,27,"Thu, Feb 15, 2018",9:00 pm/est,,REG,@,Arizona State (25),Pac-12,W,77,70,,21,6,W 2,Wells Fargo Arena
+27,28,"Thu, Feb 22, 2018",9:00 pm/est,,REG,@,Oregon State,Pac-12,W,75,65,OT,22,6,W 3,Gill Coliseum
+28,29,"Sat, Feb 24, 2018",10:15 pm/est,,REG,@,Oregon,Pac-12,L,93,98,OT,22,7,L 1,Matthew Knight Arena
+29,30,"Thu, Mar 1, 2018",10:00 pm/est,,REG,,Stanford,Pac-12,W,75,67,,23,7,W 1,McKale Center
+30,31,"Sat, Mar 3, 2018",6:30 pm/est,,REG,,University of California,Pac-12,W,66,54,,24,7,W 2,McKale Center
+31,32,"Thu, Mar 8, 2018",3:00 pm/est,,CTOURN,N,Colorado,Pac-12,W,83,67,,25,7,W 3,T-Mobile Arena
+32,33,"Fri, Mar 9, 2018",9:00 pm/est,,CTOURN,N,UCLA,Pac-12,W,78,67,OT,26,7,W 4,T-Mobile Arena
+33,34,"Sat, Mar 10, 2018",10:00 pm/est,,CTOURN,N,Southern California,Pac-12,W,75,61,,27,7,W 5,T-Mobile Arena
+34,35,"Thu, Mar 15, 2018",9:40 pm/est,,NCAA,N,Buffalo,MAC,,,,,,,,

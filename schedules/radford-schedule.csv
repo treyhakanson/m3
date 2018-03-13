@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,,Georgia Southwestern,,W,72,63,,1,0,W 1,Donald N. Dedmon Center
+1,2,"Sun, Nov 12, 2017",2:30 pm/est,,REG,@,Ohio State,Big Ten,L,72,82,,1,1,L 1,Value City Arena
+2,3,"Wed, Nov 15, 2017",7:00 pm/est,,REG,@,East Carolina,AAC,W,73,66,,2,1,W 1,Williams Arena at Minges Coliseum
+3,4,"Wed, Nov 22, 2017",7:00 pm/est,,REG,@,Elon,CAA,L,74,77,,2,2,L 1,Alumni Gym
+4,5,"Sat, Nov 25, 2017",4:00 pm/est,,REG,,James Madison,CAA,W,69,68,,3,2,W 1,Donald N. Dedmon Center
+5,6,"Tue, Nov 28, 2017",8:00 pm/est,,REG,@,Vanderbilt,SEC,L,62,74,,3,3,L 1,Memorial Gymnasium
+6,7,"Sat, Dec 2, 2017",1:00 pm/est,,REG,@,Virginia Military Institute,Southern,W,63,50,,4,3,W 1,Cameron Hall
+7,8,"Wed, Dec 6, 2017",6:00 pm/est,,REG,@,Virginia Tech,ACC,L,68,95,,4,4,L 1,Cassell Coliseum
+8,9,"Sat, Dec 9, 2017",4:00 pm/est,,REG,,Erskine,,W,76,49,,5,4,W 1,Donald N. Dedmon Center
+9,10,"Sun, Dec 17, 2017",5:30 pm/est,,REG,@,Nevada,MWC,L,62,77,,5,5,L 1,Lawlor Events Center
+10,11,"Tue, Dec 19, 2017",10:00 pm/est,,REG,@,San Francisco,WCC,L,41,52,,5,6,L 2,War Memorial Gymnasium
+11,12,"Fri, Dec 22, 2017",3:00 pm/est,,REG,N,North Carolina A&T,MEAC,W,66,60,,6,6,W 1,Orleans Arena
+12,13,"Sat, Dec 23, 2017",5:30 pm/est,,REG,N,UC-Davis,Big West,W,72,62,OT,7,6,W 2,Orleans Arena
+13,14,"Sat, Dec 30, 2017",4:00 pm/est,,REG,@,Presbyterian,Big South,W,78,62,,8,6,W 3,Ross E.Templeton Center
+14,15,"Wed, Jan 3, 2018",7:00 pm/est,,REG,,Winthrop,Big South,W,85,79,,9,6,W 4,Donald N. Dedmon Center
+15,16,"Sat, Jan 6, 2018",4:00 pm/est,,REG,,North Carolina-Asheville,Big South,W,90,70,,10,6,W 5,Donald N. Dedmon Center
+16,17,"Tue, Jan 9, 2018",7:30 pm/est,,REG,@,Charleston Southern,Big South,W,64,61,,11,6,W 6,CSU Fieldhouse
+17,18,"Fri, Jan 12, 2018",7:00 pm/est,,REG,@,Gardner-Webb,Big South,L,54,59,,11,7,L 1,Paul Porter Arena
+18,19,"Mon, Jan 15, 2018",7:00 pm/est,,REG,,Liberty,Big South,W,59,57,OT,12,7,W 1,Donald N. Dedmon Center
+19,20,"Thu, Jan 18, 2018",7:00 pm/est,,REG,,Longwood,Big South,W,70,63,,13,7,W 2,Donald N. Dedmon Center
+20,21,"Sun, Jan 21, 2018",2:00 pm/est,,REG,@,Campbell,Big South,L,56,59,,13,8,L 1,John W. Pope Jr. Convocation Center
+21,22,"Wed, Jan 24, 2018",7:00 pm/est,,REG,@,High Point,Big South,W,78,76,OT,14,8,W 1,Millis Center
+22,23,"Sat, Jan 27, 2018",2:00 pm/est,,REG,,Charleston Southern,Big South,L,81,84,OT,14,9,L 1,Donald N. Dedmon Center
+23,24,"Thu, Feb 1, 2018",7:00 pm/est,,REG,,Gardner-Webb,Big South,W,70,66,,15,9,W 1,Donald N. Dedmon Center
+24,25,"Sat, Feb 3, 2018",2:00 pm/est,,REG,@,Winthrop,Big South,L,57,75,,15,10,L 1,Winthrop Coliseum
+25,26,"Wed, Feb 7, 2018",7:00 pm/est,,REG,,High Point,Big South,L,60,61,,15,11,L 2,Donald N. Dedmon Center
+26,27,"Sat, Feb 10, 2018",2:00 pm/est,,REG,@,North Carolina-Asheville,Big South,L,64,66,,15,12,L 3,Kimmel Arena
+27,28,"Thu, Feb 15, 2018",9:00 pm/est,,REG,,Campbell,Big South,W,72,53,,16,12,W 1,Donald N. Dedmon Center
+28,29,"Sun, Feb 18, 2018",3:00 pm/est,,REG,,Presbyterian,Big South,W,74,68,OT,17,12,W 2,Donald N. Dedmon Center
+29,30,"Thu, Feb 22, 2018",7:00 pm/est,,REG,@,Liberty,Big South,W,63,50,,18,12,W 3,Vines Center
+30,31,"Sat, Feb 24, 2018",3:00 pm/est,,REG,@,Longwood,Big South,W,70,47,,19,12,W 4,Willett Hall
+31,32,"Thu, Mar 1, 2018",1:00 pm/est,,CTOURN,N,Longwood,Big South,W,59,53,,20,12,W 5,Kimmel Arena
+32,33,"Fri, Mar 2, 2018",6:00 pm/est,,CTOURN,,Winthrop,Big South,W,61,52,,21,12,W 6,Donald N. Dedmon Center
+33,34,"Sun, Mar 4, 2018",1:00 pm/est,,CTOURN,,Liberty,Big South,W,55,52,,22,12,W 7,Donald N. Dedmon Center
+34,35,"Tue, Mar 13, 2018",6:40 pm/est,,NCAA,N,Long Island University,NEC,,,,,,,,

@@ -1,0 +1,34 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",6:00 pm/est,,REG,N,West Virginia (11),Big 12,W,88,65,,1,0,W 1,
+1,2,"Fri, Nov 17, 2017",8:00 pm/est,,REG,,UC-Santa Barbara,Big West,W,84,65,,2,0,W 2,Reed Arena
+2,3,"Mon, Nov 20, 2017",7:00 pm/est,,REG,N,Oklahoma State,Big 12,W,72,55,,3,0,W 3,Barclays Center
+3,4,"Tue, Nov 21, 2017",6:00 pm/est,,REG,N,Penn State,Big Ten,W,98,87,,4,0,W 4,Barclays Center
+4,5,"Fri, Nov 24, 2017",9:00 pm/est,,REG,,Pepperdine,WCC,W,81,65,,5,0,W 5,Reed Arena
+5,6,"Sun, Nov 26, 2017",10:00 pm/est,,REG,@,Southern California (10),Pac-12,W,75,59,,6,0,W 6,Galen Center
+6,7,"Thu, Nov 30, 2017",8:00 pm/est,,REG,,Texas-Rio Grande Valley,WAC,W,78,60,,7,0,W 7,Reed Arena
+7,8,"Tue, Dec 5, 2017",9:00 pm/est,,REG,N,Arizona,Pac-12,L,64,67,,7,1,L 1,
+8,9,"Sat, Dec 9, 2017",4:30 pm/est,,REG,,Prairie View,SWAC,W,73,53,,8,1,W 1,Reed Arena
+9,10,"Wed, Dec 13, 2017",8:00 pm/est,,REG,,Savannah State,MEAC,W,113,66,,9,1,W 2,Reed Arena
+10,11,"Tue, Dec 19, 2017",8:00 pm/est,,REG,,Northern Kentucky,Horizon,W,64,58,,10,1,W 3,Reed Arena
+11,12,"Thu, Dec 21, 2017",9:00 pm/est,,REG,,Buffalo,MAC,W,89,73,,11,1,W 4,Reed Arena
+12,13,"Sat, Dec 30, 2017",6:00 pm/est,,REG,@,Alabama,SEC,L,57,79,,11,2,L 1,Coleman Coliseum 
+13,14,"Tue, Jan 2, 2018",9:00 pm/est,,REG,,Florida,SEC,L,66,83,,11,3,L 2,Reed Arena
+14,15,"Sat, Jan 6, 2018",2:15 pm/est,,REG,,Louisiana State,SEC,L,68,69,,11,4,L 3,Reed Arena
+15,16,"Tue, Jan 9, 2018",7:00 pm/est,,REG,@,Kentucky (21),SEC,L,73,74,,11,5,L 4,Rupp Arena
+16,17,"Sat, Jan 13, 2018",6:00 pm/est,,REG,@,Tennessee (24),SEC,L,62,75,,11,6,L 5,Thompson-Boling Arena
+17,18,"Tue, Jan 16, 2018",9:00 pm/est,,REG,,Mississippi,SEC,W,71,69,,12,6,W 1,Reed Arena
+18,19,"Sat, Jan 20, 2018",4:00 pm/est,,REG,,Missouri,SEC,W,60,49,,13,6,W 2,Reed Arena
+19,20,"Tue, Jan 23, 2018",9:00 pm/est,,REG,@,Louisiana State,SEC,L,65,77,,13,7,L 1,Maravich Assembly Center
+20,21,"Sat, Jan 27, 2018",4:30 pm/est,,REG,@,Kansas (5),Big 12,L,68,79,,13,8,L 2,Allen Fieldhouse
+21,22,"Tue, Jan 30, 2018",9:00 pm/est,,REG,,Arkansas,SEC,W,80,66,,14,8,W 1,Reed Arena
+22,23,"Sat, Feb 3, 2018",2:00 pm/est,,REG,,South Carolina,SEC,W,83,60,,15,8,W 2,Reed Arena
+23,24,"Wed, Feb 7, 2018",9:00 pm/est,,REG,@,Auburn (8),SEC,W,81,80,,16,8,W 3,Auburn Arena
+24,25,"Sat, Feb 10, 2018",8:15 pm/est,,REG,,Kentucky (24),SEC,W,85,74,,17,8,W 4,Reed Arena
+25,26,"Tue, Feb 13, 2018",7:00 pm/est,,REG,@,Missouri,SEC,L,58,62,,17,9,L 1,Mizzou Arena
+26,27,"Sat, Feb 17, 2018",4:00 pm/est,,REG,@,Arkansas,SEC,L,75,94,,17,10,L 2,Bud Walton Arena
+27,28,"Tue, Feb 20, 2018",7:00 pm/est,,REG,,Mississippi State,SEC,L,81,93,,17,11,L 3,Reed Arena
+28,29,"Sat, Feb 24, 2018",4:00 pm/est,,REG,@,Vanderbilt,SEC,W,89,81,,18,11,W 1,Memorial Gymnasium
+29,30,"Wed, Feb 28, 2018",8:30 pm/est,,REG,@,Georgia,SEC,W,61,60,,19,11,W 2,Stegeman Coliseum
+30,31,"Sat, Mar 3, 2018",2:00 pm/est,,REG,,Alabama,SEC,W,68,66,,20,11,W 3,Reed Arena
+31,32,"Thu, Mar 8, 2018",1:00 pm/est,,CTOURN,N,Alabama,SEC,L,70,71,,20,12,L 1,Scottrade Center
+32,33,"Fri, Mar 16, 2018",12:15 pm/est,,NCAA,N,Providence,Big East,,,,,,,,

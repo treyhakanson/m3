@@ -1,0 +1,35 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:30 pm/est,,REG,,Columbia,Ivy,W,75,60,,1,0,W 1,Wells Fargo Center
+1,2,"Tue, Nov 14, 2017",6:30 pm/est,,REG,,Nicholls State,Southland,W,113,77,,2,0,W 2,Wells Fargo Center
+2,3,"Fri, Nov 17, 2017",8:00 pm/est,,REG,N,Lafayette,Patriot,W,104,57,,3,0,W 3,
+3,4,"Wed, Nov 22, 2017",2:30 pm/est,,REG,N,Western Kentucky,CUSA,W,66,58,,4,0,W 4,Imperial Arena at Atlantis Resort
+4,5,"Thu, Nov 23, 2017",12:30 pm/est,,REG,N,Tennessee,SEC,W,85,76,,5,0,W 5,Imperial Arena at Atlantis Resort
+5,6,"Fri, Nov 24, 2017",12:00 pm/est,,REG,N,Northern Iowa,MVC,W,64,50,,6,0,W 6,Imperial Arena at Atlantis Resort
+6,7,"Wed, Nov 29, 2017",7:00 pm/est,,REG,,Pennsylvania,Ivy,W,90,62,,7,0,W 7,
+7,8,"Sat, Dec 2, 2017",5:30 pm/est,,REG,@,Saint Joseph's,A-10,W,94,53,,8,0,W 8,Hagan Arena
+8,9,"Tue, Dec 5, 2017",7:00 pm/est,,REG,N,Gonzaga (12),WCC,W,88,72,,9,0,W 9,Madison Square Garden (IV)
+9,10,"Sun, Dec 10, 2017",1:00 pm/est,,REG,,La Salle,A-10,W,77,68,,10,0,W 10,Wells Fargo Center
+10,11,"Wed, Dec 13, 2017",7:00 pm/est,,REG,@,Temple,AAC,W,87,67,,11,0,W 11,Liacouras Center
+11,12,"Fri, Dec 22, 2017",8:30 pm/est,,REG,N,Hofstra,CAA,W,95,71,,12,0,W 12,
+12,13,"Wed, Dec 27, 2017",7:30 pm/est,,REG,@,DePaul,Big East,W,103,85,,13,0,W 13,
+13,14,"Sat, Dec 30, 2017",4:00 pm/est,,REG,@,Butler,Big East,L,93,101,,13,1,L 1,Hinkle Fieldhouse
+14,15,"Sat, Jan 6, 2018",8:00 pm/est,,REG,,Marquette,Big East,W,100,90,,14,1,W 1,Wells Fargo Center
+15,16,"Wed, Jan 10, 2018",8:00 pm/est,,REG,,Xavier (10),Big East,W,89,65,,15,1,W 2,Wells Fargo Center
+16,17,"Sat, Jan 13, 2018",8:00 pm/est,,REG,@,St. John's (NY),Big East,W,78,71,,16,1,W 3,Madison Square Garden (IV)
+17,18,"Wed, Jan 17, 2018",6:30 pm/est,,REG,@,Georgetown,Big East,W,88,56,,17,1,W 4,Verizon Center
+18,19,"Sat, Jan 20, 2018",12:00 pm/est,,REG,@,Connecticut,AAC,W,81,61,,18,1,W 5,XL Center
+19,20,"Tue, Jan 23, 2018",6:30 pm/est,,REG,,Providence,Big East,W,89,69,,19,1,W 6,Wells Fargo Center
+20,21,"Sun, Jan 28, 2018",1:00 pm/est,,REG,@,Marquette,Big East,W,85,82,,20,1,W 7,BMO Harris Bradley Center
+21,22,"Thu, Feb 1, 2018",6:30 pm/est,,REG,,Creighton,Big East,W,98,78,,21,1,W 8,Wells Fargo Center
+22,23,"Sun, Feb 4, 2018",12:00 pm/est,,REG,,Seton Hall,Big East,W,92,76,,22,1,W 9,Wells Fargo Center
+23,24,"Wed, Feb 7, 2018",7:00 pm/est,,REG,,St. John's (NY),Big East,L,75,79,,22,2,L 1,Wells Fargo Center
+24,25,"Sat, Feb 10, 2018",12:00 pm/est,,REG,,Butler,Big East,W,86,75,,23,2,W 1,Wells Fargo Center
+25,26,"Wed, Feb 14, 2018",7:00 pm/est,,REG,@,Providence,Big East,L,71,76,,23,3,L 1,Dunkin' Donuts Center
+26,27,"Sat, Feb 17, 2018",4:30 pm/est,,REG,@,Xavier (4),Big East,W,95,79,,24,3,W 1,Cintas Center
+27,28,"Wed, Feb 21, 2018",8:30 pm/est,,REG,,DePaul,Big East,W,93,62,,25,3,W 2,Wells Fargo Center
+28,29,"Sat, Feb 24, 2018",2:30 pm/est,,REG,@,Creighton,Big East,L,83,89,OT,25,4,L 1,CenturyLink Center
+29,30,"Wed, Feb 28, 2018",8:30 pm/est,,REG,@,Seton Hall,Big East,W,69,68,OT,26,4,W 1,Prudential Center
+30,31,"Sat, Mar 3, 2018",5:00 pm/est,,REG,,Georgetown,Big East,W,97,73,,27,4,W 2,Wells Fargo Center
+31,32,"Thu, Mar 8, 2018",7:00 pm/est,,CTOURN,N,Marquette,Big East,W,94,70,,28,4,W 3,Madison Square Garden (IV)
+32,33,"Fri, Mar 9, 2018",9:00 pm/est,,CTOURN,N,Butler,Big East,W,87,68,,29,4,W 4,Madison Square Garden (IV)
+33,34,"Sat, Mar 10, 2018",6:30 pm/est,,CTOURN,N,Providence,Big East,W,76,66,OT,30,4,W 5,Madison Square Garden (IV)

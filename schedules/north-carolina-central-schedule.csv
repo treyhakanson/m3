@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:00 pm/est,,REG,@,Illinois-Chicago,Horizon,L,55,65,,0,1,L 1,UIC Pavilion
+1,2,"Mon, Nov 13, 2017",12:00 pm/est,,REG,@,Evansville,MVC,L,55,68,,0,2,L 2,Ford Center
+2,3,"Wed, Nov 15, 2017",8:00 pm/est,,REG,@,Tennessee-Martin,OVC,L,57,74,,0,3,L 3,Skyhawk Arena
+3,4,"Fri, Nov 17, 2017",7:00 pm/est,,REG,,Warren Wilson,,W,101,76,,1,3,W 1,McLendon-McDougald Gym
+4,5,"Sun, Nov 19, 2017",4:00 pm/est,,REG,,Southern,SWAC,W,80,67,,2,3,W 2,McLendon-McDougald Gym
+5,6,"Wed, Nov 22, 2017",8:00 pm/est,,REG,@,Marshall,CUSA,L,84,92,,2,4,L 1,Henderson Center
+6,7,"Fri, Nov 24, 2017",7:30 pm/est,,REG,@,Illinois,Big Ten,L,73,86,,2,5,L 2,State Farm Center
+7,8,"Sun, Nov 26, 2017",3:00 pm/est,,REG,@,Southeast Missouri State,OVC,W,77,70,,3,5,W 1,Show Me Center
+8,9,"Thu, Nov 30, 2017",7:00 pm/est,,REG,,Christendom,,W,116,38,,4,5,W 2,McLendon-McDougald Gym
+9,10,"Sat, Dec 2, 2017",7:00 pm/est,,REG,,Southeast Missouri State,OVC,L,77,86,,4,6,L 1,McLendon-McDougald Gym
+10,11,"Sat, Dec 9, 2017",4:00 pm/est,,REG,@,George Mason,A-10,L,65,77,,4,7,L 2,EagleBank Arena
+11,12,"Mon, Dec 11, 2017",9:00 pm/est,,REG,@,Grand Canyon,WAC,L,59,64,,4,8,L 3,Grand Canyon University Arena
+12,13,"Thu, Dec 14, 2017",7:00 pm/est,,REG,,McNeese State,Southland,W,77,71,,5,8,W 1,McLendon-McDougald Gym
+13,14,"Sat, Dec 30, 2017",2:00 pm/est,,REG,,St. Andrews,,W,75,55,,6,8,W 2,McLendon-McDougald Gym
+14,15,"Wed, Jan 3, 2018",7:30 pm/est,,REG,@,Delaware State,MEAC,W,65,62,,7,8,W 3,Memorial Hall
+15,16,"Mon, Jan 8, 2018",7:30 pm/est,,REG,,Norfolk State,MEAC,W,64,63,,8,8,W 4,McLendon-McDougald Gym
+16,17,"Sat, Jan 13, 2018",4:00 pm/est,,REG,,Coppin State,MEAC,W,81,61,,9,8,W 5,McLendon-McDougald Gym
+17,18,"Mon, Jan 15, 2018",4:00 pm/est,,REG,,Morgan State,MEAC,W,77,63,,10,8,W 6,McLendon-McDougald Gym
+18,19,"Sat, Jan 20, 2018",4:00 pm/est,,REG,@,Howard,MEAC,L,78,84,OT,10,9,L 1,Burr Gymnasium
+19,20,"Mon, Jan 22, 2018",7:30 pm/est,,REG,@,Maryland-Eastern Shore,MEAC,W,63,60,,11,9,W 1,Hytche Athletic Center
+20,21,"Sat, Jan 27, 2018",4:00 pm/est,,REG,@,North Carolina A&T,MEAC,L,64,70,,11,10,L 1,Ellis Corbett Sports Center
+21,22,"Sat, Feb 3, 2018",4:00 pm/est,,REG,,Delaware State,MEAC,W,72,61,,12,10,W 1,McLendon-McDougald Gym
+22,23,"Mon, Feb 5, 2018",7:00 pm/est,,REG,,Hampton,MEAC,L,70,86,,12,11,L 1,McLendon-McDougald Gym
+23,24,"Sat, Feb 10, 2018",6:00 pm/est,,REG,@,Florida A&M,MEAC,L,56,65,,12,12,L 2,Al Lawson Center
+24,25,"Mon, Feb 12, 2018",7:30 pm/est,,REG,@,Bethune-Cookman,MEAC,L,81,99,,12,13,L 3,Moore Gymnasium
+25,26,"Sat, Feb 17, 2018",4:00 pm/est,,REG,,Maryland-Eastern Shore,MEAC,W,77,49,,13,13,W 1,McLendon-McDougald Gym
+26,27,"Mon, Feb 19, 2018",7:00 pm/est,,REG,,Howard,MEAC,W,83,66,,14,13,W 2,McLendon-McDougald Gym
+27,28,"Sat, Feb 24, 2018",4:00 pm/est,,REG,@,South Carolina State,MEAC,L,79,102,,14,14,L 1,SHM Memorial Center
+28,29,"Mon, Feb 26, 2018",8:00 pm/est,,REG,@,Savannah State,MEAC,L,75,85,,14,15,L 2,Tiger Arena
+29,30,"Thu, Mar 1, 2018",7:30 pm/est,,REG,,North Carolina A&T,MEAC,W,70,59,,15,15,W 1,McLendon-McDougald Gym
+30,31,"Tue, Mar 6, 2018",6:30 pm/est,,CTOURN,N,Coppin State,MEAC,W,60,48,,16,15,W 2,
+31,32,"Thu, Mar 8, 2018",6:00 pm/est,,CTOURN,N,Savannah State,MEAC,W,58,56,,17,15,W 3,
+32,33,"Fri, Mar 9, 2018",8:00 pm/est,,CTOURN,N,Morgan State,MEAC,W,79,70,,18,15,W 4,
+33,34,"Sat, Mar 10, 2018",1:00 pm/est,,CTOURN,N,Hampton,MEAC,W,71,63,,19,15,W 5,
+34,35,"Wed, Mar 14, 2018",6:40 pm/est,,NCAA,N,Texas Southern,SWAC,,,,,,,,

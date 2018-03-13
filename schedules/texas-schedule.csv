@@ -1,0 +1,35 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:15 pm/est,,REG,,Northwestern State,Southland,W,105,59,,1,0,W 1,Frank Erwin Center
+1,2,"Tue, Nov 14, 2017",8:00 pm/est,,REG,,New Hampshire,AEC,W,78,60,,2,0,W 2,Frank Erwin Center
+2,3,"Sat, Nov 18, 2017",5:00 pm/est,,REG,,Lipscomb,A-Sun,W,80,57,,3,0,W 3,Frank Erwin Center
+3,4,"Thu, Nov 23, 2017",7:00 pm/est,,REG,N,Butler,Big East,W,61,48,,4,0,W 4,
+4,5,"Fri, Nov 24, 2017",5:30 pm/est,,REG,N,Duke (1),ACC,L,78,85,OT,4,1,L 1,Moda Center
+5,6,"Sun, Nov 26, 2017",1:00 pm/est,,REG,N,Gonzaga (17),WCC,L,71,76,OT,4,2,L 2,Moda Center
+6,7,"Wed, Nov 29, 2017",8:00 pm/est,,REG,,Florida A&M,MEAC,W,82,58,,5,2,W 1,Frank Erwin Center
+7,8,"Tue, Dec 5, 2017",7:00 pm/est,,REG,@,Virginia Commonwealth,A-10,W,71,67,,6,2,W 2,Stuart Siegel Center
+8,9,"Tue, Dec 12, 2017",9:00 pm/est,,REG,,Michigan,Big Ten,L,52,59,,6,3,L 1,Frank Erwin Center
+9,10,"Sat, Dec 16, 2017",2:00 pm/est,,REG,,Louisiana Tech,CUSA,W,75,60,,7,3,W 1,Frank Erwin Center
+10,11,"Mon, Dec 18, 2017",9:00 pm/est,,REG,,Tennessee State,OVC,W,47,46,,8,3,W 2,Frank Erwin Center
+11,12,"Fri, Dec 22, 2017",9:00 pm/est,,REG,N,Alabama,SEC,W,66,50,,9,3,W 3,Legacy Arena
+12,13,"Fri, Dec 29, 2017",9:00 pm/est,,REG,,Kansas (11),Big 12,L,86,92,,9,4,L 1,Frank Erwin Center
+13,14,"Mon, Jan 1, 2018",7:00 pm/est,,REG,@,Iowa State,Big 12,W,74,70,OT,10,4,W 1,James H. Hilton Coliseum 
+14,15,"Sat, Jan 6, 2018",2:00 pm/est,,REG,@,Baylor,Big 12,L,60,69,,10,5,L 1,Ferrell Center
+15,16,"Wed, Jan 10, 2018",9:00 pm/est,,REG,,Texas Christian (16),Big 12,W,99,98,2OT,11,5,W 1,Frank Erwin Center
+16,17,"Sat, Jan 13, 2018",5:00 pm/est,,REG,@,Oklahoma State,Big 12,L,64,65,,11,6,L 1,Gallagher-Iba Arena
+17,18,"Wed, Jan 17, 2018",8:00 pm/est,,REG,,Texas Tech (8),Big 12,W,67,58,,12,6,W 1,Frank Erwin Center
+18,19,"Sat, Jan 20, 2018",2:00 pm/est,,REG,@,West Virginia (6),Big 12,L,51,86,,12,7,L 1,WVU Coliseum
+19,20,"Mon, Jan 22, 2018",7:00 pm/est,,REG,,Iowa State,Big 12,W,73,57,,13,7,W 1,Frank Erwin Center
+20,21,"Sat, Jan 27, 2018",2:00 pm/est,,REG,,Mississippi,SEC,W,85,72,,14,7,W 2,Frank Erwin Center
+21,22,"Wed, Jan 31, 2018",9:00 pm/est,,REG,@,Texas Tech (10),Big 12,L,71,73,OT,14,8,L 1,United Supermarkets Arena
+22,23,"Sat, Feb 3, 2018",6:15 pm/est,,REG,,Oklahoma (12),Big 12,W,79,74,,15,8,W 1,Frank Erwin Center
+23,24,"Wed, Feb 7, 2018",8:00 pm/est,,REG,,Kansas State,Big 12,L,64,67,,15,9,L 1,Frank Erwin Center
+24,25,"Sat, Feb 10, 2018",2:00 pm/est,,REG,@,Texas Christian,Big 12,L,71,87,,15,10,L 2,Ed & Rae Schollmaier Arena
+25,26,"Mon, Feb 12, 2018",9:00 pm/est,,REG,,Baylor,Big 12,L,73,74,2OT,15,11,L 3,Frank Erwin Center
+26,27,"Sat, Feb 17, 2018",12:00 pm/est,,REG,@,Oklahoma (23),Big 12,W,77,66,,16,11,W 1,Lloyd Noble Center
+27,28,"Wed, Feb 21, 2018",9:00 pm/est,,REG,@,Kansas State,Big 12,L,48,58,,16,12,L 1,Bramlage Coliseum
+28,29,"Sat, Feb 24, 2018",2:00 pm/est,,REG,,Oklahoma State,Big 12,W,65,64,,17,12,W 1,Frank Erwin Center
+29,30,"Mon, Feb 26, 2018",9:00 pm/est,,REG,@,Kansas (6),Big 12,L,70,80,,17,13,L 1,Allen Fieldhouse
+30,31,"Sat, Mar 3, 2018",12:00 pm/est,,REG,,West Virginia (20),Big 12,W,87,79,OT,18,13,W 1,Frank Erwin Center
+31,32,"Wed, Mar 7, 2018",9:30 pm/est,,CTOURN,N,Iowa State,Big 12,W,68,64,,19,13,W 2,Sprint Center
+32,33,"Thu, Mar 8, 2018",7:00 pm/est,,CTOURN,N,Texas Tech (14),Big 12,L,69,73,,19,14,L 1,Sprint Center
+33,34,"Fri, Mar 16, 2018",4:30 pm/est,,NCAA,N,Nevada (24),MWC,,,,,,,,

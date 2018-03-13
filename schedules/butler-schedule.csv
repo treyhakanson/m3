@@ -1,0 +1,35 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,,Kennesaw State,A-Sun,W,82,64,,1,0,W 1,Hinkle Fieldhouse
+1,2,"Sun, Nov 12, 2017",6:00 pm/est,,REG,,Princeton,Ivy,W,85,75,,2,0,W 2,Hinkle Fieldhouse
+2,3,"Wed, Nov 15, 2017",8:30 pm/est,,REG,@,Maryland,Big Ten,L,65,79,,2,1,L 1,Xfinity Center
+3,4,"Sat, Nov 18, 2017",2:00 pm/est,,REG,,Furman,Southern,W,82,65,,3,1,W 1,Hinkle Fieldhouse
+4,5,"Thu, Nov 23, 2017",7:00 pm/est,,REG,N,Texas,Big 12,L,48,61,,3,2,L 1,
+5,6,"Fri, Nov 24, 2017",3:00 pm/est,,REG,N,Portland State,Big Sky,W,71,69,,4,2,W 1,Moda Center
+6,7,"Sun, Nov 26, 2017",3:00 pm/est,,REG,N,Ohio State,Big Ten,W,67,66,OT,5,2,W 2,
+7,8,"Sat, Dec 2, 2017",2:00 pm/est,,REG,,Saint Louis,A-10,W,75,45,,6,2,W 3,Hinkle Fieldhouse
+8,9,"Tue, Dec 5, 2017",9:00 pm/est,,REG,,Utah,Pac-12,W,81,69,,7,2,W 4,Hinkle Fieldhouse
+9,10,"Sat, Dec 9, 2017",12:00 pm/est,,REG,,Youngstown State,Horizon,W,95,67,,8,2,W 5,Hinkle Fieldhouse
+10,11,"Sat, Dec 16, 2017",12:00 pm/est,,REG,N,Purdue (17),Big Ten,L,67,82,,8,3,L 1,Bankers Life Fieldhouse
+11,12,"Tue, Dec 19, 2017",8:30 pm/est,,REG,,Morehead State,OVC,W,85,69,,9,3,W 1,Hinkle Fieldhouse
+12,13,"Thu, Dec 21, 2017",7:00 pm/est,,REG,,Western Illinois,Summit,W,107,46,,10,3,W 2,Hinkle Fieldhouse
+13,14,"Wed, Dec 27, 2017",6:30 pm/est,,REG,@,Georgetown,Big East,W,91,89,2OT,11,3,W 3,Verizon Center
+14,15,"Sat, Dec 30, 2017",4:00 pm/est,,REG,,Villanova (1),Big East,W,101,93,,12,3,W 4,Hinkle Fieldhouse
+15,16,"Tue, Jan 2, 2018",7:00 pm/est,,REG,@,Xavier (5),Big East,L,79,86,,12,4,L 1,Cintas Center
+16,17,"Sat, Jan 6, 2018",2:30 pm/est,,REG,,Seton Hall (21),Big East,L,87,90,,12,5,L 2,Hinkle Fieldhouse
+17,18,"Tue, Jan 9, 2018",8:30 pm/est,,REG,@,Creighton (25),Big East,L,74,85,,12,6,L 3,CenturyLink Center
+18,19,"Fri, Jan 12, 2018",6:30 pm/est,,REG,,Marquette,Big East,W,94,83,,13,6,W 1,Hinkle Fieldhouse
+19,20,"Mon, Jan 15, 2018",4:30 pm/est,,REG,@,Providence,Big East,L,60,70,,13,7,L 1,Dunkin' Donuts Center
+20,21,"Sat, Jan 20, 2018",2:00 pm/est,,REG,@,DePaul,Big East,W,79,67,,14,7,W 1,
+21,22,"Sat, Jan 27, 2018",2:30 pm/est,,REG,,St. John's (NY),Big East,W,70,45,,15,7,W 2,Hinkle Fieldhouse
+22,23,"Wed, Jan 31, 2018",9:00 pm/est,,REG,@,Marquette,Big East,W,92,72,,16,7,W 3,BMO Harris Bradley Center
+23,24,"Sat, Feb 3, 2018",12:00 pm/est,,REG,,DePaul,Big East,W,80,57,,17,7,W 4,Hinkle Fieldhouse
+24,25,"Tue, Feb 6, 2018",6:30 pm/est,,REG,,Xavier (5),Big East,L,93,98,OT,17,8,L 1,Hinkle Fieldhouse
+25,26,"Sat, Feb 10, 2018",12:00 pm/est,,REG,@,Villanova (1),Big East,L,75,86,,17,9,L 2,Wells Fargo Center
+26,27,"Tue, Feb 13, 2018",6:30 pm/est,,REG,,Georgetown,Big East,L,83,87,,17,10,L 3,Hinkle Fieldhouse
+27,28,"Sat, Feb 17, 2018",12:00 pm/est,,REG,,Providence,Big East,W,69,54,,18,10,W 1,Hinkle Fieldhouse
+28,29,"Tue, Feb 20, 2018",7:00 pm/est,,REG,,Creighton,Big East,W,93,70,,19,10,W 2,Hinkle Fieldhouse
+29,30,"Wed, Feb 28, 2018",9:00 pm/est,,REG,@,St. John's (NY),Big East,L,68,75,2OT,19,11,L 1,Carnesecca Arena
+30,31,"Sat, Mar 3, 2018",8:00 pm/est,,REG,@,Seton Hall,Big East,L,70,77,,19,12,L 2,Prudential Center
+31,32,"Thu, Mar 8, 2018",9:30 pm/est,,CTOURN,N,Seton Hall,Big East,W,75,74,,20,12,W 1,Madison Square Garden (IV)
+32,33,"Fri, Mar 9, 2018",9:00 pm/est,,CTOURN,N,Villanova (2),Big East,L,68,87,,20,13,L 1,Madison Square Garden (IV)
+33,34,"Fri, Mar 16, 2018",3:10 pm/est,,NCAA,N,Arkansas,SEC,,,,,,,,

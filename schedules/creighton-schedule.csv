@@ -1,0 +1,34 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",9:00 pm/est,,REG,,Yale,Ivy,W,92,76,,1,0,W 1,CenturyLink Center
+1,2,"Sun, Nov 12, 2017",7:00 pm/est,,REG,,Alcorn State,SWAC,W,109,72,,2,0,W 2,CenturyLink Center
+2,3,"Wed, Nov 15, 2017",9:00 pm/est,,REG,@,Northwestern (20),Big Ten,W,92,88,,3,0,W 3,Allstate Arena
+3,4,"Mon, Nov 20, 2017",7:00 pm/est,,REG,N,UCLA (24),Pac-12,W,100,89,,4,0,W 4,Sprint Center
+4,5,"Tue, Nov 21, 2017",10:00 pm/est,,REG,N,Baylor (22),Big 12,L,59,65,,4,1,L 1,Sprint Center
+5,6,"Sat, Nov 25, 2017",4:30 pm/est,,REG,,Southern Illinois-Edwardsville,OVC,W,103,66,,5,1,W 1,CenturyLink Center
+6,7,"Fri, Dec 1, 2017",10:00 pm/est,,REG,@,Gonzaga (15),WCC,L,74,91,,5,2,L 1,
+7,8,"Tue, Dec 5, 2017",8:00 pm/est,,REG,,North Dakota,Big Sky,W,111,68,,6,2,W 1,CenturyLink Center
+8,9,"Sat, Dec 9, 2017",2:30 pm/est,,REG,,Nebraska,Big Ten,W,75,65,,7,2,W 2,CenturyLink Center
+9,10,"Fri, Dec 15, 2017",8:00 pm/est,,REG,,Maryland-Eastern Shore,MEAC,W,87,36,,8,2,W 3,CenturyLink Center
+10,11,"Mon, Dec 18, 2017",9:00 pm/est,,REG,,Texas-Arlington,Sun Belt,W,90,81,,9,2,W 4,CenturyLink Center
+11,12,"Wed, Dec 20, 2017",9:00 pm/est,,REG,,South Carolina Upstate,A-Sun,W,116,62,,10,2,W 5,CenturyLink Center
+12,13,"Thu, Dec 28, 2017",6:30 pm/est,,REG,@,Seton Hall (23),Big East,L,84,90,,10,3,L 1,Prudential Center
+13,14,"Sun, Dec 31, 2017",2:30 pm/est,,REG,,Providence,Big East,W,83,64,,11,3,W 1,CenturyLink Center
+14,15,"Wed, Jan 3, 2018",8:00 pm/est,,REG,,St. John's (NY),Big East,W,78,71,,12,3,W 2,CenturyLink Center
+15,16,"Sat, Jan 6, 2018",12:00 pm/est,,REG,@,Georgetown,Big East,W,90,66,,13,3,W 3,Verizon Center
+16,17,"Tue, Jan 9, 2018",8:30 pm/est,,REG,,Butler,Big East,W,85,74,,14,3,W 4,CenturyLink Center
+17,18,"Sat, Jan 13, 2018",2:00 pm/est,,REG,@,Xavier (10),Big East,L,70,92,,14,4,L 1,Cintas Center
+18,19,"Wed, Jan 17, 2018",8:30 pm/est,,REG,,Seton Hall (19),Big East,W,80,63,,15,4,W 1,CenturyLink Center
+19,20,"Sat, Jan 20, 2018",3:00 pm/est,,REG,@,Providence,Big East,L,71,85,,15,5,L 1,Dunkin' Donuts Center
+20,21,"Tue, Jan 23, 2018",8:30 pm/est,,REG,@,St. John's (NY),Big East,W,68,63,,16,5,W 1,Carnesecca Arena
+21,22,"Sat, Jan 27, 2018",8:00 pm/est,,REG,,Georgetown,Big East,W,85,77,,17,5,W 2,CenturyLink Center
+22,23,"Thu, Feb 1, 2018",6:30 pm/est,,REG,@,Villanova (1),Big East,L,78,98,,17,6,L 1,Wells Fargo Center
+23,24,"Wed, Feb 7, 2018",9:00 pm/est,,REG,@,DePaul,Big East,W,76,75,,18,6,W 1,
+24,25,"Sat, Feb 10, 2018",2:30 pm/est,,REG,,Xavier (5),Big East,L,71,72,,18,7,L 1,CenturyLink Center
+25,26,"Tue, Feb 13, 2018",8:00 pm/est,,REG,,Bemidji State,,W,94,46,,19,7,W 1,CenturyLink Center
+26,27,"Sat, Feb 17, 2018",10:00 pm/est,,REG,,Marquette,Big East,L,86,90,,19,8,L 1,CenturyLink Center
+27,28,"Tue, Feb 20, 2018",7:00 pm/est,,REG,@,Butler,Big East,L,70,93,,19,9,L 2,Hinkle Fieldhouse
+28,29,"Sat, Feb 24, 2018",2:30 pm/est,,REG,,Villanova (3),Big East,W,89,83,OT,20,9,W 1,CenturyLink Center
+29,30,"Tue, Feb 27, 2018",9:00 pm/est,,REG,,DePaul,Big East,W,82,57,,21,9,W 2,CenturyLink Center
+30,31,"Sat, Mar 3, 2018",2:30 pm/est,,REG,@,Marquette,Big East,L,81,85,,21,10,L 1,BMO Harris Bradley Center
+31,32,"Thu, Mar 8, 2018",2:30 pm/est,,CTOURN,N,Providence,Big East,L,68,72,OT,21,11,L 2,Madison Square Garden (IV)
+32,33,"Fri, Mar 16, 2018",6:50 pm/est,,NCAA,N,Kansas State,Big 12,,,,,,,,

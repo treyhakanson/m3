@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:00 pm/est,,REG,,Southern Illinois-Edwardsville,OVC,W,105,74,,1,0,W 1,Mackey Arena
+1,2,"Sun, Nov 12, 2017",4:00 pm/est,,REG,,Chicago State,WAC,W,111,42,,2,0,W 2,Mackey Arena
+2,3,"Tue, Nov 14, 2017",8:30 pm/est,,REG,@,Marquette,Big East,W,86,71,,3,0,W 3,BMO Harris Bradley Center
+3,4,"Sat, Nov 18, 2017",7:00 pm/est,,REG,,Fairfield,MAAC,W,106,64,,4,0,W 4,Mackey Arena
+4,5,"Wed, Nov 22, 2017",12:00 pm/est,,REG,N,Tennessee,SEC,L,75,78,OT,4,1,L 1,Imperial Arena at Atlantis Resort
+5,6,"Thu, Nov 23, 2017",7:00 pm/est,,REG,N,Western Kentucky,CUSA,L,73,77,,4,2,L 2,Imperial Arena at Atlantis Resort
+6,7,"Fri, Nov 24, 2017",9:30 pm/est,,REG,N,Arizona (2),Pac-12,W,89,64,,5,2,W 1,Imperial Arena at Atlantis Resort
+7,8,"Tue, Nov 28, 2017",8:00 pm/est,,REG,,Louisville (17),ACC,W,66,57,,6,2,W 2,Mackey Arena
+8,9,"Fri, Dec 1, 2017",7:00 pm/est,,REG,@,Maryland,Big Ten,W,80,75,,7,2,W 3,Xfinity Center
+9,10,"Sun, Dec 3, 2017",4:00 pm/est,,REG,,Northwestern,Big Ten,W,74,69,,8,2,W 4,Mackey Arena
+10,11,"Thu, Dec 7, 2017",6:30 pm/est,,REG,,Valparaiso,MVC,W,80,50,,9,2,W 5,Mackey Arena
+11,12,"Sun, Dec 10, 2017",7:00 pm/est,,REG,,IUPUI,Horizon,W,86,61,,10,2,W 6,Mackey Arena
+12,13,"Sat, Dec 16, 2017",12:00 pm/est,,REG,N,Butler,Big East,W,82,67,,11,2,W 7,Bankers Life Fieldhouse
+13,14,"Thu, Dec 21, 2017",6:00 pm/est,,REG,,Tennessee State,OVC,W,97,48,,12,2,W 8,Mackey Arena
+14,15,"Sat, Dec 30, 2017",8:00 pm/est,,REG,,Lipscomb,A-Sun,W,98,66,,13,2,W 9,Mackey Arena
+15,16,"Wed, Jan 3, 2018",7:00 pm/est,,REG,,Rutgers,Big Ten,W,82,51,,14,2,W 10,Mackey Arena
+16,17,"Sat, Jan 6, 2018",2:15 pm/est,,REG,,Nebraska,Big Ten,W,74,62,,15,2,W 11,Mackey Arena
+17,18,"Tue, Jan 9, 2018",9:00 pm/est,,REG,@,Michigan,Big Ten,W,70,69,,16,2,W 12,Crisler Arena
+18,19,"Sat, Jan 13, 2018",12:00 pm/est,,REG,@,Minnesota,Big Ten,W,81,47,,17,2,W 13,Williams Arena
+19,20,"Tue, Jan 16, 2018",7:00 pm/est,,REG,,Wisconsin,Big Ten,W,78,50,,18,2,W 14,Mackey Arena
+20,21,"Sat, Jan 20, 2018",12:00 pm/est,,REG,@,Iowa,Big Ten,W,87,64,,19,2,W 15,Carver-Hawkeye Arena
+21,22,"Thu, Jan 25, 2018",7:00 pm/est,,REG,,Michigan (25),Big Ten,W,92,88,,20,2,W 16,Mackey Arena
+22,23,"Sun, Jan 28, 2018",3:30 pm/est,,REG,@,Indiana,Big Ten,W,74,67,,21,2,W 17,Assembly Hall
+23,24,"Wed, Jan 31, 2018",8:30 pm/est,,REG,,Maryland,Big Ten,W,75,67,,22,2,W 18,Mackey Arena
+24,25,"Sat, Feb 3, 2018",4:00 pm/est,,REG,@,Rutgers,Big Ten,W,78,76,,23,2,W 19,Louis Brown Athletic Center
+25,26,"Wed, Feb 7, 2018",8:30 pm/est,,REG,,Ohio State (14),Big Ten,L,63,64,,23,3,L 1,Mackey Arena
+26,27,"Sat, Feb 10, 2018",4:00 pm/est,,REG,@,Michigan State (4),Big Ten,L,65,68,,23,4,L 2,Breslin Events Center
+27,28,"Thu, Feb 15, 2018",7:00 pm/est,,REG,@,Wisconsin,Big Ten,L,53,57,,23,5,L 3,Kohl Center
+28,29,"Sun, Feb 18, 2018",8:00 pm/est,,REG,,Penn State,Big Ten,W,76,73,,24,5,W 1,Mackey Arena
+29,30,"Thu, Feb 22, 2018",7:00 pm/est,,REG,@,Illinois,Big Ten,W,93,86,,25,5,W 2,State Farm Center
+30,31,"Sun, Feb 25, 2018",4:00 pm/est,,REG,,Minnesota,Big Ten,W,84,60,,26,5,W 3,Mackey Arena
+31,32,"Fri, Mar 2, 2018",9:00 pm/est,,CTOURN,N,Rutgers,Big Ten,W,82,75,,27,5,W 4,Madison Square Garden (IV)
+32,33,"Sat, Mar 3, 2018",4:30 pm/est,,CTOURN,N,Penn State,Big Ten,W,78,70,,28,5,W 5,Madison Square Garden (IV)
+33,34,"Sun, Mar 4, 2018",4:30 pm/est,,CTOURN,N,Michigan (15),Big Ten,L,66,75,,28,6,L 1,Madison Square Garden (IV)
+34,35,"Fri, Mar 16, 2018",12:40 pm/est,,NCAA,N,Cal State Fullerton,Big West,,,,,,,,

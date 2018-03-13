@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:00 pm/est,,REG,,Samford,Southern,W,95,56,,1,0,W 1,Bud Walton Arena
+1,2,"Sun, Nov 12, 2017",6:00 pm/est,,REG,,Bucknell,Patriot,W,101,73,,2,0,W 2,Bud Walton Arena
+2,3,"Fri, Nov 17, 2017",8:00 pm/est,,REG,,Fresno State,MWC,W,83,75,,3,0,W 3,Bud Walton Arena
+3,4,"Thu, Nov 23, 2017",5:00 pm/est,,REG,N,Oklahoma,Big 12,W,92,83,,4,0,W 4,Moda Center
+4,5,"Fri, Nov 24, 2017",3:30 pm/est,,REG,N,North Carolina (9),ACC,L,68,87,,4,1,L 1,
+5,6,"Sun, Nov 26, 2017",3:00 pm/est,,REG,N,Connecticut,AAC,W,102,67,,5,1,W 1,Moda Center
+6,7,"Sat, Dec 2, 2017",7:30 pm/est,,REG,@,Houston,AAC,L,65,91,,5,2,L 1,Health & Physical Education Arena
+7,8,"Tue, Dec 5, 2017",8:00 pm/est,,REG,,Colorado State,MWC,W,92,66,,6,2,W 1,Bud Walton Arena
+8,9,"Sat, Dec 9, 2017",6:45 pm/est,,REG,,Minnesota (14),Big Ten,W,95,79,,7,2,W 2,Bud Walton Arena
+9,10,"Sat, Dec 16, 2017",8:00 pm/est,,REG,N,Troy,Sun Belt,W,88,63,,8,2,W 3,Verizon Arena
+10,11,"Tue, Dec 19, 2017",8:00 pm/est,,REG,,Oral Roberts,Summit,W,104,69,,9,2,W 4,Bud Walton Arena
+11,12,"Wed, Dec 27, 2017",8:00 pm/est,,REG,,Cal State Bakersfield,WAC,W,95,68,,10,2,W 5,Bud Walton Arena
+12,13,"Sat, Dec 30, 2017",1:00 pm/est,,REG,,Tennessee (19),SEC,W,95,93,OT,11,2,W 6,Bud Walton Arena
+13,14,"Tue, Jan 2, 2018",9:00 pm/est,,REG,@,Mississippi State,SEC,L,75,78,,11,3,L 1,Humphrey Coliseum
+14,15,"Sat, Jan 6, 2018",6:00 pm/est,,REG,@,Auburn,SEC,L,77,88,,11,4,L 2,Auburn Arena
+15,16,"Wed, Jan 10, 2018",9:00 pm/est,,REG,,Louisiana State,SEC,L,54,75,,11,5,L 3,Bud Walton Arena
+16,17,"Sat, Jan 13, 2018",6:00 pm/est,,REG,,Missouri,SEC,W,65,63,,12,5,W 1,Bud Walton Arena
+17,18,"Wed, Jan 17, 2018",7:00 pm/est,,REG,@,Florida,SEC,L,73,88,,12,6,L 1,Stephen C. O'Connell Center
+18,19,"Sat, Jan 20, 2018",3:30 pm/est,,REG,,Mississippi,SEC,W,97,93,,13,6,W 1,Bud Walton Arena
+19,20,"Tue, Jan 23, 2018",6:30 pm/est,,REG,@,Georgia,SEC,W,80,77,2OT,14,6,W 2,Stegeman Coliseum
+20,21,"Sat, Jan 27, 2018",6:00 pm/est,,REG,,Oklahoma State,Big 12,W,66,65,,15,6,W 3,Bud Walton Arena
+21,22,"Tue, Jan 30, 2018",9:00 pm/est,,REG,@,Texas A&M,SEC,L,66,80,,15,7,L 1,Reed Arena
+22,23,"Sat, Feb 3, 2018",3:30 pm/est,,REG,@,Louisiana State,SEC,L,86,94,,15,8,L 2,Maravich Assembly Center
+23,24,"Tue, Feb 6, 2018",7:00 pm/est,,REG,,South Carolina,SEC,W,81,65,,16,8,W 1,Bud Walton Arena
+24,25,"Sat, Feb 10, 2018",8:30 pm/est,,REG,,Vanderbilt,SEC,W,72,54,,17,8,W 2,Bud Walton Arena
+25,26,"Tue, Feb 13, 2018",7:00 pm/est,,REG,@,Mississippi,SEC,W,75,64,,18,8,W 3,The Pavilion at Ole Miss
+26,27,"Sat, Feb 17, 2018",4:00 pm/est,,REG,,Texas A&M (21),SEC,W,94,75,,19,8,W 4,Bud Walton Arena
+27,28,"Tue, Feb 20, 2018",9:00 pm/est,,REG,,Kentucky,SEC,L,72,87,,19,9,L 1,Bud Walton Arena
+28,29,"Sat, Feb 24, 2018",6:00 pm/est,,REG,@,Alabama,SEC,W,76,73,,20,9,W 1,Coleman Coliseum 
+29,30,"Tue, Feb 27, 2018",9:00 pm/est,,REG,,Auburn (14),SEC,W,91,82,,21,9,W 2,Bud Walton Arena
+30,31,"Sat, Mar 3, 2018",6:00 pm/est,,REG,@,Missouri,SEC,L,67,77,,21,10,L 1,Mizzou Arena
+31,32,"Thu, Mar 8, 2018",9:00 pm/est,,CTOURN,N,South Carolina,SEC,W,69,64,,22,10,W 1,Scottrade Center
+32,33,"Fri, Mar 9, 2018",9:30 pm/est,,CTOURN,N,Florida (23),SEC,W,80,72,,23,10,W 2,Scottrade Center
+33,34,"Sat, Mar 10, 2018",3:00 pm/est,,CTOURN,N,Tennessee (13),SEC,L,66,84,,23,11,L 1,Scottrade Center
+34,35,"Fri, Mar 16, 2018",3:10 pm/est,,NCAA,N,Butler,Big East,,,,,,,,

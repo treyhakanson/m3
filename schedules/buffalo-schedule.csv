@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Sat, Nov 11, 2017",1:00 pm/est,,REG,,Canisius,MAAC,W,80,75,,1,0,W 1,Alumni Arena
+1,2,"Wed, Nov 15, 2017",7:00 pm/est,,REG,,Jacksonville State,OVC,W,81,76,,2,0,W 2,Alumni Arena
+2,3,"Mon, Nov 20, 2017",7:30 pm/est,,REG,N,Cincinnati (12),AAC,L,67,73,,2,1,L 1,
+3,4,"Tue, Nov 21, 2017",5:00 pm/est,,REG,N,Alabama-Birmingham,CUSA,W,96,91,OT,3,1,W 1,
+4,5,"Wed, Nov 22, 2017",2:30 pm/est,,REG,N,South Dakota State,Summit,L,80,94,,3,2,L 1,
+5,6,"Wed, Nov 29, 2017",7:00 pm/est,,REG,@,Niagara,MAAC,W,106,87,,4,2,W 1,Gallagher Center
+6,7,"Sat, Dec 2, 2017",2:00 pm/est,,REG,,St. Bonaventure,A-10,L,62,73,,4,3,L 1,Alumni Arena
+7,8,"Wed, Dec 6, 2017",7:00 pm/est,,REG,@,Delaware,CAA,W,75,72,,5,3,W 1,Bob Carpenter Center
+8,9,"Sat, Dec 9, 2017",2:00 pm/est,,REG,,Central Pennsylvania College,,W,88,54,,6,3,W 2,Alumni Arena
+9,10,"Sat, Dec 16, 2017",2:00 pm/est,,REG,,Robert Morris,NEC,W,86,70,,7,3,W 3,Alumni Arena
+10,11,"Tue, Dec 19, 2017",7:00 pm/est,,REG,@,Syracuse,ACC,L,74,81,,7,4,L 1,Carrier Dome
+11,12,"Thu, Dec 21, 2017",9:00 pm/est,,REG,@,Texas A&M (8),SEC,L,73,89,,7,5,L 2,Reed Arena
+12,13,"Thu, Dec 28, 2017",7:00 pm/est,,REG,,NJIT,A-Sun,W,86,81,OT,8,5,W 1,Alumni Arena
+13,14,"Tue, Jan 2, 2018",7:00 pm/est,,REG,,Toledo,MAC,W,104,94,,9,5,W 2,Alumni Arena
+14,15,"Sat, Jan 6, 2018",2:00 pm/est,,REG,@,Ball State,MAC,W,83,63,,10,5,W 3,Worthen Arena
+15,16,"Tue, Jan 9, 2018",7:00 pm/est,,REG,@,Akron,MAC,W,87,65,,11,5,W 4,James A. Rhodes Arena
+16,17,"Sat, Jan 13, 2018",2:00 pm/est,,REG,,Miami (OH),MAC,W,82,66,,12,5,W 5,Alumni Arena
+17,18,"Tue, Jan 16, 2018",7:00 pm/est,,REG,,Northern Illinois,MAC,W,95,67,,13,5,W 6,Alumni Arena
+18,19,"Fri, Jan 19, 2018",7:00 pm/est,,REG,@,Western Michigan,MAC,W,84,74,,14,5,W 7,University Arena
+19,20,"Tue, Jan 23, 2018",7:00 pm/est,,REG,,Eastern Michigan,MAC,W,83,69,,15,5,W 8,Alumni Arena
+20,21,"Fri, Jan 26, 2018",6:30 pm/est,,REG,@,Ohio,MAC,W,73,66,,16,5,W 9,Convocation Center
+21,22,"Tue, Jan 30, 2018",7:00 pm/est,,REG,@,Kent State,MAC,L,79,82,,16,6,L 1,Memorial Athletic & Convocation Center
+22,23,"Fri, Feb 2, 2018",7:00 pm/est,,REG,,Western Michigan,MAC,W,92,86,,17,6,W 1,Alumni Arena
+23,24,"Tue, Feb 6, 2018",7:00 pm/est,,REG,@,Central Michigan,MAC,W,88,82,,18,6,W 2,McGuirk Arena
+24,25,"Sat, Feb 10, 2018",4:30 pm/est,,REG,@,Northern Illinois,MAC,L,88,90,OT,18,7,L 1,Convocation Center
+25,26,"Tue, Feb 13, 2018",7:00 pm/est,,REG,,Kent State,MAC,W,84,72,,19,7,W 1,Alumni Arena
+26,27,"Fri, Feb 16, 2018",7:00 pm/est,,REG,,Bowling Green State,MAC,W,95,82,,20,7,W 2,Alumni Arena
+27,28,"Tue, Feb 20, 2018",7:00 pm/est,,REG,@,Miami (OH),MAC,L,81,84,,20,8,L 1,Millett Hall
+28,29,"Sat, Feb 24, 2018",3:30 pm/est,,REG,,Ohio,MAC,W,108,82,,21,8,W 1,Alumni Arena
+29,30,"Tue, Feb 27, 2018",7:00 pm/est,,REG,,Akron,MAC,W,80,68,,22,8,W 2,Alumni Arena
+30,31,"Fri, Mar 2, 2018",6:00 pm/est,,REG,@,Bowling Green State,MAC,W,100,70,,23,8,W 3,Stroh Center
+31,32,"Thu, Mar 8, 2018",12:00 pm/est,,CTOURN,N,Central Michigan,MAC,W,89,74,,24,8,W 4,Quicken Loans Arena
+32,33,"Fri, Mar 9, 2018",6:30 pm/est,,CTOURN,N,Kent State,MAC,W,78,61,,25,8,W 5,Quicken Loans Arena
+33,34,"Sat, Mar 10, 2018",7:00 pm/est,,CTOURN,N,Toledo,MAC,W,76,66,,26,8,W 6,Quicken Loans Arena
+34,35,"Thu, Mar 15, 2018",9:40 pm/est,,NCAA,N,Arizona (12),Pac-12,,,,,,,,

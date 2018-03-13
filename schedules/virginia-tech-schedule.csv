@@ -1,0 +1,34 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",6:00 pm/est,,REG,,Detroit Mercy,Horizon,W,111,79,,1,0,W 1,Cassell Coliseum
+1,2,"Sun, Nov 12, 2017",7:00 pm/est,,REG,,Citadel,Southern,W,132,93,,2,0,W 2,Cassell Coliseum
+2,3,"Thu, Nov 16, 2017",7:00 pm/est,,REG,N,Saint Louis,A-10,L,71,77,,2,1,L 1,Madison Square Garden (IV)
+3,4,"Fri, Nov 17, 2017",5:00 pm/est,,REG,N,Washington,Pac-12,W,103,79,,3,1,W 1,Madison Square Garden (IV)
+4,5,"Tue, Nov 21, 2017",7:00 pm/est,,REG,,Houston Baptist,Southland,W,99,73,,4,1,W 2,Cassell Coliseum
+5,6,"Sat, Nov 25, 2017",1:00 pm/est,,REG,,Morehead State,OVC,W,96,63,,5,1,W 3,Cassell Coliseum
+6,7,"Tue, Nov 28, 2017",9:00 pm/est,,REG,,Iowa,Big Ten,W,79,55,,6,1,W 4,Cassell Coliseum
+7,8,"Sat, Dec 2, 2017",2:00 pm/est,,REG,@,Mississippi,SEC,W,83,80,OT,7,1,W 5,The Pavilion at Ole Miss
+8,9,"Wed, Dec 6, 2017",6:00 pm/est,,REG,,Radford,Big South,W,95,68,,8,1,W 6,Cassell Coliseum
+9,10,"Sun, Dec 10, 2017",3:00 pm/est,,REG,,Maryland-Eastern Shore,MEAC,W,93,40,,9,1,W 7,Cassell Coliseum
+10,11,"Sat, Dec 16, 2017",2:00 pm/est,,REG,@,Kentucky (8),SEC,L,86,93,,9,2,L 1,Rupp Arena
+11,12,"Tue, Dec 19, 2017",7:00 pm/est,,REG,,Presbyterian,Big South,W,63,55,,10,2,W 1,Cassell Coliseum
+12,13,"Thu, Dec 28, 2017",12:00 pm/est,,REG,,North Carolina A&T,MEAC,W,76,59,,11,2,W 2,Cassell Coliseum
+13,14,"Sun, Dec 31, 2017",6:00 pm/est,,REG,@,Syracuse,ACC,L,56,68,,11,3,L 1,Carrier Dome
+14,15,"Wed, Jan 3, 2018",9:00 pm/est,,REG,,Virginia (8),ACC,L,52,78,,11,4,L 2,Cassell Coliseum
+15,16,"Sat, Jan 6, 2018",12:00 pm/est,,REG,,Pittsburgh,ACC,W,81,67,,12,4,W 1,Cassell Coliseum
+16,17,"Wed, Jan 10, 2018",7:00 pm/est,,REG,@,Wake Forest,ACC,W,83,75,,13,4,W 2,Lawrence Joel Coliseum
+17,18,"Sat, Jan 13, 2018",4:00 pm/est,,REG,@,Louisville,ACC,L,86,94,,13,5,L 1,KFC Yum! Center
+18,19,"Sat, Jan 20, 2018",12:00 pm/est,,REG,,Florida State,ACC,L,82,91,,13,6,L 2,Cassell Coliseum
+19,20,"Mon, Jan 22, 2018",7:00 pm/est,,REG,,North Carolina (10),ACC,W,80,69,,14,6,W 1,Cassell Coliseum
+20,21,"Sat, Jan 27, 2018",8:00 pm/est,,REG,@,Notre Dame,ACC,W,80,75,,15,6,W 2,Purcell Pavilion at the Joyce Center
+21,22,"Wed, Jan 31, 2018",9:00 pm/est,,REG,@,Boston College,ACC,W,85,80,OT,16,6,W 3,Silvio O. Conte Forum
+22,23,"Sat, Feb 3, 2018",2:00 pm/est,,REG,,Miami (FL),ACC,L,75,84,,16,7,L 1,Cassell Coliseum
+23,24,"Wed, Feb 7, 2018",9:00 pm/est,,REG,,North Carolina State,ACC,W,85,75,,17,7,W 1,Cassell Coliseum
+24,25,"Sat, Feb 10, 2018",6:15 pm/est,,REG,@,Virginia (2),ACC,W,61,60,OT,18,7,W 2,John Paul Jones Arena
+25,26,"Wed, Feb 14, 2018",7:00 pm/est,,REG,@,Duke (12),ACC,L,52,74,,18,8,L 1,Cameron Indoor Stadium
+26,27,"Sat, Feb 17, 2018",12:00 pm/est,,REG,@,Georgia Tech,ACC,W,76,56,,19,8,W 1,McCamish Pavilion
+27,28,"Wed, Feb 21, 2018",7:00 pm/est,,REG,,Clemson (15),ACC,W,65,58,,20,8,W 2,Cassell Coliseum
+28,29,"Sat, Feb 24, 2018",1:00 pm/est,,REG,,Louisville,ACC,L,68,75,,20,9,L 1,Cassell Coliseum
+29,30,"Mon, Feb 26, 2018",7:00 pm/est,,REG,,Duke (5),ACC,W,64,63,,21,9,W 1,Cassell Coliseum
+30,31,"Sat, Mar 3, 2018",12:00 pm/est,,REG,@,Miami (FL),ACC,L,68,69,,21,10,L 1,BankUnited Center
+31,32,"Wed, Mar 7, 2018",7:00 pm/est,,CTOURN,N,Notre Dame,ACC,L,65,71,,21,11,L 2,Barclays Center
+32,33,"Thu, Mar 15, 2018",9:20 pm/est,,NCAA,N,Alabama,SEC,,,,,,,,

@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",12:00 pm/est,,REG,,Savannah State,MEAC,W,107,77,,1,0,W 1,Bank of Kentucky Center
+1,2,"Mon, Nov 13, 2017",7:00 pm/est,,REG,,Western Carolina,Southern,W,102,51,,2,0,W 2,Bank of Kentucky Center
+2,3,"Thu, Nov 16, 2017",7:00 pm/est,,REG,,Coppin State,MEAC,W,97,54,,3,0,W 3,Bank of Kentucky Center
+3,4,"Mon, Nov 20, 2017",7:30 pm/est,,REG,N,Buffalo,MAC,W,73,67,,4,0,W 4,
+4,5,"Tue, Nov 21, 2017",7:30 pm/est,,REG,N,Richmond,A-10,W,75,48,,5,0,W 5,
+5,6,"Wed, Nov 22, 2017",7:30 pm/est,,REG,N,Wyoming,MWC,W,78,53,,6,0,W 6,
+6,7,"Mon, Nov 27, 2017",7:00 pm/est,,REG,,Alabama State,SWAC,W,83,51,,7,0,W 7,Bank of Kentucky Center
+7,8,"Sat, Dec 2, 2017",12:00 pm/est,,REG,@,Xavier (21),Big East,L,76,89,,7,1,L 1,Cintas Center
+8,9,"Sat, Dec 9, 2017",6:00 pm/est,,REG,N,Florida (5),SEC,L,60,66,,7,2,L 2,Prudential Center
+9,10,"Tue, Dec 12, 2017",7:00 pm/est,,REG,,Mississippi State,SEC,W,65,50,,8,2,W 1,Bank of Kentucky Center
+10,11,"Sat, Dec 16, 2017",3:30 pm/est,,REG,@,UCLA,Pac-12,W,77,63,,9,2,W 2,Pauley Pavilion
+11,12,"Tue, Dec 19, 2017",7:00 pm/est,,REG,,Arkansas-Pine Bluff,SWAC,W,77,49,,10,2,W 3,Bank of Kentucky Center
+12,13,"Thu, Dec 21, 2017",7:00 pm/est,,REG,,Cleveland State,Horizon,W,81,62,,11,2,W 4,Bank of Kentucky Center
+13,14,"Sun, Dec 31, 2017",4:00 pm/est,,REG,,Memphis,AAC,W,82,48,,12,2,W 5,Bank of Kentucky Center
+14,15,"Thu, Jan 4, 2018",9:00 pm/est,,REG,@,Temple,AAC,W,55,53,,13,2,W 6,Liacouras Center
+15,16,"Sun, Jan 7, 2018",6:00 pm/est,,REG,,Southern Methodist,AAC,W,76,56,,14,2,W 7,Bank of Kentucky Center
+16,17,"Sat, Jan 13, 2018",7:00 pm/est,,REG,@,South Florida,AAC,W,78,55,,15,2,W 8,Sun Dome
+17,18,"Tue, Jan 16, 2018",7:00 pm/est,,REG,@,Central Florida,AAC,W,49,38,,16,2,W 9,CFE Arena
+18,19,"Sat, Jan 20, 2018",4:00 pm/est,,REG,,East Carolina,AAC,W,86,60,,17,2,W 10,Bank of Kentucky Center
+19,20,"Wed, Jan 24, 2018",9:00 pm/est,,REG,,Temple,AAC,W,75,42,,18,2,W 11,Bank of Kentucky Center
+20,21,"Sat, Jan 27, 2018",6:00 pm/est,,REG,@,Memphis,AAC,W,62,48,,19,2,W 12,FedExForum
+21,22,"Wed, Jan 31, 2018",7:00 pm/est,,REG,,Houston,AAC,W,80,70,,20,2,W 13,Bank of Kentucky Center
+22,23,"Sat, Feb 3, 2018",12:00 pm/est,,REG,@,Connecticut,AAC,W,65,57,,21,2,W 14,Harry A. Gampel Pavilion
+23,24,"Tue, Feb 6, 2018",7:00 pm/est,,REG,,Central Florida,AAC,W,77,40,,22,2,W 15,Bank of Kentucky Center
+24,25,"Sun, Feb 11, 2018",4:00 pm/est,,REG,@,Southern Methodist,AAC,W,76,51,,23,2,W 16,Moody Coliseum
+25,26,"Thu, Feb 15, 2018",7:00 pm/est,,REG,@,Houston,AAC,L,62,67,,23,3,L 1,Health & Physical Education Arena
+26,27,"Sun, Feb 18, 2018",4:00 pm/est,,REG,,Wichita State (19),AAC,L,72,76,,23,4,L 2,Bank of Kentucky Center
+27,28,"Thu, Feb 22, 2018",7:00 pm/est,,REG,,Connecticut,AAC,W,77,52,,24,4,W 1,Bank of Kentucky Center
+28,29,"Sun, Feb 25, 2018",12:00 pm/est,,REG,,Tulsa,AAC,W,82,74,,25,4,W 2,Bank of Kentucky Center
+29,30,"Thu, Mar 1, 2018",9:00 pm/est,,REG,@,Tulane,AAC,W,78,49,,26,4,W 3,Devlin Fieldhouse
+30,31,"Sun, Mar 4, 2018",12:00 pm/est,,REG,@,Wichita State (11),AAC,W,62,61,,27,4,W 4,Charles Koch Arena
+31,32,"Fri, Mar 9, 2018",12:00 pm/est,,CTOURN,N,Southern Methodist,AAC,W,61,51,,28,4,W 5,
+32,33,"Sat, Mar 10, 2018",1:00 pm/est,,CTOURN,N,Memphis,AAC,W,70,60,,29,4,W 6,
+33,34,"Sun, Mar 11, 2018",3:30 pm/est,,CTOURN,N,Houston (21),AAC,W,56,55,,30,4,W 7,
+34,35,"Fri, Mar 16, 2018",2:00 pm/est,,NCAA,N,Georgia State,Sun Belt,,,,,,,,

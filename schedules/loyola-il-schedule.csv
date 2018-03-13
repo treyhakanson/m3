@@ -1,0 +1,35 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:00 pm/est,,REG,,Wright State,Horizon,W,84,80,,1,0,W 1,Joseph J. Gentile Center
+1,2,"Sun, Nov 12, 2017",3:00 pm/est,,REG,,Eureka,,W,96,69,,2,0,W 2,Joseph J. Gentile Center
+2,3,"Thu, Nov 16, 2017",8:00 pm/est,,REG,@,Missouri-Kansas City,WAC,W,66,56,,3,0,W 3,Municipal Auditorium
+3,4,"Sun, Nov 19, 2017",3:00 pm/est,,REG,,Samford,Southern,W,88,67,,4,0,W 4,Joseph J. Gentile Center
+4,5,"Tue, Nov 21, 2017",8:00 pm/est,,REG,,Mississippi Valley State,SWAC,W,63,50,,5,0,W 5,Joseph J. Gentile Center
+5,6,"Fri, Nov 24, 2017",5:00 pm/est,,REG,N,North Carolina-Wilmington,CAA,W,102,78,,6,0,W 6,Savannah Civic Center
+6,7,"Sat, Nov 25, 2017",5:00 pm/est,,REG,N,Kent State,MAC,W,75,60,,7,0,W 7,Savannah Civic Center
+7,8,"Tue, Nov 28, 2017",9:00 pm/est,,REG,@,Boise State,MWC,L,53,87,,7,1,L 1,Taco Bell Arena
+8,9,"Sat, Dec 2, 2017",4:00 pm/est,,REG,,Illinois-Chicago,Horizon,W,85,61,,8,1,W 1,Joseph J. Gentile Center
+9,10,"Wed, Dec 6, 2017",8:00 pm/est,,REG,@,Florida (5),SEC,W,65,59,,9,1,W 2,Stephen C. O'Connell Center
+10,11,"Sat, Dec 9, 2017",4:00 pm/est,,REG,,Norfolk State,MEAC,W,80,52,,10,1,W 3,Joseph J. Gentile Center
+11,12,"Sat, Dec 16, 2017",2:00 pm/est,,REG,@,Milwaukee,Horizon,L,56,73,,10,2,L 1,UW-Milwaukee Panther Arena
+12,13,"Fri, Dec 22, 2017",9:00 pm/est,,REG,@,Missouri State,MVC,L,59,64,,10,3,L 2,JQH Arena
+13,14,"Sat, Dec 30, 2017",4:00 pm/est,,REG,,Evansville,MVC,W,66,59,,11,3,W 1,Joseph J. Gentile Center
+14,15,"Wed, Jan 3, 2018",8:00 pm/est,,REG,,Indiana State,MVC,L,57,61,,11,4,L 1,Joseph J. Gentile Center
+15,16,"Sun, Jan 7, 2018",4:00 pm/est,,REG,@,Northern Iowa,MVC,W,56,50,,12,4,W 1,McLeod Center
+16,17,"Wed, Jan 10, 2018",8:00 pm/est,,REG,@,Illinois State,MVC,W,68,61,,13,4,W 2,Redbird Arena
+17,18,"Sat, Jan 13, 2018",4:00 pm/est,,REG,,Bradley,MVC,W,81,65,,14,4,W 3,Joseph J. Gentile Center
+18,19,"Wed, Jan 17, 2018",8:00 pm/est,,REG,,Southern Illinois,MVC,W,79,65,,15,4,W 4,Joseph J. Gentile Center
+19,20,"Sun, Jan 21, 2018",4:00 pm/est,,REG,@,Valparaiso,MVC,W,70,54,,16,4,W 5,Athletics-Recreation Center
+20,21,"Wed, Jan 24, 2018",8:00 pm/est,,REG,@,Drake,MVC,W,80,57,,17,4,W 6,Knapp Center
+21,22,"Sun, Jan 28, 2018",4:00 pm/est,,REG,,Northern Iowa,MVC,W,70,47,,18,4,W 7,Joseph J. Gentile Center
+22,23,"Wed, Jan 31, 2018",8:00 pm/est,,REG,@,Bradley,MVC,L,67,69,,18,5,L 1,Carver Arena
+23,24,"Sat, Feb 3, 2018",2:00 pm/est,,REG,,Missouri State,MVC,W,97,75,,19,5,W 1,Joseph J. Gentile Center
+24,25,"Wed, Feb 7, 2018",8:00 pm/est,,REG,,Drake,MVC,W,72,57,,20,5,W 2,Joseph J. Gentile Center
+25,26,"Sat, Feb 10, 2018",2:00 pm/est,,REG,@,Indiana State,MVC,W,75,71,,21,5,W 3,Hulman Center
+26,27,"Wed, Feb 14, 2018",8:00 pm/est,,REG,,Valparaiso,MVC,W,80,71,,22,5,W 4,Joseph J. Gentile Center
+27,28,"Sun, Feb 18, 2018",4:00 pm/est,,REG,@,Evansville,MVC,W,76,66,,23,5,W 5,Ford Center
+28,29,"Wed, Feb 21, 2018",8:00 pm/est,,REG,@,Southern Illinois,MVC,W,75,56,,24,5,W 6,The SIU Arena
+29,30,"Sat, Feb 24, 2018",2:00 pm/est,,REG,,Illinois State,MVC,W,68,61,,25,5,W 7,Joseph J. Gentile Center
+30,31,"Fri, Mar 2, 2018",1:00 pm/est,,CTOURN,N,Northern Iowa,MVC,W,54,50,,26,5,W 8,Scottrade Center
+31,32,"Sat, Mar 3, 2018",3:35 pm/est,,CTOURN,N,Bradley,MVC,W,62,54,,27,5,W 9,Scottrade Center
+32,33,"Sun, Mar 4, 2018",2:05 pm/est,,CTOURN,N,Illinois State,MVC,W,65,49,,28,5,W 10,Scottrade Center
+33,34,"Thu, Mar 15, 2018",3:10 pm/est,,NCAA,N,Miami (FL) (22),ACC,,,,,,,,

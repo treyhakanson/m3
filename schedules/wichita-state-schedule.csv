@@ -1,0 +1,34 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:00 pm/est,,REG,,Missouri-Kansas City,WAC,W,109,57,,1,0,W 1,Charles Koch Arena
+1,2,"Mon, Nov 13, 2017",9:00 pm/est,,REG,,College of Charleston,CAA,W,81,63,,2,0,W 2,Charles Koch Arena
+2,3,"Mon, Nov 20, 2017",4:30 pm/est,,REG,N,University of California,Pac-12,W,92,82,,3,0,W 3,Lahaina Civic Center
+3,4,"Tue, Nov 21, 2017",1:30 pm/est,,REG,N,Marquette,Big East,W,80,66,,4,0,W 4,Lahaina Civic Center
+4,5,"Wed, Nov 22, 2017",10:00 pm/est,,REG,N,Notre Dame (13),ACC,L,66,67,,4,1,L 1,Lahaina Civic Center
+5,6,"Tue, Nov 28, 2017",8:00 pm/est,,REG,,Savannah State,MEAC,W,112,66,,5,1,W 1,Charles Koch Arena
+6,7,"Sat, Dec 2, 2017",2:00 pm/est,,REG,@,Baylor (16),Big 12,W,69,62,,6,1,W 2,Ferrell Center
+7,8,"Tue, Dec 5, 2017",8:00 pm/est,,REG,,South Dakota State,Summit,W,95,85,,7,1,W 3,Charles Koch Arena
+8,9,"Sat, Dec 9, 2017",4:00 pm/est,,REG,@,Oklahoma State,Big 12,W,78,66,,8,1,W 4,Gallagher-Iba Arena
+9,10,"Sat, Dec 16, 2017",4:00 pm/est,,REG,,Oklahoma,Big 12,L,83,91,,8,2,L 1,Charles Koch Arena
+10,11,"Tue, Dec 19, 2017",8:00 pm/est,,REG,,Arkansas State,Sun Belt,W,89,80,,9,2,W 1,Charles Koch Arena
+11,12,"Fri, Dec 22, 2017",7:00 pm/est,,REG,,Florida Gulf Coast,A-Sun,W,75,65,,10,2,W 2,Charles Koch Arena
+12,13,"Sat, Dec 30, 2017",12:00 pm/est,,REG,@,Connecticut,AAC,W,72,62,,11,2,W 3,XL Center
+13,14,"Thu, Jan 4, 2018",7:00 pm/est,,REG,,Houston,AAC,W,81,63,,12,2,W 4,Charles Koch Arena
+14,15,"Sun, Jan 7, 2018",4:00 pm/est,,REG,,South Florida,AAC,W,95,57,,13,2,W 5,Charles Koch Arena
+15,16,"Thu, Jan 11, 2018",9:00 pm/est,,REG,@,East Carolina,AAC,W,95,60,,14,2,W 6,Williams Arena at Minges Coliseum
+16,17,"Sat, Jan 13, 2018",7:30 pm/est,,REG,@,Tulsa,AAC,W,72,69,,15,2,W 7,Donald W. Reynolds Center
+17,18,"Wed, Jan 17, 2018",7:00 pm/est,,REG,,Southern Methodist,AAC,L,78,83,,15,3,L 1,Charles Koch Arena
+18,19,"Sat, Jan 20, 2018",12:00 pm/est,,REG,@,Houston,AAC,L,59,73,,15,4,L 2,Health & Physical Education Arena
+19,20,"Thu, Jan 25, 2018",9:00 pm/est,,REG,,Central Florida,AAC,W,81,62,,16,4,W 1,Charles Koch Arena
+20,21,"Sun, Jan 28, 2018",6:00 pm/est,,REG,,Tulsa,AAC,W,90,71,,17,4,W 2,Charles Koch Arena
+21,22,"Thu, Feb 1, 2018",7:00 pm/est,,REG,@,Temple,AAC,L,79,81,OT,17,5,L 1,Liacouras Center
+22,23,"Tue, Feb 6, 2018",9:00 pm/est,,REG,@,Memphis,AAC,W,85,65,,18,5,W 1,FedExForum
+23,24,"Sat, Feb 10, 2018",6:00 pm/est,,REG,,Connecticut,AAC,W,95,74,,19,5,W 2,Charles Koch Arena
+24,25,"Thu, Feb 15, 2018",7:00 pm/est,,REG,,Temple,AAC,W,93,86,,20,5,W 3,Charles Koch Arena
+25,26,"Sun, Feb 18, 2018",4:00 pm/est,,REG,@,Cincinnati (5),AAC,W,76,72,,21,5,W 4,Bank of Kentucky Center
+26,27,"Wed, Feb 21, 2018",7:30 pm/est,,REG,,Tulane,AAC,W,93,86,,22,5,W 5,Charles Koch Arena
+27,28,"Sat, Feb 24, 2018",2:00 pm/est,,REG,@,Southern Methodist,AAC,W,84,78,,23,5,W 6,Moody Coliseum
+28,29,"Thu, Mar 1, 2018",7:00 pm/est,,REG,@,Central Florida,AAC,W,75,71,OT,24,5,W 7,CFE Arena
+29,30,"Sun, Mar 4, 2018",12:00 pm/est,,REG,,Cincinnati (10),AAC,L,61,62,,24,6,L 1,Charles Koch Arena
+30,31,"Fri, Mar 9, 2018",7:00 pm/est,,CTOURN,N,Temple,AAC,W,89,81,,25,6,W 1,
+31,32,"Sat, Mar 10, 2018",3:30 pm/est,,CTOURN,N,Houston (21),AAC,L,74,77,,25,7,L 1,
+32,33,"Fri, Mar 16, 2018",1:30 pm/est,,NCAA,N,Marshall,CUSA,,,,,,,,

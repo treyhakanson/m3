@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",6:30 pm/est,,REG,N,Memphis,AAC,W,82,70,,1,0,W 1,Alumni Hall
+1,2,"Tue, Nov 14, 2017",8:00 pm/est,,REG,,Lipscomb,A-Sun,W,86,64,,2,0,W 2,Coleman Coliseum 
+2,3,"Fri, Nov 17, 2017",7:00 pm/est,,REG,,Alabama A&M,SWAC,W,104,67,,3,0,W 3,Coleman Coliseum 
+3,4,"Tue, Nov 21, 2017",9:00 pm/est,,REG,,Texas-Arlington,Sun Belt,W,77,76,,4,0,W 4,Coleman Coliseum 
+4,5,"Fri, Nov 24, 2017",2:30 pm/est,,REG,N,Brigham Young,WCC,W,71,59,,5,0,W 5,Steinberg Wellness Center
+5,6,"Sat, Nov 25, 2017",5:00 pm/est,,REG,N,Minnesota (14),Big Ten,L,84,89,,5,1,L 1,Barclays Center
+6,7,"Wed, Nov 29, 2017",8:00 pm/est,,REG,,Louisiana Tech,CUSA,W,77,74,,6,1,W 1,Coleman Coliseum 
+7,8,"Sun, Dec 3, 2017",2:00 pm/est,,REG,,Central Florida,AAC,L,62,65,,6,2,L 1,Coleman Coliseum 
+8,9,"Wed, Dec 6, 2017",8:00 pm/est,,REG,,Rhode Island,A-10,W,68,64,,7,2,W 1,Coleman Coliseum 
+9,10,"Sat, Dec 9, 2017",10:00 pm/est,,REG,@,Arizona,Pac-12,L,82,88,,7,3,L 1,McKale Center
+10,11,"Tue, Dec 19, 2017",9:00 pm/est,,REG,N,Mercer,Southern,W,80,79,,8,3,W 1,Von Braun Center
+11,12,"Fri, Dec 22, 2017",9:00 pm/est,,REG,N,Texas,Big 12,L,50,66,,8,4,L 1,Legacy Arena
+12,13,"Sat, Dec 30, 2017",6:00 pm/est,,REG,,Texas A&M (5),SEC,W,79,57,,9,4,W 1,Coleman Coliseum 
+13,14,"Tue, Jan 2, 2018",7:00 pm/est,,REG,@,Vanderbilt,SEC,L,75,76,,9,5,L 1,Memorial Gymnasium
+14,15,"Sat, Jan 6, 2018",12:00 pm/est,,REG,@,Georgia,SEC,L,46,65,,9,6,L 2,Stegeman Coliseum
+15,16,"Tue, Jan 9, 2018",7:00 pm/est,,REG,,South Carolina,SEC,W,76,62,,10,6,W 1,Coleman Coliseum 
+16,17,"Sat, Jan 13, 2018",8:30 pm/est,,REG,@,Louisiana State,SEC,W,74,66,,11,6,W 2,Maravich Assembly Center
+17,18,"Wed, Jan 17, 2018",7:00 pm/est,,REG,,Auburn (17),SEC,W,76,71,,12,6,W 3,Coleman Coliseum 
+18,19,"Sat, Jan 20, 2018",8:30 pm/est,,REG,,Mississippi State,SEC,W,68,62,,13,6,W 4,Coleman Coliseum 
+19,20,"Tue, Jan 23, 2018",8:30 pm/est,,REG,@,Mississippi,SEC,L,66,78,,13,7,L 1,The Pavilion at Ole Miss
+20,21,"Sat, Jan 27, 2018",2:15 pm/est,,REG,,Oklahoma (12),Big 12,W,80,73,,14,7,W 1,Coleman Coliseum 
+21,22,"Wed, Jan 31, 2018",9:00 pm/est,,REG,,Missouri,SEC,L,60,69,,14,8,L 1,Coleman Coliseum 
+22,23,"Sat, Feb 3, 2018",4:00 pm/est,,REG,@,Florida (23),SEC,W,68,50,,15,8,W 1,Stephen C. O'Connell Center
+23,24,"Tue, Feb 6, 2018",7:00 pm/est,,REG,@,Mississippi State,SEC,L,63,67,,15,9,L 1,Humphrey Coliseum
+24,25,"Sat, Feb 10, 2018",6:00 pm/est,,REG,,Tennessee (15),SEC,W,78,50,,16,9,W 1,Coleman Coliseum 
+25,26,"Tue, Feb 13, 2018",9:00 pm/est,,REG,,Louisiana State,SEC,W,80,65,,17,9,W 2,Coleman Coliseum 
+26,27,"Sat, Feb 17, 2018",2:00 pm/est,,REG,@,Kentucky,SEC,L,71,81,,17,10,L 1,Rupp Arena
+27,28,"Wed, Feb 21, 2018",8:30 pm/est,,REG,@,Auburn (12),SEC,L,71,90,,17,11,L 2,Auburn Arena
+28,29,"Sat, Feb 24, 2018",6:00 pm/est,,REG,,Arkansas,SEC,L,73,76,,17,12,L 3,Coleman Coliseum 
+29,30,"Tue, Feb 27, 2018",7:00 pm/est,,REG,,Florida,SEC,L,52,73,,17,13,L 4,Coleman Coliseum 
+30,31,"Sat, Mar 3, 2018",2:00 pm/est,,REG,@,Texas A&M,SEC,L,66,68,,17,14,L 5,Reed Arena
+31,32,"Thu, Mar 8, 2018",1:00 pm/est,,CTOURN,N,Texas A&M,SEC,W,71,70,,18,14,W 1,Scottrade Center
+32,33,"Fri, Mar 9, 2018",1:00 pm/est,,CTOURN,N,Auburn (16),SEC,W,81,63,,19,14,W 2,Scottrade Center
+33,34,"Sat, Mar 10, 2018",1:00 pm/est,,CTOURN,N,Kentucky,SEC,L,63,86,,19,15,L 1,Scottrade Center
+34,35,"Thu, Mar 15, 2018",9:20 pm/est,,NCAA,N,Virginia Tech,ACC,,,,,,,,
