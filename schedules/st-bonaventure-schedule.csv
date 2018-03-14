@@ -1,0 +1,35 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:00 pm/est,,REG,,Niagara,MAAC,L,75,77,,0,1,L 1,Reilly Center
+1,2,"Sat, Nov 18, 2017",4:00 pm/est,,REG,,Jackson State,SWAC,W,72,58,,1,1,W 1,Reilly Center
+2,3,"Mon, Nov 20, 2017",7:00 pm/est,,REG,,Maryland-Eastern Shore,MEAC,W,96,48,,2,1,W 2,Reilly Center
+3,4,"Fri, Nov 24, 2017",9:30 pm/est,,REG,N,Maryland,Big Ten,W,63,61,,3,1,W 3,The Arena
+4,5,"Sat, Nov 25, 2017",7:00 pm/est,,REG,N,Texas Christian,Big 12,L,79,89,,3,2,L 1,The Arena
+5,6,"Wed, Nov 29, 2017",7:00 pm/est,,REG,@,Siena,MAAC,W,75,55,,4,2,W 1,Times Union Center 
+6,7,"Sat, Dec 2, 2017",2:00 pm/est,,REG,@,Buffalo,MAC,W,73,62,,5,2,W 2,Alumni Arena
+7,8,"Wed, Dec 6, 2017",7:00 pm/est,,REG,@,Canisius,MAAC,W,73,65,,6,2,W 3,Koessler Athletic Center
+8,9,"Sat, Dec 9, 2017",2:00 pm/est,,REG,,Yale,Ivy,W,75,67,,7,2,W 4,Reilly Center
+9,10,"Sat, Dec 16, 2017",4:00 pm/est,,REG,N,Vermont,AEC,W,81,79,,8,2,W 5,Blue Cross Arena
+10,11,"Wed, Dec 20, 2017",7:00 pm/est,,REG,,Northeastern,CAA,W,84,65,,9,2,W 6,Reilly Center
+11,12,"Fri, Dec 22, 2017",7:00 pm/est,,REG,@,Syracuse,ACC,W,60,57,OT,10,2,W 7,Carrier Dome
+12,13,"Sat, Dec 30, 2017",2:30 pm/est,,REG,,Massachusetts,A-10,W,98,78,,11,2,W 8,Reilly Center
+13,14,"Wed, Jan 3, 2018",8:30 pm/est,,REG,@,Dayton,A-10,L,72,82,,11,3,L 1,University of Dayton Arena
+14,15,"Sat, Jan 6, 2018",8:00 pm/est,,REG,@,Saint Joseph's,A-10,L,78,85,,11,4,L 2,Hagan Arena
+15,16,"Wed, Jan 10, 2018",7:00 pm/est,,REG,,Fordham,A-10,W,77,61,,12,4,W 1,Reilly Center
+16,17,"Sat, Jan 13, 2018",11:00 am/est,,REG,@,Rhode Island,A-10,L,73,87,,12,5,L 1,Ryan Center
+17,18,"Fri, Jan 19, 2018",7:00 pm/est,,REG,@,Davidson,A-10,L,73,83,,12,6,L 2,Belk Arena
+18,19,"Wed, Jan 24, 2018",7:00 pm/est,,REG,,Saint Joseph's,A-10,W,70,67,,13,6,W 1,Reilly Center
+19,20,"Sun, Jan 28, 2018",12:00 pm/est,,REG,,George Washington,A-10,W,70,52,,14,6,W 2,Reilly Center
+20,21,"Wed, Jan 31, 2018",7:00 pm/est,,REG,@,George Mason,A-10,W,85,69,,15,6,W 3,EagleBank Arena
+21,22,"Sat, Feb 3, 2018",6:30 pm/est,,REG,@,Duquesne,A-10,W,84,81,,16,6,W 4,A.J. Palumbo Center
+22,23,"Wed, Feb 7, 2018",7:00 pm/est,,REG,,Saint Louis,A-10,W,79,56,,17,6,W 5,Reilly Center
+23,24,"Sat, Feb 10, 2018",4:00 pm/est,,REG,,Richmond,A-10,W,97,88,,18,6,W 6,Reilly Center
+24,25,"Tue, Feb 13, 2018",7:00 pm/est,,REG,@,La Salle,A-10,W,79,68,,19,6,W 7,Tom Gola Arena
+25,26,"Fri, Feb 16, 2018",7:00 pm/est,,REG,,Rhode Island (16),A-10,W,77,74,,20,6,W 8,Reilly Center
+26,27,"Wed, Feb 21, 2018",7:00 pm/est,,REG,,Duquesne,A-10,W,73,67,,21,6,W 9,Reilly Center
+27,28,"Sat, Feb 24, 2018",8:00 pm/est,,REG,@,Virginia Commonwealth,A-10,W,68,63,,22,6,W 10,Stuart Siegel Center
+28,29,"Tue, Feb 27, 2018",9:00 pm/est,,REG,,Davidson,A-10,W,117,113,3OT,23,6,W 11,Reilly Center
+29,30,"Sat, Mar 3, 2018",8:00 pm/est,,REG,@,Saint Louis,A-10,W,64,56,,24,6,W 12,Chaifetz Arena
+30,31,"Fri, Mar 9, 2018",6:00 pm/est,,CTOURN,N,Richmond,A-10,W,83,77,,25,6,W 13,Verizon Center
+31,32,"Sat, Mar 10, 2018",3:30 pm/est,,CTOURN,N,Davidson,A-10,L,70,82,,25,7,L 1,Verizon Center
+32,33,"Tue, Mar 13, 2018",9:10 pm/est,,NCAA,N,UCLA,Pac-12,W,65,58,,26,7,W 1,University of Dayton Arena
+33,34,"Thu, Mar 15, 2018",9:57 pm/est,,NCAA,N,Florida (23),SEC,,,,,,,,

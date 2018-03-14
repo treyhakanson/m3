@@ -15,22 +15,24 @@ SCHOOLS = [
     'georgia-state',
 
     # WEST
-    'xavier', 'north-carolina-central', 'missouri', 'florida-state',
-    'ohio-state', 'south-dakota-state', 'gonzaga', 'north-carolina-greensboro',
-    'houston', 'san-diego-state', 'michigan', 'montana', 'texas-am',
-    'providence', 'north-carolina', 'lipscomb',
+    'texas-southern', 'north-carolina-central',  # Play in teams
+    'xavier', 'missouri', 'florida-state', 'ohio-state', 'south-dakota-state',
+    'gonzaga', 'north-carolina-greensboro', 'houston', 'san-diego-state',
+    'michigan', 'montana', 'texas-am', 'providence', 'north-carolina',
+    'lipscomb',
 
     # EAST
-    'villanova', 'radford', 'virginia-tech', 'alabama', 'west-virginia',
-    'murray-state', 'wichita-state', 'marshall', 'florida', 'ucla',
-    'texas-tech', 'stephen-f-austin', 'butler', 'arkansas', 'purdue',
-    'cal-state-fullerton',
+    'radford', 'long-island-university',  # Play in teams
+    'ucla', 'st-bonaventure',             # Play in teams
+    'villanova', 'virginia-tech', 'alabama', 'west-virginia', 'murray-state',
+    'wichita-state', 'marshall', 'florida', 'texas-tech', 'stephen-f-austin',
+    'butler', 'arkansas', 'purdue', 'cal-state-fullerton',
 
     # MIDWEST
+    'syracuse', 'arizona-state',  # Play in teams
     'kansas', 'pennsylvania', 'seton-hall', 'north-carolina-state', 'clemson',
     'new-mexico-state', 'auburn', 'college-of-charleston', 'texas-christian',
-    'syracuse', 'michigan-state', 'bucknell', 'rhode-island', 'oklahoma',
-    'duke', 'iona'
+    'michigan-state', 'bucknell', 'rhode-island', 'oklahoma', 'duke', 'iona'
 ]
 PIPELINE = [
     'rosters',

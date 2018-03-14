@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",9:00 pm/est,,REG,@,Gonzaga (18),WCC,L,69,97,,0,1,L 1,McCarthey Athletic Center
+1,2,"Sun, Nov 12, 2017",4:00 pm/est,,REG,@,Washington State,Pac-12,L,84,86,OT,0,2,L 2,Beasley Coliseum
+2,3,"Thu, Nov 16, 2017",7:00 pm/est,,REG,@,Ohio State,Big Ten,L,64,82,,0,3,L 3,Value City Arena
+3,4,"Sat, Nov 18, 2017",7:00 pm/est,,REG,@,Syracuse,ACC,L,67,80,,0,4,L 4,Carrier Dome
+4,5,"Tue, Nov 21, 2017",8:00 pm/est,,REG,@,Kansas (3),Big 12,L,71,114,,0,5,L 5,Allen Fieldhouse
+5,6,"Fri, Nov 24, 2017",3:00 pm/est,,REG,@,Clemson,ACC,L,77,84,,0,6,L 6,Littlejohn Coliseum
+6,7,"Thu, Nov 30, 2017",7:00 pm/est,,REG,@,Oakland,Horizon,L,87,97,,0,7,L 7,Athletics Center O'rena
+7,8,"Sat, Dec 2, 2017",7:00 pm/est,,REG,@,Toledo,MAC,L,69,71,,0,8,L 8,John F. Savage Hall
+8,9,"Mon, Dec 11, 2017",10:00 pm/est,,REG,@,Oregon,Pac-12,L,68,74,,0,9,L 9,Matthew Knight Arena
+9,10,"Thu, Dec 14, 2017",8:30 pm/est,,REG,@,Baylor (21),Big 12,L,68,99,,0,10,L 10,Ferrell Center
+10,11,"Sat, Dec 16, 2017",10:00 pm/est,,REG,@,Wyoming,MWC,L,66,72,,0,11,L 11,Arena-Auditorium
+11,12,"Mon, Dec 18, 2017",9:00 pm/est,,REG,@,Texas Christian (15),Big 12,L,72,91,,0,12,L 12,Ed & Rae Schollmaier Arena
+12,13,"Sat, Dec 23, 2017",9:00 pm/est,,REG,@,Brigham Young,WCC,L,52,73,,0,13,L 13,Marriott Center
+13,14,"Mon, Jan 1, 2018",9:00 pm/est,,REG,,Southern,SWAC,W,78,66,,1,13,W 1,Health & Physical Education Arena
+14,15,"Wed, Jan 3, 2018",8:30 pm/est,,REG,,Alcorn State,SWAC,W,85,70,,2,13,W 2,Health & Physical Education Arena
+15,16,"Sat, Jan 6, 2018",8:30 pm/est,,REG,,Prairie View,SWAC,W,100,94,,3,13,W 3,Health & Physical Education Arena
+16,17,"Sat, Jan 13, 2018",6:30 pm/est,,REG,@,Jackson State,SWAC,L,80,85,OT,3,14,L 1,Lee E. Williams Athletics and Assembly Center
+17,18,"Mon, Jan 15, 2018",8:30 pm/est,,REG,@,Grambling,SWAC,L,78,79,,3,15,L 2,Assembly Center
+18,19,"Sat, Jan 20, 2018",8:30 pm/est,,REG,,Mississippi Valley State,SWAC,W,91,77,,4,15,W 1,Health & Physical Education Arena
+19,20,"Mon, Jan 22, 2018",8:30 pm/est,,REG,,Arkansas-Pine Bluff,SWAC,L,72,74,,4,16,L 1,Health & Physical Education Arena
+20,21,"Sat, Jan 27, 2018",7:00 pm/est,,REG,@,Alabama A&M,SWAC,W,58,56,,5,16,W 1,Elmore Health Science Building 
+21,22,"Mon, Jan 29, 2018",8:30 pm/est,,REG,@,Alabama State,SWAC,W,97,82,,6,16,W 2,Dunn-Oliver Acadome
+22,23,"Sat, Feb 3, 2018",6:00 pm/est,,REG,@,Prairie View,SWAC,L,82,96,,6,17,L 1,William J. Nicks Building
+23,24,"Sat, Feb 10, 2018",9:00 pm/est,,REG,,Jackson State,SWAC,W,86,75,,7,17,W 1,Health & Physical Education Arena
+24,25,"Mon, Feb 12, 2018",9:00 pm/est,,REG,,Grambling,SWAC,L,55,78,,7,18,L 1,Health & Physical Education Arena
+25,26,"Sat, Feb 17, 2018",5:00 pm/est,,REG,@,Mississippi Valley State,SWAC,W,72,71,,8,18,W 1,Harrison HPER Complex
+26,27,"Mon, Feb 19, 2018",8:30 pm/est,,REG,@,Arkansas-Pine Bluff,SWAC,L,61,62,,8,19,L 1,H.O. Clemmons Arena
+27,28,"Sat, Feb 24, 2018",9:00 pm/est,,REG,,Alabama A&M,SWAC,W,106,71,,9,19,W 1,Health & Physical Education Arena
+28,29,"Mon, Feb 26, 2018",9:00 pm/est,,REG,,Alabama State,SWAC,W,95,77,,10,19,W 2,Health & Physical Education Arena
+29,30,"Thu, Mar 1, 2018",8:30 pm/est,,REG,@,Southern,SWAC,W,90,88,,11,19,W 3,F. G. Clark Activity Center
+30,31,"Sat, Mar 3, 2018",6:30 pm/est,,REG,@,Alcorn State,SWAC,W,78,71,,12,19,W 4,Davey L. Whitney Complex
+31,32,"Tue, Mar 6, 2018",9:00 pm/est,,CTOURN,,Alabama State,SWAC,W,90,76,,13,19,W 5,Health & Physical Education Arena
+32,33,"Fri, Mar 9, 2018",9:30 pm/est,,CTOURN,N,Prairie View,SWAC,W,88,74,,14,19,W 6,Delmar-Tusa Fieldhouse
+33,34,"Sat, Mar 10, 2018",5:00 pm/est,,CTOURN,N,Arkansas-Pine Bluff,SWAC,W,84,69,,15,19,W 7,Delmar-Tusa Fieldhouse
+34,35,"Wed, Mar 14, 2018",6:40 pm/est,,NCAA,N,North Carolina Central,MEAC,,,,,,,,

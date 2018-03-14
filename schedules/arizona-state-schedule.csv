@@ -1,0 +1,33 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",10:00 pm/est,,REG,,Idaho State,Big Sky,W,94,74,,1,0,W 1,Wells Fargo Arena
+1,2,"Tue, Nov 14, 2017",9:00 pm/est,,REG,,San Diego State,MWC,W,90,68,,2,0,W 2,Wells Fargo Arena
+2,3,"Fri, Nov 17, 2017",8:00 pm/est,,REG,,Northern Arizona,Big Sky,W,97,62,,3,0,W 3,Wells Fargo Arena
+3,4,"Sun, Nov 19, 2017",2:00 pm/est,,REG,,UC-Irvine,Big West,W,99,78,,4,0,W 4,Wells Fargo Arena
+4,5,"Thu, Nov 23, 2017",7:30 pm/est,,REG,N,Kansas State,Big 12,W,92,90,,5,0,W 5,Orleans Arena
+5,6,"Fri, Nov 24, 2017",5:30 pm/est,,REG,N,Xavier (15),Big East,W,102,86,,6,0,W 6,Orleans Arena
+6,7,"Sat, Dec 2, 2017",9:00 pm/est,,REG,,San Francisco,WCC,W,75,57,,7,0,W 7,Wells Fargo Arena
+7,8,"Fri, Dec 8, 2017",8:00 pm/est,,REG,N,St. John's (NY),Big East,W,82,70,,8,0,W 8,Staples Center
+8,9,"Sun, Dec 10, 2017",2:00 pm/est,,REG,@,Kansas (2),Big 12,W,95,85,,9,0,W 9,Allen Fieldhouse
+9,10,"Sun, Dec 17, 2017",2:00 pm/est,,REG,,Vanderbilt,SEC,W,76,64,,10,0,W 10,Wells Fargo Arena
+10,11,"Tue, Dec 19, 2017",9:00 pm/est,,REG,,Longwood,Big South,W,95,61,,11,0,W 11,Wells Fargo Arena
+11,12,"Fri, Dec 22, 2017",3:00 pm/est,,REG,,Pacific,WCC,W,104,65,,12,0,W 12,Wells Fargo Arena
+12,13,"Sat, Dec 30, 2017",9:00 pm/est,,REG,@,Arizona (17),Pac-12,L,78,84,,12,1,L 1,McKale Center
+13,14,"Thu, Jan 4, 2018",8:30 pm/est,,REG,@,Colorado,Pac-12,L,81,90,OT,12,2,L 2,Coors Events/Conference Center
+14,15,"Sun, Jan 7, 2018",8:00 pm/est,,REG,@,Utah,Pac-12,W,80,77,,13,2,W 1,Jon M. Huntsman Center
+15,16,"Thu, Jan 11, 2018",10:00 pm/est,,REG,,Oregon,Pac-12,L,72,76,,13,3,L 1,Wells Fargo Arena
+16,17,"Sat, Jan 13, 2018",6:00 pm/est,,REG,,Oregon State,Pac-12,W,77,75,,14,3,W 1,Wells Fargo Arena
+17,18,"Wed, Jan 17, 2018",11:00 pm/est,,REG,@,Stanford,Pac-12,L,77,86,,14,4,L 1,Maples Pavilion
+18,19,"Sat, Jan 20, 2018",10:30 pm/est,,REG,@,University of California,Pac-12,W,81,73,,15,4,W 1,Haas Pavilion
+19,20,"Thu, Jan 25, 2018",9:30 pm/est,,REG,,Utah,Pac-12,L,77,80,OT,15,5,L 1,Wells Fargo Arena
+20,21,"Sat, Jan 27, 2018",8:00 pm/est,,REG,,Colorado,Pac-12,W,80,66,,16,5,W 1,Wells Fargo Arena
+21,22,"Thu, Feb 1, 2018",11:00 pm/est,,REG,@,Washington,Pac-12,L,64,68,,16,6,L 1,Alaska Airlines Arena
+22,23,"Sun, Feb 4, 2018",4:00 pm/est,,REG,@,Washington State,Pac-12,W,88,78,,17,6,W 1,Beasley Coliseum
+23,24,"Thu, Feb 8, 2018",11:00 pm/est,,REG,,Southern California,Pac-12,W,80,78,,18,6,W 2,Wells Fargo Arena
+24,25,"Sat, Feb 10, 2018",7:00 pm/est,,REG,,UCLA,Pac-12,W,88,79,,19,6,W 3,Wells Fargo Arena
+25,26,"Thu, Feb 15, 2018",9:00 pm/est,,REG,,Arizona (17),Pac-12,L,70,77,,19,7,L 1,Wells Fargo Arena
+26,27,"Thu, Feb 22, 2018",11:30 pm/est,,REG,@,Oregon,Pac-12,L,68,75,,19,8,L 2,Matthew Knight Arena
+27,28,"Sat, Feb 24, 2018",8:00 pm/est,,REG,@,Oregon State,Pac-12,L,75,79,,19,9,L 3,Gill Coliseum
+28,29,"Thu, Mar 1, 2018",9:00 pm/est,,REG,,University of California,Pac-12,W,84,53,,20,9,W 1,Wells Fargo Arena
+29,30,"Sat, Mar 3, 2018",2:30 pm/est,,REG,,Stanford,Pac-12,L,83,84,,20,10,L 1,Wells Fargo Arena
+30,31,"Wed, Mar 7, 2018",3:00 pm/est,,CTOURN,N,Colorado,Pac-12,L,85,97,,20,11,L 2,T-Mobile Arena
+31,32,"Wed, Mar 14, 2018",9:10 pm/est,,NCAA,N,Syracuse,ACC,,,,,,,,

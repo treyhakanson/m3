@@ -9,6 +9,8 @@ This repo contains the following data, as well as the script to scrape said data
 3. `/boxscores`: Boxscores from every regular season (and conference tournament) game played by each of the tournament teams
 4. `/misc-data`: Some additional miscellaneous data files I found on SR CBB I thought were worth including
 
+Not that some rosters are unavailable for lower-tier teams (from schedules, the roster's of all teams in the tournament are available).
+
 ## Setup
 
 To run the crawler, perform the following:
