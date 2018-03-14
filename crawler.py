@@ -143,6 +143,95 @@ def get_schedule(school):
     df.to_csv(schedule_file_path(school), sep=',', encoding='utf-8')
 
 
+def get_boxscore(school, row):
+    dt = parse(row['Date'])
+    dt = '%d-%02d-%02d' % (dt.year, dt.month, dt.day)
+    tm = '%02d' % (datetime.strptime(row['Time'], '%I:%M %p/est')
+                   .time().hour)
+    ha = str(row['Home/Away'])
+    opponent = clean_opponent_name(row['Opponent'])
+
+    print("Getting BOXSCORE form game between %s and %s"
+          % (school.upper(), opponent.upper()))
+
+    if (
+        path.isfile(boxscore_file_path(school, dt, tm)) and path
+        .isfile(boxscore_file_path(opponent, dt, tm))
+    ):
+        return
+
+    url_school = opponent if '@' in ha else school
+    url = boxscore_url(url_school, dt, tm)
+    print("\tRequesting: %s" % (url))
+    r = requests.get(url)
+
+    # When `ha` is 'N', the school needed in the url appears to be
+    # somewhat random, so if the request fails try the other school
+    if r.status_code == 404:
+        url_school = school if '@' in ha else opponent
+        url = boxscore_url(url_school, dt, tm)
+        print('\tURL failed, attempting to use backup: %s' % (url))
+        r = requests.get(url)
+
+    if r.status_code == 404:
+        print('\tFailed to get boxscore')
+        boxscore_failures.add(url)
+        return
+
+    soup = BeautifulSoup(r.text, 'html.parser')
+
+    try:
+        school_stats = format_table(soup.find('table',
+                                    id='box-score-basic-%s' % (school))
+                                    .find('tbody')
+                                    .find_all('tr', class_=''))
+        opponent_stats = format_table(soup.find('table',
+                                      id='box-score-basic-%s'
+                                      % (opponent)).find('tbody')
+                                      .find_all('tr', class_=''))
+
+    except Exception as e:
+        # Sometimes the name should not be mapped during cleaning when
+        # getting boxscores; attempt to use a "gently" cleaned name
+        print('\tBad name. Attempting to recover.')
+        try:
+            opponent_alt = gentle_clean_opponent_name(row['Opponent'])
+            school_stats = format_table(soup.find('table',
+                                        id='box-score-basic-%s'
+                                        % (school)).find('tbody')
+                                        .find_all('tr', class_=''))
+            opponent_stats = format_table(soup.find('table',
+                                          id='box-score-basic-%s'
+                                          % (opponent_alt))
+                                          .find('tbody')
+                                          .find_all('tr', class_=''))
+            print('\tRecovered!')
+        except Exception as e:
+            boxscore_failures.add(url)
+            print('''
+                ERROR: there was likely a bad name involved when
+                trying to select the tables. Teams involved were: %s
+                and %s (later is likely the issue; an alias should be
+                added to OPPONENT_MAP)
+            ''' % (school, opponent))
+            return
+
+    dt1 = pd.DataFrame.from_records(school_stats)
+    dt2 = pd.DataFrame.from_records(opponent_stats)
+
+    cols = ['Name', 'MP', 'FG', 'FGA', 'FG%', '2P', '2PA', '2P%', '3P',
+            '3PA', '3P%', 'FT', 'FTA', 'FT%', 'ORB', 'DRB', 'TRB',
+            'AST', 'STL', 'BLK', 'TOV', 'PF', 'PTS']
+
+    dt1.columns = cols
+    dt2.columns = cols
+
+    dt1.to_csv(boxscore_file_path(school, dt, tm), sep=',',
+               encoding='utf-8')
+    dt2.to_csv(boxscore_file_path(opponent, dt, tm), sep=',',
+               encoding='utf-8')
+
+
 # Get Rosters
 if 'rosters' in PIPELINE:
     for school in SCHOOLS:
@@ -163,102 +252,15 @@ if 'opponent-rosters' in PIPELINE:
             get_roster(opponent)
         print('\n')
 
+# Get Boxscores
 if 'boxscores' in PIPELINE:
     for school in SCHOOLS:
         df = pd.read_csv(schedule_file_path(school))
-
         for i, row in df.iterrows():
             # Last row is the unplayed tournament game
             if i == len(df) - 1:
                 continue
-
-            dt = parse(row['Date'])
-            dt = '%d-%02d-%02d' % (dt.year, dt.month, dt.day)
-            tm = '%02d' % (datetime.strptime(row['Time'], '%I:%M %p/est')
-                           .time().hour)
-            ha = str(row['Home/Away'])
-            opponent = clean_opponent_name(row['Opponent'])
-
-            print("Getting BOXSCORE form game between %s and %s"
-                  % (school.upper(), opponent.upper()))
-
-            if (
-                path.isfile(boxscore_file_path(school, dt, tm)) and path
-                .isfile(boxscore_file_path(opponent, dt, tm))
-            ):
-                continue
-
-            url_school = opponent if '@' in ha else school
-            url = boxscore_url(url_school, dt, tm)
-            print("\tRequesting: %s" % (url))
-            r = requests.get(url)
-
-            # When `ha` is 'N', the school needed in the url appears to be
-            # somewhat random, so if the request fails try the other school
-            if r.status_code == 404:
-                url_school = school if '@' in ha else opponent
-                url = boxscore_url(url_school, dt, tm)
-                print('\tURL failed, attempting to use backup: %s' % (url))
-                r = requests.get(url)
-
-            if r.status_code == 404:
-                print('\tFailed to get boxscore')
-                boxscore_failures.add(url)
-                exit()
-                continue
-
-            soup = BeautifulSoup(r.text, 'html.parser')
-
-            try:
-                school_stats = format_table(soup.find('table',
-                                            id='box-score-basic-%s' % (school))
-                                            .find('tbody')
-                                            .find_all('tr', class_=''))
-                opponent_stats = format_table(soup.find('table',
-                                              id='box-score-basic-%s'
-                                              % (opponent)).find('tbody')
-                                              .find_all('tr', class_=''))
-
-            except Exception as e:
-                # Sometimes the name should not be mapped during cleaning when
-                # getting boxscores; attempt to use a "gently" cleaned name
-                print('\tBad name. Attempting to recover.')
-                try:
-                    opponent_alt = gentle_clean_opponent_name(row['Opponent'])
-                    school_stats = format_table(soup.find('table',
-                                                id='box-score-basic-%s'
-                                                % (school)).find('tbody')
-                                                .find_all('tr', class_=''))
-                    opponent_stats = format_table(soup.find('table',
-                                                  id='box-score-basic-%s'
-                                                  % (opponent_alt))
-                                                  .find('tbody')
-                                                  .find_all('tr', class_=''))
-                    print('\tRecovered!')
-                except Exception as e:
-                    boxscore_failures.add(url)
-                    print('''
-                        ERROR: there was likely a bad name involved when
-                        trying to select the tables. Teams involved were: %s
-                        and %s (later is likely the issue; an alias should be
-                        added to OPPONENT_MAP)
-                    ''' % (school, opponent))
-                    continue
-
-            dt1 = pd.DataFrame.from_records(school_stats)
-            dt2 = pd.DataFrame.from_records(opponent_stats)
-
-            cols = ['Name', 'MP', 'FG', 'FGA', 'FG%', '2P', '2PA', '2P%', '3P',
-                    '3PA', '3P%', 'FT', 'FTA', 'FT%', 'ORB', 'DRB', 'TRB',
-                    'AST', 'STL', 'BLK', 'TOV', 'PF', 'PTS']
-
-            dt1.columns = cols
-            dt2.columns = cols
-
-            dt1.to_csv(boxscore_file_path(school, dt, tm), sep=',',
-                       encoding='utf-8')
-            dt2.to_csv(boxscore_file_path(opponent, dt, tm), sep=',',
-                       encoding='utf-8')
+            get_boxscore(school, row)
 
 with open('roster-failures.log', 'a') as file:
     file.write('\n'.join(roster_failures))
