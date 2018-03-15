@@ -32,7 +32,7 @@ Box scores are done a bit differently: `<date_played>-<team_name>-boxscore.csv`,
 
 ## Visualization
 
-Visualizations can be generated for any team, and are shown as a 3D scatterplot of a given stat against the physiology (height, weight) of the opposing teams on their schedule. For example the following would generate 2 plots, one for PJ Washington and one for Kevin Knox (both of the Kentucky Wildcats), showing their point totals for each game against the physiology of the opposing team:
+Visualizations can be generated for any team, and are shown as a 3D scatterplot of a given stat against the physiology (height, weight) of the opposing teams on their schedule. For example the following would generate 2 plots, one for PJ Washington and one for Kevin Knox (both of the Kentucky Wildcats), showing their defensive rebounding totals for each game against the physiology of the opposing team:
 
 ```sh
 python3 visualize.py kentucky drb "Kevin Knox" "PJ Washington"
