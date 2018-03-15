@@ -11,6 +11,8 @@ This repo contains the following data, as well as the script to scrape said data
 
 Note that some rosters are unavailable for lower-tier teams (from schedules, the roster's of all teams in the tournament are available).
 
+This repo also contains some visualization and simulation scripts, explained below. Keep in mind that this is a relatively simple project, and only takes into account performance based on opponent team physiology. It is intended to be built upon over time.
+
 ## Setup
 
 To run the crawler, perform the following:
