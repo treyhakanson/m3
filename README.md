@@ -61,3 +61,16 @@ Available stats are:
 * tov, Turnovers
 * pf, Personal Fouls
 * pts, Points
+
+## Simulator
+
+Simulate the projected winner of a matchup, based on their previous performances. For example:
+
+```sh
+python3 simulate.py kentucky alabama
+```
+
+will yield output similar to the following:
+
+> Computing projected winner of KENTUCKY vs ALABAMA...
+> 76 - 64, KENTUCKY projected to win
