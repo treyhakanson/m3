@@ -7,7 +7,7 @@ def schedule_url(school):
 
 
 def schedule_file_path(school):
-    return 'schedules/%s-schedule.csv' % (school)
+    return '../schedules/%s-schedule.csv' % (school)
 
 
 def roster_url(school):
@@ -15,7 +15,7 @@ def roster_url(school):
 
 
 def roster_file_path(school):
-    return 'rosters/%s-roster.csv' % (school)
+    return '../rosters/%s-roster.csv' % (school)
 
 
 def boxscore_url(school, dt, tm):
@@ -23,11 +23,11 @@ def boxscore_url(school, dt, tm):
 
 
 def boxscore_file_path(school, dt, tm):
-    return 'boxscores/%s-%s-%s-boxscore.csv' % (school, dt, tm)
+    return '../boxscores/%s-%s-%s-boxscore.csv' % (school, dt, tm)
 
 
 def boxscore_file_path_alt(school, dt):
-    return 'boxscores/%s-%s-boxscore.csv' % (school, dt)
+    return '../boxscores/%s-%s-boxscore.csv' % (school, dt)
 
 
 def clean_opponent_name(name):
