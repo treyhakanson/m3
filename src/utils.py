@@ -120,7 +120,6 @@ def load_scheulde(fname):
 
 def load_boxscore(fname):
     boxscore = pd.read_csv(fname)
-    boxscore = boxscore[boxscore['MP'] > 5]
     boxscore = boxscore.drop('Unnamed: 0', axis=1)
     boxscore = boxscore.drop('FG%', axis=1)
     boxscore = boxscore.drop('2P%', axis=1)
@@ -153,6 +152,47 @@ def physiology(roster, boxscore):
                      height))
             weight += mp / total_mins * avg_weight
             height += mp / total_mins * avg_height
-    # weight /= len(boxscore)
-    # height /= len(boxscore)
     return (weight, height)
+
+
+def avg_physiology(school):
+    avg_weight = 0.0
+    avg_height = 0.0
+    roster = load_roster(roster_file_path(school))
+    schedule = load_scheulde(schedule_file_path(school))
+    for i, game in schedule.iterrows():
+        boxscore = load_boxscore(boxscore_file_path_alt(school, game['Date']))
+        weight, height = physiology(roster, boxscore)
+        avg_weight += weight
+        avg_height += height
+    avg_weight /= len(schedule)
+    avg_height /= len(schedule)
+    return (avg_weight, avg_height)
+
+
+def compute_stats(school, stat='PTS'):
+    '''TODO: need to skip teams if the roster doesn't exist'''
+    points = {}
+    weights = []
+    heights = []
+
+    schedule = load_scheulde(schedule_file_path(school))
+
+    print('Computing data for team %s...' % (school.upper()))
+
+    for i, game in schedule.iterrows():
+        school_boxscore = load_boxscore(
+            boxscore_file_path_alt(school, game['Date']))
+        opponent_boxscore = load_boxscore(
+            boxscore_file_path_alt(game['Opponent'], game['Date']))
+        opponent_roster = load_roster(
+            roster_file_path(game['Opponent']))
+        weight, height = physiology(opponent_roster, opponent_boxscore)
+        weights.append(weight)
+        heights.append(height)
+        for i, player in school_boxscore.iterrows():
+            a = points[player['Name']] if player['Name'] in points else []
+            a.append(player[stat.upper()])
+            points[player['Name']] = a
+
+    return (points, weights, heights)
