@@ -1,20 +1,19 @@
 import sys
-# import glob
 import pandas as pd
 from dateutil.parser import parse
 from datetime import datetime
 import utils
+from matplotlib import pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D  # noqa F401
+import numpy as np
 
 pd.set_option('display.width', 1000)
 
-try:
-    school1 = sys.argv[1]
-    school2 = sys.argv[2]
-except Exception as e:
-    print('Must give 2 teams to simulate')
-    exit()
+school = sys.argv[1]
+stat = sys.argv[2]
+pnames = sys.argv[3:]
 
-print('%s vs %s' % (school1.upper(), school2.upper()), '\n')
+print('Computing data...')
 
 
 def height_to_inches(h):
@@ -98,12 +97,65 @@ def load_boxscore(fname):
     return boxscore
 
 
-school_roster = load_roster(utils.roster_file_path(school1))
-school_schedule = load_scheulde(utils.schedule_file_path(school1))
+def physiology(roster, boxscore):
+    '''
+    height/weight factor based on percentage of total game time occupied by
+    different players across all positions
+    '''
+    total_mins = 200.0
+    weight = 0.0
+    height = 0.0
+    avg_height = roster['Height'].sum() / len(roster)
+    avg_weight = roster['Weight'].sum() / len(roster)
+    for i, player_stats in boxscore.iterrows():
+        mp = player_stats['MP']
+        try:
+            player_info = roster[roster['Name'].str.startswith(
+                ' '.join(player_stats['Name'].split(' ')[0:2]))]
+            weight += mp / total_mins * player_info['Weight'].values[0]
+            height += mp / total_mins * player_info['Height'].values[0]
+        except Exception as e:
+            print('Player %s was not in roster. Using averages: %d lbs, %d in'
+                  % (' '.join(player_stats['Name'].split(' ')[0:2]), weight,
+                     height))
+            weight += mp / total_mins * avg_weight
+            height += mp / total_mins * avg_height
+    # weight /= len(boxscore)
+    # height /= len(boxscore)
+    return (weight, height)
+
+
+school_roster = load_roster(utils.roster_file_path(school))
+school_schedule = load_scheulde(utils.schedule_file_path(school))
+
+stats = {}
+weights = []
+heights = []
 
 for i, game in school_schedule.iterrows():
-    fname_school = utils.boxscore_file_path_alt(school1, game['Date'])
-    fname_opponent = utils.boxscore_file_path_alt(game['Opponent'],
-                                                  game['Date'])
-    boxscore_school = load_boxscore(fname_school)
-    boxscore_opponent = load_boxscore(fname_school)
+    school_boxscore = load_boxscore(
+        utils.boxscore_file_path_alt(school, game['Date']))
+    opponent_boxscore = load_boxscore(
+        utils.boxscore_file_path_alt(game['Opponent'], game['Date']))
+    opponent_roster = load_roster(utils.roster_file_path(game['Opponent']))
+    weight, height = physiology(opponent_roster, opponent_boxscore)
+    weights.append(weight)
+    heights.append(height)
+    for i, player in school_boxscore.iterrows():
+        a = stats[player['Name']] if player['Name'] in stats else []
+        a.append(player[stat.upper()])
+        stats[player['Name']] = a
+
+for pname in pnames:
+    fig = plt.figure()
+    ax = fig.add_subplot(111, projection='3d')
+    ax.scatter(
+        np.asarray(heights),
+        np.asarray(weights),
+        zs=np.asarray(stats[pname])
+    )
+    ax.set_xlabel('Height')
+    ax.set_ylabel('Weight')
+    ax.set_zlabel(stat.upper())
+    plt.title('%s (%s)' % (pname, school.upper()))
+    plt.show()

@@ -30,6 +30,32 @@ Schedules are named similarly: `<team_name>-schedule.csv`
 
 Box scores are done a bit differently: `<date_played>-<team_name>-boxscore.csv`, where `<date_played>` is an ISO-like date of the format `YYYY-MM-DD-HH` (the format used in SR CBB's urls).
 
-## Simulation
+## Visualization
 
-Project PPG against opponent based solely on the height and weight of the opposing team
+Visualizations can be generated for any team, and are shown as a 3D scatterplot of a given stat against the physiology (height, weight) of the opposing teams on their schedule. For example the following would generate 2 plots, one for PJ Washington and one for Kevin Knox (both of the Kentucky Wildcats), showing their point totals for each game against the physiology of the opposing team:
+
+```sh
+python3 visualize.py kentucky drb "Kevin Knox" "PJ Washington"
+```
+
+![Example Plot](./images/example-plot.png)
+
+Available stats are:
+
+* mp, Minutes Played
+* fg, Field Goals
+* fga, Field Goals Attempted
+* 2p, 2 Pointers
+* 2pa, 2 Pointers Attempted
+* 3p, 3 Pointers
+* 3pa, 3 Pointers Attempted
+* ft, Free Throws
+* fta, Free Throws Attempted
+* drb, Defensive Rebounds
+* orb, Offensive Rebounds
+* ast, Assists
+* stl, Steals
+* blk, Blocks
+* tov, Turnovers
+* pf, Personal Fouls
+* pts, Points
