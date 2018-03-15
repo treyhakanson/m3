@@ -72,5 +72,5 @@ python3 simulate.py kentucky alabama
 
 will yield output similar to the following:
 
-> Computing projected winner of KENTUCKY vs ALABAMA...
+> Computing projected winner of KENTUCKY vs ALABAMA...<br />
 > 76 - 64, KENTUCKY projected to win
