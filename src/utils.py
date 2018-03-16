@@ -3,6 +3,7 @@ from constants import BASE_URL, OPPONENT_MAP
 import pandas as pd
 from dateutil.parser import parse
 from datetime import datetime
+import math
 
 
 def schedule_url(school):
@@ -50,8 +51,11 @@ def gentle_clean_opponent_name(name):
 
 
 def height_to_inches(h):
-    ft, inches = map(lambda x: int(x), h.split('-'))
-    return ft * 12 + inches
+    try:
+        ft, inches = map(lambda x: int(x), h.split('-'))
+        return ft * 12 + inches
+    except Exception as e:
+        return h
 
 
 def clean_year(yr):
@@ -76,8 +80,16 @@ def adjust_date_time(row):
 
 
 def load_roster(fname):
-    roster = pd.read_csv(fname)
+    try:
+        roster = pd.read_csv(fname)
+    except Exception as e:
+        # Use Chicago State's roster if the team cannot be found. Assuming that
+        # if a team's roster is unavailable, they are terrible, and Chicago
+        # State is the worst team whose roster is available
+        roster = pd.read_csv(roster_file_path('chicago-state'))
     roster['Height'] = roster['Height'].apply(height_to_inches)
+    roster['Height'] = roster['Height'].fillna(roster['Height'].mean())
+    roster['Weight'] = roster['Weight'].fillna(roster['Weight'].mean())
     roster.dropna(subset=['PPG', 'RPG', 'APG', 'Number'], inplace=True)
     roster['PPG'] = roster['PPG'].apply(lambda x: str(x).replace(' Pts', ''))
     roster['RPG'] = roster['RPG'].apply(lambda x: str(x).replace(' Reb', ''))
@@ -90,6 +102,7 @@ def load_roster(fname):
     roster = roster.drop('High School', axis=1)
     roster = roster.drop('Hometown', axis=1)
     roster = roster.drop('Unnamed: 0', axis=1)
+    roster.reset_index()
     return roster
 
 
@@ -115,6 +128,7 @@ def load_scheulde(fname):
     schedule['Team Points'] = schedule['Team Points'].apply(lambda x: int(x))
     schedule['Opponent Points'] = schedule['Opponent Points']\
         .apply(lambda x: int(x))
+    schedule.reset_index()
     return schedule
 
 
@@ -152,6 +166,10 @@ def physiology(roster, boxscore):
                      height))
             weight += mp / total_mins * avg_weight
             height += mp / total_mins * avg_height
+    if math.isnan(weight):
+        weight = 195
+    if math.isnan(height):
+        height = 77
     return (weight, height)
 
 

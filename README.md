@@ -7,7 +7,8 @@ This repo contains the following data, as well as the script to scrape said data
 1. `/rosters`: Rosters for every team in the tournament, as well as rosters for each of their regular season (and conference tournament) opponents.
 2. `/schedules`: Schedules for each team in the tournament
 3. `/boxscores`: Boxscores from every regular season (and conference tournament) game played by each of the tournament teams
-4. `/misc-data`: Some additional miscellaneous data files I found on SR CBB I thought were worth including
+4. `/matchups`: CSVs of the round one matchups for each side of the bracket
+5. `/misc-data`: Some additional miscellaneous data files I found on SR CBB I thought were worth including
 
 Note that some rosters are unavailable for lower-tier teams (from schedules, the roster's of all teams in the tournament are available).
 
@@ -74,3 +75,17 @@ will yield output similar to the following:
 
 > Computing projected winner of KENTUCKY vs ALABAMA...<br />
 > 76 - 64, KENTUCKY projected to win
+
+Alternatively, you can also pass in a path to a file containing lines of matchups to run multiple simulations at once:
+
+```sh
+python3 simulate.py ./matchups/south-matchups.round1.csv
+```
+
+Lines in this file should be formatted as a CSV with the following structure:
+
+| School 1 Name | School 2 Name     |
+| :------------ | :---------------- |
+| kentucky      | alabama           |
+| virginia      | california-irvine |
+| ohio-state    | arizona           |
