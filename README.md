@@ -79,7 +79,7 @@ will yield output similar to the following:
 Alternatively, you can also pass in a path to a file containing lines of matchups to run multiple simulations at once:
 
 ```sh
-python3 simulate.py ./matchups/south-matchups.round1.csv
+python3 simulate.py ../matchups/south-matchups.round1.csv
 ```
 
 Lines in this file should be formatted as a CSV with the following structure:
@@ -89,3 +89,9 @@ Lines in this file should be formatted as a CSV with the following structure:
 | kentucky      | alabama           |
 | virginia      | california-irvine |
 | ohio-state    | arizona           |
+
+## Results
+
+For March Madness 2018, the bot performed surprisingly well given the limited variables considered. The bot placed in the 87th percentile of ESPN's bracket challenge, with the following selections:
+
+![March Madness 2018 Bracket](./images/march-madness-2018.png)
