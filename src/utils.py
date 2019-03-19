@@ -75,7 +75,7 @@ def clean_year(yr):
 def adjust_date_time(row):
     dt = parse(row['Date'])
     dt = '%d-%02d-%02d' % (dt.year, dt.month, dt.day)
-    tm = '%02d' % (datetime.strptime(row['Time'], '%I:%M %p/est').time().hour)
+    tm = '%02d' % (datetime.strptime(row['Time'] + 'm', '%I:%M%p').time().hour)
     return '%s-%s' % (dt, tm)
 
 
@@ -109,7 +109,6 @@ def load_roster(fname):
 def load_scheulde(fname):
     schedule = pd.read_csv(fname)
     schedule = schedule.drop('Unnamed: 0', axis=1)
-    schedule = schedule.drop('Network', axis=1)
     schedule = schedule.drop('Type', axis=1)
     schedule = schedule.drop('Conference', axis=1)
     schedule = schedule.drop('Home/Away', axis=1)

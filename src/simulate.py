@@ -84,6 +84,7 @@ def project_matchup(school1, school2):
 
     except Exception as e:
         print('Failed to get projection with error:', e)
+        raise e
         return
 
 
