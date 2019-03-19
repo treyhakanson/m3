@@ -50,5 +50,6 @@ OPPONENT_MAP = {
     'texas-rio-grande-valley': 'texas-pan-american',
     'point-university': 'point',
     'bethesda-university-ca': 'bethesda-ca',
-    'penn-st-brandywine': 'penn-state-brandywine'
+    'penn-st-brandywine': 'penn-state-brandywine',
+    'bob-jones-university': 'bob-jones',
 }
