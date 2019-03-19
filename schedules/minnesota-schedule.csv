@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,,Omaha,Summit,W,104,76,,1,0,W 1,Williams Arena
+1,2,"Mon, Nov 12, 2018",9:00p,REG,,Utah,Pac-12,W,78,69,,2,0,W 2,Williams Arena
+2,3,"Sun, Nov 18, 2018",10:30p,REG,N,Texas A&M,SEC,W,69,64,,3,0,W 3,Vancouver Convention Centre
+3,4,"Tue, Nov 20, 2018",9:00p,REG,N,Santa Clara,WCC,W,80,66,,4,0,W 4,Vancouver Convention Centre
+4,5,"Wed, Nov 21, 2018",6:30p,REG,N,Washington,Pac-12,W,68,66,,5,0,W 5,Vancouver Convention Centre
+5,6,"Mon, Nov 26, 2018",9:00p,REG,@,Boston College,ACC,L,56,68,,5,1,L 1,Silvio O. Conte Forum
+6,7,"Fri, Nov 30, 2018",10:00p,REG,,Oklahoma State,Big 12,W,83,76,,6,1,W 1,
+7,8,"Sun, Dec 2, 2018",7:00p,REG,@,Ohio State (16),Big Ten,L,59,79,,6,2,L 1,Value City Arena
+8,9,"Wed, Dec 5, 2018",9:00p,REG,,Nebraska (24),Big Ten,W,85,78,,7,2,W 1,Williams Arena
+9,10,"Sat, Dec 8, 2018",4:00p,REG,,Arkansas State,Sun Belt,W,72,56,,8,2,W 2,Williams Arena
+10,11,"Tue, Dec 11, 2018",9:00p,REG,,North Florida,A-Sun,W,80,71,,9,2,W 3,Williams Arena
+11,12,"Fri, Dec 21, 2018",8:00p,REG,,North Carolina A&T,MEAC,W,86,67,,10,2,W 4,Williams Arena
+12,13,"Sun, Dec 30, 2018",4:00p,REG,,Mount St. Mary's,NEC,W,71,53,,11,2,W 5,Williams Arena
+13,14,"Thu, Jan 3, 2019",9:00p,REG,@,Wisconsin (22),Big Ten,W,59,52,,12,2,W 6,Kohl Center
+14,15,"Tue, Jan 8, 2019",7:00p,REG,,Maryland,Big Ten,L,67,82,,12,3,L 1,Williams Arena
+15,16,"Sat, Jan 12, 2019",12:30p,REG,,Rutgers,Big Ten,W,88,70,,13,3,W 1,Williams Arena
+16,17,"Wed, Jan 16, 2019",9:00p,REG,@,Illinois,Big Ten,L,68,95,,13,4,L 1,State Farm Center
+17,18,"Sat, Jan 19, 2019",8:30p,REG,,Penn State,Big Ten,W,65,64,,14,4,W 1,Williams Arena
+18,19,"Tue, Jan 22, 2019",7:00p,REG,@,Michigan (5),Big Ten,L,57,59,,14,5,L 1,Crisler Arena
+19,20,"Sun, Jan 27, 2019",5:00p,REG,,Iowa (19),Big Ten,W,92,87,,15,5,W 1,Williams Arena
+20,21,"Wed, Jan 30, 2019",9:00p,REG,,Illinois,Big Ten,W,86,75,,16,5,W 2,Williams Arena
+21,22,"Sun, Feb 3, 2019",12:00p,REG,@,Purdue (17),Big Ten,L,63,73,,16,6,L 1,Mackey Arena
+22,23,"Wed, Feb 6, 2019",9:00p,REG,,Wisconsin (19),Big Ten,L,51,56,,16,7,L 2,Williams Arena
+23,24,"Sat, Feb 9, 2019",2:00p,REG,@,Michigan State (9),Big Ten,L,55,79,,16,8,L 3,Breslin Events Center
+24,25,"Wed, Feb 13, 2019",9:00p,REG,@,Nebraska,Big Ten,L,61,62,,16,9,L 4,Pinnacle Bank Arena
+25,26,"Sat, Feb 16, 2019",2:00p,REG,,Indiana,Big Ten,W,84,63,,17,9,W 1,Williams Arena
+26,27,"Thu, Feb 21, 2019",7:00p,REG,,Michigan (7),Big Ten,L,60,69,,17,10,L 1,Williams Arena
+27,28,"Sun, Feb 24, 2019",6:30p,REG,@,Rutgers,Big Ten,L,64,68,,17,11,L 2,Louis Brown Athletic Center
+28,29,"Thu, Feb 28, 2019",9:00p,REG,@,Northwestern,Big Ten,W,62,50,,18,11,W 1,Welsh-Ryan Arena
+29,30,"Tue, Mar 5, 2019",8:00p,REG,,Purdue (11),Big Ten,W,73,69,,19,11,W 2,Williams Arena
+30,31,"Fri, Mar 8, 2019",7:00p,REG,@,Maryland (24),Big Ten,L,60,69,,19,12,L 1,Xfinity Center
+31,32,"Thu, Mar 14, 2019",7:00p,CTOURN,N,Penn State,Big Ten,W,77,72,OT,20,12,W 1,United Center
+32,33,"Fri, Mar 15, 2019",7:00p,CTOURN,N,Purdue (13),Big Ten,W,75,73,,21,12,W 2,United Center
+33,34,"Sat, Mar 16, 2019",3:30p,CTOURN,N,Michigan (10),Big Ten,L,49,76,,21,13,L 1,United Center
+34,35,"Thu, Mar 21, 2019",12:15p,NCAA,N,Louisville,ACC,,,,,,,,

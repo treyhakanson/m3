@@ -1,24 +1,22 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Shawn Anderson,20,SR,G,6-4,201,"New Castle, PA",New Castle HS, 13.3 Pts,5.1 Reb,3.4 Ast
-1,Bryce Dulin,14,SR,G,6-4,192,"Nixa, MO",Nixa HS, 10.1 Pts,3.1 Reb,1.7 Ast
-2,Hasan Abdullah,2,JR,G,6-0,182,"Trussville, AL",Clay-Chalkville HS, 9.9 Pts,3.0 Reb,3.4 Ast
-3,George Kiernan,21,JR,F,5-7,211,"Hinsdale, IL",Hinsdale Central HS, 9.8 Pts,4.7 Reb,0.8 Ast
-4,Tom Lacey,1,SR,F,6-7,217,"Glen Ridge, NJ",Seton Hall Prep, 8.6 Pts,6.5 Reb,1.6 Ast
-5,Evan Wieck,40,SO,C,6-8,220,"Amarillo, TX",Amarillo High School, 5.5 Pts,3.2 Reb,0.7 Ast
-6,Cam Davis,22,FR,G,6-1,185,"Battlefield, MO",, 5.2 Pts,1.0 Reb,0.7 Ast
-7,Ryan Pearson,5,JR,G,6-2,188,"Richmond, VA",Henrico HS, 2.7 Pts,0.5 Reb,0.3 Ast
-8,Tyler Riemersma,41,FR,F,6-8,215,"Bloomington, MN",, 2.1 Pts,2.8 Reb,0.8 Ast
-9,Mo Lewis,23,JR,F,6-6,222,"Alpharetta, GA",Milton HS, 2.4 Pts,2.1 Reb,0.3 Ast
-10,Nourse Fox,0,SR,G,6-0,186,"Memphis, TN",Memphis University School, 0.9 Pts,0.7 Reb,1.0 Ast
-11,Luke Loehr,33,FR,F,6-7,225,"Inver Grove Heights, MN",, 3.3 Pts,1.0 Reb,0.0 Ast
-12,Matt Cullen,3,SO,G,6-1,175,"Latrobe, PA",, 1.3 Pts,0.0 Reb,0.7 Ast
-13,Ryan Reagan,12,FR,F,6-8,215,"Edinboro, PA",, 3.0 Pts,1.0 Reb,0.0 Ast
-14,Dom Antonelli,15,JR,G,6-1,178,"Mechanicsburg, PA",Trinity HS, 0.6 Pts,0.8 Reb,0.0 Ast
-15,JR Mathis,10,FR,G,6-1,175,"Louisville, KY",, 1.0 Pts,0.0 Reb,0.2 Ast
-16,Alex Loehr,25,FR,F,6-8,215,"Inver Grove Heights, MN",, 2.0 Pts,1.0 Reb,0.0 Ast
-17,Connor Mannion,24,SO,F,6-7,215,"Suwanee, GA",, 1.3 Pts,1.7 Reb,0.0 Ast
-18,Danny Ogele,34,FR,F,6-7,220,"Chicago, IL",, 0.7 Pts,1.3 Reb,1.0 Ast
-19,Eli Lake,44,FR,G,6-6,195,"Blythewood, SC",, 0.0 Pts,1.0 Reb,0.0 Ast
-20,Jack Lawrence,32,FR,C,6-9,245,"Alexandria, VA",, 0.0 Pts,0.0 Reb,0.0 Ast
-21,Isaiah Burnett,11,,G,6-5,180,,,,,
-22,Oliver Smith,55,,C,6-10,205,"Excelsior, MN",,,,
+0,George Kiernan,21,SR,F,6-7,225,"Hinsdale, IL",Hinsdale Central HS, 12.4 Pts,5.3 Reb,1.1 Ast
+1,Hasan Abdullah,2,SR,G,6-0,195,"Birmingham, AL",Clay-Chalkville HS, 10.1 Pts,3.8 Reb,4.4 Ast
+2,Cam Davis,22,SO,G,6-1,185,"Battlefield, MO",Kickapoo High School, 9.8 Pts,2.4 Reb,1.7 Ast
+3,Evan Wieck,40,JR,C,6-8,235,"Amarillo, TX",Amarillo High School, 8.8 Pts,5.5 Reb,0.9 Ast
+4,John Carter Jr.,1,FR,G,6-4,188,"Spring Hill, TN",Summit HS, 8.4 Pts,5.2 Reb,1.3 Ast
+5,Luke Loehr,33,SO,F,6-7,225,"Inver Grove Heights, MN",Rosemount High School, 4.8 Pts,3.2 Reb,0.6 Ast
+6,Josiah Strong,0,FR,G,6-2,187,"Brooklyn Park, MN",Champlin Park HS, 3.1 Pts,0.8 Reb,1.0 Ast
+7,Greg Summers,20,FR,G,6-3,190,"Ocoee, FL",First Academy, 3.6 Pts,3.4 Reb,0.6 Ast
+8,Danny Ogele,34,SO,F,6-7,220,"Chicago, IL",St. Ignatius College Prep, 3.2 Pts,2.5 Reb,0.4 Ast
+9,Isaiah Burnett,11,SO,G,6-5,180,"Annapolis, MD",Glenelg Country School, 1.6 Pts,1.3 Reb,0.8 Ast
+10,Ryan Pearson,5,SR,G,6-2,190,"Richmond, VA",Henrico HS, 1.7 Pts,0.7 Reb,0.5 Ast
+11,Richard Njoku,55,FR,F,6-7,235,"Washington, DC",St. John's HS, 1.2 Pts,1.7 Reb,0.0 Ast
+12,Dom Antonelli,15,SR,G,6-1,190,"Mechanicsburg, PA",Trinity HS, 1.0 Pts,0.3 Reb,0.0 Ast
+13,Connor Mannion,24,JR,F,6-7,225,"Suwanee, GA",Lambert High School, 0.8 Pts,0.9 Reb,0.0 Ast
+14,Alex Loehr,25,SO,F,6-8,215,"Inver Grove Heights, MN",Rosemount High School, 0.0 Pts,0.5 Reb,0.0 Ast
+15,Jaylon Terrell,23,FR,G,6-3,190,"Riverdale, GA",Jonesboro HS, 0.0 Pts,0.0 Reb,0.0 Ast
+16,Dave Kasanganay,14,FR,G,6-3,175,"Charlotte, NC",Ardrey Kell HS,,,
+17,Jack Lawrence,32,SO,C,6-9,245,"Alexandria, VA",Gonzaga College High School,,,
+18,Kyle Marion,30,FR,G,6-0,177,"Jacksonville, FL",Providence School,,,
+19,Ryan Reagan,12,SO,F,6-8,215,"Edinboro, PA",General McLane High School,,,
+20,Christian Silva,35,FR,G,6-2,195,"Miami, FL",Archbishop Carroll HS,,,

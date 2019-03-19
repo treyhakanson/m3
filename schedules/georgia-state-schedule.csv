@@ -1,36 +1,35 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,,Carver Bible,,W,90,50,,1,0,W 1,GSU Sports Arena
-1,2,"Tue, Nov 14, 2017",8:00 pm/est,,REG,@,Rice,CUSA,W,75,54,,2,0,W 2,Tudor Fieldhouse
-2,3,"Fri, Nov 17, 2017",7:00 pm/est,,REG,@,Mississippi,SEC,L,72,77,,2,1,L 1,The Pavilion at Ole Miss
-3,4,"Mon, Nov 20, 2017",4:30 pm/est,,REG,N,Eastern Washington,Big Sky,W,68,50,,3,1,W 1,T-Mobile Arena
-4,5,"Wed, Nov 22, 2017",4:30 pm/est,,REG,N,Prairie View,SWAC,L,56,71,,3,2,L 1,T-Mobile Arena
-5,6,"Sun, Nov 26, 2017",12:00 pm/est,,REG,,Tulane,AAC,W,70,59,,4,2,W 1,GSU Sports Arena
-6,7,"Wed, Nov 29, 2017",8:00 pm/est,,REG,@,Alabama A&M,SWAC,W,63,53,,5,2,W 2,Elmore Health Science Building 
-7,8,"Mon, Dec 4, 2017",7:00 pm/est,,REG,,Liberty,Big South,L,74,77,OT,5,3,L 1,GSU Sports Arena
-8,9,"Sat, Dec 9, 2017",2:00 pm/est,,REG,,Montana,Big Sky,W,71,68,,6,3,W 1,GSU Sports Arena
-9,10,"Tue, Dec 12, 2017",7:00 pm/est,,REG,,Point University,,W,90,70,,7,3,W 2,GSU Sports Arena
-10,11,"Sat, Dec 16, 2017",7:00 pm/est,,REG,@,Dayton,A-10,L,83,88,OT,7,4,L 1,University of Dayton Arena
-11,12,"Wed, Dec 20, 2017",7:00 pm/est,,REG,@,Massachusetts,A-10,W,71,63,,8,4,W 1,Mullins Center
-12,13,"Sat, Dec 23, 2017",1:00 pm/est,,REG,@,Chattanooga,Southern,W,71,48,,9,4,W 2,The McKenzie Arena
-13,14,"Fri, Dec 29, 2017",8:05 pm/est,,REG,@,South Alabama,Sun Belt,L,64,86,,9,5,L 1,Mitchell Center
-14,15,"Sun, Dec 31, 2017",4:15 pm/est,,REG,@,Troy,Sun Belt,L,66,68,,9,6,L 2,Trojan Arena
-15,16,"Thu, Jan 4, 2018",7:15 pm/est,,REG,,Arkansas-Little Rock,Sun Belt,W,73,64,,10,6,W 1,GSU Sports Arena
-16,17,"Sat, Jan 6, 2018",2:15 pm/est,,REG,,Arkansas State,Sun Belt,W,79,75,,11,6,W 2,GSU Sports Arena
-17,18,"Thu, Jan 11, 2018",7:30 pm/est,,REG,@,Appalachian State,Sun Belt,W,71,58,,12,6,W 3,Holmes Convocation Center
-18,19,"Sat, Jan 13, 2018",3:30 pm/est,,REG,@,Coastal Carolina,Sun Belt,W,72,58,,13,6,W 4,The HTC Center
-19,20,"Sat, Jan 20, 2018",2:15 pm/est,,REG,,Georgia Southern,Sun Belt,W,83,66,,14,6,W 5,GSU Sports Arena
-20,21,"Thu, Jan 25, 2018",7:15 pm/est,,REG,,Texas-Arlington,Sun Belt,W,81,75,,15,6,W 6,GSU Sports Arena
-21,22,"Sat, Jan 27, 2018",2:15 pm/est,,REG,,Texas State,Sun Belt,W,54,50,,16,6,W 7,GSU Sports Arena
-22,23,"Thu, Feb 1, 2018",8:30 pm/est,,REG,@,Arkansas State,Sun Belt,W,77,66,,17,6,W 8,Convocation Center
-23,24,"Sat, Feb 3, 2018",6:00 pm/est,,REG,@,Arkansas-Little Rock,Sun Belt,W,81,51,,18,6,W 9,Jack Stephens Center
-24,25,"Thu, Feb 8, 2018",7:15 pm/est,,REG,,Louisiana,Sun Belt,W,106,92,,19,6,W 10,GSU Sports Arena
-25,26,"Sat, Feb 10, 2018",2:15 pm/est,,REG,,Louisiana-Monroe,Sun Belt,L,82,90,OT,19,7,L 1,GSU Sports Arena
-26,27,"Fri, Feb 16, 2018",9:00 pm/est,,REG,@,Georgia Southern,Sun Belt,L,80,85,,19,8,L 2,Hanner Fieldhouse
-27,28,"Thu, Feb 22, 2018",8:00 pm/est,,REG,@,Texas State,Sun Belt,W,77,50,,20,8,W 1,Strahan Coliseum
-28,29,"Sat, Feb 24, 2018",5:15 pm/est,,REG,@,Texas-Arlington,Sun Belt,L,81,89,,20,9,L 1,College Park Center
-29,30,"Thu, Mar 1, 2018",7:15 pm/est,,REG,,Troy,Sun Belt,L,70,83,,20,10,L 2,GSU Sports Arena
-30,31,"Sat, Mar 3, 2018",2:15 pm/est,,REG,,South Alabama,Sun Belt,W,90,75,,21,10,W 1,GSU Sports Arena
-31,32,"Fri, Mar 9, 2018",6:00 pm/est,,CTOURN,N,Troy,Sun Belt,W,73,51,,22,10,W 2,Kiefer Lakefront Arena
-32,33,"Sat, Mar 10, 2018",3:00 pm/est,,CTOURN,N,Georgia Southern,Sun Belt,W,73,67,,23,10,W 3,Kiefer Lakefront Arena
-33,34,"Sun, Mar 11, 2018",2:00 pm/est,,CTOURN,N,Texas-Arlington,Sun Belt,W,74,61,,24,10,W 4,Kiefer Lakefront Arena
-34,35,"Fri, Mar 16, 2018",2:00 pm/est,,NCAA,N,Cincinnati (6),AAC,,,,,,,,
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,East Tennessee State,Southern,W,74,68,,1,0,W 1,GSU Sports Arena
+1,2,"Fri, Nov 9, 2018",9:00p,REG,@,Montana,Big Sky,L,74,81,,1,1,L 1,Adams Center/Dahlberg Arena
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Mercer,Southern,W,62,60,,2,1,W 1,GSU Sports Arena
+3,4,"Mon, Nov 19, 2018",5:00p,REG,N,St. Bonaventure,A-10,W,75,65,,3,1,W 2,John Gray Gymnasium
+4,5,"Tue, Nov 20, 2018",7:30p,REG,N,Creighton,Big East,L,68,93,,3,2,L 1,John Gray Gymnasium
+5,6,"Wed, Nov 21, 2018",5:00p,REG,N,Georgia,SEC,W,91,67,,4,2,W 1,John Gray Gymnasium
+6,7,"Wed, Nov 28, 2018",1:00p,REG,@,Tulane,AAC,W,80,76,,5,2,W 2,Devlin Fieldhouse
+7,8,"Sat, Dec 1, 2018",6:00p,REG,@,Liberty,A-Sun,L,52,78,,5,3,L 1,Vines Center
+8,9,"Tue, Dec 4, 2018",8:00p,REG,@,Alabama,SEC,W,83,80,,6,3,W 1,Coleman Coliseum 
+9,10,"Wed, Dec 12, 2018",7:00p,REG,,Chattanooga,Southern,W,95,88,,7,3,W 2,GSU Sports Arena
+10,11,"Sat, Dec 15, 2018",8:00p,REG,@,Kansas State (25),Big 12,L,59,71,,7,4,L 1,Bramlage Coliseum
+11,12,"Wed, Dec 19, 2018",7:00p,REG,,North Carolina-Wilmington,CAA,W,86,71,,8,4,W 1,GSU Sports Arena
+12,13,"Sat, Dec 29, 2018",1:00p,REG,,Middle Georgia State,,W,117,69,,9,4,W 2,GSU Sports Arena
+13,14,"Thu, Jan 3, 2019",8:00p,REG,@,Texas-Arlington,Sun Belt,W,63,58,,10,4,W 3,College Park Center
+14,15,"Sat, Jan 5, 2019",5:00p,REG,@,Texas State,Sun Belt,W,73,69,,11,4,W 4,Strahan Coliseum
+15,16,"Thu, Jan 10, 2019",7:00p,REG,,Louisiana,Sun Belt,W,89,76,,12,4,W 5,GSU Sports Arena
+16,17,"Sat, Jan 12, 2019",1:00p,REG,,Louisiana-Monroe,Sun Belt,W,74,73,,13,4,W 6,GSU Sports Arena
+17,18,"Thu, Jan 17, 2019",8:00p,REG,@,South Alabama,Sun Belt,W,69,66,,14,4,W 7,Mitchell Center
+18,19,"Sat, Jan 19, 2019",3:00p,REG,@,Troy,Sun Belt,L,75,77,,14,5,L 1,Trojan Arena
+19,20,"Thu, Jan 24, 2019",7:00p,REG,,Texas State,Sun Belt,L,68,81,,14,6,L 2,GSU Sports Arena
+20,21,"Sat, Jan 26, 2019",1:00p,REG,,Texas-Arlington,Sun Belt,W,77,71,,15,6,W 1,GSU Sports Arena
+21,22,"Sat, Feb 2, 2019",1:00p,REG,,Georgia Southern,Sun Belt,W,81,72,,16,6,W 2,GSU Sports Arena
+22,23,"Wed, Feb 6, 2019",8:00p,REG,@,Louisiana-Monroe,Sun Belt,L,76,82,,16,7,L 1,Fant-Ewing Coliseum
+23,24,"Fri, Feb 8, 2019",9:00p,REG,@,Louisiana,Sun Belt,L,72,76,,16,8,L 2,Cajundome
+24,25,"Wed, Feb 13, 2019",7:00p,REG,,Troy,Sun Belt,W,77,63,,17,8,W 1,GSU Sports Arena
+25,26,"Fri, Feb 15, 2019",7:00p,REG,,South Alabama,Sun Belt,W,90,81,,18,8,W 2,GSU Sports Arena
+26,27,"Thu, Feb 21, 2019",7:00p,REG,@,Appalachian State,Sun Belt,W,80,75,,19,8,W 3,Holmes Convocation Center
+27,28,"Sat, Feb 23, 2019",2:00p,REG,@,Coastal Carolina,Sun Belt,L,82,95,,19,9,L 1,The HTC Center
+28,29,"Thu, Feb 28, 2019",7:00p,REG,,Arkansas State,Sun Belt,W,76,60,,20,9,W 1,GSU Sports Arena
+29,30,"Sat, Mar 2, 2019",1:00p,REG,,Little Rock,Sun Belt,W,83,70,,21,9,W 2,GSU Sports Arena
+30,31,"Sat, Mar 9, 2019",5:00p,REG,@,Georgia Southern,Sun Belt,W,90,85,,22,9,W 3,Hanner Fieldhouse
+31,32,"Sat, Mar 16, 2019",4:00p,CTOURN,N,Texas State,Sun Belt,W,59,46,,23,9,W 4,Kiefer Lakefront Arena
+32,33,"Sun, Mar 17, 2019",2:00p,CTOURN,N,Texas-Arlington,Sun Belt,W,73,64,,24,9,W 5,Kiefer Lakefront Arena
+33,34,"Fri, Mar 22, 2019",7:20p,NCAA,N,Houston (11),AAC,,,,,,,,

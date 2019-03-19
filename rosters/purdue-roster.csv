@@ -1,15 +1,14 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Carsen Edwards,3,SO,G,6-1,190,"Atascocita, TX",Atascocita High School, 18.5 Pts,3.9 Reb,3.0 Ast
-1,Isaac Haas,44,SR,C,7-2,297,"Hokes Bluff, AL",Hokes Bluff HS, 14.9 Pts,5.6 Reb,0.8 Ast
-2,Vince Edwards,12,SR,F,6-7,220,"Middletown, OH",Middletown HS, 14.5 Pts,7.3 Reb,3.0 Ast
-3,Dakota Mathias,31,SR,G,6-4,197,"Elida, OH",Elida HS, 12.4 Pts,4.1 Reb,4.1 Ast
-4,P.J. Thompson,11,SR,G,5-10,188,"Indianapolis, IN",Brebeuf Prep, 7.1 Pts,1.7 Reb,1.7 Ast
-5,Matt Haarms,32,FR,F,7-2,230,Netherlands,, 4.8 Pts,3.1 Reb,0.6 Ast
-6,Ryan Cline,14,JR,G,6-5,190,"Carmel, IN",Carmel HS, 4.0 Pts,1.8 Reb,1.8 Ast
-7,Nojel Eastern,20,FR,G,6-6,220,"Evanston, IL",, 3.0 Pts,2.6 Reb,1.1 Ast
-8,Grady Eifert,24,JR,F,6-6,215,"Fort Wayne, IN",Bishop Dwenger HS, 1.6 Pts,1.6 Reb,0.6 Ast
-9,Jacquil Taylor,23,JR,F,6-9,217,"Cambridge, MA",Beaver Country Day, 1.8 Pts,1.5 Reb,0.2 Ast
-10,Eden Ewing,5,JR,F,6-9,215,"Richmond, TX",, 1.7 Pts,0.5 Reb,0.0 Ast
-11,Tommy Luce,15,SO,G,5-10,150,"Jeffersonville, IN",Jeffersonville High School, 0.8 Pts,0.3 Reb,0.7 Ast
-12,Sasha Stefanovic,55,,G,6-4,195,,,,,
-13,Aaron Wheeler,1,,F,6-9,200,,,,,
+0,Carsen Edwards,3,JR,G,6-1,200,"Atascocita, TX",Atascocita High School, 23.0 Pts,3.5 Reb,3.0 Ast
+1,Ryan Cline,14,SR,G,6-6,195,"Carmel, IN",Carmel HS, 11.9 Pts,2.8 Reb,3.3 Ast
+2,Matt Haarms,32,SO,C,7-3,250,"Amsterdam, Netherlands",Sunrise Christian Academy, 9.0 Pts,5.4 Reb,1.1 Ast
+3,Nojel Eastern,20,SO,G,6-6,220,"Evanston, IL",Evanston Township High School, 7.7 Pts,5.8 Reb,2.5 Ast
+4,Grady Eifert,24,SR,F,6-6,220,"Fort Wayne, IN",Bishop Dwenger HS, 5.6 Pts,5.1 Reb,1.6 Ast
+5,Trevion Williams,50,FR,F,6-9,280,"Chicago, IL",Henry Ford Academy, 5.5 Pts,3.9 Reb,0.6 Ast
+6,Aaron Wheeler,1,FR,F,6-9,200,"Stamford, CT",Brewster Academy, 4.6 Pts,3.0 Reb,0.4 Ast
+7,Evan Boudreaux,12,JR,F,6-8,220,"Lake Forest, IL",Lake Forest High School, 5.4 Pts,3.2 Reb,0.6 Ast
+8,Sasha Stefanovic,55,FR,G,6-4,195,"Crown Point, IN",Crown Point HS, 2.7 Pts,1.2 Reb,0.5 Ast
+9,Eric Hunter Jr.,2,FR,G,6-3,170,"Indianapolis, IN",Tindley Prep, 2.2 Pts,1.2 Reb,1.0 Ast
+10,Tommy Luce,15,JR,G,5-10,155,"Jeffersonville, IN",Jeffersonville High School, 0.9 Pts,0.0 Reb,0.1 Ast
+11,Kyle King,23,FR,F,6-6,215,"St. Charles, IL",Saint Charles North HS, 0.0 Pts,0.6 Reb,0.1 Ast
+12,Emmanuel Dowuona,4,FR,C,6-10,230,"Miami, FL",Westwood Christian HS,,,

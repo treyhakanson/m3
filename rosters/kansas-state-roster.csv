@@ -1,18 +1,16 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Dean Wade,32,JR,F,6-8,225,"Saint John, KS",St. John HS, 16.5 Pts,6.3 Reb,2.8 Ast
-1,Barry Brown,5,JR,G,6-3,195,"Saint Petersburg, FL",Gibbs HS, 16.0 Pts,3.1 Reb,3.4 Ast
-2,Xavier Sneed,20,SO,F,6-5,210,"Florissant, MO",Hazelwood Central HIgh School, 10.8 Pts,4.8 Reb,1.8 Ast
-3,Cartier Diarra,2,FR,G,6-4,180,"Florence, SC",, 7.2 Pts,2.2 Reb,2.1 Ast
-4,Kamau Stokes,3,JR,G,5-10,170,"Baltimore, MD",Fork Union Military Academy, 9.1 Pts,2.3 Reb,3.5 Ast
-5,Makol Mawien,14,SO,F,6-9,215,"West Valley City, UT",Granger HS, 7.1 Pts,3.5 Reb,0.3 Ast
-6,Amaad Wainright,23,JR,G,6-2,200,"Kansas City, MO",, 2.8 Pts,2.3 Reb,0.5 Ast
-7,Levi Stockard III,34,FR,F,6-8,239,"St. Louis, MO",, 1.9 Pts,1.8 Reb,0.1 Ast
-8,Brian Patrick,11,SO,G,6-5,200,"Fort Lauderdale, FL",Boyd H. Anderson High School, 1.8 Pts,0.7 Reb,0.4 Ast
-9,Mawdo Sallah,1,SR,F,6-8,215,Gambia,Broadfording Christian Academy (MD), 1.9 Pts,2.1 Reb,0.2 Ast
-10,Mike McGuirl,0,,G,6-2,190,,, 1.6 Pts,1.0 Reb,0.9 Ast
-11,James Love,21,,F,6-10,230,"Fort Lauderdale, FL",, 0.8 Pts,0.4 Reb,0.0 Ast
-12,Nigel Shadd,45,FR,F,6-9,235,"Mesa, AZ",, 1.1 Pts,2.0 Reb,0.0 Ast
-13,Pierson McAtee,24,SO,F,6-6,190,"Manhattan, KS",Manhattan HS, 0.9 Pts,0.2 Reb,0.1 Ast
-14,Kade Kinnamon,40,JR,G,6-0,180,"Saint John, KS",St. John High School, 0.0 Pts,0.0 Reb,0.1 Ast
-15,Mason Schoen,12,SR,G,6-3,190,"Overland Park, KS",Blue Valley Northwest HS, 0.0 Pts,0.0 Reb,0.1 Ast
-16,Patrick Muldoon,35,,F,6-7,210,"Basehor, KS",Basehor-Linwood HS,,,
+0,Barry Brown,5,SR,G,6-3,195,"Saint Petersburg, FL",Gibbs HS, 14.9 Pts,4.1 Reb,2.9 Ast
+1,Kamau Stokes,3,SR,G,6-0,170,"Baltimore, MD",Fork Union Military Academy, 10.8 Pts,2.8 Reb,3.3 Ast
+2,Xavier Sneed,20,JR,F,6-5,220,"St. Louis, MO",Hazelwood Central HIgh School, 10.6 Pts,5.4 Reb,2.0 Ast
+3,Dean Wade,32,SR,F,6-10,228,"St. John, KS",St. John HS, 12.9 Pts,6.1 Reb,2.8 Ast
+4,Makol Mawien,14,JR,F,6-9,245,"West Valley City, UT",Granger HS, 6.8 Pts,4.6 Reb,0.3 Ast
+5,Cartier Diarra,2,SO,G,6-4,190,"Florence, SC",West Florence High School, 6.7 Pts,3.4 Reb,1.7 Ast
+6,Mike McGuirl,0,SO,G,6-2,195,"Ellington, CT",East Catholic High School, 3.5 Pts,1.5 Reb,1.2 Ast
+7,Levi Stockard III,34,SO,F,6-8,240,"St. Louis, MO",Vashon High School, 1.8 Pts,1.5 Reb,0.1 Ast
+8,Austin Trice,23,JR,F,6-7,235,"Chicago, IL",, 2.0 Pts,2.7 Reb,0.1 Ast
+9,Shaun Neal-Williams,1,FR,G,6-3,170,"St. Louis, MO",Hazelwood Central HS, 1.5 Pts,1.1 Reb,0.6 Ast
+10,Pierson McAtee,24,JR,F,6-6,200,"Manhattan, KS",Manhattan HS, 0.5 Pts,0.5 Reb,0.0 Ast
+11,James Love,21,SO,F,6-11,240,"Fort Lauderdale, FL",American Heritage School, 0.4 Pts,0.4 Reb,0.0 Ast
+12,Nigel Shadd,45,FR,F,6-9,250,"Mesa, AZ",Tri-City Christian Academy, 0.2 Pts,0.5 Reb,0.1 Ast
+13,Patrick Muldoon,35,JR,F,6-7,210,"Basehor, KS",Basehor-Linwood HS, 0.0 Pts,0.5 Reb,0.0 Ast
+14,Goodnews Kpegeol,4,,G,6-6,180,"Saint Paul, MN",Taylormade Academy,,,

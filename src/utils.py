@@ -1,5 +1,5 @@
 import re
-from constants import BASE_URL, OPPONENT_MAP
+from constants import BASE_URL, OPPONENT_MAP, YEAR
 import pandas as pd
 from dateutil.parser import parse
 from datetime import datetime
@@ -7,7 +7,7 @@ import math
 
 
 def schedule_url(school):
-    return '%s/schools/%s/2018-schedule.html' % (BASE_URL, school)
+    return '%s/schools/%s/%s-schedule.html' % (BASE_URL, school, YEAR)
 
 
 def schedule_file_path(school):
@@ -15,7 +15,7 @@ def schedule_file_path(school):
 
 
 def roster_url(school):
-    return '%s/schools/%s/2018.html' % (BASE_URL, school)
+    return '%s/schools/%s/%s.html' % (BASE_URL, school, YEAR)
 
 
 def roster_file_path(school):

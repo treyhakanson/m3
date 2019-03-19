@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",7:30p,REG,,Austin Peay,OVC,W,95,67,,1,0,W 1,Humphrey Coliseum
+1,2,"Sun, Nov 11, 2018",5:00p,REG,,Hartford,AEC,W,77,59,,2,0,W 2,Humphrey Coliseum
+2,3,"Fri, Nov 16, 2018",9:00p,REG,,Long Beach State,Big West,W,79,51,,3,0,W 3,Humphrey Coliseum
+3,4,"Mon, Nov 19, 2018",11:00p,REG,N,Arizona State,Pac-12,L,67,72,,3,1,L 1,T-Mobile Arena
+4,5,"Wed, Nov 21, 2018",8:30p,REG,N,Saint Mary's (CA),WCC,W,61,57,,4,1,W 1,T-Mobile Arena
+5,6,"Mon, Nov 26, 2018",8:00p,REG,,Alcorn State,SWAC,W,88,65,,5,1,W 2,Humphrey Coliseum
+6,7,"Fri, Nov 30, 2018",7:00p,REG,@,Dayton,A-10,W,65,58,,6,1,W 3,University of Dayton Arena
+7,8,"Tue, Dec 4, 2018",8:00p,REG,,McNeese State,Southland,W,90,77,,7,1,W 4,Humphrey Coliseum
+8,9,"Sat, Dec 8, 2018",4:00p,REG,N,Clemson,ACC,W,82,71,,8,1,W 5,Prudential Center
+9,10,"Sat, Dec 15, 2018",8:30p,REG,,Cincinnati,AAC,W,70,59,,9,1,W 6,Humphrey Coliseum
+10,11,"Wed, Dec 19, 2018",8:00p,REG,,Wofford,Southern,W,98,87,,10,1,W 7,Humphrey Coliseum
+11,12,"Sat, Dec 22, 2018",7:00p,REG,N,Wright State,Horizon,W,67,63,,11,1,W 8,Mississippi Coliseum
+12,13,"Sat, Dec 29, 2018",12:00p,REG,,Brigham Young,WCC,W,103,81,,12,1,W 9,Humphrey Coliseum
+13,14,"Tue, Jan 8, 2019",9:00p,REG,@,South Carolina,SEC,L,82,87,OT,12,2,L 1,The Colonial Life Arena
+14,15,"Sat, Jan 12, 2019",1:00p,REG,,Mississippi,SEC,L,77,81,,12,3,L 2,Humphrey Coliseum
+15,16,"Tue, Jan 15, 2019",7:00p,REG,,Florida,SEC,W,71,68,,13,3,W 1,Humphrey Coliseum
+16,17,"Sat, Jan 19, 2019",8:30p,REG,@,Vanderbilt,SEC,W,71,55,,14,3,W 2,Memorial Gymnasium
+17,18,"Tue, Jan 22, 2019",7:00p,REG,@,Kentucky (8),SEC,L,55,76,,14,4,L 1,Rupp Arena
+18,19,"Sat, Jan 26, 2019",8:30p,REG,,Auburn (16),SEC,W,92,84,,15,4,W 1,Humphrey Coliseum
+19,20,"Tue, Jan 29, 2019",8:30p,REG,@,Alabama,SEC,L,79,83,,15,5,L 1,Coleman Coliseum 
+20,21,"Sat, Feb 2, 2019",3:30p,REG,@,Mississippi,SEC,W,81,75,,16,5,W 1,The Pavilion at Ole Miss
+21,22,"Wed, Feb 6, 2019",9:00p,REG,,Louisiana State (21),SEC,L,88,92,OT,16,6,L 1,Humphrey Coliseum
+22,23,"Sat, Feb 9, 2019",1:00p,REG,,Kentucky (5),SEC,L,67,71,,16,7,L 2,Humphrey Coliseum
+23,24,"Tue, Feb 12, 2019",9:00p,REG,,Alabama,SEC,W,81,62,,17,7,W 1,Humphrey Coliseum
+24,25,"Sat, Feb 16, 2019",8:30p,REG,@,Arkansas,SEC,W,77,67,,18,7,W 2,Bud Walton Arena
+25,26,"Wed, Feb 20, 2019",6:30p,REG,@,Georgia,SEC,W,68,67,,19,7,W 3,Stegeman Coliseum
+26,27,"Sat, Feb 23, 2019",6:00p,REG,,South Carolina,SEC,W,76,61,,20,7,W 4,Humphrey Coliseum
+27,28,"Tue, Feb 26, 2019",7:00p,REG,,Missouri,SEC,W,68,49,,21,7,W 5,Humphrey Coliseum
+28,29,"Sat, Mar 2, 2019",4:00p,REG,@,Auburn,SEC,L,75,80,,21,8,L 1,Auburn Arena
+29,30,"Tue, Mar 5, 2019",9:00p,REG,@,Tennessee (5),SEC,L,54,71,,21,9,L 2,Thompson-Boling Arena
+30,31,"Sat, Mar 9, 2019",2:00p,REG,,Texas A&M,SEC,W,92,81,,22,9,W 1,Humphrey Coliseum
+31,32,"Thu, Mar 14, 2019",9:00p,CTOURN,N,Texas A&M,SEC,W,80,54,,23,9,W 2,Bridgestone Arena
+32,33,"Fri, Mar 15, 2019",9:30p,CTOURN,N,Tennessee (8),SEC,L,76,83,,23,10,L 1,Bridgestone Arena
+33,34,"Fri, Mar 22, 2019",7:27p,NCAA,N,Liberty,A-Sun,,,,,,,,

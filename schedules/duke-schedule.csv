@@ -1,35 +1,35 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,,Elon,CAA,W,97,68,,1,0,W 1,Cameron Indoor Stadium
-1,2,"Sat, Nov 11, 2017",7:00 pm/est,,REG,,Utah Valley,WAC,W,99,69,,2,0,W 2,Cameron Indoor Stadium
-2,3,"Tue, Nov 14, 2017",7:00 pm/est,,REG,N,Michigan State (2),Big Ten,W,88,81,,3,0,W 3,United Center
-3,4,"Fri, Nov 17, 2017",7:00 pm/est,,REG,,Southern,SWAC,W,78,61,,4,0,W 4,Cameron Indoor Stadium
-4,5,"Mon, Nov 20, 2017",7:00 pm/est,,REG,,Furman,Southern,W,92,63,,5,0,W 5,Cameron Indoor Stadium
-5,6,"Thu, Nov 23, 2017",4:30 pm/est,,REG,N,Portland State,Big Sky,W,99,81,,6,0,W 6,
-6,7,"Fri, Nov 24, 2017",5:30 pm/est,,REG,N,Texas,Big 12,W,85,78,OT,7,0,W 7,Moda Center
-7,8,"Sun, Nov 26, 2017",10:30 pm/est,,REG,N,Florida (7),SEC,W,87,84,,8,0,W 8,Moda Center
-8,9,"Wed, Nov 29, 2017",9:30 pm/est,,REG,@,Indiana,Big Ten,W,91,81,,9,0,W 9,Assembly Hall
-9,10,"Sat, Dec 2, 2017",3:30 pm/est,,REG,,South Dakota,Summit,W,96,80,,10,0,W 10,Cameron Indoor Stadium
-10,11,"Tue, Dec 5, 2017",9:00 pm/est,,REG,,Saint Francis (PA),NEC,W,124,67,,11,0,W 11,Cameron Indoor Stadium
-11,12,"Sat, Dec 9, 2017",12:00 pm/est,,REG,@,Boston College,ACC,L,84,89,,11,1,L 1,Silvio O. Conte Forum
-12,13,"Wed, Dec 20, 2017",7:00 pm/est,,REG,,Evansville,MVC,W,104,40,,12,1,W 1,Cameron Indoor Stadium
-13,14,"Sat, Dec 30, 2017",2:00 pm/est,,REG,,Florida State (24),ACC,W,100,93,,13,1,W 2,Cameron Indoor Stadium
-14,15,"Sat, Jan 6, 2018",8:00 pm/est,,REG,@,North Carolina State,ACC,L,85,96,,13,2,L 1,PNC Arena
-15,16,"Wed, Jan 10, 2018",7:00 pm/est,,REG,@,Pittsburgh,ACC,W,87,52,,14,2,W 1,Petersen Events Center
-16,17,"Sat, Jan 13, 2018",12:00 pm/est,,REG,,Wake Forest,ACC,W,89,71,,15,2,W 2,Cameron Indoor Stadium
-17,18,"Mon, Jan 15, 2018",7:00 pm/est,,REG,@,Miami (FL) (25),ACC,W,83,75,,16,2,W 3,BankUnited Center
-18,19,"Sat, Jan 20, 2018",4:00 pm/est,,REG,,Pittsburgh,ACC,W,81,54,,17,2,W 4,Cameron Indoor Stadium
-19,20,"Tue, Jan 23, 2018",9:00 pm/est,,REG,@,Wake Forest,ACC,W,84,70,,18,2,W 5,Lawrence Joel Coliseum
-20,21,"Sat, Jan 27, 2018",2:00 pm/est,,REG,,Virginia (2),ACC,L,63,65,,18,3,L 1,Cameron Indoor Stadium
-21,22,"Mon, Jan 29, 2018",7:00 pm/est,,REG,,Notre Dame,ACC,W,88,66,,19,3,W 1,Cameron Indoor Stadium
-22,23,"Sat, Feb 3, 2018",12:00 pm/est,,REG,@,St. John's (NY),Big East,L,77,81,,19,4,L 1,Madison Square Garden (IV)
-23,24,"Thu, Feb 8, 2018",8:00 pm/est,,REG,@,North Carolina (21),ACC,L,78,82,,19,5,L 2,Dean Smith Center
-24,25,"Sun, Feb 11, 2018",6:00 pm/est,,REG,@,Georgia Tech,ACC,W,80,69,,20,5,W 1,McCamish Pavilion
-25,26,"Wed, Feb 14, 2018",7:00 pm/est,,REG,,Virginia Tech,ACC,W,74,52,,21,5,W 2,Cameron Indoor Stadium
-26,27,"Sun, Feb 18, 2018",1:00 pm/est,,REG,@,Clemson (11),ACC,W,66,57,,22,5,W 3,Littlejohn Coliseum
-27,28,"Wed, Feb 21, 2018",9:00 pm/est,,REG,,Louisville,ACC,W,82,56,,23,5,W 4,Cameron Indoor Stadium
-28,29,"Sat, Feb 24, 2018",6:15 pm/est,,REG,,Syracuse,ACC,W,60,44,,24,5,W 5,Cameron Indoor Stadium
-29,30,"Mon, Feb 26, 2018",7:00 pm/est,,REG,@,Virginia Tech,ACC,L,63,64,,24,6,L 1,Cassell Coliseum
-30,31,"Sat, Mar 3, 2018",8:15 pm/est,,REG,,North Carolina (9),ACC,W,74,64,,25,6,W 1,Cameron Indoor Stadium
-31,32,"Thu, Mar 8, 2018",7:00 pm/est,,CTOURN,N,Notre Dame,ACC,W,88,70,,26,6,W 2,Barclays Center
-32,33,"Fri, Mar 9, 2018",9:00 pm/est,,CTOURN,N,North Carolina (12),ACC,L,69,74,,26,7,L 1,Barclays Center
-33,34,"Thu, Mar 15, 2018",2:45 pm/est,,NCAA,N,Iona,MAAC,,,,,,,,
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:30p,REG,N,Kentucky (2),SEC,W,118,84,,1,0,W 1,Bankers Life Fieldhouse
+1,2,"Sun, Nov 11, 2018",1:00p,REG,,Army,Patriot,W,94,72,,2,0,W 2,Cameron Indoor Stadium
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,Eastern Michigan,MAC,W,84,46,,3,0,W 3,Cameron Indoor Stadium
+3,4,"Mon, Nov 19, 2018",4:30p,REG,N,San Diego State,MWC,W,90,64,,4,0,W 4,Lahaina Civic Center
+4,5,"Tue, Nov 20, 2018",8:00p,REG,N,Auburn (8),SEC,W,78,72,,5,0,W 5,Lahaina Civic Center
+5,6,"Wed, Nov 21, 2018",5:00p,REG,N,Gonzaga (3),WCC,L,87,89,,5,1,L 1,Lahaina Civic Center
+6,7,"Tue, Nov 27, 2018",9:30p,REG,,Indiana,Big Ten,W,90,69,,6,1,W 1,Cameron Indoor Stadium
+7,8,"Sat, Dec 1, 2018",7:00p,REG,,Stetson,A-Sun,W,113,49,,7,1,W 2,Cameron Indoor Stadium
+8,9,"Wed, Dec 5, 2018",7:00p,REG,,Hartford,AEC,W,84,54,,8,1,W 3,Cameron Indoor Stadium
+9,10,"Sat, Dec 8, 2018",5:30p,REG,,Yale,Ivy,W,91,58,,9,1,W 4,Cameron Indoor Stadium
+10,11,"Tue, Dec 18, 2018",6:00p,REG,,Princeton,Ivy,W,101,50,,10,1,W 5,Cameron Indoor Stadium
+11,12,"Thu, Dec 20, 2018",7:00p,REG,N,Texas Tech (12),Big 12,W,69,58,,11,1,W 6,Madison Square Garden (IV)
+12,13,"Sat, Jan 5, 2019",8:00p,REG,,Clemson,ACC,W,87,68,,12,1,W 7,Cameron Indoor Stadium
+13,14,"Tue, Jan 8, 2019",7:00p,REG,@,Wake Forest,ACC,W,87,65,,13,1,W 8,Lawrence Joel Coliseum
+14,15,"Sat, Jan 12, 2019",2:00p,REG,@,Florida State (13),ACC,W,80,78,,14,1,W 9,Donald L. Tucker Center
+15,16,"Mon, Jan 14, 2019",7:00p,REG,,Syracuse,ACC,L,91,95,OT,14,2,L 1,Cameron Indoor Stadium
+16,17,"Sat, Jan 19, 2019",6:00p,REG,,Virginia (4),ACC,W,72,70,,15,2,W 1,Cameron Indoor Stadium
+17,18,"Tue, Jan 22, 2019",9:00p,REG,@,Pittsburgh,ACC,W,79,64,,16,2,W 2,Petersen Events Center
+18,19,"Sat, Jan 26, 2019",12:00p,REG,,Georgia Tech,ACC,W,66,53,,17,2,W 3,Cameron Indoor Stadium
+19,20,"Mon, Jan 28, 2019",7:00p,REG,@,Notre Dame,ACC,W,83,61,,18,2,W 4,Purcell Pavilion at the Joyce Center
+20,21,"Sat, Feb 2, 2019",12:00p,REG,,St. John's (NY),Big East,W,91,61,,19,2,W 5,Cameron Indoor Stadium
+21,22,"Tue, Feb 5, 2019",7:00p,REG,,Boston College,ACC,W,80,55,,20,2,W 6,Cameron Indoor Stadium
+22,23,"Sat, Feb 9, 2019",6:00p,REG,@,Virginia (3),ACC,W,81,71,,21,2,W 7,John Paul Jones Arena
+23,24,"Tue, Feb 12, 2019",9:00p,REG,@,Louisville (16),ACC,W,71,69,,22,2,W 8,KFC Yum! Center
+24,25,"Sat, Feb 16, 2019",6:00p,REG,,North Carolina State,ACC,W,94,78,,23,2,W 9,Cameron Indoor Stadium
+25,26,"Wed, Feb 20, 2019",9:00p,REG,,North Carolina (8),ACC,L,72,88,,23,3,L 1,Cameron Indoor Stadium
+26,27,"Sat, Feb 23, 2019",6:00p,REG,@,Syracuse,ACC,W,75,65,,24,3,W 1,Carrier Dome
+27,28,"Tue, Feb 26, 2019",7:00p,REG,@,Virginia Tech (20),ACC,L,72,77,,24,4,L 1,Cassell Coliseum
+28,29,"Sat, Mar 2, 2019",4:00p,REG,,Miami (FL),ACC,W,87,57,,25,4,W 1,Cameron Indoor Stadium
+29,30,"Tue, Mar 5, 2019",7:00p,REG,,Wake Forest,ACC,W,71,70,,26,4,W 2,Cameron Indoor Stadium
+30,31,"Sat, Mar 9, 2019",6:00p,REG,@,North Carolina (3),ACC,L,70,79,,26,5,L 1,Dean Smith Center
+31,32,"Thu, Mar 14, 2019",9:00p,CTOURN,N,Syracuse,ACC,W,84,72,,27,5,W 1,Spectrum Center
+32,33,"Fri, Mar 15, 2019",9:00p,CTOURN,N,North Carolina (3),ACC,W,74,73,,28,5,W 2,Spectrum Center
+33,34,"Sat, Mar 16, 2019",8:30p,CTOURN,N,Florida State (12),ACC,W,73,63,,29,5,W 3,Spectrum Center

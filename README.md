@@ -1,4 +1,4 @@
-# March Madness 2018 Data Crawl
+# March Madness Machine (m3)
 
 ## Overview
 
@@ -8,7 +8,9 @@ This repo contains the following data, as well as the script to scrape said data
 2. `/schedules`: Schedules for each team in the tournament
 3. `/boxscores`: Boxscores from every regular season (and conference tournament) game played by each of the tournament teams
 4. `/matchups`: CSVs of the round one matchups for each side of the bracket
-5. `/misc-data`: Some additional miscellaneous data files I found on SR CBB I thought were worth including
+5. `/misc-data`: Some additional random miscellaneous data files I found on SR CBB I thought were worth including. May be empty depending on the year.
+
+Note that the top level folders contain only the most recent year's data; look in the `archive` folder for data from previous years.
 
 Note that some rosters are unavailable for lower-tier teams (from schedules, the roster's of all teams in the tournament are available).
 
@@ -45,23 +47,23 @@ python3 visualize.py kentucky drb "Kevin Knox" "PJ Washington"
 
 Available stats are:
 
-* mp, Minutes Played
-* fg, Field Goals
-* fga, Field Goals Attempted
-* 2p, 2 Pointers
-* 2pa, 2 Pointers Attempted
-* 3p, 3 Pointers
-* 3pa, 3 Pointers Attempted
-* ft, Free Throws
-* fta, Free Throws Attempted
-* drb, Defensive Rebounds
-* orb, Offensive Rebounds
-* ast, Assists
-* stl, Steals
-* blk, Blocks
-* tov, Turnovers
-* pf, Personal Fouls
-* pts, Points
+-   mp, Minutes Played
+-   fg, Field Goals
+-   fga, Field Goals Attempted
+-   2p, 2 Pointers
+-   2pa, 2 Pointers Attempted
+-   3p, 3 Pointers
+-   3pa, 3 Pointers Attempted
+-   ft, Free Throws
+-   fta, Free Throws Attempted
+-   drb, Defensive Rebounds
+-   orb, Offensive Rebounds
+-   ast, Assists
+-   stl, Steals
+-   blk, Blocks
+-   tov, Turnovers
+-   pf, Personal Fouls
+-   pts, Points
 
 ## Simulator
 
@@ -91,6 +93,8 @@ Lines in this file should be formatted as a CSV with the following structure:
 | ohio-state    | arizona           |
 
 ## Results
+
+### 2018
 
 For March Madness 2018, the bot performed surprisingly well given the limited variables considered. The bot placed in the 87th percentile of ESPN's bracket challenge, with the following selections:
 

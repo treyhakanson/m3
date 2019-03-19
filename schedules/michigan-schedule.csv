@@ -1,37 +1,36 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Sat, Nov 11, 2017",7:30 pm/est,,REG,,North Florida,A-Sun,W,86,66,,1,0,W 1,Crisler Arena
-1,2,"Mon, Nov 13, 2017",7:00 pm/est,,REG,,Central Michigan,MAC,W,72,65,,2,0,W 2,Crisler Arena
-2,3,"Thu, Nov 16, 2017",7:00 pm/est,,REG,,Southern Mississippi,CUSA,W,61,47,,3,0,W 3,Crisler Arena
-3,4,"Mon, Nov 20, 2017",11:00 pm/est,,REG,N,Louisiana State,SEC,L,75,77,,3,1,L 1,Lahaina Civic Center
-4,5,"Tue, Nov 21, 2017",8:00 pm/est,,REG,N,Chaminade,,W,102,64,,4,1,W 1,Lahaina Civic Center
-5,6,"Wed, Nov 22, 2017",5:00 pm/est,,REG,N,Virginia Commonwealth,A-10,W,68,60,,5,1,W 2,Lahaina Civic Center
-6,7,"Sun, Nov 26, 2017",4:00 pm/est,,REG,,UC-Riverside,Big West,W,87,42,,6,1,W 3,Crisler Arena
-7,8,"Wed, Nov 29, 2017",7:30 pm/est,,REG,@,North Carolina (13),ACC,L,71,86,,6,2,L 1,Dean Smith Center
-8,9,"Sat, Dec 2, 2017",12:30 pm/est,,REG,,Indiana,Big Ten,W,69,55,,7,2,W 1,Crisler Arena
-9,10,"Mon, Dec 4, 2017",6:30 pm/est,,REG,@,Ohio State,Big Ten,L,62,71,,7,3,L 1,Value City Arena
-10,11,"Sat, Dec 9, 2017",12:00 pm/est,,REG,,UCLA,Pac-12,W,78,69,OT,8,3,W 1,Crisler Arena
-11,12,"Tue, Dec 12, 2017",9:00 pm/est,,REG,@,Texas,Big 12,W,59,52,,9,3,W 2,Frank Erwin Center
-12,13,"Sat, Dec 16, 2017",12:00 pm/est,,REG,N,Detroit Mercy,Horizon,W,90,58,,10,3,W 3,
-13,14,"Thu, Dec 21, 2017",9:00 pm/est,,REG,,Alabama A&M,SWAC,W,97,47,,11,3,W 4,Crisler Arena
-14,15,"Sat, Dec 30, 2017",6:00 pm/est,,REG,,Jacksonville,A-Sun,W,76,51,,12,3,W 5,Crisler Arena
-15,16,"Tue, Jan 2, 2018",7:00 pm/est,,REG,@,Iowa,Big Ten,W,75,68,,13,3,W 6,Carver-Hawkeye Arena
-16,17,"Sat, Jan 6, 2018",12:00 pm/est,,REG,,Illinois,Big Ten,W,79,69,,14,3,W 7,Crisler Arena
-17,18,"Tue, Jan 9, 2018",9:00 pm/est,,REG,,Purdue (5),Big Ten,L,69,70,,14,4,L 1,Crisler Arena
-18,19,"Sat, Jan 13, 2018",12:00 pm/est,,REG,@,Michigan State (4),Big Ten,W,82,72,,15,4,W 1,Breslin Events Center
-19,20,"Mon, Jan 15, 2018",6:30 pm/est,,REG,,Maryland,Big Ten,W,68,67,,16,4,W 2,Crisler Arena
-20,21,"Thu, Jan 18, 2018",9:00 pm/est,,REG,@,Nebraska,Big Ten,L,52,72,,16,5,L 1,Pinnacle Bank Arena
-21,22,"Sun, Jan 21, 2018",12:00 pm/est,,REG,,Rutgers,Big Ten,W,62,47,,17,5,W 1,Crisler Arena
-22,23,"Thu, Jan 25, 2018",7:00 pm/est,,REG,@,Purdue (3),Big Ten,L,88,92,,17,6,L 1,Mackey Arena
-23,24,"Mon, Jan 29, 2018",7:00 pm/est,,REG,,Northwestern,Big Ten,W,58,47,,18,6,W 1,Crisler Arena
-24,25,"Sat, Feb 3, 2018",2:30 pm/est,,REG,,Minnesota,Big Ten,W,76,73,OT,19,6,W 2,Crisler Arena
-25,26,"Tue, Feb 6, 2018",7:00 pm/est,,REG,@,Northwestern,Big Ten,L,52,61,,19,7,L 1,Allstate Arena
-26,27,"Sun, Feb 11, 2018",1:00 pm/est,,REG,@,Wisconsin,Big Ten,W,83,72,,20,7,W 1,Kohl Center
-27,28,"Wed, Feb 14, 2018",6:30 pm/est,,REG,,Iowa,Big Ten,W,74,59,,21,7,W 2,Crisler Arena
-28,29,"Sun, Feb 18, 2018",1:00 pm/est,,REG,,Ohio State (8),Big Ten,W,74,62,,22,7,W 3,Crisler Arena
-29,30,"Wed, Feb 21, 2018",7:00 pm/est,,REG,@,Penn State,Big Ten,W,72,63,,23,7,W 4,Bryce Jordan Center
-30,31,"Sat, Feb 24, 2018",12:00 pm/est,,REG,@,Maryland,Big Ten,W,85,61,,24,7,W 5,Xfinity Center
-31,32,"Thu, Mar 1, 2018",2:25 pm/est,,CTOURN,N,Iowa,Big Ten,W,77,71,OT,25,7,W 6,Madison Square Garden (IV)
-32,33,"Fri, Mar 2, 2018",2:30 pm/est,,CTOURN,N,Nebraska,Big Ten,W,77,58,,26,7,W 7,Madison Square Garden (IV)
-33,34,"Sat, Mar 3, 2018",2:00 pm/est,,CTOURN,N,Michigan State (2),Big Ten,W,75,64,,27,7,W 8,Madison Square Garden (IV)
-34,35,"Sun, Mar 4, 2018",4:30 pm/est,,CTOURN,N,Purdue (8),Big Ten,W,75,66,,28,7,W 9,Madison Square Garden (IV)
-35,36,"Thu, Mar 15, 2018",9:50 pm/est,,NCAA,N,Montana,Big Sky,,,,,,,,
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:30p,REG,,Norfolk State,MEAC,W,63,44,,1,0,W 1,Crisler Arena
+1,2,"Sat, Nov 10, 2018",7:30p,REG,,Holy Cross,Patriot,W,56,37,,2,0,W 2,Crisler Arena
+2,3,"Wed, Nov 14, 2018",6:30p,REG,@,Villanova (8),Big East,W,73,46,,3,0,W 3,Finneran Pavilion
+3,4,"Sat, Nov 17, 2018",12:00p,REG,N,George Washington,A-10,W,84,61,,4,0,W 4,Mohegan Sun Arena
+4,5,"Sun, Nov 18, 2018",1:30p,REG,N,Providence,Big East,W,66,47,,5,0,W 5,Mohegan Sun Arena
+5,6,"Fri, Nov 23, 2018",4:00p,REG,,Chattanooga,Southern,W,83,55,,6,0,W 6,Crisler Arena
+6,7,"Wed, Nov 28, 2018",9:30p,REG,,North Carolina (11),ACC,W,84,67,,7,0,W 7,Crisler Arena
+7,8,"Sat, Dec 1, 2018",3:30p,REG,,Purdue (19),Big Ten,W,76,57,,8,0,W 8,Crisler Arena
+8,9,"Tue, Dec 4, 2018",9:00p,REG,@,Northwestern,Big Ten,W,62,60,,9,0,W 9,Welsh-Ryan Arena
+9,10,"Sat, Dec 8, 2018",12:00p,REG,,South Carolina,SEC,W,89,78,,10,0,W 10,Crisler Arena
+10,11,"Sat, Dec 15, 2018",2:00p,REG,,Western Michigan,MAC,W,70,62,,11,0,W 11,Crisler Arena
+11,12,"Sat, Dec 22, 2018",4:00p,REG,,Air Force,MWC,W,71,50,,12,0,W 12,Crisler Arena
+12,13,"Sun, Dec 30, 2018",12:00p,REG,,Binghamton,AEC,W,74,52,,13,0,W 13,Crisler Arena
+13,14,"Thu, Jan 3, 2019",7:00p,REG,,Penn State,Big Ten,W,68,55,,14,0,W 14,Crisler Arena
+14,15,"Sun, Jan 6, 2019",4:30p,REG,,Indiana (21),Big Ten,W,74,63,,15,0,W 15,Crisler Arena
+15,16,"Thu, Jan 10, 2019",8:00p,REG,@,Illinois,Big Ten,W,79,69,,16,0,W 16,State Farm Center
+16,17,"Sun, Jan 13, 2019",7:30p,REG,,Northwestern,Big Ten,W,80,60,,17,0,W 17,Crisler Arena
+17,18,"Sat, Jan 19, 2019",12:00p,REG,@,Wisconsin,Big Ten,L,54,64,,17,1,L 1,Kohl Center
+18,19,"Tue, Jan 22, 2019",7:00p,REG,,Minnesota,Big Ten,W,59,57,,18,1,W 1,Crisler Arena
+19,20,"Fri, Jan 25, 2019",6:30p,REG,@,Indiana,Big Ten,W,69,46,,19,1,W 2,Assembly Hall
+20,21,"Tue, Jan 29, 2019",9:00p,REG,,Ohio State,Big Ten,W,65,49,,20,1,W 3,Crisler Arena
+21,22,"Fri, Feb 1, 2019",7:00p,REG,@,Iowa,Big Ten,L,59,74,,20,2,L 1,Carver-Hawkeye Arena
+22,23,"Tue, Feb 5, 2019",8:00p,REG,@,Rutgers,Big Ten,W,77,65,,21,2,W 1,Louis Brown Athletic Center
+23,24,"Sat, Feb 9, 2019",12:00p,REG,,Wisconsin (19),Big Ten,W,61,52,,22,2,W 2,Crisler Arena
+24,25,"Tue, Feb 12, 2019",8:30p,REG,@,Penn State,Big Ten,L,69,75,,22,3,L 1,Bryce Jordan Center
+25,26,"Sat, Feb 16, 2019",12:00p,REG,,Maryland (24),Big Ten,W,65,52,,23,3,W 1,Crisler Arena
+26,27,"Thu, Feb 21, 2019",7:00p,REG,@,Minnesota,Big Ten,W,69,60,,24,3,W 2,Williams Arena
+27,28,"Sun, Feb 24, 2019",3:45p,REG,,Michigan State (10),Big Ten,L,70,77,,24,4,L 1,Crisler Arena
+28,29,"Thu, Feb 28, 2019",7:00p,REG,,Nebraska,Big Ten,W,82,53,,25,4,W 1,Crisler Arena
+29,30,"Sun, Mar 3, 2019",3:45p,REG,@,Maryland (17),Big Ten,W,69,62,,26,4,W 2,Xfinity Center
+30,31,"Sat, Mar 9, 2019",8:00p,REG,@,Michigan State (9),Big Ten,L,63,75,,26,5,L 1,Breslin Events Center
+31,32,"Fri, Mar 15, 2019",9:25p,CTOURN,N,Iowa,Big Ten,W,74,53,,27,5,W 1,United Center
+32,33,"Sat, Mar 16, 2019",3:30p,CTOURN,N,Minnesota,Big Ten,W,76,49,,28,5,W 2,United Center
+33,34,"Sun, Mar 17, 2019",3:30p,CTOURN,N,Michigan State (6),Big Ten,L,60,65,,28,6,L 1,United Center
+34,35,"Thu, Mar 21, 2019",9:20p,NCAA,N,Montana,Big Sky,,,,,,,,

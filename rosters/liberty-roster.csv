@@ -1,15 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Scottie James,31,SO,F,6-7,226,"Tarpon Springs, FL",Tarpon Springs HS, 13.4 Pts,8.9 Reb,1.1 Ast
-1,Lovell Cabbil,3,JR,G,6-3,155,"Arlington, TX",Mansfield Summit HS, 11.3 Pts,4.5 Reb,3.5 Ast
-2,Georgie Pacheco-Ortiz,11,SO,G,6-1,170,Puerto Rico,Deep Run High School, 10.0 Pts,2.5 Reb,2.6 Ast
-3,Ryan Kemrite,5,SR,G,6-4,200,"Conroe, TX",Satch Homeschool, 10.0 Pts,2.7 Reb,1.0 Ast
-4,Caleb Homesley,1,SO,G,6-4,175,"Indian Trail, NC",Porter Ridge HS, 8.0 Pts,4.5 Reb,1.9 Ast
-5,Myo Baxter-Bell,0,SO,F,6-5,255,"Dayton, OH",Chaminade-Julienne High School, 5.6 Pts,2.1 Reb,1.1 Ast
-6,Elijah Cuffee,10,FR,G,6-4,185,"Poca, WV",, 5.3 Pts,2.3 Reb,1.9 Ast
-7,Keegan McDowell,20,FR,G,6-6,180,"Cincinnati, OH",, 3.8 Pts,1.2 Reb,0.6 Ast
-8,Isaiah Williams,13,FR,G,6-7,220,"Dayton, OH",, 4.4 Pts,2.2 Reb,0.8 Ast
-9,Ezra Talbert,24,JR,F,6-8,190,"Olathe, KS",Olathe East HS, 2.2 Pts,1.2 Reb,0.2 Ast
-10,Zach Farquhar,15,SR,G,5-9,160,"Cincinnati, OH",Sycamore High School, 1.6 Pts,0.4 Reb,0.1 Ast
-11,Brody Hicks,14,FR,G,6-4,200,"Roanoke, VA",, 0.3 Pts,0.8 Reb,0.5 Ast
-12,Ryan Hiepler,44,,G,6-0,180,"Camarillo, CA",Oaks Christian HS,,,
-13,Brendan Newton,55,,C,7-2,235,,,,,
+0,Scottie James,31,JR,F,6-8,235,"Tarpon Springs, FL",Tarpon Springs HS, 13.1 Pts,8.7 Reb,1.1 Ast
+1,Caleb Homesley,1,JR,G,6-6,205,"Indian Trail, NC",Porter Ridge HS, 12.0 Pts,5.5 Reb,2.8 Ast
+2,Lovell Cabbil,3,SR,G,6-3,170,"Arlington, TX",Mansfield Summit HS, 11.5 Pts,3.6 Reb,2.7 Ast
+3,Elijah Cuffee,10,SO,G,6-4,185,"Poca, WV",Poca High School, 7.9 Pts,2.0 Reb,1.9 Ast
+4,Darius McGhee,2,FR,G,5-9,,"Roxboro, NC",Blue Ridge School, 7.7 Pts,2.7 Reb,1.1 Ast
+5,Georgie Pacheco-Ortiz,11,JR,G,6-1,170,"Ponce, Puerto Rico",Deep Run High School, 7.2 Pts,1.6 Reb,2.3 Ast
+6,Keenan Gumbs,5,SR,F,6-5,,"Cibolo, TX",, 5.9 Pts,2.2 Reb,1.1 Ast
+7,Myo Baxter-Bell,0,JR,F,6-5,255,"Cincinnati, OH",Chaminade-Julienne High School, 4.9 Pts,2.5 Reb,1.4 Ast
+8,Keegan McDowell,20,SO,G,6-6,180,"Cincinnati, OH",Moeller High School, 2.8 Pts,0.8 Reb,0.5 Ast
+9,Brendan Newton,55,FR,C,7-2,235,"Roanoke, VA",Faith Christian School, 1.3 Pts,0.7 Reb,0.1 Ast
+10,Zach Farquhar,15,SR,G,5-9,160,"Cincinnati, OH",Sycamore High School, 1.0 Pts,0.4 Reb,0.2 Ast
+11,Tytist Dean,4,FR,G,6-0,180,"St. Paul, MN",North St. Paul HS,,,
+12,Blake Preston,32,FR,F,6-9,,"Charlotte, NC",Charlotte Christian School,,,
+13,Josh Price,25,FR,G,6-3,,"Charlotte, NC",Carmel Christian School,,,

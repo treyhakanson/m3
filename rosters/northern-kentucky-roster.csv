@@ -1,15 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Drew McDonald,34,JR,F,6-8,265,"Cold Spring, KY",Newport Central Catholic High School, 16.9 Pts,9.5 Reb,2.3 Ast
-1,LaVone Holland,30,SR,G,6-2,180,"Louisville, KY",Ballard High School, 13.8 Pts,4.1 Reb,4.5 Ast
-2,Carson Williams,23,SO,F,6-5,230,"Owenton, KY",Owen County High School, 12.3 Pts,5.7 Reb,1.2 Ast
-3,Jordan Garnett,1,SR,F,6-6,215,"Indianapolis, IN",Warren Central HS, 6.6 Pts,3.0 Reb,2.0 Ast
-4,Tyler Sharpe,15,SO,G,6-1,185,"Mount Washington, KY",Bullitt East High School, 6.8 Pts,1.1 Reb,0.6 Ast
-5,Jalen Tate,5,FR,F,6-5,170,"Pickerington, OH",Pickerington High School Central, 5.8 Pts,2.3 Reb,2.0 Ast
-6,Mason Faulkner,11,SO,G,6-1,165,"Glasgow, KY",Caverna High School, 5.7 Pts,1.9 Reb,2.3 Ast
-7,Dantez Walton,32,SO,G,6-5,205,"Lima, OH",Lima Central Catholic High School, 5.3 Pts,3.2 Reb,1.0 Ast
-8,Jeff Garrett,4,JR,F,6-7,206,"Gadsden, AL",Oldsmar Christian Academy, 4.3 Pts,3.3 Reb,0.1 Ast
-9,Tre Cobbs,3,SO,G,5-10,185,"Lima, OH",Lima Central Catholic High School, 2.1 Pts,0.3 Reb,0.5 Ast
-10,Chris Vogt,33,FR,C,7-0,225,"Mayfield, KY",, 1.0 Pts,0.6 Reb,0.3 Ast
-11,Nick Ayers,20,SR,G,6-3,190,"Independence, KY",Simon Kenton High School, 0.0 Pts,0.8 Reb,0.1 Ast
-12,Darian Childress,22,,F,6-8,180,,, 0.0 Pts,0.0 Reb,0.0 Ast
-13,Paul Djoko,2,,G,6-4,190,,,,,
+0,Drew McDonald,34,SR,F,6-8,250,"Cold Spring, KY",Newport Central Catholic High School, 19.1 Pts,9.5 Reb,2.9 Ast
+1,Tyler Sharpe,15,JR,G,6-1,195,"Mt. Washington, KY",Bullitt East High School, 14.1 Pts,3.1 Reb,1.9 Ast
+2,Jalen Tate,11,SO,G,6-6,170,"Pickerington, OH",Pickerington High School Central, 14.0 Pts,4.4 Reb,4.1 Ast
+3,Dantez Walton,32,JR,F,6-7,210,"Lima, OH",Lima Central Catholic High School, 11.1 Pts,5.5 Reb,2.7 Ast
+4,Zaynah Robinson,5,SR,G,6-0,180,"Atlanta, GA",Duluth HS, 7.0 Pts,1.8 Reb,2.4 Ast
+5,Trevon Faulkner,12,FR,G,6-4,195,"Harrodsburg, KY",Mercer County HS, 4.9 Pts,2.5 Reb,1.1 Ast
+6,Chris Vogt,33,SO,C,7-1,240,"Mayfield, KY",Graves County High School, 4.6 Pts,3.8 Reb,0.6 Ast
+7,Adrian Nelson,4,FR,F,6-8,220,"Pickerington, OH",Pickerington Central HS, 2.7 Pts,2.3 Reb,0.3 Ast
+8,Paul Djoko,2,FR,G,6-5,200,"Strasbourg, France",, 1.7 Pts,1.1 Reb,1.3 Ast
+9,Bryant Mocaby,25,FR,G,6-6,210,"Derby, KY",Derby HS, 2.6 Pts,0.6 Reb,0.4 Ast
+10,Silas Adheke,0,SO,F,6-10,240,"Chattanooga, TN",, 2.1 Pts,1.8 Reb,0.3 Ast
+11,David Wassler,44,FR,F,6-10,235,"Cincinnati, OH",St. Xavier HS, 0.3 Pts,0.0 Reb,0.0 Ast
+12,Gerald Gray Jr.,10,FR,G,6-3,170,"Louisville, KY",Pleasure Ridge Park HS, 0.0 Pts,0.2 Reb,0.0 Ast
+13,Chris Taylor,20,FR,G,5-8,175,"Wichita, KS",IMG Prep, 0.0 Pts,0.0 Reb,0.0 Ast
+14,Tre Cobbs,3,JR,G,6-1,200,"Lima, OH",Lima Central Catholic High School,,,
+15,Brooks Ely,24,JR,G,6-4,205,"Lexington, KY",,,,

@@ -1,37 +1,45 @@
 # Base URL
 BASE_URL = 'https://www.sports-reference.com/cbb'
 
+# Year
+YEAR = 2019
+
 # Schools
 SCHOOLS = [
-    # SOUTH
-    'virginia', 'maryland-baltimore-county', 'creighton', 'kansas-state',
-    'kentucky', 'davidson', 'arizona', 'buffalo', 'miami-fl', 'loyola-il',
-    'tennessee', 'wright-state', 'nevada', 'texas', 'cincinnati',
-    'georgia-state',
+    # EAST
+    'north-carolina-central', 'north-dakota-state', # Play in teams
+    'belmont', 'temple', # Play in teams
+    'duke', 'virginia-commonwealth', 'central-florida', 'mississippi-state',
+    'liberty', 'virginia-tech', 'saint-louis', 'maryland', 'louisiana-state',
+    'yale', 'louisville', 'minnesota', 'michigan-state', 'bradley',
 
     # WEST
-    'texas-southern', 'north-carolina-central',  # Play in teams
-    'xavier', 'missouri', 'florida-state', 'ohio-state', 'south-dakota-state',
-    'gonzaga', 'north-carolina-greensboro', 'houston', 'san-diego-state',
-    'michigan', 'montana', 'texas-am', 'providence', 'north-carolina',
-    'lipscomb',
+    'fairleigh-dickinson', 'prairie-view', # Play in teams
+    'arizona-state', 'st-johns-ny', # Play in teams
+    'gonzaga', 'syracuse', 'baylor', 'marquette', 'murray-state',
+    'florida-state', 'vermont', 'buffalo', 'texas-tech', 'northern-kentucky',
+    'nevada', 'florida', 'michigan', 'montana',
 
-    # EAST
-    'radford', 'long-island-university',  # Play in teams
-    'ucla', 'st-bonaventure',             # Play in teams
-    'villanova', 'virginia-tech', 'alabama', 'west-virginia', 'murray-state',
-    'wichita-state', 'marshall', 'florida', 'texas-tech', 'stephen-f-austin',
-    'butler', 'arkansas', 'purdue', 'cal-state-fullerton',
+    # SOUTH
+    'virginia', 'gardner-webb', 'mississippi', 'oklahoma', 'wisconsin',
+    'oregon', 'kansas-state', 'california-irvine', 'villanova', 'saint-marys-ca',
+    'purdue', 'old-dominion', 'cincinnati', 'iowa', 'tennessee',
+    'colgate',
 
     # MIDWEST
-    'syracuse', 'arizona-state',  # Play in teams
-    'kansas', 'pennsylvania', 'seton-hall', 'north-carolina-state', 'clemson',
-    'new-mexico-state', 'auburn', 'college-of-charleston', 'texas-christian',
-    'michigan-state', 'bucknell', 'rhode-island', 'oklahoma', 'duke', 'iona'
+    'north-carolina', 'iona', 'utah-state', 'washington', 'auburn',
+    'new-mexico-state', 'kansas', 'northeastern', 'iowa-state',
+    'ohio-state', 'houston', 'georgia-state', 'wofford', 'seton-hall',
+    'kentucky', 'abilene-christian'
 ]
 
 # Maps opponent names whose cleaned names are not correct
 OPPONENT_MAP = {
+    'purdue-fort-wayne': 'ipfw',
+    'little-rock': 'arkansas-little-rock',
+    'omaha': 'nebraska-omaha',
+    'st-johns': 'st-johns-ny',
+    'st-marys': 'saint-marys-ca',
     'university-of-california': 'california',
     'uc-irvine': 'california-irvine',
     'uc-davis': 'california-davis',

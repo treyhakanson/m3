@@ -1,17 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Donte Ingram,0,SR,G,6-6,215,"Chicago, IL",Simeon HS, 11.6 Pts,6.5 Reb,1.5 Ast
-1,Clayton Custer,13,JR,G,6-0,175,"Overland Park, KS",Blue Valley Northwest, 13.4 Pts,2.3 Reb,4.3 Ast
-2,Marques Townes,5,JR,G,6-4,210,"Edison, NJ",St. Joseph's HS, 11.2 Pts,3.9 Reb,2.4 Ast
-3,Aundre Jackson,24,SR,F,6-5,230,"Kennedale, TX",Kennedale High School, 10.9 Pts,3.4 Reb,1.0 Ast
-4,Cameron Krutwig,25,FR,C,6-9,260,"Algonquin, IL",, 10.5 Pts,6.3 Reb,1.7 Ast
-5,Lucas Williamson,1,FR,G,6-4,190,"Chicago, IL",, 4.8 Pts,2.0 Reb,1.0 Ast
-6,Ben Richardson,14,SR,G,6-3,185,"Overland Park, KS",Blue Valley Northwest HS, 6.7 Pts,2.8 Reb,3.7 Ast
-7,Bruno Skokna,4,SO,G,6-4,175,Croatia,, 3.5 Pts,0.9 Reb,0.6 Ast
-8,Cameron Satterwhite,23,SO,G,6-4,175,"Gilbert, AZ",Gilbert Christian High School, 1.9 Pts,1.7 Reb,1.0 Ast
-9,Adarius Avery,10,,G,6-5,190,,, 3.0 Pts,1.9 Reb,0.3 Ast
-10,Christian Negron,12,FR,F,6-7,215,"Elgin, IL",, 1.1 Pts,0.8 Reb,0.1 Ast
-11,Carson Shanks,32,SR,C,7-0,235,"Prior Lake, MN",Prior Lake, 0.9 Pts,0.4 Reb,0.1 Ast
-12,Jake Baughman,2,SO,G,6-3,180,"Bloomington, IL",Central Catholic High School, 0.6 Pts,0.0 Reb,0.0 Ast
-13,Nick DiNardi,44,SR,F,6-7,225,"Palos Park, IL",Providence cAtholic High School, 0.3 Pts,0.6 Reb,0.0 Ast
-14,Dylan Boehm,31,FR,F,6-5,205,"Los Angeles, CA",, 0.0 Pts,0.0 Reb,0.4 Ast
-15,Aher Uguak,,,F,6-7,210,Canada,Harry Ainlay Composite High School,,,
+0,Marques Townes,5,SR,G,6-4,208,"Edison, NJ",St. Joseph's HS, 15.6 Pts,5.1 Reb,3.5 Ast
+1,Cameron Krutwig,25,SO,C,6-9,255,"Algonquin, IL",Harry D. Jacobs High School, 14.7 Pts,7.3 Reb,2.4 Ast
+2,Clayton Custer,13,SR,G,6-1,185,"Overland Park, KS",Blue Valley Northwest, 11.2 Pts,2.0 Reb,2.7 Ast
+3,Cooper Kaifes,23,FR,G,6-3,195,"Shawnee, KS",Mill Valley HS, 5.9 Pts,1.3 Reb,1.5 Ast
+4,Aher Uguak,30,SO,F,6-7,225,"Edmonton, Canada",Harry Ainlay Composite High School, 5.4 Pts,3.5 Reb,1.0 Ast
+5,Lucas Williamson,1,SO,G,6-4,205,"Chicago, IL",Whitney Young High School, 9.0 Pts,5.7 Reb,1.7 Ast
+6,Bruno Skokna,4,JR,G,6-4,175,"Zagreb, Croatia",Košarkaški klub Gorica, 3.4 Pts,1.6 Reb,0.8 Ast
+7,Isaiah Bujdoso,22,FR,G,6-3,190,"Hamilton, Canada",Sunrise Christian Academy, 2.1 Pts,1.1 Reb,0.7 Ast
+8,Franklin Agunanne,33,FR,F,6-9,245,"Abuja, Nigeria",La Lumiere HS, 1.9 Pts,1.9 Reb,0.1 Ast
+9,Christian Negron,12,SO,F,6-7,225,"Elgin, IL",Larkin High School, 2.0 Pts,2.0 Reb,0.3 Ast
+10,Jake Baughman,2,JR,G,6-3,180,"Bloomington, IL",Central Catholic High School, 0.4 Pts,0.3 Reb,0.2 Ast
+11,Will Alcock,45,FR,F,6-7,205,"Zionsville, IN",Zionsville Community HS, 0.1 Pts,0.3 Reb,0.0 Ast
+12,Dylan Boehm,31,SO,F,6-5,205,"Los Angeles, CA",Loyola High School, 0.0 Pts,0.0 Reb,0.0 Ast
+13,Tate Hall,24,JR,G,6-6,220,"Greenfield, IN",,,,

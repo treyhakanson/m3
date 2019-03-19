@@ -1,24 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Mike Smith,12,SO,G,5-10,179,"Burr Ridge, IL",Fenwick High School, 17.6 Pts,2.6 Reb,4.6 Ast
-1,Quinton Adlesh,10,JR,G,6-0,190,"Arroyo Grande, CA",Mission College Prep, 11.4 Pts,3.4 Reb,2.3 Ast
-2,Lukas Meisner,11,JR,F,6-8,210,Germany,IGS Franzsches Feld (Germany), 11.2 Pts,7.5 Reb,1.8 Ast
-3,Nate Hickman,22,SR,G,6-4,175,"Newark, DE",The Peddie School, 8.7 Pts,3.1 Reb,1.4 Ast
-4,Kyle Castlin,0,SR,G,6-4,180,"Marietta, GA",Hillgrove HS, 10.5 Pts,3.8 Reb,1.4 Ast
-5,Gabe Stefanini,15,FR,G,6-3,197,Italy,, 5.9 Pts,1.9 Reb,1.0 Ast
-6,Jaron Faulds,44,FR,F,6-10,220,"Holt, MI",, 4.5 Pts,3.2 Reb,0.4 Ast
-7,Patrick Tape,3,SO,F,6-10,220,"Matthews, NC",Queens Grant High School, 4.4 Pts,5.1 Reb,0.5 Ast
-8,Myles Hanson,31,FR,F,6-6,215,"Chaska, MN",, 3.1 Pts,2.3 Reb,0.4 Ast
-9,Tai Bibbs,33,FR,G,6-3,170,"Chicago, IL",, 3.4 Pts,1.3 Reb,0.4 Ast
-10,Rodney Hunter,4,JR,F,6-5,185,"Cape Coral, FL",Mariner (FL), 1.3 Pts,1.9 Reb,0.7 Ast
-11,Peter Barba,21,JR,G,6-5,190,"Chagrin Falls, OH",Western Reserve Academy, 2.6 Pts,0.8 Reb,0.3 Ast
-12,Randy Brumant,13,,F,6-7,195,,, 1.6 Pts,2.0 Reb,0.6 Ast
-13,Jake Killingsworth,20,SO,G,6-5,205,"San Carlos, CA",Junipero Serra Catholic High School, 5.5 Pts,2.0 Reb,0.0 Ast
-14,Luke Bolster,1,,G,6-0,175,,, 2.0 Pts,0.8 Reb,0.8 Ast
-15,Jeff Coby,1,,F,6-8,223,,Choate Rosemary Hall,,,
-16,C.J. Davis,5,,G,6-2,207,"Far Rockaway, NY",Westwind Prep Academy,,,
-17,Shane Eberle,41,,C,6-11,255,"Woodbine, MD",,,,
-18,Kendall Jackson,14,,G,5-8,160,,Suffield Academy,,,
-19,Jake Klores,25,,G,6-0,170,,,,,
-20,Chris McComber,32,,F,6-8,244,,John McCrae Secondary,,,
-21,Andrew Panayiotou,2,,F,6-7,198,,Melbourne Grammar High School,,,
-22,Conor Voss,52,,C,7-1,260,,St. Cloud Cathedral HS,,,
+0,Gabe Stefanini,15,SO,G,6-3,198,"Bologna, Italy",Bergen Catholic, 13.8 Pts,5.3 Reb,4.1 Ast
+1,Quinton Adlesh,10,SR,G,6-0,195,"Arroyo Grande, CA",Mission College Prep, 13.5 Pts,2.6 Reb,2.5 Ast
+2,Patrick Tape,3,JR,F,6-10,220,"Charlotte, NC",Queens Grant High School, 11.3 Pts,5.9 Reb,1.4 Ast
+3,Randy Brumant,13,SO,F,6-7,200,"Houston, TX",South Kent School, 6.2 Pts,4.8 Reb,0.8 Ast
+4,Jake Killingsworth,20,JR,G,6-5,205,"San Carlos, CA",Junipero Serra Catholic High School, 6.1 Pts,3.2 Reb,1.9 Ast
+5,Ike Nweke,22,FR,F,6-7,240,"Woodbine, MD",Georgetown Prep, 5.3 Pts,3.6 Reb,0.3 Ast
+6,Maka Ellis,32,FR,G,6-5,185,"Las Vegas, NV",Sierra Vista HS, 5.6 Pts,2.2 Reb,1.0 Ast
+7,Mike Smith,21,JR,G,5-11,180,"Burr Ridge, IL",Fenwick High School, 15.8 Pts,2.5 Reb,5.0 Ast
+8,Tai Bibbs,33,SO,G,6-3,170,"Chicago, IL",Community High School, 3.6 Pts,1.4 Reb,0.6 Ast
+9,Peter Barba,12,SR,G,6-5,198,"Chagrin Falls, OH",Western Reserve Academy, 2.8 Pts,1.5 Reb,0.9 Ast
+10,Rodney Hunter,4,SR,G,6-5,200,"Cape Coral, FL",Mariner (FL), 1.9 Pts,2.8 Reb,1.2 Ast
+11,C.J. Davis,5,SR,G,6-2,205,"Far Rockaway, NY",The Peddie School, 1.8 Pts,0.7 Reb,0.5 Ast
+12,Luke Bolster,1,SO,G,6-0,170,"New York, NY",Trinity School, 4.5 Pts,0.5 Reb,1.5 Ast
+13,Ben Milstein,2,FR,G,5-10,165,"Boca Raton, FL",Saint Andrews School, 1.0 Pts,1.3 Reb,0.3 Ast
+14,Jake Klores,25,SO,G,6-0,165,"New York, NY",Riverdale Country School,,,
+15,Joseph Smoyer,50,JR,F,6-11,230,"Portland, OR",Franklin High School,,,

@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,,Coppin State,MEAC,W,85,63,,1,0,W 1,Kohl Center
+1,2,"Tue, Nov 13, 2018",6:30p,REG,@,Xavier,Big East,W,77,68,,2,0,W 2,Cintas Center
+2,3,"Sat, Nov 17, 2018",8:00p,REG,,Houston Baptist,Southland,W,96,59,,3,0,W 3,Kohl Center
+3,4,"Wed, Nov 21, 2018",2:30p,REG,N,Stanford,Pac-12,W,62,46,,4,0,W 4,Imperial Arena at Atlantis Resort
+4,5,"Thu, Nov 22, 2018",1:30p,REG,N,Oklahoma,Big 12,W,78,58,,5,0,W 5,Imperial Arena at Atlantis Resort
+5,6,"Fri, Nov 23, 2018",2:00p,REG,N,Virginia (4),ACC,L,46,53,,5,1,L 1,Imperial Arena at Atlantis Resort
+6,7,"Tue, Nov 27, 2018",9:00p,REG,,North Carolina State,ACC,W,79,75,,6,1,W 1,Kohl Center
+7,8,"Fri, Nov 30, 2018",8:00p,REG,@,Iowa (14),Big Ten,W,72,66,,7,1,W 2,Carver-Hawkeye Arena
+8,9,"Mon, Dec 3, 2018",8:00p,REG,,Rutgers,Big Ten,W,69,64,,8,1,W 3,Kohl Center
+9,10,"Sat, Dec 8, 2018",5:00p,REG,@,Marquette,Big East,L,69,74,OT,8,2,L 1,Fiserv Forum
+10,11,"Thu, Dec 13, 2018",8:00p,REG,,Savannah State,MEAC,W,101,60,,9,2,W 1,Kohl Center
+11,12,"Sat, Dec 22, 2018",12:00p,REG,,Grambling,SWAC,W,84,53,,10,2,W 2,Kohl Center
+12,13,"Sat, Dec 29, 2018",5:30p,REG,@,Western Kentucky,CUSA,L,76,83,,10,3,L 1,E.A. Diddle Arena
+13,14,"Thu, Jan 3, 2019",9:00p,REG,,Minnesota,Big Ten,L,52,59,,10,4,L 2,Kohl Center
+14,15,"Sun, Jan 6, 2019",7:30p,REG,@,Penn State,Big Ten,W,71,52,,11,4,W 1,Bryce Jordan Center
+15,16,"Fri, Jan 11, 2019",9:00p,REG,,Purdue,Big Ten,L,80,84,OT,11,5,L 1,Kohl Center
+16,17,"Mon, Jan 14, 2019",8:30p,REG,@,Maryland (19),Big Ten,L,60,64,,11,6,L 2,Xfinity Center
+17,18,"Sat, Jan 19, 2019",12:00p,REG,,Michigan (2),Big Ten,W,64,54,,12,6,W 1,Kohl Center
+18,19,"Wed, Jan 23, 2019",9:00p,REG,@,Illinois,Big Ten,W,72,60,,13,6,W 2,State Farm Center
+19,20,"Sat, Jan 26, 2019",2:15p,REG,,Northwestern,Big Ten,W,62,46,,14,6,W 3,Kohl Center
+20,21,"Tue, Jan 29, 2019",8:00p,REG,@,Nebraska,Big Ten,W,62,51,,15,6,W 4,Pinnacle Bank Arena
+21,22,"Fri, Feb 1, 2019",9:00p,REG,,Maryland (21),Big Ten,W,69,61,,16,6,W 5,Kohl Center
+22,23,"Wed, Feb 6, 2019",9:00p,REG,@,Minnesota,Big Ten,W,56,51,,17,6,W 6,Williams Arena
+23,24,"Sat, Feb 9, 2019",12:00p,REG,@,Michigan (7),Big Ten,L,52,61,,17,7,L 1,Crisler Arena
+24,25,"Tue, Feb 12, 2019",7:00p,REG,,Michigan State (11),Big Ten,L,59,67,,17,8,L 2,Kohl Center
+25,26,"Mon, Feb 18, 2019",8:00p,REG,,Illinois,Big Ten,W,64,58,,18,8,W 1,Kohl Center
+26,27,"Sat, Feb 23, 2019",8:30p,REG,@,Northwestern,Big Ten,W,69,64,,19,8,W 2,Welsh-Ryan Arena
+27,28,"Tue, Feb 26, 2019",9:00p,REG,@,Indiana,Big Ten,L,73,75,2OT,19,9,L 1,Assembly Hall
+28,29,"Sat, Mar 2, 2019",1:00p,REG,,Penn State,Big Ten,W,61,57,,20,9,W 1,Kohl Center
+29,30,"Thu, Mar 7, 2019",7:00p,REG,,Iowa,Big Ten,W,65,45,,21,9,W 2,Kohl Center
+30,31,"Sun, Mar 10, 2019",4:30p,REG,@,Ohio State,Big Ten,W,73,67,OT,22,9,W 3,Value City Arena
+31,32,"Fri, Mar 15, 2019",2:55p,CTOURN,N,Nebraska,Big Ten,W,66,62,,23,9,W 4,United Center
+32,33,"Sat, Mar 16, 2019",1:00p,CTOURN,N,Michigan State (6),Big Ten,L,55,67,,23,10,L 1,United Center
+33,34,"Fri, Mar 22, 2019",4:30p,NCAA,N,Oregon,Pac-12,,,,,,,,

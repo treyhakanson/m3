@@ -1,16 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Mike Daum,24,JR,F,6-9,245,"Kimball, NE",Kimball HS, 23.8 Pts,10.4 Reb,1.3 Ast
-1,"David Jenkins, Jr.",5,FR,G,6-2,190,"Tacoma, WA",, 16.1 Pts,3.3 Reb,1.6 Ast
-2,Reed Tellinghuisen,23,SR,G,6-6,175,"Sac City, IA",East Sac County HS, 12.0 Pts,4.7 Reb,1.6 Ast
-3,Tevin King,2,JR,G,6-2,195,"Chicago, IL",St. John's Northwestern Military Academy, 9.3 Pts,5.5 Reb,3.0 Ast
-4,Skyler Flatten,1,SR,G,6-6,190,"Clark, SD",Clark HS, 7.0 Pts,3.1 Reb,1.2 Ast
-5,Brandon Key,0,JR,G,5-10,180,"Milwaukee, WI",, 6.0 Pts,1.5 Reb,3.3 Ast
-6,Ian Theisen,45,SR,F,6-9,250,"Osseo, MN",Osseo HS, 4.7 Pts,3.5 Reb,0.5 Ast
-7,Chris Howell,3,JR,G,6-5,195,"Milwaukee, WI",Rufus King HIgh School, 4.7 Pts,3.4 Reb,0.8 Ast
-8,Lane Severyn,25,SR,G,6-5,205,"Pierre, SD",T.F. Riggs HS, 3.2 Pts,2.2 Reb,0.6 Ast
-9,Dallas Polk-Hilliard,11,JR,F,6-6,200,"Milwaukee, WI",, 2.6 Pts,1.4 Reb,0.0 Ast
-10,Beau Brown,15,SO,G,6-1,175,"Mitchell, SD",Mitchell HS, 0.0 Pts,0.0 Reb,0.0 Ast
-11,Alex Arians,34,,G,6-4,190,,,,,
-12,Matt Dentlinger,32,,G,6-8,250,,,,,
-13,Alou Dillon,10,,F,6-8,225,,,,,
-14,Ryan Krueger,4,,G,6-6,200,,,,,
+0,Mike Daum,24,SR,F,6-9,235,"Kimball, NE",Kimball HS, 25.3 Pts,11.7 Reb,1.8 Ast
+1,"David Jenkins, Jr.",5,SO,G,6-2,200,"Tacoma, WA",Sunrise Christian Academy, 19.7 Pts,3.4 Reb,1.6 Ast
+2,Skyler Flatten,1,SR,G,6-6,210,"Clark, SD",Clark HS, 15.5 Pts,3.7 Reb,2.1 Ast
+3,Tevin King,2,SR,G,6-2,205,"Chicago, IL",St. John's Northwestern Military Academy, 9.3 Pts,5.9 Reb,4.3 Ast
+4,Alex Arians,34,FR,G,6-4,200,"Madison, WI",Edgewood HS, 6.2 Pts,4.8 Reb,2.1 Ast
+5,Owen King,23,FR,G,6-3,200,"Caledonia, MN",Caledonia HS, 4.2 Pts,1.6 Reb,2.3 Ast
+6,Matt Dentlinger,32,FR,F,6-8,250,"Carroll, IA",Kuemper Catholic HS, 2.6 Pts,2.7 Reb,0.4 Ast
+7,Ryan Krueger,4,FR,F,6-6,220,"New London, WI",Hortonville HS, 2.1 Pts,1.0 Reb,0.3 Ast
+8,Alou Dillon,10,FR,F,6-8,230,"Wauwatosa, WI",Wauwatosa West HS, 1.9 Pts,1.4 Reb,0.2 Ast
+9,Beau Brown,15,JR,G,6-1,175,"Mitchell, SD",Mitchell HS, 0.9 Pts,0.4 Reb,0.0 Ast
+10,Michael Carter III,14,SO,G,6-5,190,"Seattle, WA",O'Dea High School,,,
+11,Aaron Fiegen,22,FR,F,6-7,200,"Madison, SD",Madison HS,,,
+12,Brandon Key,0,SR,G,5-10,180,"Milwaukee, WI",Alexander Hamilton High School,,,
+13,Matthew Mims,11,FR,G,6-0,170,"Fairfax, IA",Xavier HS,,,

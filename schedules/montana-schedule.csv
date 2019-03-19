@@ -1,35 +1,36 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Fri, Nov 10, 2017",9:00 pm/est,,REG,,Whitworth,,W,72,60,,1,0,W 1,Adams Center/Dahlberg Arena
-1,2,"Mon, Nov 13, 2017",7:00 pm/est,,REG,@,Pittsburgh,ACC,W,83,78,OT,2,0,W 2,Petersen Events Center
-2,3,"Wed, Nov 15, 2017",7:00 pm/est,,REG,@,Penn State,Big Ten,L,57,70,,2,1,L 1,Bryce Jordan Center
-3,4,"Mon, Nov 20, 2017",8:00 pm/est,,REG,N,Oral Roberts,Summit,W,69,64,,3,1,W 1,Firestone Fieldhouse
-4,5,"Tue, Nov 21, 2017",10:30 pm/est,,REG,N,UC-Santa Barbara,Big West,L,73,80,,3,2,L 1,Firestone Fieldhouse
-5,6,"Sun, Nov 26, 2017",9:00 pm/est,,REG,,Carroll,,W,86,75,,4,2,W 1,Adams Center/Dahlberg Arena
-6,7,"Wed, Nov 29, 2017",10:00 pm/est,,REG,@,Stanford,Pac-12,L,54,70,,4,3,L 1,Maples Pavilion
-7,8,"Sun, Dec 3, 2017",9:00 pm/est,,REG,,Cal State Northridge,Big West,W,86,68,,5,3,W 1,Adams Center/Dahlberg Arena
-8,9,"Sat, Dec 9, 2017",2:00 pm/est,,REG,@,Georgia State,Sun Belt,L,68,71,,5,4,L 1,GSU Sports Arena
-9,10,"Sun, Dec 17, 2017",3:00 pm/est,,REG,,UC-Riverside,Big West,W,77,61,,6,4,W 1,Adams Center/Dahlberg Arena
-10,11,"Tue, Dec 19, 2017",9:00 pm/est,,REG,,UC-Irvine,Big West,W,86,68,,7,4,W 2,Adams Center/Dahlberg Arena
-11,12,"Fri, Dec 22, 2017",11:00 pm/est,,REG,@,Washington,Pac-12,L,63,66,,7,5,L 1,Alaska Airlines Arena
-12,13,"Thu, Dec 28, 2017",8:30 pm/est,,REG,@,Northern Arizona,Big Sky,W,87,69,,8,5,W 1,Walkup Skydome
-13,14,"Sat, Dec 30, 2017",2:30 pm/est,,REG,@,Southern Utah,Big Sky,W,79,49,,9,5,W 2,Centrum
-14,15,"Thu, Jan 4, 2018",9:00 pm/est,,REG,,North Dakota,Big Sky,W,109,79,,10,5,W 3,Adams Center/Dahlberg Arena
-15,16,"Sat, Jan 6, 2018",9:00 pm/est,,REG,,Northern Colorado,Big Sky,W,89,80,,11,5,W 4,Adams Center/Dahlberg Arena
-16,17,"Thu, Jan 11, 2018",10:05 pm/est,,REG,@,Sacramento State,Big Sky,W,78,66,,12,5,W 5,The Nest
-17,18,"Sat, Jan 13, 2018",4:00 pm/est,,REG,@,Portland State,Big Sky,W,92,89,,13,5,W 6,
-18,19,"Sat, Jan 20, 2018",9:00 pm/est,,REG,@,Montana State,Big Sky,W,67,52,,14,5,W 7,Max Worthington Arena
-19,20,"Thu, Jan 25, 2018",9:00 pm/est,,REG,,Southern Utah,Big Sky,W,71,47,,15,5,W 8,Adams Center/Dahlberg Arena
-20,21,"Sat, Jan 27, 2018",9:00 pm/est,,REG,,Northern Arizona,Big Sky,W,82,64,,16,5,W 9,Adams Center/Dahlberg Arena
-21,22,"Thu, Feb 1, 2018",9:00 pm/est,,REG,@,Northern Colorado,Big Sky,W,88,79,,17,5,W 10,Bank of Colorado Arena
-22,23,"Sat, Feb 3, 2018",5:00 pm/est,,REG,@,North Dakota,Big Sky,W,72,67,,18,5,W 11,Betty Engelstad Sioux Center 
-23,24,"Thu, Feb 8, 2018",9:00 pm/est,,REG,,Portland State,Big Sky,W,80,60,,19,5,W 12,Adams Center/Dahlberg Arena
-24,25,"Sat, Feb 10, 2018",9:00 pm/est,,REG,,Sacramento State,Big Sky,W,71,69,OT,20,5,W 13,Adams Center/Dahlberg Arena
-25,26,"Thu, Feb 15, 2018",9:05 pm/est,,REG,@,Eastern Washington,Big Sky,L,65,74,,20,6,L 1,Reese Court
-26,27,"Sat, Feb 17, 2018",10:00 pm/est,,REG,@,Idaho,Big Sky,L,77,79,OT,20,7,L 2,Cowan Spectrum
-27,28,"Sat, Feb 24, 2018",9:00 pm/est,,REG,,Montana State,Big Sky,W,90,63,,21,7,W 1,Adams Center/Dahlberg Arena
-28,29,"Thu, Mar 1, 2018",9:00 pm/est,,REG,,Weber State,Big Sky,W,75,57,,22,7,W 2,Adams Center/Dahlberg Arena
-29,30,"Sat, Mar 3, 2018",9:00 pm/est,,REG,,Idaho State,Big Sky,W,75,64,,23,7,W 3,Adams Center/Dahlberg Arena
-30,31,"Thu, Mar 8, 2018",3:05 pm/est,,CTOURN,N,North Dakota,Big Sky,W,84,76,,24,7,W 4,
-31,32,"Fri, Mar 9, 2018",8:30 pm/est,,CTOURN,N,Northern Colorado,Big Sky,W,91,89,OT,25,7,W 5,
-32,33,"Sat, Mar 10, 2018",8:00 pm/est,,CTOURN,N,Eastern Washington,Big Sky,W,82,65,,26,7,W 6,
-33,34,"Thu, Mar 15, 2018",9:50 pm/est,,NCAA,N,Michigan (7),Big Ten,,,,,,,,
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",9:00p,REG,,Georgia State,Sun Belt,W,81,74,,1,0,W 1,Adams Center/Dahlberg Arena
+1,2,"Mon, Nov 12, 2018",9:00p,REG,,Montana Tech,,W,79,55,,2,0,W 2,Adams Center/Dahlberg Arena
+2,3,"Fri, Nov 16, 2018",11:00a,REG,N,Incarnate Word,Southland,W,93,66,,3,0,W 3,Kendal Isaacs Gymnasium
+3,4,"Sat, Nov 17, 2018",5:00p,REG,N,Miami (OH),MAC,W,73,71,,4,0,W 4,Kendal Isaacs Gymnasium
+4,5,"Sun, Nov 18, 2018",8:00p,REG,N,Georgia Southern,Sun Belt,L,77,80,,4,1,L 1,Kendal Isaacs Gymnasium
+5,6,"Wed, Nov 28, 2018",8:30p,REG,@,Creighton,Big East,L,72,98,,4,2,L 2,CenturyLink Center
+6,7,"Mon, Dec 3, 2018",9:00p,REG,,College of Idaho,,W,80,52,,5,2,W 1,Adams Center/Dahlberg Arena
+7,8,"Sat, Dec 8, 2018",10:00p,REG,@,UC-Irvine,Big West,L,51,60,,5,3,L 1,Bren Events Center
+8,9,"Mon, Dec 17, 2018",9:00p,REG,,North Dakota State,Summit,W,60,53,,6,3,W 1,Adams Center/Dahlberg Arena
+9,10,"Wed, Dec 19, 2018",8:30p,REG,@,Arizona,Pac-12,L,42,61,,6,4,L 1,McKale Center
+10,11,"Sat, Dec 22, 2018",8:00p,REG,@,South Dakota State,Summit,W,85,74,,7,4,W 1,Frost Arena
+11,12,"Sat, Dec 29, 2018",4:00p,REG,@,Northern Arizona,Big Sky,W,86,73,,8,4,W 2,Walkup Skydome
+12,13,"Mon, Dec 31, 2018",8:30p,REG,@,Southern Utah,Big Sky,W,89,76,,9,4,W 3,Centrum
+13,14,"Thu, Jan 3, 2019",9:05p,REG,,Sacramento State,Big Sky,W,87,56,,10,4,W 4,Adams Center/Dahlberg Arena
+14,15,"Sat, Jan 5, 2019",9:00p,REG,,Portland State,Big Sky,L,74,77,OT,10,5,L 1,Adams Center/Dahlberg Arena
+15,16,"Thu, Jan 10, 2019",9:05p,REG,@,Eastern Washington,Big Sky,L,71,78,,10,6,L 2,Reese Court
+16,17,"Sat, Jan 12, 2019",4:00p,REG,@,Northern Colorado,Big Sky,W,88,64,,11,6,W 1,Bank of Colorado Arena
+17,18,"Sat, Jan 19, 2019",10:00p,REG,@,Idaho,Big Sky,W,69,51,,12,6,W 2,Cowan Spectrum
+18,19,"Thu, Jan 24, 2019",9:00p,REG,,Idaho State,Big Sky,W,80,69,,13,6,W 3,Adams Center/Dahlberg Arena
+19,20,"Sat, Jan 26, 2019",9:00p,REG,,Weber State,Big Sky,W,75,68,,14,6,W 4,Adams Center/Dahlberg Arena
+20,21,"Sat, Feb 2, 2019",9:00p,REG,@,Montana State,Big Sky,W,83,78,,15,6,W 5,Max Worthington Arena
+21,22,"Thu, Feb 7, 2019",9:00p,REG,,Idaho,Big Sky,W,100,59,,16,6,W 6,Adams Center/Dahlberg Arena
+22,23,"Sat, Feb 9, 2019",9:00p,REG,,Eastern Washington,Big Sky,W,75,74,,17,6,W 7,Adams Center/Dahlberg Arena
+23,24,"Thu, Feb 14, 2019",9:00p,REG,@,Weber State,Big Sky,W,83,80,,18,6,W 8,Dee Events Center
+24,25,"Sat, Feb 16, 2019",9:05p,REG,@,Idaho State,Big Sky,W,80,68,,19,6,W 9,Reed Gym
+25,26,"Sat, Feb 23, 2019",9:00p,REG,,Montana State,Big Sky,W,89,83,,20,6,W 10,Adams Center/Dahlberg Arena
+26,27,"Mon, Feb 25, 2019",9:00p,REG,,Northern Colorado,Big Sky,L,72,74,,20,7,L 1,Adams Center/Dahlberg Arena
+27,28,"Sat, Mar 2, 2019",9:00p,REG,,Southern Utah,Big Sky,W,70,54,,21,7,W 1,Adams Center/Dahlberg Arena
+28,29,"Mon, Mar 4, 2019",9:00p,REG,,Northern Arizona,Big Sky,W,66,64,,22,7,W 2,Adams Center/Dahlberg Arena
+29,30,"Thu, Mar 7, 2019",10:05p,REG,@,Portland State,Big Sky,L,69,81,,22,8,L 1,Peter W. Stott Center
+30,31,"Sat, Mar 9, 2019",10:05p,REG,@,Sacramento State,Big Sky,W,86,68,,23,8,W 1,The Nest
+31,32,"Thu, Mar 14, 2019",2:00p,CTOURN,N,Sacramento State,Big Sky,W,79,73,,24,8,W 2,CenturyLink Arena
+32,33,"Fri, Mar 15, 2019",7:30p,CTOURN,N,Weber State,Big Sky,W,78,49,,25,8,W 3,CenturyLink Arena
+33,34,"Sat, Mar 16, 2019",8:00p,CTOURN,N,Eastern Washington,Big Sky,W,68,62,,26,8,W 4,CenturyLink Arena
+34,35,"Thu, Mar 21, 2019",9:20p,NCAA,N,Michigan (10),Big Ten,,,,,,,,

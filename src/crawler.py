@@ -36,6 +36,8 @@ def get_roster(school):
     soup = BeautifulSoup(r.text, 'html.parser')
     roster = format_table(soup.select('table#roster tbody tr'))
     df = pd.DataFrame.from_records(roster)
+    if df.shape[1] == 10: # Some high-level teams have an extra RSCI column
+        df = df.drop([8], axis=1)
     df.columns = ['Name', 'Number', 'Year', 'Position', 'Height', 'Weight',
                   'Hometown', 'High School', 'Stats']
     df[['PPG', 'RPG', 'APG']] = df['Stats'].str.split(', ', expand=True)
@@ -57,7 +59,7 @@ def get_schedule(school):
     schedule = format_table(soup.find('table', id='schedule').find('tbody')
                             .find_all('tr', class_=''))
     df = pd.DataFrame.from_records(schedule)
-    df.columns = ['Game', 'Date', 'Time', 'Network', 'Type', 'Home/Away',
+    df.columns = ['Game', 'Date', 'Time', 'Type', 'Home/Away',
                   'Opponent', 'Conference', 'Outcome', 'Team Points',
                   'Opponent Points', 'OT', 'Opponent Wins', 'Opponent Losses',
                   'Streak', 'Arena']
@@ -67,7 +69,7 @@ def get_schedule(school):
 def get_boxscore(school, row):
     dt = parse(row['Date'])
     dt = '%d-%02d-%02d' % (dt.year, dt.month, dt.day)
-    tm = '%02d' % (datetime.strptime(row['Time'], '%I:%M %p/est')
+    tm = '%02d' % (datetime.strptime(row['Time'] + 'm', '%I:%M%p')
                    .time().hour)
     ha = str(row['Home/Away'])
     opponent = utils.clean_opponent_name(row['Opponent'])

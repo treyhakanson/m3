@@ -1,19 +1,18 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,RJ Cole,2,FR,G,6-1,175,"Union, NJ",, 23.8 Pts,3.9 Reb,6.0 Ast
-1,Charles Williams,13,SO,F,6-4,170,"Richmond, VA",Millwood School, 20.4 Pts,3.4 Reb,0.6 Ast
-2,Kyle Foster,11,FR,G,6-5,165,"Hampton, VA",, 6.4 Pts,1.8 Reb,0.8 Ast
-3,Zion Cousins,10,FR,F,6-7,185,"Upper Marlboro, MD",, 5.8 Pts,7.1 Reb,0.5 Ast
-4,Dalique Mingo,00,SR,G,6-2,185,"Long Island, NY",Farmingdale HS, 4.7 Pts,2.4 Reb,1.3 Ast
-5,Cameron Lewis,25,JR,C,6-8,220,"Buffalo, NY",Nichols School, 4.0 Pts,3.6 Reb,1.0 Ast
-6,Jalen Jones,23,JR,F,6-3,200,"Kinston, NC",Raleigh High School, 3.4 Pts,4.9 Reb,0.9 Ast
-7,Marcus Hall,,SO,F,6-7,220,"College Park, GA",, 2.3 Pts,2.6 Reb,0.6 Ast
-8,Nate Garvey,3,FR,G,6-4,170,"Montvale, NJ",, 2.0 Pts,0.4 Reb,0.4 Ast
-9,Kai Tease,1,FR,G,6-0,175,"Antelope, CA",, 4.3 Pts,0.8 Reb,0.4 Ast
-10,Ibrahim Dosunmu,,FR,F,6-7,200,"Chicago, IL",, 2.5 Pts,2.3 Reb,0.3 Ast
-11,Michael Obindu,34,,C,6-8,230,"Los Angeles, CA",Cathedral High School, 0.8 Pts,1.5 Reb,0.2 Ast
-12,Justin Cotten,24,JR,G,6-0,180,"Clinton, MD",, 0.4 Pts,0.2 Reb,0.2 Ast
-13,Phillip Jones,,,G,6-0,175,,, 0.0 Pts,0.0 Reb,0.0 Ast
-14,Chad Lott,21,,G,6-3,185,"Shreveport, LA",Byrd HS, 0.0 Pts,1.0 Reb,0.0 Ast
-15,Henry Odunze,44,FR,C,6-8,185,"Erwin, NC",, 0.0 Pts,0.5 Reb,0.0 Ast
-16,Burke Hassan,12,,F,6-7,190,,,,,
-17,Tyler Williams,4,,C,6-9,250,,,,,
+0,RJ Cole,2,SO,G,6-1,185,"Union, NJ",St. Anthony High School, 21.6 Pts,3.9 Reb,6.4 Ast
+1,Charles Williams,13,JR,G,6-6,188,"Richmond, VA",Millwood School, 17.9 Pts,2.7 Reb,0.7 Ast
+2,Chad Lott,21,JR,G,6-4,190,"Shreveport, LA",Byrd HS, 14.2 Pts,5.1 Reb,2.3 Ast
+3,Zion Cousins,10,SO,F,6-8,195,"Upper Marlboro, MD",Frederick Douglass High School, 5.0 Pts,7.3 Reb,0.8 Ast
+4,Raymond Bethea Jr.,4,FR,G,6-6,185,"Atlantic City, NJ",Atlantic City HS, 5.1 Pts,1.2 Reb,0.9 Ast
+5,Akuwovo Ogheneyole,12,FR,C,6-9,215,"Delta State, Nigeria",Ranney School, 4.6 Pts,5.3 Reb,0.3 Ast
+6,Andre Toure,1,FR,F,6-8,195,"Paris, France",St. Benedict's Prep, 4.8 Pts,3.4 Reb,0.6 Ast
+7,Kyle Foster,11,SO,G,6-6,175,"Hampton, VA",Hampton High School, 4.3 Pts,0.6 Reb,0.3 Ast
+8,Princewill Anosike,35,FR,C,6-9,225,"Lagos, Nigeria",Believe Prep, 1.7 Pts,2.9 Reb,0.2 Ast
+9,Jalen Jones,23,SR,F,6-5,200,"Kinston, NC",Raleigh High School, 1.3 Pts,1.8 Reb,1.2 Ast
+10,Nate Garvey,3,SO,G,6-3,180,"Nanuet, NY",St. Joseph High School, 2.4 Pts,0.3 Reb,0.1 Ast
+11,Langston Gaither,0,FR,G,6-4,197,"Alexandria, VA",Hayfield HS, 2.9 Pts,0.6 Reb,0.4 Ast
+12,Cameron Lewis,25,SR,F,6-8,235,"Buffalo, NY",Nichols School, 1.6 Pts,1.6 Reb,0.1 Ast
+13,Justin Cotten,24,SR,G,5-11,180,"Clinton, MD",Bishop McNamara High School, 0.9 Pts,0.8 Reb,1.2 Ast
+14,Marcus Hall,5,SO,F,6-7,205,"Atlanta, GA",Woodward Academy, 2.0 Pts,1.0 Reb,0.0 Ast
+15,Phillip Jones,15,JR,G,6-1,175,"Atlanta, GA",The Westminster School, 0.4 Pts,0.6 Reb,0.4 Ast
+16,Michael Barber,20,FR,F,6-9,225,"Jackson, MO",Jackson Academy,,,

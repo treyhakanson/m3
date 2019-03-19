@@ -1,16 +1,16 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Jairus Lyles,10,SR,G,6-2,175,"Silver Spring, MD",DeMatha Catholic, 20.2 Pts,5.6 Reb,3.5 Ast
-1,Joe Sherburne,13,JR,F,6-6,210,"Whitefish Bay, WI",Whitefish Bay HS, 10.9 Pts,3.9 Reb,1.9 Ast
-2,K.J. Maura,11,SR,G,5-7,150,Puerto Rico,Arlington Country Day, 11.4 Pts,2.2 Reb,5.2 Ast
-3,Arkel Lamar,33,SO,F,6-5,210,"Bridgeport, CT",St. Thomas More Prep, 10.5 Pts,5.8 Reb,1.1 Ast
-4,Jourdan Grant,5,SR,G,6-2,180,"Bowie, MD",Archbishop Spalding HS, 7.6 Pts,2.3 Reb,2.6 Ast
-5,Max Curran,56,SO,F,6-9,190,"Hooksett, NH",Notre Dame Preparatory, 4.8 Pts,3.2 Reb,0.2 Ast
-6,Daniel Akin,30,FR,F,6-9,215,United Kingdom,, 3.6 Pts,3.4 Reb,0.3 Ast
-7,Brandon Horvath,12,FR,F,6-9,200,"West River, MD",, 3.4 Pts,2.1 Reb,0.4 Ast
-8,Nolan Gerrity,35,JR,C,6-10,225,"Cleveland, OH",Barea-Midpark HS, 3.0 Pts,3.2 Reb,0.7 Ast
-9,Max Portmann,34,JR,F,6-7,220,"Wichita Falls, TX",, 4.3 Pts,2.0 Reb,0.2 Ast
-10,Ishmail Jabbie,4,JR,G,6-3,170,"Bowie, MD",Eleanor Roosevelt HS, 2.5 Pts,1.2 Reb,0.4 Ast
-11,Josh Rosario,1,FR,G,6-2,205,"Miami, FL",, 1.6 Pts,0.5 Reb,0.7 Ast
-12,David Park,25,,G,6-5,215,"Wheeling, WV",, 0.5 Pts,0.0 Reb,0.0 Ast
-13,Isiah Rogers,,,G,5-1,180,,, 0.0 Pts,0.0 Reb,0.0 Ast
-14,Sam Schwietz,21,,C,6-9,235,"Frisco, TX",Johnson Ferry Christian Academy (GA), 0.0 Pts,0.0 Reb,0.0 Ast
+0,Joe Sherburne,13,SR,F,6-6,220,"Whitefish Bay, WI",Whitefish Bay HS, 13.9 Pts,5.6 Reb,3.0 Ast
+1,KJ Jackson,3,JR,G,6-2,180,"Houston, TX",Hightower HS, 12.8 Pts,3.8 Reb,3.1 Ast
+2,Arkel Lamar,33,JR,F,6-5,235,"Bridgeport, CT",St. Thomas More Prep, 9.3 Pts,4.9 Reb,1.1 Ast
+3,Brandon Horvath,12,SO,F,6-10,200,"West River, MD",Southern High School, 9.1 Pts,4.4 Reb,1.0 Ast
+4,Ricky Council II,22,JR,G,6-5,210,"Durham, NC",Moravian Prep HS, 5.8 Pts,1.4 Reb,0.5 Ast
+5,Jose Placer,15,FR,G,6-2,185,"Orlando, FL",Master's Academy, 5.6 Pts,1.3 Reb,1.5 Ast
+6,R.J. Eytle-Rock,11,FR,G,6-3,225,"London, United Kingdom",, 5.1 Pts,2.7 Reb,1.8 Ast
+7,Max Curran,23,JR,F,6-9,205,"Hooksett, NH",Notre Dame Preparatory, 7.5 Pts,5.1 Reb,0.3 Ast
+8,Sam Schwietz,21,JR,F,6-9,225,"Frisco, TX",Johnson Ferry Christian Academy (GA), 2.3 Pts,2.8 Reb,0.8 Ast
+9,Daniel Akin,30,SO,F,6-9,215,"Eltham, United Kingdom",Barking Abbey, 7.4 Pts,8.0 Reb,0.9 Ast
+10,Nolan Gerrity,35,SR,F,6-10,235,"Cleveland, OH",Barea-Midpark HS, 1.2 Pts,1.7 Reb,0.5 Ast
+11,Jack Schwietz,5,FR,G,6-5,210,"Frisco, TX",Findlay Preparatory Academy, 1.6 Pts,1.0 Reb,0.6 Ast
+12,Josh Rosario,1,SO,G,6-2,205,"Miami, FL",Miami Christian School, 0.8 Pts,0.7 Reb,0.4 Ast
+13,Isiah Rogers,0,SR,G,6-2,190,"West Orange, NJ",Jonathan Dayton High School, 0.7 Pts,0.0 Reb,0.0 Ast
+14,Max Portmann,34,SR,F,6-7,220,"Wichita Falls, TX",Rider High School,,,

@@ -1,16 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Chandler Hutchison,15,SR,G,6-7,190,"Mission Viejo, CA",Mission Viejo HS, 19.3 Pts,7.5 Reb,3.5 Ast
-1,Christian Sengfelder,43,SR,F,6-7,238,Germany,Urspring Academy, 11.7 Pts,6.4 Reb,0.6 Ast
-2,Justinian Jessup,3,SO,G,6-6,193,"Longmont, CO",Longmont High School, 11.7 Pts,4.8 Reb,1.7 Ast
-3,Lexus Williams,2,SR,G,6-0,160,"Chicago, IL",Marist HS, 9.7 Pts,2.3 Reb,2.4 Ast
-4,Alex Hobbs,34,SO,G,6-4,189,"La Porte, TX",LaPorte High School, 8.8 Pts,2.6 Reb,2.5 Ast
-5,Zach Haney,11,JR,F,6-11,232,"Humble, TX",Atascocita HS, 6.8 Pts,5.7 Reb,0.7 Ast
-6,Marcus Dickinson,0,SO,G,6-2,177,"Norman, OK",Norman North High School, 5.7 Pts,2.3 Reb,1.4 Ast
-7,Robin Jorch,10,JR,C,6-10,257,Germany,International Berlin Basketball Academy, 1.6 Pts,1.6 Reb,0.1 Ast
-8,David Wacker,33,JR,F,6-10,238,"Converse, TX",Judson HS, 1.4 Pts,1.5 Reb,0.0 Ast
-9,Cam Christon,1,FR,G,6-6,188,"Allen, TX",, 2.0 Pts,1.2 Reb,0.6 Ast
-10,Casdon Jardine,22,SO,G,6-7,218,"Twin Falls, ID",, 1.6 Pts,1.2 Reb,0.1 Ast
-11,Malek Harwell,5,SO,G,6-4,190,"Pocatello, ID",Century HS, 1.1 Pts,0.4 Reb,0.3 Ast
-12,Derrick Alston,21,FR,G,6-8,153,"Houston, TX",, 0.6 Pts,0.5 Reb,0.2 Ast
-13,Daniel Holst,20,,G,6-7,190,,,,,
-14,Matt Serven,4,,G,6-4,166,,,,,
+0,Justinian Jessup,3,JR,G,6-6,202,"Longmont, CO",Longmont High School, 14.0 Pts,4.5 Reb,2.7 Ast
+1,Derrick Alston,21,SO,G,6-8,185,"Houston, TX",Strake Jesuit College Preparatory, 13.4 Pts,3.9 Reb,1.1 Ast
+2,Alex Hobbs,34,JR,G,6-4,190,"La Porte, TX",LaPorte High School, 12.1 Pts,3.5 Reb,2.0 Ast
+3,Zach Haney,11,SR,F,6-11,235,"Houston, TX",Atascocita HS, 8.7 Pts,4.3 Reb,1.0 Ast
+4,Roderick Williams,23,JR,G,6-7,210,"Los Angeles, CA",, 9.3 Pts,4.2 Reb,0.8 Ast
+5,Marcus Dickinson,0,JR,G,6-2,180,"Norman, OK",Norman North High School, 6.5 Pts,2.6 Reb,1.9 Ast
+6,Pat Dembley,13,JR,G,6-1,173,"Minneapolis, MN",, 5.4 Pts,2.0 Reb,1.5 Ast
+7,David Wacker,33,SR,F,6-10,233,"Converse, TX",Judson HS, 2.7 Pts,3.2 Reb,1.0 Ast
+8,Malek Harwell,5,JR,G,6-5,188,"Pocatello, ID",Century HS, 2.2 Pts,0.7 Reb,0.5 Ast
+9,Riley Abercrombie,22,FR,F,6-8,206,"Wollongong, Australia",Clear Lake HS,,,
+10,Jaycson Bereal,2,FR,G,6-6,198,"Tulsa, OK",Booker T Washington Sr HS,,,
+11,Cam Christon,1,SO,G,6-6,192,"Allen, TX",Allen High School,,,
+12,Mikey Frazier,45,FR,F,6-10,260,"Salt Lake City, UT",East HS,,,
+13,Bing Huang,4,FR,G,6-4,173,"Westlake Village, CA",Brewster Academy,,,
+14,Robin Jorch,10,SR,C,6-11,240,"Berlin, Germany",International Berlin Basketball Academy,,,
+15,Max Rice,12,FR,G,6-4,191,"Boise, ID",Bishop Kelly HS,,,

@@ -1,13 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Lindell Wigginton,5,FR,G,6-2,188,"Dartmouth, NS",, 16.7 Pts,3.7 Reb,2.8 Ast
-1,Donovan Jackson,4,SR,G,6-2,175,"Milwaukee, WI",Pius Xi High School, 15.0 Pts,2.1 Reb,2.1 Ast
-2,Cameron Lard,2,FR,F,6-9,220,"Natchitoches, LA",, 12.6 Pts,8.1 Reb,0.6 Ast
-3,Nick Weiler-Babb,1,JR,G,6-5,201,"Arlington, TX",Martin High School, 11.3 Pts,7.0 Reb,6.8 Ast
-4,Solomon Young,33,SO,F,6-8,240,"Sacramento, CA",Sacramento High School, 7.2 Pts,5.9 Reb,0.7 Ast
-5,Zoran Talley,23,JR,F,6-7,195,"Merrillville, IN",Merrillville HS, 7.5 Pts,4.0 Reb,1.7 Ast
-6,Jeff Beverly,55,SR,F,6-6,250,"League City, TX",Clear Springs High School, 4.7 Pts,3.0 Reb,0.5 Ast
-7,Terrence Lewis,24,FR,G,6-6,198,"Milwaukee, WI",, 3.4 Pts,1.3 Reb,0.3 Ast
-8,Hans Brase,30,SR,F,6-8,231,"Clover, SC",Hill School (PA), 2.4 Pts,3.8 Reb,0.6 Ast
-9,Jakolby Long,13,SO,G,6-5,208,"Mustang, OK",Mustang High School, 1.9 Pts,1.3 Reb,0.6 Ast
-10,Michael Jacobson,12,,F,6-9,231,"Waukee, IA",Waukee HS,,,
-11,Marial Shayok,3,,G,6-6,201,Canada,Blair Academy,,,
+0,Marial Shayok,3,SR,G,6-6,198,"Ottawa, Canada",Blair Academy, 18.6 Pts,4.9 Reb,2.0 Ast
+1,Talen Horton-Tucker,11,FR,G,6-4,233,"Chicago, IL",Simeon HS, 12.1 Pts,5.0 Reb,2.4 Ast
+2,Michael Jacobson,12,JR,F,6-9,230,"Waukee, IA",Waukee HS, 11.5 Pts,6.0 Reb,0.8 Ast
+3,Lindell Wigginton,5,SO,G,6-2,189,"Dartmouth, Canada",Oak Hill Academy, 13.4 Pts,4.1 Reb,2.2 Ast
+4,Nick Weiler-Babb,1,SR,G,6-5,205,"Arlington, TX",Martin High School, 9.2 Pts,5.0 Reb,4.0 Ast
+5,Tyrese Haliburton,22,FR,G,6-5,172,"Oshkosh, WI",North HS, 7.0 Pts,3.5 Reb,3.6 Ast
+6,Cameron Lard,2,SO,F,6-9,245,"Natchitoches, LA",Natchitoches Central High School, 5.3 Pts,2.6 Reb,0.5 Ast
+7,Terrence Lewis,24,SO,G,6-6,203,"Milwaukee, WI",Riverside High School, 4.3 Pts,1.0 Reb,0.1 Ast
+8,George Conditt IV,4,FR,F,6-10,216,"Chicago, IL",Corliss HS, 2.0 Pts,1.7 Reb,0.1 Ast
+9,Zoran Talley,23,JR,F,6-7,198,"Merrillville, IN",Merrillville HS, 1.8 Pts,1.0 Reb,0.4 Ast
+10,Zion Griffin,0,FR,F,6-6,205,"Darien, IL",Hinsdale South HS, 1.8 Pts,1.6 Reb,0.1 Ast
+11,Solomon Young,33,JR,F,6-8,243,"Sacramento, CA",Sacramento High School, 1.8 Pts,1.5 Reb,0.0 Ast
+12,Nate Schuster,10,FR,G,6-4,185,"Menomonee Falls, WI",Menomonee Falls HS, 1.0 Pts,1.7 Reb,0.0 Ast
+13,Eric Steyer,25,FR,G,6-5,170,"Ames, IA",Ames HS, 0.3 Pts,0.2 Reb,0.5 Ast
+14,Carter Boothe,15,FR,G,6-0,193,"Leon, IA",Central Decatur HS, 0.0 Pts,0.3 Reb,0.3 Ast
+15,Prentiss Nixon,13,SR,G,6-2,189,"Bolingbrook, IL",Bolingbrook HS,,,

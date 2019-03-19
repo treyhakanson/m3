@@ -1,15 +1,16 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Charles Brown III,13,JR,PF,6-7,215,"New Orleans, LA",, 13.5 Pts,5.2 Reb,1.2 Ast
-1,Shawn Johnson,41,SR,G,6-4,195,"New Orleans, LA",Alief Hastings HS, 12.1 Pts,6.8 Reb,1.9 Ast
-2,Christian Peevy,4,FR,SF,6-6,180,"Chicago, IL",Mount Carmel High School, 7.8 Pts,3.6 Reb,0.5 Ast
-3,Simi Socks,3,JR,PF,6-6,210,"Coppell, TX",Coppell (TX), 8.1 Pts,3.4 Reb,0.4 Ast
-4,Keaton Hervey,14,FR,G,6-7,190,"Cedar Park, TX",, 8.0 Pts,2.3 Reb,1.2 Ast
-5,Sam Burmeister,15,SR,G,6-5,200,"San Antonio, TX",Churchill, 7.7 Pts,2.8 Reb,1.0 Ast
-6,Cody Graham,10,FR,PG,5-10,165,"Fresno, TX",, 4.5 Pts,1.5 Reb,2.5 Ast
-7,Augustine Ene,12,FR,G,6-4,195,"Carrollton, TX",, 3.9 Pts,1.8 Reb,0.9 Ast
-8,Jalin Hart,1,SR,PG,5-11,152,"Houston, TX",North Shore HIgh School, 8.4 Pts,2.4 Reb,3.9 Ast
-9,Jorden Kite,23,SO,SG,6-3,180,"San Antonio, TX",Clark High School, 3.2 Pts,1.2 Reb,0.7 Ast
-10,Konstantin Kulikov,32,,C,7-0,235,,, 3.9 Pts,3.4 Reb,0.4 Ast
-11,Devin Wyatt,5,SR,C,6-7,195,"Desoto, TX",De Soto, 2.0 Pts,2.0 Reb,0.1 Ast
-12,Myles Thornton,0,JR,PF,6-6,190,"Selma, TX",Sam Houston HIgh School, 0.1 Pts,0.1 Reb,0.0 Ast
-13,Marek Hulva,20,,C,6-8,230,Czech Republic,Slezske Gymnazium Opava,,,
+0,Christian Peevy,4,SO,F,6-6,185,"Chicago, IL",Mount Carmel High School, 13.1 Pts,4.4 Reb,1.0 Ast
+1,Charles Brown III,13,SR,F,6-7,215,"New Orleans, LA",St. Augustine High School, 10.8 Pts,2.7 Reb,0.8 Ast
+2,Augustine Ene,12,SO,G,6-4,205,"Carrollton, TX",Creekview High School, 9.9 Pts,3.6 Reb,1.2 Ast
+3,Antoine Smith Jr,1,FR,F,6-7,215,"Westerville, OH",, 7.3 Pts,3.3 Reb,0.5 Ast
+4,Dwight Murray Jr,0,FR,G,6-0,165,"Austell, GA",Pebblebrook HS, 6.6 Pts,2.2 Reb,2.2 Ast
+5,Morgan Taylor,20,FR,G,6-3,174,"Chicago, IL",Marist HS, 11.5 Pts,2.6 Reb,3.2 Ast
+6,Jordan Caruso,2,FR,G,6-3,178,"New York City, NY",Middlebrooks Prep, 4.9 Pts,2.5 Reb,1.7 Ast
+7,Cody Graham,10,SO,G,5-10,165,"Fresno, TX",St. Pius High School, 4.1 Pts,1.9 Reb,1.8 Ast
+8,Jorden Kite,23,JR,G,6-3,185,"San Antonio, TX",Clark High School, 2.8 Pts,0.9 Reb,0.3 Ast
+9,Bryce Davis,24,FR,F,6-7,215,"Glendale, AZ",Deer Valley HS, 3.2 Pts,1.4 Reb,0.2 Ast
+10,Romello Wilbert,5,FR,G,6-2,185,"The Woodlands, TX",The Woodlands HS, 2.2 Pts,2.9 Reb,0.8 Ast
+11,Des Balentine,11,JR,G,6-0,178,"Kokomo, IN",,,,
+12,Keaton Hervey,14,SO,G,6-7,190,"Cedar Park, TX",Cedar Park High School,,,
+13,Corey Sato,21,FR,F,6-6,190,"Amarillo, TX",Randall HS,,,
+14,Brandon Swaby,25,FR,G,6-3,170,"Fort Lauderdale, FL",Northeast HS,,,

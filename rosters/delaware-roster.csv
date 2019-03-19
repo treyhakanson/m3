@@ -1,14 +1,16 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Ryan Daly,0,SO,G,6-4,185,"Ardmore, PA",Archbishop Carroll High School, 17.5 Pts,6.2 Reb,2.4 Ast
-1,Ryan Allen,2,FR,G,6-2,195,"Bowie, MD",, 15.3 Pts,2.5 Reb,1.5 Ast
-2,Eric Carter,5,JR,F,6-9,230,"Jackson, NJ",Jackson Memorial HS, 11.0 Pts,9.1 Reb,1.8 Ast
-3,Anthony Mosley,3,SR,G,6-1,180,"Wilmington, DE",Sanford HS, 10.3 Pts,4.3 Reb,2.9 Ast
-4,Darian Bryant,4,JR,G,6-4,220,"Bowie, MD",St. John's College HS, 5.8 Pts,2.6 Reb,1.7 Ast
-5,Kevin Anderson,1,FR,G,6-5,180,"Williamsport, PA",, 13.7 Pts,4.9 Reb,2.9 Ast
-6,Skye Johnson,25,SR,F,6-8,240,"Dumfries, VA",Virginia Episcopal, 4.7 Pts,2.9 Reb,0.3 Ast
-7,Chyree Walker,11,FR,F,6-5,195,"Fairfax, VA",, 3.9 Pts,2.4 Reb,0.6 Ast
-8,Jacob Cushing,22,SO,F,6-8,185,"Naperville, IL",Neuqua Valley High School, 3.7 Pts,2.3 Reb,0.4 Ast
-9,Derrick Woods,20,SO,F,6-8,225,"Trenton, NJ",Pennsybury HS, 5.8 Pts,5.0 Reb,0.6 Ast
-10,Connor Rufo,10,FR,G,6-3,190,"Hockessin, DE",, 0.5 Pts,0.5 Reb,0.2 Ast
-11,Curtis Lochner,15,JR,G,5-10,175,"Willow Grove, PA",Abington HS, 0.1 Pts,0.1 Reb,0.0 Ast
-12,Collin Goss,33,,F,6-11,225,"Manassas, VA",St. Stephens & St. Agnes HS,,,
+0,Eric Carter,5,SR,F,6-9,235,"Jackson, NJ",Jackson Memorial HS, 15.8 Pts,9.7 Reb,2.3 Ast
+1,Ithiel Horton,12,FR,G,6-3,200,"Vauxhall, NJ",Roselle Catholic HS, 13.2 Pts,3.1 Reb,1.6 Ast
+2,Ryan Allen,0,SO,G,6-2,200,"Bowie, MD",DeMatha Catholic High School, 16.0 Pts,2.4 Reb,2.3 Ast
+3,Kevin Anderson,1,SO,G,6-5,190,"Williamsport, PA",St. John Neumann High School, 10.7 Pts,4.2 Reb,3.8 Ast
+4,Darian Bryant,4,SR,G,6-4,200,"Bowie, MD",St. John's College HS, 6.7 Pts,3.2 Reb,2.3 Ast
+5,Matt Veretto,32,FR,F,6-7,210,"Manchester, CT",East Catholic HS, 6.4 Pts,2.8 Reb,0.4 Ast
+6,Ryan Johnson,13,SR,G,6-5,195,"Greensboro, NC",New Hope Christian Academy, 3.5 Pts,2.8 Reb,0.8 Ast
+7,Collin Goss,33,JR,F,6-11,230,"Manassas, VA",St. Stephens & St. Agnes HS, 3.1 Pts,2.7 Reb,0.3 Ast
+8,Jacob Cushing,22,JR,F,6-8,215,"Naperville, IL",Neuqua Valley High School, 3.9 Pts,1.3 Reb,0.4 Ast
+9,Connor Rufo,10,SO,G,6-3,195,"Hockessin, DE",Sanford School, 1.1 Pts,0.3 Reb,0.0 Ast
+10,Davis Long,23,FR,G,6-2,185,"Brookeville, MD",Sherwood HS, 0.7 Pts,0.4 Reb,0.3 Ast
+11,Nate Darling,3,JR,G,6-5,200,"Halifax, Canada",DeMatha Catholic High School,,,
+12,Curtis Lochner,2,SR,G,5-10,175,"Willow Grove, PA",Abington HS,,,
+13,Justyn Mutts,25,SO,F,6-7,220,"Millville, NJ",St. Augustine College Preparatory School,,,
+14,Aleks Novakovich,15,FR,F,6-9,200,"Hobart, IN",,,,

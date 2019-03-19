@@ -1,16 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Jalen Brunson,1,JR,G,6-3,199,"Lincolnshire, IL",Adlai Stevenson HS, 19.4 Pts,3.1 Reb,4.7 Ast
-1,Mikal Bridges,25,JR,G,6-7,191,"Malvern, PA",Great Valley HS, 18.0 Pts,5.4 Reb,2.1 Ast
-2,Donte DiVincenzo,10,SO,G,6-5,200,"Wilmington, DE",Salesianum HS, 13.1 Pts,4.6 Reb,3.4 Ast
-3,Omari Spellman,14,FR,F,6-9,260,"North Royalton, OH",, 10.7 Pts,7.9 Reb,0.8 Ast
-4,Eric Paschall,4,JR,F,6-6,205,"Dobbs Ferry, NY",Dobbs Ferry, 10.3 Pts,5.1 Reb,2.3 Ast
-5,Phil Booth,5,JR,G,6-3,185,"Baltimore, MD",Mount Saint Joseph HS, 10.9 Pts,3.0 Reb,2.8 Ast
-6,Collin Gillespie,2,FR,G,6-3,190,"Warminster, PA",, 4.5 Pts,1.3 Reb,1.2 Ast
-7,Dhamir Cosby-Roundtree,21,FR,F,6-9,220,"Philadelphia, PA",, 3.1 Pts,2.4 Reb,0.1 Ast
-8,Jermaine Samuels,23,FR,F,6-5,225,"Franklin, MA",, 1.2 Pts,1.3 Reb,0.3 Ast
-9,Denny Grace,40,SR,G,5-11,175,"Catonsville, MD",Calvert Hall College High School, 0.3 Pts,0.4 Reb,0.0 Ast
-10,Matt Kennedy,35,SR,G,6-2,175,"Fairfax, VA",Flint Hill School, 0.2 Pts,0.3 Reb,0.0 Ast
-11,Tom Leibig,24,SR,F,6-4,195,"Havertown, PA",Haverford Senior High School, 0.2 Pts,0.2 Reb,0.0 Ast
-12,Tim Delaney,34,SO,F,6-9,230,"Mullica Hill, NJ",Pitman High School, 0.0 Pts,0.2 Reb,0.1 Ast
-13,Peyton Heck,22,JR,G,5-11,175,"Wilmington, DE",, 0.0 Pts,0.2 Reb,0.0 Ast
-14,Dylan Painter,42,,F,6-9,245,"Hershey, PA",Hershey High School,,,
+0,Phil Booth,5,SR,G,6-3,194,"Baltimore, MD",Mount Saint Joseph HS, 18.6 Pts,3.9 Reb,3.8 Ast
+1,Eric Paschall,4,SR,F,6-8,255,"Dobbs Ferry, NY",Dobbs Ferry, 16.5 Pts,6.2 Reb,2.2 Ast
+2,Collin Gillespie,2,SO,G,6-3,183,"Warminster, PA",Archbishop Wood High School, 11.1 Pts,2.4 Reb,2.8 Ast
+3,Saddiq Bey,15,FR,F,6-8,220,"Largo, MD",Sidwell Friends HS, 8.4 Pts,5.3 Reb,1.3 Ast
+4,Jermaine Samuels,23,SO,F,6-7,220,"Franklin, MA",Rivers School, 6.1 Pts,5.4 Reb,1.0 Ast
+5,Dhamir Cosby-Roundtree,21,SO,F,6-9,226,"Philadelphia, PA",Neumann-Goretti High School, 5.3 Pts,5.9 Reb,0.9 Ast
+6,Joe Cremo,24,SR,G,6-4,191,"Scotia, NY",Scotia-Glenville HS, 4.3 Pts,1.8 Reb,1.3 Ast
+7,Jahvon Quinerly,1,FR,G,6-1,175,"Hackensack, NJ",Hudson Catholic HS, 3.3 Pts,0.8 Reb,0.9 Ast
+8,Cole Swider,10,FR,F,6-9,210,"Providence, RI",St. Andrews HS, 3.4 Pts,1.3 Reb,0.6 Ast
+9,Dylan Painter,42,SO,F,6-11,224,"Hershey, PA",Hershey High School, 2.5 Pts,3.0 Reb,0.5 Ast
+10,Brandon Slater,3,FR,F,6-7,205,"Centerville, VA",Paul VI HS, 0.3 Pts,0.6 Reb,0.1 Ast
+11,Tim Delaney,34,JR,F,6-8,224,"Mullica Hill, NJ",Pitman High School, 0.2 Pts,0.7 Reb,0.0 Ast
+12,Peyton Heck,22,SR,G,5-11,175,"Wilmington, DE",Archmere Academy, 0.0 Pts,0.5 Reb,0.0 Ast
+13,Tim Saunders,12,SR,G,6-4,200,"Del Mar, CA",Torrey Pines HS, 0.0 Pts,0.0 Reb,0.0 Ast

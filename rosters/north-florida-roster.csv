@@ -1,13 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Ivan Gandia-Rosa,21,SO,G,6-1,185,Puerto Rico,, 13.8 Pts,2.7 Reb,6.2 Ast
-1,Noah Horchler,0,SO,F,6-8,200,"Melbourne, FL",, 11.7 Pts,8.7 Reb,1.3 Ast
-2,J.T. Escobar,3,SO,G,6-2,177,"Tallahassee, FL",, 11.5 Pts,1.9 Reb,1.1 Ast
-3,Trip Day,22,FR,F,6-7,205,"Columbus, GA",, 11.3 Pts,4.2 Reb,0.9 Ast
-4,Garrett Sams,11,SO,G,6-6,190,"Martin, TN",Westview High School, 12.7 Pts,4.3 Reb,1.4 Ast
-5,Wajid Aminu,2,SO,F,6-7,195,"Stone Mountain, GA",, 9.9 Pts,6.6 Reb,1.8 Ast
-6,Osborn Blount,10,SR,G,5-10,173,"Jacksonville, FL",FSCJ, 7.3 Pts,1.8 Reb,1.2 Ast
-7,Ryan Burkhardt,12,FR,G,6-4,185,"Saint Augustine, FL",, 3.5 Pts,1.2 Reb,0.9 Ast
-8,Emmanuel Lambright,1,FR,G,6-6,195,"Sarasota, FL",, 1.3 Pts,1.8 Reb,0.3 Ast
-9,Brian Coffey II,20,FR,G,6-1,170,"Snellville, GA",, 1.3 Pts,0.5 Reb,0.5 Ast
-10,Benedikt Haid,50,SO,G,6-4,190,Austria,BORG Innsbruck, 2.1 Pts,0.9 Reb,0.1 Ast
-11,Chase Driscoll,55,SR,G,5-8,170,"Jacksonville, FL",Bishop Kenny HS, 0.0 Pts,0.1 Reb,0.0 Ast
+0,Noah Horchler,0,JR,F,6-8,210,"Melbourne, FL",Palm Bay High School, 16.0 Pts,9.3 Reb,1.3 Ast
+1,Garrett Sams,11,JR,G,6-7,195,"Martin, TN",Westview High School, 12.5 Pts,4.9 Reb,2.5 Ast
+2,Wajid Aminu,2,JR,F,6-7,190,"Stone Mountain, GA",Joseph Wheeler High School, 11.7 Pts,6.5 Reb,1.4 Ast
+3,Ivan Gandia-Rosa,10,JR,G,6-1,190,"Caguas, Puerto Rico",Huntington Prep, 10.5 Pts,3.2 Reb,5.8 Ast
+4,J.T. Escobar,3,JR,G,6-2,183,"Tallahassee, FL",ELEV|8 Sports Institute, 9.9 Pts,2.0 Reb,1.2 Ast
+5,Carter Hendricksen,23,FR,F,6-7,201,"Lexington, KY",Lexington Christian Academy, 4.3 Pts,3.9 Reb,1.3 Ast
+6,Ezekiel Balogun,4,JR,F,6-6,235,"Lagos, Nigeria",Hamilton Heights High School, 3.7 Pts,3.0 Reb,0.3 Ast
+7,Trip Day,22,SO,F,6-7,223,"Columbus, GA",Glenwood High School, 4.6 Pts,2.5 Reb,0.7 Ast
+8,Ryan Burkhardt,12,SO,G,6-4,180,"Saint Augustine, FL",St. Augustine High School, 2.9 Pts,1.2 Reb,0.4 Ast
+9,Brian Coffey II,20,SO,G,6-1,175,"Snellville, GA",Greater Atlanta Christian School, 2.2 Pts,0.5 Reb,1.2 Ast
+10,Cam Copeland,24,FR,F,6-5,160,"Douglasville, GA",Douglas County HS, 2.4 Pts,0.3 Reb,0.4 Ast
+11,Emmanuel Lambright,1,SO,G,6-6,203,"Sarasota, FL",Sarasota High School, 0.0 Pts,0.0 Reb,2.0 Ast
+12,Christian Schach,21,FR,G,6-1,190,"Tampa, FL",Tampa Prep, 0.0 Pts,0.0 Reb,0.0 Ast
+13,Dorian James,5,FR,F,6-7,185,"Winter Haven, FL",Chain Of Lakes Collegiate HS,,,

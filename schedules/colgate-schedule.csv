@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,NJIT,A-Sun,L,78,81,OT,0,1,L 1,NJIT Wellness and Events Center
+1,2,"Fri, Nov 9, 2018",7:00p,REG,,Monmouth,MAAC,W,87,74,,1,1,W 1,Cotterell Court
+2,3,"Sun, Nov 11, 2018",1:00p,REG,@,Cornell,Ivy,W,73,57,,2,1,W 2,Newman Arena
+3,4,"Wed, Nov 14, 2018",7:00p,REG,,Nazareth,,W,86,68,,3,1,W 3,Cotterell Court
+4,5,"Mon, Nov 19, 2018",7:00p,REG,,Binghamton,AEC,W,76,68,,4,1,W 4,Cotterell Court
+5,6,"Wed, Nov 21, 2018",7:00p,REG,@,Syracuse,ACC,L,56,77,,4,2,L 1,Carrier Dome
+6,7,"Sat, Nov 24, 2018",2:00p,REG,@,Siena,MAAC,W,84,79,,5,2,W 1,Times Union Center 
+7,8,"Fri, Nov 30, 2018",8:30p,REG,@,South Florida,AAC,L,63,73,,5,3,L 1,Sun Dome
+8,9,"Sun, Dec 2, 2018",1:30p,REG,@,Florida Gulf Coast,A-Sun,W,74,56,,6,3,W 1,Alico Arena
+9,10,"Wed, Dec 5, 2018",7:00p,REG,@,Columbia,Ivy,W,64,62,,7,3,W 2,Levien Gym
+10,11,"Sat, Dec 8, 2018",2:00p,REG,@,Penn State,Big Ten,L,65,76,,7,4,L 1,Bryce Jordan Center
+11,12,"Sat, Dec 15, 2018",2:00p,REG,,Marist,MAAC,W,82,66,,8,4,W 1,Cotterell Court
+12,13,"Sat, Dec 29, 2018",4:00p,REG,@,Pittsburgh,ACC,L,54,68,,8,5,L 1,Petersen Events Center
+13,14,"Thu, Jan 3, 2019",7:00p,REG,@,Navy,Patriot,L,66,72,,8,6,L 2,Alumni Hall
+14,15,"Sun, Jan 6, 2019",2:00p,REG,,American,Patriot,W,73,69,,9,6,W 1,Cotterell Court
+15,16,"Wed, Jan 9, 2019",7:00p,REG,@,Bucknell,Patriot,L,81,84,,9,7,L 1,Sojka Pavilion
+16,17,"Sat, Jan 12, 2019",4:00p,REG,,Lehigh,Patriot,W,91,78,,10,7,W 1,Cotterell Court
+17,18,"Wed, Jan 16, 2019",7:00p,REG,@,Army,Patriot,L,81,91,,10,8,L 1,Christl Arena
+18,19,"Sat, Jan 19, 2019",1:00p,REG,@,Boston University,Patriot,W,77,56,,11,8,W 1,Case Gym
+19,20,"Wed, Jan 23, 2019",7:00p,REG,,Lafayette,Patriot,W,57,47,,12,8,W 2,Cotterell Court
+20,21,"Sat, Jan 26, 2019",12:00p,REG,@,Loyola (MD),Patriot,L,72,79,OT,12,9,L 1,Reitz Arena
+21,22,"Wed, Jan 30, 2019",7:00p,REG,,Army,Patriot,W,76,56,,13,9,W 1,Cotterell Court
+22,23,"Sat, Feb 2, 2019",1:00p,REG,,Boston University,Patriot,L,68,76,,13,10,L 1,Cotterell Court
+23,24,"Mon, Feb 4, 2019",7:00p,REG,@,Lehigh,Patriot,W,84,62,,14,10,W 1,Stabler Arena
+24,25,"Sat, Feb 9, 2019",2:00p,REG,,Loyola (MD),Patriot,W,75,72,,15,10,W 2,Cotterell Court
+25,26,"Wed, Feb 13, 2019",7:30p,REG,@,Holy Cross,Patriot,W,74,70,,16,10,W 3,Hart Recreation Center
+26,27,"Sat, Feb 16, 2019",4:00p,REG,@,American,Patriot,W,83,81,OT,17,10,W 4,Bender Arena
+27,28,"Tue, Feb 19, 2019",7:00p,REG,,Bucknell,Patriot,W,75,64,,18,10,W 5,Cotterell Court
+28,29,"Sat, Feb 23, 2019",2:00p,REG,,Navy,Patriot,W,93,71,,19,10,W 6,Cotterell Court
+29,30,"Wed, Feb 27, 2019",6:00p,REG,,Holy Cross,Patriot,W,79,59,,20,10,W 7,Cotterell Court
+30,31,"Sat, Mar 2, 2019",12:00p,REG,@,Lafayette,Patriot,W,76,70,,21,10,W 8,Kirby Sports Center
+31,32,"Thu, Mar 7, 2019",7:00p,CTOURN,,Boston University,Patriot,W,81,69,,22,10,W 9,Cotterell Court
+32,33,"Sun, Mar 10, 2019",12:00p,CTOURN,,Navy,Patriot,W,80,70,,23,10,W 10,Cotterell Court
+33,34,"Wed, Mar 13, 2019",7:30p,CTOURN,,Bucknell,Patriot,W,94,80,,24,10,W 11,Cotterell Court
+34,35,"Fri, Mar 22, 2019",2:45p,NCAA,N,Tennessee (8),SEC,,,,,,,,

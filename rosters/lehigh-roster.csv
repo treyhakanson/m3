@@ -1,15 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Lance Tejada,5,JR,G,6-2,190,"Miramar, FL",Blanche Ely HS, 14.7 Pts,2.5 Reb,2.0 Ast
-1,Kahron Ross,1,SR,G,5-11,155,"Jonesboro, AR",Jonesboro HS, 13.2 Pts,3.0 Reb,4.2 Ast
-2,Pat Andree,31,SO,F,6-8,225,"Lincroft, NJ",Christian Brothers Academy, 12.6 Pts,5.8 Reb,0.7 Ast
-3,Kyle Leufroy,2,JR,G,6-2,195,"Pasadena, CA",Prolific Prep, 10.0 Pts,4.9 Reb,2.5 Ast
-4,Jordan Cohen,11,SO,G,6-1,185,"Tarzana, CA",Campbell Hall School, 9.3 Pts,3.6 Reb,2.4 Ast
-5,James Karnik,13,FR,C,6-9,225,"Surrey, BC",, 7.1 Pts,6.5 Reb,0.5 Ast
-6,Caleb Bennett,4,FR,G,6-5,190,"St. Josephs, MO",, 5.5 Pts,2.3 Reb,0.8 Ast
-7,Marques Wilson,20,FR,G,6-4,185,"Edmond, OK",, 5.4 Pts,2.6 Reb,1.2 Ast
-8,Ed Porter,10,SO,F,5-8,215,"Hawthorne, FL",, 3.7 Pts,2.7 Reb,0.3 Ast
-9,Shane Acoveno,42,FR,F,6-6,200,"Milford, PA",, 1.0 Pts,0.7 Reb,0.0 Ast
-10,Caleb Sedore,55,,C,6-11,215,"Pulaski, NY",, 0.9 Pts,0.8 Reb,0.0 Ast
-11,Josh Wolf,40,SO,C,6-10,225,"Glencoe, IL",Williston Northampton High School, 0.7 Pts,0.3 Reb,0.0 Ast
-12,Jay Jay Davis,15,SR,G,5-10,150,"Allentown, PA",William Allen High School, 0.0 Pts,0.0 Reb,0.0 Ast
-13,Jack Lieb,21,,C,6-10,235,"Deerfield, IL",,,,
+0,Lance Tejada,5,SR,G,6-2,190,"Miramar, FL",Blanche Ely HS, 14.5 Pts,2.4 Reb,3.2 Ast
+1,Kyle Leufroy,2,SR,G,6-3,195,"Pasadena, CA",Prolific Prep, 13.8 Pts,5.2 Reb,3.4 Ast
+2,Jordan Cohen,11,JR,G,6-1,185,"Tarzana, CA",Campbell Hall School, 13.6 Pts,3.8 Reb,3.6 Ast
+3,Pat Andree,31,JR,F,6-8,225,"Colts Neck, NJ",Christian Brothers Academy, 12.9 Pts,6.2 Reb,1.7 Ast
+4,James Karnik,13,SO,C,6-9,225,"Surrey, Canada",Orangeville Prep, 9.3 Pts,6.1 Reb,0.4 Ast
+5,Jeameril Wilson,1,FR,F,6-7,200,"Chicago, IL",Notre Dame College Prep, 4.8 Pts,2.6 Reb,0.7 Ast
+6,Nic Lynch,44,FR,C,6-11,250,"Seattle, WA",Seattle Prep, 3.8 Pts,3.3 Reb,0.0 Ast
+7,Caleb Bennett,0,SO,G,6-5,190,"St. Josephs, MO",Lafayette High School, 4.7 Pts,1.9 Reb,1.3 Ast
+8,Joe Foley,4,FR,G,6-3,180,"Atherton, CA",Menlo School, 2.3 Pts,1.0 Reb,0.9 Ast
+9,Marques Wilson,20,SO,G,6-4,210,"Edmond, OK",Edmond North High School, 4.1 Pts,2.2 Reb,1.2 Ast
+10,Ed Porter,25,JR,F,6-7,215,"Hawthorne, FL",Eastside High School, 1.8 Pts,0.5 Reb,0.1 Ast
+11,Shane Acoveno,21,SO,F,6-6,200,"Milford, PA",Delaware Valley High School, 0.8 Pts,0.3 Reb,0.0 Ast
+12,Zedrek Farrell,10,FR,G,6-1,175,"Harlem, NY",Iona Prep, 0.6 Pts,0.4 Reb,0.3 Ast
+13,David Roelke,55,JR,G,6-2,180,"Sharon, MA",Sharon HS, 0.6 Pts,0.0 Reb,0.0 Ast
+14,Jack Lieb,42,JR,C,6-10,245,"Deerfield, IL",Brewster Academy,,,
+15,Josh Wolf,35,JR,C,6-10,225,"Glencoe, IL",Williston Northampton High School,,,

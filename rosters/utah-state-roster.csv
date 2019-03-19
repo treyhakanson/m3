@@ -1,17 +1,16 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Sam Merrill,3,SO,G,6-4,195,"Bountiful, UT",Bountiful HIgh School, 16.3 Pts,3.3 Reb,3.1 Ast
-1,Koby McEwen,,,G,6-4,195,Canada,Wasatch Academy, 15.6 Pts,5.4 Reb,3.2 Ast
-2,Dwayne Brown Jr.,25,JR,F,6-6,220,"Conyers, GA",, 9.0 Pts,5.0 Reb,1.4 Ast
-3,DeAngelo Isby,0,JR,G,6-5,200,"Chicago, IL",, 8.4 Pts,2.9 Reb,1.1 Ast
-4,Quinn Taylor,10,JR,F,6-7,210,"Houston, TX",Langham Creek HS, 6.8 Pts,4.7 Reb,1.4 Ast
-5,Diogo Brito,24,SO,G,6-5,200,Portugal,Mountain Mission High School, 6.0 Pts,3.5 Reb,2.0 Ast
-6,Alexis Dargenton,11,SR,F,6-7,190,Martinique,Middlebrooks Academy, 6.3 Pts,3.2 Reb,1.0 Ast
-7,Daron Henson,23,FR,F,6-7,210,"Pasadena, CA",, 4.3 Pts,1.9 Reb,0.2 Ast
-8,Julion Pearre,5,,G,6-3,190,"Mckinney, TX",McKinney North, 4.8 Pts,1.5 Reb,1.1 Ast
-9,Brock Miller,22,FR,G,6-6,200,"Sandy, UT",, 6.8 Pts,1.4 Reb,0.2 Ast
-10,Abel Porter,30,FR,G,6-3,180,"Farmington, UT",Davis High School, 1.2 Pts,0.7 Reb,0.7 Ast
-11,Klay Stall,2,FR,C,6-9,235,"Chandler, AZ",, 2.2 Pts,2.9 Reb,0.2 Ast
-12,Crew Ainge,4,FR,G,5-11,180,"Wellesley, MA",, 0.5 Pts,0.5 Reb,0.4 Ast
-13,Justin Bean,12,,F,6-7,210,,,,,
-14,Norbert Janicek,15,,C,6-11,250,Slovakia,Canarias Basketball Academy,,,
-15,Taylor Larson,13,,G,6-4,210,,,,,
+0,Sam Merrill,5,JR,G,6-5,210,"Bountiful, UT",Bountiful HIgh School, 21.2 Pts,4.0 Reb,4.2 Ast
+1,Neemias Queta,23,FR,C,6-11,225,"Barreiro, ",, 11.9 Pts,8.9 Reb,1.7 Ast
+2,Diogo Brito,24,JR,G,6-5,205,"Povoa de Varzim, ",Mountain Mission High School, 8.2 Pts,4.3 Reb,2.2 Ast
+3,Quinn Taylor,10,SR,F,6-8,240,"Houston, TX",Langham Creek HS, 8.0 Pts,6.3 Reb,2.2 Ast
+4,Brock Miller,22,FR,G,6-6,200,"Sandy, UT",Brighton High School, 8.0 Pts,1.6 Reb,1.2 Ast
+5,Dwayne Brown Jr.,2,SR,F,6-6,220,"Conyers, GA",Rockdale County High School, 6.3 Pts,2.6 Reb,0.6 Ast
+6,Abel Porter,15,SO,G,6-3,195,"Farmington, UT",Davis High School, 5.4 Pts,2.3 Reb,2.7 Ast
+7,Justin Bean,12,FR,F,6-7,210,"Moore, OK",Southmoore HS, 4.0 Pts,3.7 Reb,0.8 Ast
+8,Tauriawn Knight,1,FR,G,6-1,170,"Oklahoma City, OK",Edmond Santa Fe HS, 3.5 Pts,1.2 Reb,0.8 Ast
+9,John Knight III,3,SO,G,6-2,195,"Jackson, MS",, 7.8 Pts,3.9 Reb,1.2 Ast
+10,Crew Ainge,4,SO,G,5-11,180,"Wellesley, MA",Kimball Union Academy, 2.9 Pts,2.3 Reb,1.5 Ast
+11,Ben Fakira,21,FR,F,6-10,240,"Sydney, Australia",, 1.4 Pts,1.5 Reb,0.1 Ast
+12,Alek Johnson,30,FR,G,6-4,210,"Evanston, WY",Evanston HS, 0.4 Pts,0.5 Reb,0.1 Ast
+13,Roche Grootfaam,14,JR,F,6-8,220,"Paramaribo, Suriname",,,,
+14,Klay Stall,0,SO,C,6-10,240,"Chandler, AZ",Basha High School,,,

@@ -1,35 +1,35 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,,Cornell,Ivy,W,77,45,,1,0,W 1,Carrier Dome
-1,2,"Tue, Nov 14, 2017",7:00 pm/est,,REG,,Iona,MAAC,W,71,62,,2,0,W 2,Carrier Dome
-2,3,"Sat, Nov 18, 2017",7:00 pm/est,,REG,,Texas Southern,SWAC,W,80,67,,3,0,W 3,Carrier Dome
-3,4,"Mon, Nov 20, 2017",7:00 pm/est,,REG,,Oakland,Horizon,W,74,50,,4,0,W 4,Carrier Dome
-4,5,"Wed, Nov 22, 2017",7:00 pm/est,,REG,,Toledo,MAC,W,72,64,,5,0,W 5,Carrier Dome
-5,6,"Mon, Nov 27, 2017",7:00 pm/est,,REG,,Maryland,Big Ten,W,72,70,,6,0,W 6,Carrier Dome
-6,7,"Sat, Dec 2, 2017",5:30 pm/est,,REG,N,Kansas (2),Big 12,L,60,76,,6,1,L 1,American Airlines Arena
-7,8,"Tue, Dec 5, 2017",9:00 pm/est,,REG,N,Connecticut,AAC,W,72,63,,7,1,W 1,Madison Square Garden (IV)
-8,9,"Sat, Dec 9, 2017",2:00 pm/est,,REG,,Colgate,Patriot,W,72,58,,8,1,W 2,Carrier Dome
-9,10,"Sat, Dec 16, 2017",12:30 pm/est,,REG,@,Georgetown,Big East,W,86,79,OT,9,1,W 3,Verizon Center
-10,11,"Tue, Dec 19, 2017",7:00 pm/est,,REG,,Buffalo,MAC,W,81,74,,10,1,W 4,Carrier Dome
-11,12,"Fri, Dec 22, 2017",7:00 pm/est,,REG,,St. Bonaventure,A-10,L,57,60,OT,10,2,L 1,Carrier Dome
-12,13,"Wed, Dec 27, 2017",7:00 pm/est,,REG,,Eastern Michigan,MAC,W,62,47,,11,2,W 1,Carrier Dome
-13,14,"Sun, Dec 31, 2017",6:00 pm/est,,REG,,Virginia Tech,ACC,W,68,56,,12,2,W 2,Carrier Dome
-14,15,"Wed, Jan 3, 2018",7:00 pm/est,,REG,@,Wake Forest,ACC,L,67,73,,12,3,L 1,Lawrence Joel Coliseum
-15,16,"Sat, Jan 6, 2018",3:15 pm/est,,REG,,Notre Dame,ACC,L,49,51,,12,4,L 2,Carrier Dome
-16,17,"Tue, Jan 9, 2018",8:00 pm/est,,REG,@,Virginia (3),ACC,L,61,68,,12,5,L 3,John Paul Jones Arena
-17,18,"Sat, Jan 13, 2018",2:00 pm/est,,REG,@,Florida State (23),ACC,L,90,101,2OT,12,6,L 4,Donald L. Tucker Center
-18,19,"Tue, Jan 16, 2018",9:00 pm/est,,REG,,Pittsburgh,ACC,W,59,45,,13,6,W 1,Carrier Dome
-19,20,"Wed, Jan 24, 2018",7:00 pm/est,,REG,,Boston College,ACC,W,81,63,,14,6,W 2,Carrier Dome
-20,21,"Sat, Jan 27, 2018",4:00 pm/est,,REG,@,Pittsburgh,ACC,W,60,55,,15,6,W 3,Petersen Events Center
-21,22,"Wed, Jan 31, 2018",8:00 pm/est,,REG,@,Georgia Tech,ACC,L,51,55,,15,7,L 1,McCamish Pavilion
-22,23,"Sat, Feb 3, 2018",4:00 pm/est,,REG,,Virginia (2),ACC,L,44,59,,15,8,L 2,Carrier Dome
-23,24,"Mon, Feb 5, 2018",7:00 pm/est,,REG,@,Louisville,ACC,W,78,73,,16,8,W 1,KFC Yum! Center
-24,25,"Sun, Feb 11, 2018",1:00 pm/est,,REG,,Wake Forest,ACC,W,78,70,,17,8,W 2,Carrier Dome
-25,26,"Wed, Feb 14, 2018",9:00 pm/est,,REG,,North Carolina State,ACC,L,70,74,,17,9,L 1,Carrier Dome
-26,27,"Sat, Feb 17, 2018",12:00 pm/est,,REG,@,Miami (FL),ACC,W,62,55,,18,9,W 1,BankUnited Center
-27,28,"Wed, Feb 21, 2018",7:00 pm/est,,REG,,North Carolina (10),ACC,L,74,78,,18,10,L 1,Carrier Dome
-28,29,"Sat, Feb 24, 2018",6:15 pm/est,,REG,@,Duke (5),ACC,L,44,60,,18,11,L 2,Cameron Indoor Stadium
-29,30,"Wed, Feb 28, 2018",9:00 pm/est,,REG,@,Boston College,ACC,L,70,85,,18,12,L 3,Silvio O. Conte Forum
-30,31,"Sat, Mar 3, 2018",2:00 pm/est,,REG,,Clemson (18),ACC,W,55,52,,19,12,W 1,Carrier Dome
-31,32,"Tue, Mar 6, 2018",7:00 pm/est,,CTOURN,N,Wake Forest,ACC,W,73,64,,20,12,W 2,Barclays Center
-32,33,"Wed, Mar 7, 2018",9:00 pm/est,,CTOURN,N,North Carolina (12),ACC,L,59,78,,20,13,L 1,Barclays Center
-33,34,"Wed, Mar 14, 2018",9:10 pm/est,,NCAA,N,Arizona State,Pac-12,,,,,,,,
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Eastern Washington,Big Sky,W,66,34,,1,0,W 1,Carrier Dome
+1,2,"Sat, Nov 10, 2018",7:00p,REG,,Morehead State,OVC,W,84,70,,2,0,W 2,Carrier Dome
+2,3,"Thu, Nov 15, 2018",7:00p,REG,N,Connecticut,AAC,L,76,83,,2,1,L 1,Madison Square Garden (IV)
+3,4,"Fri, Nov 16, 2018",4:30p,REG,N,Oregon (13),Pac-12,L,65,80,,2,2,L 2,Madison Square Garden (IV)
+4,5,"Wed, Nov 21, 2018",7:00p,REG,,Colgate,Patriot,W,77,56,,3,2,W 1,Carrier Dome
+5,6,"Wed, Nov 28, 2018",7:15p,REG,@,Ohio State (16),Big Ten,W,72,62,,4,2,W 2,Value City Arena
+6,7,"Sat, Dec 1, 2018",8:00p,REG,,Cornell,Ivy,W,63,55,,5,2,W 3,Carrier Dome
+7,8,"Tue, Dec 4, 2018",7:00p,REG,,Northeastern,CAA,W,72,49,,6,2,W 4,Carrier Dome
+8,9,"Sat, Dec 8, 2018",3:30p,REG,,Georgetown,Big East,W,72,71,,7,2,W 5,Carrier Dome
+9,10,"Sat, Dec 15, 2018",12:00p,REG,,Old Dominion,CUSA,L,62,68,,7,3,L 1,Carrier Dome
+10,11,"Tue, Dec 18, 2018",8:00p,REG,,Buffalo (14),MAC,L,59,71,,7,4,L 2,Carrier Dome
+11,12,"Sat, Dec 22, 2018",2:00p,REG,,Arkansas State,Sun Belt,W,82,52,,8,4,W 1,Carrier Dome
+12,13,"Sat, Dec 29, 2018",2:00p,REG,,St. Bonaventure,A-10,W,81,48,,9,4,W 2,Carrier Dome
+13,14,"Sat, Jan 5, 2019",12:00p,REG,@,Notre Dame,ACC,W,72,62,,10,4,W 3,Purcell Pavilion at the Joyce Center
+14,15,"Wed, Jan 9, 2019",8:00p,REG,,Clemson,ACC,W,61,53,,11,4,W 4,Carrier Dome
+15,16,"Sat, Jan 12, 2019",6:00p,REG,,Georgia Tech,ACC,L,59,73,,11,5,L 1,Carrier Dome
+16,17,"Mon, Jan 14, 2019",7:00p,REG,@,Duke (1),ACC,W,95,91,OT,12,5,W 1,Cameron Indoor Stadium
+17,18,"Sat, Jan 19, 2019",2:00p,REG,,Pittsburgh,ACC,W,74,63,,13,5,W 2,Carrier Dome
+18,19,"Thu, Jan 24, 2019",8:00p,REG,,Miami (FL),ACC,W,73,53,,14,5,W 3,Carrier Dome
+19,20,"Sat, Jan 26, 2019",8:00p,REG,@,Virginia Tech (10),ACC,L,56,78,,14,6,L 1,Cassell Coliseum
+20,21,"Wed, Jan 30, 2019",8:00p,REG,@,Boston College,ACC,W,77,71,,15,6,W 1,Silvio O. Conte Forum
+21,22,"Sat, Feb 2, 2019",6:00p,REG,@,Pittsburgh,ACC,W,65,56,,16,6,W 2,Petersen Events Center
+22,23,"Tue, Feb 5, 2019",8:00p,REG,,Florida State (22),ACC,L,62,80,,16,7,L 1,Carrier Dome
+23,24,"Sat, Feb 9, 2019",2:00p,REG,,Boston College,ACC,W,67,56,,17,7,W 1,Carrier Dome
+24,25,"Wed, Feb 13, 2019",8:00p,REG,@,North Carolina State,ACC,L,58,73,,17,8,L 1,PNC Arena
+25,26,"Wed, Feb 20, 2019",7:00p,REG,,Louisville (18),ACC,W,69,49,,18,8,W 1,Carrier Dome
+26,27,"Sat, Feb 23, 2019",6:00p,REG,,Duke (1),ACC,L,65,75,,18,9,L 1,Carrier Dome
+27,28,"Tue, Feb 26, 2019",9:00p,REG,@,North Carolina (5),ACC,L,85,93,,18,10,L 2,Dean Smith Center
+28,29,"Sat, Mar 2, 2019",12:00p,REG,@,Wake Forest,ACC,W,79,54,,19,10,W 1,Lawrence Joel Coliseum
+29,30,"Mon, Mar 4, 2019",7:00p,REG,,Virginia (2),ACC,L,53,79,,19,11,L 1,Carrier Dome
+30,31,"Sat, Mar 9, 2019",12:00p,REG,@,Clemson,ACC,L,55,67,,19,12,L 2,Littlejohn Coliseum
+31,32,"Wed, Mar 13, 2019",9:00p,CTOURN,N,Pittsburgh,ACC,W,73,59,,20,12,W 1,Spectrum Center
+32,33,"Thu, Mar 14, 2019",9:00p,CTOURN,N,Duke (5),ACC,L,72,84,,20,13,L 1,Spectrum Center
+33,34,"Thu, Mar 21, 2019",9:57p,NCAA,N,Baylor,Big 12,,,,,,,,

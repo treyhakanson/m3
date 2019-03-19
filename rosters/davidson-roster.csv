@@ -1,17 +1,16 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Peyton Aldridge,23,SR,F,6-7,205,"Leavittsburg, OH",Labrae HS, 21.5 Pts,7.8 Reb,2.5 Ast
-1,Kellan Grady,31,FR,G,6-5,195,"Boston, MA",, 18.0 Pts,3.3 Reb,1.9 Ast
-2,Jon Axel Gudmundsson,3,SO,G,6-4,190,Iceland,Fj�lbrautask�li Su�urnesja, 13.0 Pts,6.1 Reb,5.1 Ast
-3,KiShawn Pritchett,20,SO,G,6-6,220,"Mooresville, NC",Lake Norman HS, 5.9 Pts,2.2 Reb,3.4 Ast
-4,Oskar Michelsen,15,SR,F,6-9,210,Finland,Makelanrinne Sports HS, 5.5 Pts,2.5 Reb,0.7 Ast
-5,Will Magarity,22,SR,F,6-11,240,Sweden,Norrkoping BBK, 5.5 Pts,4.1 Reb,0.6 Ast
-6,Rusty Reigel,32,SR,G,6-2,190,"Charlotte, NC",Charlotte Latin HS, 3.8 Pts,2.6 Reb,1.7 Ast
-7,Carter Collins,24,FR,G,6-3,180,"Chapel Hill, NC",, 1.5 Pts,0.8 Reb,0.4 Ast
-8,Jordan Watkins,3,SR,G,6-1,160,"Charlotte, NC",Providence Day, 1.8 Pts,0.6 Reb,0.5 Ast
-9,Dusan Kovacevic,0,SO,F,6-10,230,Serbia,Rabun Gap-Nacoochee High School, 3.4 Pts,2.7 Reb,0.4 Ast
-10,Malcolm Wynter,5,SO,G,5-10,150,"Greenlawn, NY",Harborfields High School, 0.6 Pts,0.1 Reb,0.0 Ast
-11,Bates Jones,25,FR,F,6-8,200,"Charlotte, NC",, 0.2 Pts,0.9 Reb,0.4 Ast
-12,Cal Freundlich,4,SO,G,6-2,160,"New York, NY",Friends Seminary, 0.2 Pts,0.4 Reb,0.0 Ast
-13,Michael Brown,14,SO,G,5-10,165,"Gainesville, FL",St. Francis High School, 0.0 Pts,0.0 Reb,0.1 Ast
-14,Nathan Ekwu,1,,F,6-7,245,Nigeria,Cardinal Hayes HS,,,
-15,Luke Frampton,34,,G,6-5,200,,,,,
+0,Jon Axel Gudmundsson,3,JR,G,6-5,190,"Grindavik, Iceland",Fj�lbrautask�li Su�urnesja, 17.2 Pts,7.3 Reb,4.7 Ast
+1,Kellan Grady,31,SO,G,6-5,195,"Boston, MA",Northfield Mount Hermon School, 16.8 Pts,4.4 Reb,1.8 Ast
+2,Luka Brajkovic,35,FR,F,6-10,220,"Feldkirch, Austria",, 10.9 Pts,6.1 Reb,1.4 Ast
+3,Luke Frampton,34,FR,G,6-5,200,"Poca, WV",Poca HS, 10.1 Pts,3.2 Reb,2.0 Ast
+4,KiShawn Pritchett,20,JR,G,6-6,225,"Mooresville, NC",Lake Norman HS, 7.1 Pts,3.7 Reb,2.4 Ast
+5,Carter Collins,24,SO,G,6-3,180,"Chapel Hill, NC",East Chapel High School, 5.5 Pts,3.6 Reb,0.8 Ast
+6,Dusan Kovacevic,43,JR,F,6-10,245,"Novi Sad, Serbia",Rabun Gap-Nacoochee High School, 1.9 Pts,2.1 Reb,0.8 Ast
+7,David Czerapowicz,53,FR,G,6-3,190,"Gothenburg, Sweden",, 1.5 Pts,0.8 Reb,0.3 Ast
+8,Nathan Ekwu,1,SR,F,6-7,245,"Enugu, Nigeria",Cardinal Hayes HS, 2.1 Pts,1.9 Reb,0.2 Ast
+9,Bates Jones,25,SO,F,6-8,200,"Charlotte, NC",Charlotte Latin High School, 0.9 Pts,1.5 Reb,0.5 Ast
+10,Malcolm Wynter,5,JR,G,5-10,155,"Greenlawn, NY",Harborfields High School, 1.0 Pts,0.0 Reb,0.3 Ast
+11,Nelson Boachie-Yiadom,32,FR,F,6-8,200,"London, United Kingdom",Loomis Chaffee School, 0.6 Pts,0.7 Reb,0.0 Ast
+12,Cal Freundlich,4,JR,G,6-2,155,"New York, NY",Friends Seminary, 0.3 Pts,0.0 Reb,0.0 Ast
+13,Patrick Casey,15,JR,F,6-6,205,"Fort Mill, SC",Fort Mill HS, 0.0 Pts,0.0 Reb,0.0 Ast
+14,Mike Jones,13,FR,G,6-4,180,"Woodbury, MN",Woodbury HS,,,

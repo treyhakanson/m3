@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Sat, Nov 10, 2018",4:00p,REG,,Western Michigan,MAC,W,90,64,,1,0,W 1,The Pavilion at Ole Miss
+1,2,"Fri, Nov 16, 2018",8:00p,REG,@,Butler,Big East,L,76,83,,1,1,L 1,Hinkle Fieldhouse
+2,3,"Tue, Nov 20, 2018",7:00p,REG,,Nicholls State,Southland,W,75,55,,2,1,W 1,The Pavilion at Ole Miss
+3,4,"Fri, Nov 23, 2018",9:30p,REG,N,Baylor,Big 12,W,78,70,,3,1,W 2,The Arena
+4,5,"Sat, Nov 24, 2018",7:00p,REG,N,Cincinnati,AAC,L,57,71,,3,2,L 1,The Arena
+5,6,"Wed, Nov 28, 2018",7:30p,REG,,San Diego,WCC,W,93,86,,4,2,W 1,The Pavilion at Ole Miss
+6,7,"Sat, Dec 1, 2018",2:00p,REG,,Louisiana-Monroe,Sun Belt,W,83,60,,5,2,W 2,The Pavilion at Ole Miss
+7,8,"Sat, Dec 8, 2018",8:00p,REG,@,Illinois State,MVC,W,81,74,,6,2,W 3,Redbird Arena
+8,9,"Wed, Dec 12, 2018",7:30p,REG,N,Southeastern Louisiana,Southland,W,69,47,,7,2,W 4,Mississippi Coliseum
+9,10,"Sun, Dec 16, 2018",6:00p,REG,,Chattanooga,Southern,W,90,70,,8,2,W 5,The Pavilion at Ole Miss
+10,11,"Fri, Dec 21, 2018",8:00p,REG,N,Middle Tennessee,CUSA,W,74,56,,9,2,W 6,Bridgestone Arena
+11,12,"Sat, Dec 29, 2018",2:00p,REG,,Florida Gulf Coast,A-Sun,W,87,57,,10,2,W 7,The Pavilion at Ole Miss
+12,13,"Sat, Jan 5, 2019",8:30p,REG,@,Vanderbilt,SEC,W,81,71,,11,2,W 8,Memorial Gymnasium
+13,14,"Wed, Jan 9, 2019",7:00p,REG,,Auburn (11),SEC,W,82,67,,12,2,W 9,The Pavilion at Ole Miss
+14,15,"Sat, Jan 12, 2019",1:00p,REG,@,Mississippi State (14),SEC,W,81,77,,13,2,W 10,Humphrey Coliseum
+15,16,"Tue, Jan 15, 2019",9:00p,REG,,Louisiana State,SEC,L,69,83,,13,3,L 1,The Pavilion at Ole Miss
+16,17,"Sat, Jan 19, 2019",1:00p,REG,,Arkansas,SEC,W,84,67,,14,3,W 1,The Pavilion at Ole Miss
+17,18,"Tue, Jan 22, 2019",9:00p,REG,@,Alabama,SEC,L,53,74,,14,4,L 1,Coleman Coliseum 
+18,19,"Sat, Jan 26, 2019",12:00p,REG,,Iowa State (24),Big 12,L,73,87,,14,5,L 2,The Pavilion at Ole Miss
+19,20,"Wed, Jan 30, 2019",6:30p,REG,@,Florida,SEC,L,86,90,OT,14,6,L 3,Stephen C. O'Connell Center
+20,21,"Sat, Feb 2, 2019",3:30p,REG,,Mississippi State (22),SEC,L,75,81,,14,7,L 4,The Pavilion at Ole Miss
+21,22,"Wed, Feb 6, 2019",7:00p,REG,,Texas A&M,SEC,W,75,71,,15,7,W 1,The Pavilion at Ole Miss
+22,23,"Sat, Feb 9, 2019",1:00p,REG,@,Georgia,SEC,W,80,64,,16,7,W 2,Stegeman Coliseum
+23,24,"Wed, Feb 13, 2019",8:30p,REG,@,Auburn,SEC,W,60,55,,17,7,W 3,Auburn Arena
+24,25,"Sat, Feb 16, 2019",3:30p,REG,,Missouri,SEC,W,75,65,,18,7,W 4,The Pavilion at Ole Miss
+25,26,"Tue, Feb 19, 2019",7:00p,REG,@,South Carolina,SEC,L,64,79,,18,8,L 1,The Colonial Life Arena
+26,27,"Sat, Feb 23, 2019",3:30p,REG,,Georgia,SEC,W,72,71,,19,8,W 1,The Pavilion at Ole Miss
+27,28,"Wed, Feb 27, 2019",7:00p,REG,,Tennessee (7),SEC,L,71,73,,19,9,L 1,The Pavilion at Ole Miss
+28,29,"Sat, Mar 2, 2019",1:00p,REG,@,Arkansas,SEC,L,73,74,,19,10,L 2,Bud Walton Arena
+29,30,"Tue, Mar 5, 2019",9:00p,REG,,Kentucky (6),SEC,L,76,80,,19,11,L 3,The Pavilion at Ole Miss
+30,31,"Sat, Mar 9, 2019",3:30p,REG,@,Missouri,SEC,W,73,68,,20,11,W 1,Mizzou Arena
+31,32,"Thu, Mar 14, 2019",7:00p,CTOURN,N,Alabama,SEC,L,57,62,,20,12,L 1,Bridgestone Arena
+32,33,"Fri, Mar 22, 2019",12:40p,NCAA,N,Oklahoma,Big 12,,,,,,,,

@@ -1,13 +1,16 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Justin Johnson,23,SR,F,6-7,239,"Hazard, KY",Perry County Central HS, 15.3 Pts,9.6 Reb,1.2 Ast
-1,Darius Thompson,15,SR,G,6-4,185,"Murfreesboro, TN",Blackman, 14.0 Pts,4.4 Reb,4.8 Ast
-2,Taveion Hollingsworth,13,FR,G,6-2,165,"Lexington, KY",, 13.1 Pts,3.3 Reb,1.9 Ast
-3,Lamonte Bearden,1,JR,G,6-3,160,"Milwaukee, WI",Germantown, 11.6 Pts,2.1 Reb,3.4 Ast
-4,Dwight Coleby,22,SR,F,6-9,236,Bahamas,Piney Woods, 11.0 Pts,7.9 Reb,0.6 Ast
-5,Jake Ohmer,21,FR,G,6-1,170,"Taylor Mill, KY",, 5.8 Pts,1.1 Reb,0.9 Ast
-6,Josh Anderson,4,,G,6-6,180,,, 7.7 Pts,2.6 Reb,0.7 Ast
-7,Marek Nelson,14,FR,F,6-7,185,"Plano, TX",, 2.9 Pts,1.7 Reb,0.2 Ast
-8,Moustapha Diagne,12,,F,6-9,230,,, 0.7 Pts,1.8 Reb,0.1 Ast
-9,Tyler Miller,15,SR,G,6-4,185,"Louisville, KY",22ft Basketball Academy, 0.3 Pts,0.6 Reb,0.1 Ast
-10,Jalen Baker,10,,G,6-3,,,,,,
-11,Jared Savage,2,,G,6-5,195,"Bowling Green, KY",Warren Central High School,,,
+0,Charles Bassey,23,FR,C,6-11,245,"Lagos, Nigeria",Aspire Academy, 14.6 Pts,10.0 Reb,0.7 Ast
+1,Taveion Hollingsworth,11,SO,G,6-2,165,"Lexington, KY",Paul Laurence Dunbar High School, 14.4 Pts,4.4 Reb,2.2 Ast
+2,Jared Savage,2,JR,G,6-5,200,"Bowling Green, KY",Warren Central High School, 12.2 Pts,4.8 Reb,1.2 Ast
+3,Josh Anderson,4,SO,G,6-6,195,"Baton Rouge, LA",Madison Prep Academy, 12.1 Pts,4.1 Reb,1.7 Ast
+4,Lamonte Bearden,1,SR,G,6-3,170,"Milwaukee, WI",Germantown, 9.2 Pts,2.4 Reb,4.5 Ast
+5,Tolu Smith,00,FR,F,6-10,240,"Bay St. Louis, MS",Kahuku HS, 3.3 Pts,2.6 Reb,0.2 Ast
+6,Dalano Banton,20,FR,G,6-8,190,"Toronto, Canada",Redemption Christian Academy, 3.4 Pts,3.0 Reb,2.1 Ast
+7,DeSean Murray,13,SR,F,6-4,215,"Stanley, NC",Northside Christian HS, 9.5 Pts,4.5 Reb,1.6 Ast
+8,Marek Nelson,14,SO,F,6-7,185,"Plano, TX",Sunrise Christian Academy, 2.7 Pts,1.8 Reb,0.4 Ast
+9,Jake Ohmer,21,SO,G,6-1,180,"Taylor Mill, KY",Scott High School, 1.6 Pts,0.5 Reb,0.5 Ast
+10,Matt Horton,5,JR,F,6-11,235,"Tuscaloosa, AL",, 1.1 Pts,1.0 Reb,0.0 Ast
+11,Moustapha Diagne,12,JR,F,6-9,230,"Rufisque, Senegal",Pope John XXIII Regional High School, 0.4 Pts,1.4 Reb,0.2 Ast
+12,Jeremiah Gambrell,10,FR,G,6-2,160,"Houston, TX",Madison HS, 0.8 Pts,0.3 Reb,0.3 Ast
+13,Patrick Murphy,,JR,G,6-5,165,"Franklin, TN",,,,
+14,Carson Williams,,JR,F,6-5,230,"Owenton, KY",Owen County High School,,,

@@ -1,15 +1,14 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Joel Hernandez,0,JR,G,6-3,180,"Teaneck, NJ",Teaneck HS, 20.9 Pts,5.9 Reb,2.6 Ast
-1,Raiquan Clark,23,JR,G,6-4,170,"New Haven, CT",Hillhouse HS, 17.4 Pts,7.1 Reb,1.5 Ast
-2,Jashaun Agosto,3,SO,G,5-11,150,"Seattle, WA",Garfield High School, 11.7 Pts,4.1 Reb,4.1 Ast
-3,Julian Batts,1,SO,G,5-11,175,"Jeannette, PA",St. Thomas More Prep, 10.0 Pts,4.3 Reb,2.3 Ast
-4,Zach Coleman,5,SR,F,6-7,200,"Dallas, TX",Woodrow Wilson HS, 6.5 Pts,6.5 Reb,0.9 Ast
-5,Jamall Robinson,13,SR,G,6-5,205,"Cheltenham, MD",Paul VI HS, 3.9 Pts,1.9 Reb,0.6 Ast
-6,Raul Frias,22,JR,G,6-1,165,"Miami, FL",Mater Academy, 3.1 Pts,1.3 Reb,0.4 Ast
-7,Eral Penn,4,FR,F,6-7,185,"Baltimore, MD",, 2.5 Pts,2.9 Reb,0.2 Ast
-8,Julius Van Sauers,2,SO,F,6-6,210,Netherlands,Amsterdams Lyceum, 2.0 Pts,2.2 Reb,0.3 Ast
-9,Shyheim Hicks,11,,G,6-1,186,,, 3.0 Pts,0.9 Reb,0.1 Ast
-10,Ashtyn Bradley,30,SO,G,6-4,185,"Fresno, TX",Homeschool Christian Youth Association, 1.2 Pts,0.4 Reb,0.0 Ast
-11,Ganlandou Cisse,44,,F,6-9,215,Senegal,Roselle Catholic HS,,,
-12,Tyrn Flowers,24,,F,6-9,200,"Waterbury, CT",Sacred Heart High School,,,
-13,Craig Owens Jr.,10,,G,6-3,210,,,,,
+0,Raiquan Clark,23,SR,G,6-6,195,"New Haven, CT",Hillhouse HS, 18.9 Pts,6.8 Reb,2.0 Ast
+1,Tyrn Flowers,24,SO,F,6-9,200,"Waterbury, CT",Sacred Heart High School, 13.5 Pts,6.6 Reb,2.0 Ast
+2,Jashaun Agosto,3,JR,G,6-0,165,"Seattle, WA",Garfield High School, 10.7 Pts,3.0 Reb,4.8 Ast
+3,Julian Batts,1,JR,G,6-0,175,"Pittsburgh, PA",St. Thomas More Prep, 9.0 Pts,4.0 Reb,2.4 Ast
+4,Raul Frias,22,SR,G,6-1,165,"Miami, FL",Mater Academy, 8.0 Pts,2.7 Reb,0.3 Ast
+5,Eral Penn,11,SO,F,6-7,185,"Brooklyn, NY",St. Frances Academy, 6.1 Pts,4.5 Reb,0.3 Ast
+6,Julius Van Sauers,2,JR,F,6-8,210,"Amsterdam, Netherlands",Amsterdams Lyceum, 4.8 Pts,4.6 Reb,1.3 Ast
+7,Ashtyn Bradley,30,JR,G,6-4,185,"Fresno, TX",Homeschool Christian Youth Association, 5.1 Pts,1.2 Reb,0.4 Ast
+8,Shyheim Hicks,5,SO,G,6-1,186,"Brockton, MA",Springfield Commonwealth Academy, 1.2 Pts,0.5 Reb,0.2 Ast
+9,Ganlandou Cisse,13,SR,F,6-9,215,"Dakar, Senegal",Roselle Catholic HS, 1.2 Pts,1.5 Reb,0.1 Ast
+10,Craig Owens Jr.,10,SR,G,6-3,210,"Louisville, KY",, 3.0 Pts,1.0 Reb,0.8 Ast
+11,Ousmane Ndim,21,FR,C,7-0,235,"Dakar, Senegal",Aspire Academy, 0.6 Pts,1.0 Reb,0.1 Ast
+12,Virshon Cotton,0,SO,G,6-2,165,"Milwaukee, WI",Hillcrest Academy,,,

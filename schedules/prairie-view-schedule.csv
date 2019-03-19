@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",10:00p,REG,@,Santa Clara,WCC,W,81,64,,1,0,W 1,Leavey Center
+1,2,"Mon, Nov 12, 2018",8:00p,REG,@,Baylor,Big 12,L,80,91,,1,1,L 1,Ferrell Center
+2,3,"Wed, Nov 14, 2018",8:00p,REG,@,Texas-Rio Grande Valley,WAC,L,57,70,,1,2,L 2,UTRGV Fieldhouse
+3,4,"Sat, Nov 17, 2018",3:00p,REG,@,Lamar,Southland,L,67,74,,1,3,L 3,Montagne Center
+4,5,"Mon, Nov 19, 2018",7:00p,REG,@,North Carolina-Greensboro,Southern,L,66,74,,1,4,L 4,Greensboro Coliseum
+5,6,"Wed, Nov 21, 2018",7:00p,REG,@,East Carolina,AAC,L,64,76,,1,5,L 5,Williams Arena at Minges Coliseum
+6,7,"Fri, Nov 23, 2018",4:00p,REG,@,Georgia Tech,ACC,L,54,65,,1,6,L 6,McCamish Pavilion
+7,8,"Sat, Dec 1, 2018",8:00p,REG,@,Murray State,OVC,L,67,83,,1,7,L 7,CFSB Center
+8,9,"Tue, Dec 4, 2018",7:30p,REG,@,Louisiana Tech,CUSA,L,68,82,,1,8,L 8,Thomas Assembly Center
+9,10,"Tue, Dec 11, 2018",8:00p,REG,@,Louisiana,Sun Belt,L,90,122,,1,9,L 9,Cajundome
+10,11,"Thu, Dec 20, 2018",10:00p,REG,@,Seattle,WAC,L,64,102,,1,10,L 10,Redhawk Centre
+11,12,"Sat, Dec 29, 2018",12:00p,REG,@,Winthrop,Big South,L,62,76,,1,11,L 11,Winthrop Coliseum
+12,13,"Wed, Jan 2, 2019",4:00p,REG,,Huston-Tillotson,,W,81,65,,2,11,W 1,William J. Nicks Building
+13,14,"Sat, Jan 5, 2019",6:30p,REG,@,Southern,SWAC,W,82,73,,3,11,W 2,F. G. Clark Activity Center
+14,15,"Mon, Jan 7, 2019",8:30p,REG,@,Alcorn State,SWAC,W,57,54,,4,11,W 3,Davey L. Whitney Complex
+15,16,"Sat, Jan 12, 2019",6:00p,REG,,Texas Southern,SWAC,W,79,73,,5,11,W 4,William J. Nicks Building
+16,17,"Sat, Jan 19, 2019",6:00p,REG,,Jackson State,SWAC,W,55,51,,6,11,W 5,William J. Nicks Building
+17,18,"Mon, Jan 21, 2019",7:00p,REG,,Grambling,SWAC,W,83,66,,7,11,W 6,William J. Nicks Building
+18,19,"Sat, Jan 26, 2019",5:30p,REG,@,Mississippi Valley State,SWAC,W,89,78,,8,11,W 7,Harrison HPER Complex
+19,20,"Mon, Jan 28, 2019",8:30p,REG,@,Arkansas-Pine Bluff,SWAC,W,79,63,,9,11,W 8,H.O. Clemmons Arena
+20,21,"Sat, Feb 2, 2019",6:00p,REG,,Alabama A&M,SWAC,W,81,65,,10,11,W 9,William J. Nicks Building
+21,22,"Mon, Feb 4, 2019",8:30p,REG,,Alabama State,SWAC,W,69,67,,11,11,W 10,William J. Nicks Building
+22,23,"Sat, Feb 9, 2019",8:30p,REG,@,Texas Southern,SWAC,L,90,95,,11,12,L 1,Health & Physical Education Arena
+23,24,"Sat, Feb 16, 2019",6:30p,REG,@,Jackson State,SWAC,W,79,66,,12,12,W 1,Lee E. Williams Athletics and Assembly Center
+24,25,"Mon, Feb 18, 2019",8:30p,REG,@,Grambling,SWAC,W,92,87,,13,12,W 2,Assembly Center
+25,26,"Sat, Feb 23, 2019",6:00p,REG,,Mississippi Valley State,SWAC,W,69,63,,14,12,W 3,William J. Nicks Building
+26,27,"Mon, Feb 25, 2019",8:30p,REG,,Arkansas-Pine Bluff,SWAC,W,48,44,,15,12,W 4,William J. Nicks Building
+27,28,"Sat, Mar 2, 2019",7:00p,REG,@,Alabama A&M,SWAC,W,72,65,,16,12,W 5,Elmore Health Science Building 
+28,29,"Mon, Mar 4, 2019",9:00p,REG,@,Alabama State,SWAC,W,96,69,,17,12,W 6,Dunn-Oliver Acadome
+29,30,"Thu, Mar 7, 2019",8:30p,REG,,Southern,SWAC,W,73,55,,18,12,W 7,William J. Nicks Building
+30,31,"Sat, Mar 9, 2019",6:00p,REG,,Alcorn State,SWAC,W,98,64,,19,12,W 8,William J. Nicks Building
+31,32,"Tue, Mar 12, 2019",8:30p,CTOURN,,Alcorn State,SWAC,W,86,66,,20,12,W 9,William J. Nicks Building
+32,33,"Fri, Mar 15, 2019",3:30p,CTOURN,N,Grambling,SWAC,W,81,71,,21,12,W 10,
+33,34,"Sat, Mar 16, 2019",6:00p,CTOURN,N,Texas Southern,SWAC,W,92,86,,22,12,W 11,
+34,35,"Tue, Mar 19, 2019",6:40p,NCAA,N,Fairleigh Dickinson,NEC,,,,,,,,

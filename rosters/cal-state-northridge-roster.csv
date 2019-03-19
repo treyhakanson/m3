@@ -1,18 +1,16 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Tavrion Dawson,4,SR,F,6-8,205,"Long Beach, CA",Gardena Serra HS, 16.7 Pts,6.6 Reb,2.0 Ast
-1,Terell Gomez,2,FR,G,5-8,160,"Los Angeles, CA",, 11.7 Pts,2.4 Reb,3.6 Ast
-2,Micheal Warren,1,SR,G,6-4,180,"Washington, DC",Theodore Roosevelt HS, 12.1 Pts,6.1 Reb,1.9 Ast
-3,Lyrik Shreiner,3,SO,G,6-3,190,"Phoenix, AZ",Hillcrest Academy (AZ), 9.0 Pts,4.7 Reb,2.0 Ast
-4,Reggie Theus,24,SR,F,6-6,210,"Los Angeles, CA",Fairfax, 6.2 Pts,2.2 Reb,0.6 Ast
-5,Jalon Pipkins,0,FR,G,6-4,180,"Paris, TX",, 3.1 Pts,1.0 Reb,0.4 Ast
-6,Carl Brown,22,JR,G,6-4,180,"Louisville, KY",, 3.9 Pts,1.4 Reb,0.2 Ast
-7,Zeno Lake,10,JR,F,6-8,215,"Compton, CA",, 3.8 Pts,4.5 Reb,0.3 Ast
-8,Jonathan Guevara,14,,G,6-1,165,,, 2.3 Pts,1.1 Reb,1.1 Ast
-9,Anthony Swan,30,JR,F,6-7,190,"Los Angeles, CA",Virginia Episcopal, 1.9 Pts,1.0 Reb,0.8 Ast
-10,Mahamadou Kaba-Camara,5,SO,C,7-0,273,Guinea,Balboa City School, 1.5 Pts,2.0 Reb,0.1 Ast
-11,Blair Orr,42,JR,C,6-8,252,"Camarillo, CA",El Camino Real High School, 1.2 Pts,0.6 Reb,0.0 Ast
-12,Alex Sokol,12,FR,G,6-5,175,"San Jose, CA",, 0.1 Pts,0.0 Reb,0.1 Ast
-13,Lamine Diane,11,,F,6-7,200,,,,,
-14,Mason Johnson,13,,G,6-2,185,,,,,
-15,Kobe Paras,21,,G,6-6,200,,Cathedral High School,,,
-16,Jared Pearre,34,,F,6-9,190,,,,,
+0,Lamine Diane,35,FR,F,6-7,205,"Dakar, Senegal",Findlay Prep HS, 24.7 Pts,11.3 Reb,2.0 Ast
+1,Terell Gomez,3,SO,G,5-8,160,"Los Angeles, CA",Inglewood High School, 19.1 Pts,2.1 Reb,2.8 Ast
+2,Rodney Henderson,1,JR,G,6-5,185,"Carson, CA",, 10.8 Pts,3.5 Reb,0.8 Ast
+3,Darius Brown II,10,FR,G,6-1,180,"Pasadena, CA",Pasadena HS, 8.4 Pts,3.6 Reb,5.3 Ast
+4,Cameron Gottfried,15,SR,G,6-3,190,"Raleigh, NC",Broughton HS, 4.9 Pts,4.4 Reb,2.1 Ast
+5,Michael Ou,30,FR,C,6-9,230,"Guangdong, China",Menaul School, 4.2 Pts,2.4 Reb,0.2 Ast
+6,Jared Pearre,25,FR,F,6-9,190,"McKinney, TX",McKinney North HS, 2.9 Pts,2.8 Reb,0.6 Ast
+7,Elijah Harkless,2,FR,G,6-1,189,"Rialto, CA",Etiwanda HS, 3.2 Pts,2.1 Reb,1.8 Ast
+8,Blair Orr,42,SR,C,6-8,235,"Camarillo, CA",El Camino Real High School, 3.1 Pts,1.4 Reb,0.3 Ast
+9,Ron Artest III,14,FR,F,6-7,215,"New York, NY",Hillcrest Prep, 2.1 Pts,1.9 Reb,0.2 Ast
+10,Mahamadou Kaba-Camara,34,JR,C,7-0,273,"Conakry, Guinea",Balboa City School, 0.9 Pts,1.4 Reb,0.0 Ast
+11,Alex Sokol,12,SO,G,6-5,175,"San Jose, CA",Valley Christian High School, 1.6 Pts,0.6 Reb,0.6 Ast
+12,Teddy Ochieng,23,FR,F,6-8,188,"Nairobi, Kenya",Cantwell-Sacred Heart of Mary HS, 2.0 Pts,2.8 Reb,0.5 Ast
+13,Brendan Harrick,32,FR,G,6-5,190,"Anaheim, CA",Esperanza HS,,,
+14,Avery Martinez,24,FR,G,6-5,178,"Heredia, Croatia",Cantwell-Sacred Heart of Mary HS,,,

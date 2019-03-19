@@ -1,19 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Matej Kavas,5,SO,G,6-7,190,Slovenia,Gimnasija Bezigrad HS, 15.0 Pts,5.2 Reb,1.2 Ast
-1,Jordan Hill,2,SR,G,6-3,170,"Pasadena, CA",Phillips Exeter Academy (NH), 13.5 Pts,3.7 Reb,3.3 Ast
-2,Aaron Menzies,41,JR,C,7-3,260,United Kingdom,Loreto High School Chorlton, 11.1 Pts,8.8 Reb,0.6 Ast
-3,Josh Hearlihy,13,SR,G,6-8,213,"Los Angeles, CA",Northfield Mount Herman (MA), 11.5 Pts,4.3 Reb,2.9 Ast
-4,Richaud Gittens,10,SR,G,6-4,190,"Tempe, AZ",Marcos De Niza HS, 10.3 Pts,5.1 Reb,1.6 Ast
-5,Morgan Means,1,SO,G,6-0,160,"Compton, CA",Redondo Union, 8.7 Pts,3.6 Reb,2.8 Ast
-6,Aaron Nettles,23,FR,G,5-11,175,"Seattle, WA",, 2.7 Pts,0.7 Reb,0.3 Ast
-7,Scott Ulaneo,11,SO,F,6-10,215,Italy,Stella Azura Academy, 2.4 Pts,2.6 Reb,0.6 Ast
-8,Mattia Da Campo,12,SO,G,6-5,210,Italy,Stella Azura Academy, 1.5 Pts,1.6 Reb,0.6 Ast
-9,Jake Spurgeon,15,SO,G,6-6,190,"Lake Oswego, OR",Lakeridge HS, 1.2 Pts,0.7 Reb,0.3 Ast
-10,Collin Huun,21,JR,G,6-0,175,"Salem, OR",, 1.8 Pts,0.5 Reb,0.0 Ast
-11,Brennan Corrigan,35,FR,G,6-4,180,"Westlake Village, CA",, 1.5 Pts,0.0 Reb,0.0 Ast
-12,Eric Alperin,14,,G,6-2,170,,,,,
-13,Myles Carter,42,,F,6-9,230,"Chicago, IL",St. Rita's HS,,,
-14,Latio Cosmos,30,,G,6-0,170,,The Overlake School,,,
-15,Delante Jones,24,,G,6-5,195,"Chantilly, VA",Virginia Episcopal School,,,
-16,Dashawn McDowell,0,,G,6-5,185,"Oklahoma City, OK",Southeast High School,,,
-17,Matthew Owies,,,G,6-0,180,,St. Kevin's College,,,
+0,Morgan Means,13,JR,G,6-3,175,"Compton, CA",Redondo Union, 14.2 Pts,4.3 Reb,2.9 Ast
+1,Terrell Brown,23,SO,G,6-1,175,"Seattle, WA",, 14.0 Pts,6.8 Reb,4.6 Ast
+2,Myles Carter,1,JR,F,6-9,230,"Chicago, IL",St. Rita's HS, 13.0 Pts,8.0 Reb,0.4 Ast
+3,Delante Jones,24,JR,G,6-5,195,"Chantilly, VA",Virginia Episcopal School, 11.9 Pts,3.0 Reb,1.2 Ast
+4,Matej Kavas,5,JR,G,6-8,200,"Ljubljana, Slovenia",Gimnasija Bezigrad HS, 10.2 Pts,4.6 Reb,0.6 Ast
+5,Riley Grigsby,35,FR,G,6-6,220,"San Jose, CA",Archbishop Mitty HS, 4.0 Pts,2.6 Reb,0.5 Ast
+6,Mattia Da Campo,12,JR,G,6-5,210,"Venice, Italy",Stella Azura Academy, 3.9 Pts,4.3 Reb,0.8 Ast
+7,Aaron Nettles,10,SO,G,5-11,175,"Seattle, WA",Seattle Preparatory School, 3.2 Pts,0.6 Reb,0.4 Ast
+8,Anand Hundal,42,JR,F,6-10,230,"Manteca, CA",, 2.3 Pts,1.8 Reb,0.3 Ast
+9,Trey Hopkins,15,FR,G,6-4,163,"Midwest City, OK",Carl Albert HS, 2.4 Pts,1.2 Reb,0.2 Ast
+10,Ian Burke,2,FR,G,6-5,180,"Phoenix, AZ",Brophy Prep, 1.6 Pts,1.1 Reb,0.5 Ast
+11,Rip Economou,11,FR,G,6-8,180,"Santa Monica, CA",Santa Monica HS, 1.5 Pts,0.4 Reb,0.0 Ast
+12,Joe Wall,41,FR,F,6-7,215,"Portland, OR",Jesuit HS, 1.0 Pts,0.2 Reb,0.0 Ast
+13,Dashawn McDowell,0,SO,G,6-5,185,"Oklahoma City, OK",Southeast High School, 2.7 Pts,2.0 Reb,0.7 Ast
+14,Matt Vail,14,FR,F,6-5,190,"Stanwood, WA",Stanwood HS, 0.0 Pts,0.1 Reb,0.1 Ast
+15,Jacob Eyman,30,FR,F,6-9,205,"Los Alamitos, CA",Los Alamitos HS,,,

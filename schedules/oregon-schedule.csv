@@ -1,0 +1,37 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",11:00p,REG,,Portland State,Big Sky,W,84,57,,1,0,W 1,Matthew Knight Arena
+1,2,"Fri, Nov 9, 2018",9:00p,REG,,Eastern Washington,Big Sky,W,81,47,,2,0,W 2,Matthew Knight Arena
+2,3,"Thu, Nov 15, 2018",9:15p,REG,N,Iowa,Big Ten,L,69,77,,2,1,L 1,Madison Square Garden (IV)
+3,4,"Fri, Nov 16, 2018",4:30p,REG,N,Syracuse (15),ACC,W,80,65,,3,1,W 1,Madison Square Garden (IV)
+4,5,"Tue, Nov 20, 2018",10:00p,REG,,Green Bay,Horizon,W,83,72,,4,1,W 2,Matthew Knight Arena
+5,6,"Mon, Nov 26, 2018",11:00p,REG,,Texas Southern,SWAC,L,84,89,,4,2,L 1,Matthew Knight Arena
+6,7,"Sat, Dec 1, 2018",9:00p,REG,@,Houston,AAC,L,61,65,,4,3,L 2,Hofheinz Pavilion
+7,8,"Sat, Dec 8, 2018",8:00p,REG,,Omaha,Summit,W,84,61,,5,3,W 1,Matthew Knight Arena
+8,9,"Wed, Dec 12, 2018",10:00p,REG,,San Diego,WCC,W,65,55,,6,3,W 2,Matthew Knight Arena
+9,10,"Sat, Dec 15, 2018",9:00p,REG,,Boise State,MWC,W,66,54,,7,3,W 3,Matthew Knight Arena
+10,11,"Tue, Dec 18, 2018",6:00p,REG,,Florida A&M,MEAC,W,71,64,,8,3,W 4,Matthew Knight Arena
+11,12,"Fri, Dec 21, 2018",7:00p,REG,@,Baylor,Big 12,L,47,57,,8,4,L 1,Ferrell Center
+12,13,"Sat, Dec 29, 2018",7:30p,REG,@,Boise State,MWC,W,62,50,,9,4,W 1,Taco Bell Arena
+13,14,"Sat, Jan 5, 2019",8:00p,REG,,Oregon State,Pac-12,L,72,77,,9,5,L 1,Matthew Knight Arena
+14,15,"Thu, Jan 10, 2019",9:00p,REG,,UCLA,Pac-12,L,84,87,OT,9,6,L 2,Matthew Knight Arena
+15,16,"Sun, Jan 13, 2019",8:00p,REG,,Southern California,Pac-12,W,81,60,,10,6,W 1,Matthew Knight Arena
+16,17,"Thu, Jan 17, 2019",9:00p,REG,@,Arizona,Pac-12,W,59,54,,11,6,W 2,McKale Center
+17,18,"Sat, Jan 19, 2019",9:30p,REG,@,Arizona State,Pac-12,L,64,78,,11,7,L 1,Wells Fargo Arena
+18,19,"Thu, Jan 24, 2019",9:00p,REG,,Washington,Pac-12,L,56,61,,11,8,L 2,Matthew Knight Arena
+19,20,"Sun, Jan 27, 2019",8:00p,REG,,Washington State,Pac-12,W,78,58,,12,8,W 1,Matthew Knight Arena
+20,21,"Thu, Jan 31, 2019",9:00p,REG,@,Utah,Pac-12,W,78,72,,13,8,W 2,Jon M. Huntsman Center
+21,22,"Sat, Feb 2, 2019",9:30p,REG,@,Colorado,Pac-12,L,51,73,,13,9,L 1,Coors Events/Conference Center
+22,23,"Wed, Feb 6, 2019",9:30p,REG,,University of California,Pac-12,W,73,62,,14,9,W 1,Matthew Knight Arena
+23,24,"Sun, Feb 10, 2019",8:00p,REG,,Stanford,Pac-12,W,69,46,,15,9,W 2,Matthew Knight Arena
+24,25,"Sat, Feb 16, 2019",10:30p,REG,@,Oregon State,Pac-12,L,57,72,,15,10,L 1,Gill Coliseum
+25,26,"Thu, Feb 21, 2019",9:00p,REG,@,Southern California,Pac-12,L,49,66,,15,11,L 2,Galen Center
+26,27,"Sat, Feb 23, 2019",10:00p,REG,@,UCLA,Pac-12,L,83,90,,15,12,L 3,Pauley Pavilion
+27,28,"Thu, Feb 28, 2019",11:00p,REG,,Arizona State,Pac-12,W,79,51,,16,12,W 1,Matthew Knight Arena
+28,29,"Sat, Mar 2, 2019",10:00p,REG,,Arizona,Pac-12,W,73,47,,17,12,W 2,Matthew Knight Arena
+29,30,"Wed, Mar 6, 2019",11:00p,REG,@,Washington State,Pac-12,W,72,61,,18,12,W 3,Beasley Coliseum
+30,31,"Sat, Mar 9, 2019",10:00p,REG,@,Washington,Pac-12,W,55,47,,19,12,W 4,Alaska Airlines Arena
+31,32,"Wed, Mar 13, 2019",11:30p,CTOURN,N,Washington State,Pac-12,W,84,51,,20,12,W 5,T-Mobile Arena
+32,33,"Thu, Mar 14, 2019",11:30p,CTOURN,N,Utah,Pac-12,W,66,54,,21,12,W 6,T-Mobile Arena
+33,34,"Fri, Mar 15, 2019",11:30p,CTOURN,N,Arizona State,Pac-12,W,79,75,OT,22,12,W 7,T-Mobile Arena
+34,35,"Sat, Mar 16, 2019",10:30p,CTOURN,N,Washington,Pac-12,W,68,48,,23,12,W 8,T-Mobile Arena
+35,36,"Fri, Mar 22, 2019",4:30p,NCAA,N,Wisconsin (19),Big Ten,,,,,,,,

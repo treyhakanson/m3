@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",10:00p,REG,,McNeese State,Southland,W,87,65,,1,0,W 1,McKeon Pavilion
+1,2,"Sun, Nov 11, 2018",8:00p,REG,,Utah Valley,WAC,W,92,63,,2,0,W 2,McKeon Pavilion
+2,3,"Wed, Nov 14, 2018",9:00p,REG,@,New Mexico State,WAC,W,73,58,,3,0,W 3,Pan American Center
+3,4,"Mon, Nov 19, 2018",8:30p,REG,N,Utah State,MWC,L,63,80,,3,1,L 1,T-Mobile Arena
+4,5,"Wed, Nov 21, 2018",8:30p,REG,N,Mississippi State (15),SEC,L,57,61,,3,2,L 2,T-Mobile Arena
+5,6,"Sat, Nov 24, 2018",9:00p,REG,,Harvard,Ivy,L,68,74,,3,3,L 3,McKeon Pavilion
+6,7,"Wed, Nov 28, 2018",10:00p,REG,,UC-Irvine,Big West,L,75,80,,3,4,L 4,McKeon Pavilion
+7,8,"Sat, Dec 1, 2018",10:00p,REG,,University of California,Pac-12,W,84,71,,4,4,W 1,McKeon Pavilion
+8,9,"Tue, Dec 4, 2018",10:00p,REG,,Bethune-Cookman,MEAC,W,93,61,,5,4,W 2,McKeon Pavilion
+9,10,"Fri, Dec 7, 2018",7:00p,REG,N,New Mexico,MWC,W,85,60,,6,4,W 3,Staples Center
+10,11,"Mon, Dec 10, 2018",10:00p,REG,,Cal State Fullerton,Big West,W,81,66,,7,4,W 4,McKeon Pavilion
+11,12,"Sat, Dec 15, 2018",11:00p,REG,N,Louisiana State,SEC,L,74,78,,7,5,L 1,T-Mobile Arena
+12,13,"Wed, Dec 19, 2018",10:00p,REG,,Bucknell,Patriot,W,85,56,,8,5,W 1,McKeon Pavilion
+13,14,"Sat, Dec 22, 2018",3:00p,REG,@,Western Kentucky,CUSA,L,68,71,,8,6,L 1,E.A. Diddle Arena
+14,15,"Sat, Dec 29, 2018",8:00p,REG,,San Jose State,MWC,W,75,45,,9,6,W 1,McKeon Pavilion
+15,16,"Thu, Jan 3, 2019",9:00p,REG,@,San Francisco,WCC,L,72,76,,9,7,L 1,War Memorial Gymnasium
+16,17,"Sat, Jan 5, 2019",11:00p,REG,,Brigham Young,WCC,W,88,66,,10,7,W 1,McKeon Pavilion
+17,18,"Sat, Jan 12, 2019",10:00p,REG,@,Loyola Marymount,WCC,W,71,60,,11,7,W 2,Albert Gersten Pavilion
+18,19,"Thu, Jan 17, 2019",11:00p,REG,,Santa Clara,WCC,W,75,55,,12,7,W 3,McKeon Pavilion
+19,20,"Sat, Jan 19, 2019",9:00p,REG,,San Diego,WCC,W,76,59,,13,7,W 4,McKeon Pavilion
+20,21,"Thu, Jan 24, 2019",11:00p,REG,@,Brigham Young,WCC,L,66,71,,13,8,L 1,Marriott Center
+21,22,"Sat, Jan 26, 2019",8:00p,REG,@,Pepperdine,WCC,L,77,84,OT,13,9,L 2,Firestone Fieldhouse
+22,23,"Sat, Feb 2, 2019",4:00p,REG,,San Francisco,WCC,W,86,80,,14,9,W 1,McKeon Pavilion
+23,24,"Thu, Feb 7, 2019",11:00p,REG,,Pacific,WCC,W,78,66,,15,9,W 2,McKeon Pavilion
+24,25,"Sat, Feb 9, 2019",10:00p,REG,@,Gonzaga (4),WCC,L,46,94,,15,10,L 1,McCarthey Athletic Center
+25,26,"Thu, Feb 14, 2019",11:00p,REG,@,Santa Clara,WCC,W,66,55,,16,10,W 1,Leavey Center
+26,27,"Sat, Feb 16, 2019",11:00p,REG,,Pepperdine,WCC,W,72,65,,17,10,W 2,McKeon Pavilion
+27,28,"Thu, Feb 21, 2019",10:00p,REG,@,Pacific,WCC,W,58,32,,18,10,W 3,A.G. Spanos Center
+28,29,"Sat, Feb 23, 2019",9:00p,REG,@,San Diego,WCC,W,66,46,,19,10,W 4,Jenny Craig Pavillion
+29,30,"Thu, Feb 28, 2019",11:00p,REG,,Portland,WCC,W,65,48,,20,10,W 5,McKeon Pavilion
+30,31,"Sat, Mar 2, 2019",10:00p,REG,,Gonzaga (1),WCC,L,55,69,,20,11,L 1,McKeon Pavilion
+31,32,"Mon, Mar 11, 2019",11:30p,CTOURN,N,San Diego,WCC,W,69,62,,21,11,W 1,Orleans Arena
+32,33,"Tue, Mar 12, 2019",9:00p,CTOURN,N,Gonzaga (1),WCC,W,60,47,,22,11,W 2,Orleans Arena
+33,34,"Thu, Mar 21, 2019",7:20p,NCAA,N,Villanova (25),Big East,,,,,,,,

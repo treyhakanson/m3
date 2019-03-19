@@ -1,33 +1,36 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Tue, Nov 14, 2017",7:00 pm/est,,REG,,George Washington,A-10,W,87,67,,1,0,W 1,Donald L. Tucker Center
-1,2,"Fri, Nov 17, 2017",6:00 pm/est,,REG,N,Fordham,A-10,W,67,43,,2,0,W 2,
-2,3,"Sun, Nov 19, 2017",5:00 pm/est,,REG,N,Colorado State,MWC,W,90,73,,3,0,W 3,
-3,4,"Wed, Nov 22, 2017",2:00 pm/est,,REG,,Kennesaw State,A-Sun,W,98,79,,4,0,W 4,Donald L. Tucker Center
-4,5,"Fri, Nov 24, 2017",8:00 pm/est,,REG,,Citadel,Southern,W,113,78,,5,0,W 5,Donald L. Tucker Center
-5,6,"Tue, Nov 28, 2017",7:00 pm/est,,REG,@,Rutgers,Big Ten,W,78,73,,6,0,W 6,Louis Brown Athletic Center
-6,7,"Mon, Dec 4, 2017",9:00 pm/est,,REG,@,Florida (5),SEC,W,83,66,,7,0,W 7,Stephen C. O'Connell Center
-7,8,"Wed, Dec 6, 2017",7:00 pm/est,,REG,,Loyola (MD),Patriot,W,96,71,,8,0,W 8,Donald L. Tucker Center
-8,9,"Sun, Dec 10, 2017",12:00 pm/est,,REG,N,Tulane,AAC,W,72,53,,9,0,W 9,Amalie Arena
-9,10,"Sat, Dec 16, 2017",2:00 pm/est,,REG,N,Oklahoma State,Big 12,L,70,71,,9,1,L 1,BB&T; Center
-10,11,"Mon, Dec 18, 2017",7:00 pm/est,,REG,,Charleston Southern,Big South,W,69,58,,10,1,W 1,Donald L. Tucker Center
-11,12,"Thu, Dec 21, 2017",2:00 pm/est,,REG,,Southern Mississippi,CUSA,W,98,45,,11,1,W 2,Donald L. Tucker Center
-12,13,"Sat, Dec 30, 2017",2:00 pm/est,,REG,@,Duke (4),ACC,L,93,100,,11,2,L 1,Cameron Indoor Stadium
-13,14,"Wed, Jan 3, 2018",7:00 pm/est,,REG,,North Carolina (12),ACC,W,81,80,,12,2,W 1,Donald L. Tucker Center
-14,15,"Sun, Jan 7, 2018",6:00 pm/est,,REG,@,Miami (FL) (15),ACC,L,74,80,,12,3,L 1,BankUnited Center
-15,16,"Wed, Jan 10, 2018",9:00 pm/est,,REG,,Louisville,ACC,L,69,73,,12,4,L 2,Donald L. Tucker Center
-16,17,"Sat, Jan 13, 2018",2:00 pm/est,,REG,,Syracuse,ACC,W,101,90,2OT,13,4,W 1,Donald L. Tucker Center
-17,18,"Mon, Jan 15, 2018",7:00 pm/est,,REG,@,Boston College,ACC,L,75,81,,13,5,L 1,Silvio O. Conte Forum
-18,19,"Sat, Jan 20, 2018",12:00 pm/est,,REG,@,Virginia Tech,ACC,W,91,82,,14,5,W 1,Cassell Coliseum
-19,20,"Wed, Jan 24, 2018",7:00 pm/est,,REG,,Georgia Tech,ACC,W,88,77,,15,5,W 2,Donald L. Tucker Center
-20,21,"Sat, Jan 27, 2018",4:00 pm/est,,REG,,Miami (FL),ACC,W,103,94,OT,16,5,W 3,Donald L. Tucker Center
-21,22,"Wed, Jan 31, 2018",8:00 pm/est,,REG,@,Wake Forest,ACC,L,72,76,,16,6,L 1,Lawrence Joel Coliseum
-22,23,"Sat, Feb 3, 2018",4:00 pm/est,,REG,@,Louisville,ACC,W,80,76,,17,6,W 1,KFC Yum! Center
-23,24,"Wed, Feb 7, 2018",7:00 pm/est,,REG,,Virginia (2),ACC,L,55,59,,17,7,L 1,Donald L. Tucker Center
-24,25,"Sat, Feb 10, 2018",4:00 pm/est,,REG,@,Notre Dame,ACC,L,69,84,,17,8,L 2,Purcell Pavilion at the Joyce Center
-25,26,"Wed, Feb 14, 2018",7:00 pm/est,,REG,,Clemson (11),ACC,W,81,79,OT,18,8,W 1,Donald L. Tucker Center
-26,27,"Sun, Feb 18, 2018",6:00 pm/est,,REG,,Pittsburgh,ACC,W,88,75,,19,8,W 2,Donald L. Tucker Center
-27,28,"Sun, Feb 25, 2018",6:00 pm/est,,REG,@,North Carolina State,ACC,L,72,92,,19,9,L 1,PNC Arena
-28,29,"Wed, Feb 28, 2018",9:00 pm/est,,REG,@,Clemson (18),ACC,L,63,76,,19,10,L 2,Littlejohn Coliseum
-29,30,"Sat, Mar 3, 2018",2:00 pm/est,,REG,,Boston College,ACC,W,85,76,,20,10,W 1,Donald L. Tucker Center
-30,31,"Wed, Mar 7, 2018",12:00 pm/est,,CTOURN,N,Louisville,ACC,L,74,82,,20,11,L 1,Barclays Center
-31,32,"Fri, Mar 16, 2018",9:50 pm/est,,NCAA,N,Missouri,SEC,,,,,,,,
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:00p,REG,,Florida,SEC,W,81,60,,1,0,W 1,Donald L. Tucker Center
+1,2,"Sun, Nov 11, 2018",7:00p,REG,@,Tulane,AAC,W,80,69,,2,0,W 2,Devlin Fieldhouse
+2,3,"Mon, Nov 19, 2018",7:00p,REG,,Canisius,MAAC,W,93,61,,3,0,W 3,Donald L. Tucker Center
+3,4,"Thu, Nov 22, 2018",9:30p,REG,N,Alabama-Birmingham,CUSA,W,81,63,,4,0,W 4,HP Field House
+4,5,"Fri, Nov 23, 2018",4:30p,REG,N,Louisiana State (19),SEC,W,79,76,OT,5,0,W 5,HP Field House
+5,6,"Sun, Nov 25, 2018",1:00p,REG,N,Villanova,Big East,L,60,66,,5,1,L 1,HP Field House
+6,7,"Wed, Nov 28, 2018",9:15p,REG,,Purdue (19),Big Ten,W,73,72,,6,1,W 1,Donald L. Tucker Center
+7,8,"Mon, Dec 3, 2018",8:00p,REG,,Troy,Sun Belt,W,83,67,,7,1,W 2,Donald L. Tucker Center
+8,9,"Sat, Dec 8, 2018",6:30p,REG,N,Connecticut,AAC,W,79,71,,8,1,W 3,Prudential Center
+9,10,"Mon, Dec 17, 2018",7:00p,REG,,Southeast Missouri State,OVC,W,85,68,,9,1,W 4,Donald L. Tucker Center
+10,11,"Wed, Dec 19, 2018",7:00p,REG,,North Florida,A-Sun,W,95,81,,10,1,W 5,Donald L. Tucker Center
+11,12,"Sat, Dec 22, 2018",2:30p,REG,N,Saint Louis,A-10,W,81,59,,11,1,W 6,BB&T Center
+12,13,"Tue, Jan 1, 2019",2:00p,REG,,Winthrop,Big South,W,87,76,,12,1,W 7,Donald L. Tucker Center
+13,14,"Sat, Jan 5, 2019",3:00p,REG,@,Virginia (4),ACC,L,52,65,,12,2,L 1,John Paul Jones Arena
+14,15,"Wed, Jan 9, 2019",9:00p,REG,,Miami (FL),ACC,W,68,62,,13,2,W 1,Donald L. Tucker Center
+15,16,"Sat, Jan 12, 2019",2:00p,REG,,Duke (1),ACC,L,78,80,,13,3,L 1,Donald L. Tucker Center
+16,17,"Mon, Jan 14, 2019",7:00p,REG,@,Pittsburgh,ACC,L,62,75,,13,4,L 2,Petersen Events Center
+17,18,"Sun, Jan 20, 2019",12:00p,REG,@,Boston College,ACC,L,82,87,,13,5,L 3,Silvio O. Conte Forum
+18,19,"Tue, Jan 22, 2019",7:00p,REG,,Clemson,ACC,W,77,68,,14,5,W 1,Donald L. Tucker Center
+19,20,"Sun, Jan 27, 2019",6:00p,REG,@,Miami (FL),ACC,W,78,66,,15,5,W 2,BankUnited Center
+20,21,"Sat, Feb 2, 2019",12:00p,REG,,Georgia Tech,ACC,W,59,49,,16,5,W 3,Donald L. Tucker Center
+21,22,"Tue, Feb 5, 2019",8:00p,REG,@,Syracuse,ACC,W,80,62,,17,5,W 4,Carrier Dome
+22,23,"Sat, Feb 9, 2019",4:00p,REG,,Louisville (16),ACC,W,80,75,OT,18,5,W 5,Donald L. Tucker Center
+23,24,"Wed, Feb 13, 2019",7:00p,REG,,Wake Forest,ACC,W,88,66,,19,5,W 6,Donald L. Tucker Center
+24,25,"Sat, Feb 16, 2019",2:00p,REG,@,Georgia Tech,ACC,W,69,47,,20,5,W 7,McCamish Pavilion
+25,26,"Tue, Feb 19, 2019",9:00p,REG,@,Clemson,ACC,W,77,64,,21,5,W 8,Littlejohn Coliseum
+26,27,"Sat, Feb 23, 2019",3:45p,REG,@,North Carolina (8),ACC,L,59,77,,21,6,L 1,Dean Smith Center
+27,28,"Mon, Feb 25, 2019",7:00p,REG,,Notre Dame,ACC,W,68,61,,22,6,W 1,Donald L. Tucker Center
+28,29,"Sat, Mar 2, 2019",12:00p,REG,,North Carolina State,ACC,W,78,73,,23,6,W 2,Donald L. Tucker Center
+29,30,"Tue, Mar 5, 2019",7:00p,REG,,Virginia Tech (15),ACC,W,73,64,OT,24,6,W 3,Donald L. Tucker Center
+30,31,"Sat, Mar 9, 2019",12:00p,REG,@,Wake Forest,ACC,W,65,57,,25,6,W 4,Lawrence Joel Coliseum
+31,32,"Thu, Mar 14, 2019",2:30p,CTOURN,N,Virginia Tech (16),ACC,W,65,63,OT,26,6,W 5,Spectrum Center
+32,33,"Fri, Mar 15, 2019",7:00p,CTOURN,N,Virginia (2),ACC,W,69,59,,27,6,W 6,Spectrum Center
+33,34,"Sat, Mar 16, 2019",8:30p,CTOURN,N,Duke (5),ACC,L,63,73,,27,7,L 1,Spectrum Center
+34,35,"Thu, Mar 21, 2019",2:00p,NCAA,N,Vermont,AEC,,,,,,,,

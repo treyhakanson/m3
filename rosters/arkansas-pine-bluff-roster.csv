@@ -1,22 +1,21 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Martaveous McKnight,,JR,G,6-6,190,"Walls, MS",, 18.6 Pts,4.3 Reb,3.5 Ast
-1,Travon Harper,35,SR,F,6-8,220,"Mc Neil, AR",Stephens High School, 10.6 Pts,4.8 Reb,0.7 Ast
-2,Charles Jackson,1,JR,G,6-5,175,"Cleveland, MS",Cleveland Eastside HS, 8.7 Pts,3.0 Reb,2.2 Ast
-3,Trent Steen,15,SR,F,6-8,225,"Forrest City, AR",Forrest City High School, 7.6 Pts,3.4 Reb,0.5 Ast
-4,Joe'Randle Toliver,13,,G,6-4,180,"Jonesboro, AR",Jonesboro HIgh School, 6.0 Pts,2.5 Reb,1.7 Ast
-5,Terrance Banyard,,FR,F,6-8,215,"Milwaukee, WI",, 5.3 Pts,2.8 Reb,0.2 Ast
-6,Quamauri Hardy,,FR,G,6-3,180,"Hoover, AL",, 2.9 Pts,1.1 Reb,1.3 Ast
-7,Cameron Posey,,FR,G,6-2,180,"Milwaukee, WI",, 3.0 Pts,1.4 Reb,0.9 Ast
-8,Christian Robertson,,JR,F,6-4,,"Monticello, AR",, 2.2 Pts,1.5 Reb,0.4 Ast
-9,Artavious McDyess,21,SO,F,6-10,215,"Columbus, MS",Columbus High School, 1.4 Pts,2.7 Reb,0.1 Ast
-10,Kennedy McKinney,3,SR,G,6-3,170,"Memphis, TN",Germantown High School, 1.1 Pts,0.6 Reb,0.5 Ast
-11,David Tillman,52,SR,C,6-10,215,"Houston, TX",Ft. Bend Travis HS, 0.6 Pts,0.8 Reb,0.1 Ast
-12,J'Breun Sprinkle,40,,G,6-2,175,"White Hall, AR",, 0.6 Pts,0.2 Reb,0.4 Ast
-13,Dwain Whitfield,,JR,F,6-6,226,"Forrest City, AR",Forrest City HS, 0.6 Pts,0.6 Reb,0.3 Ast
-14,Jordan McNair,,,G,5-8,160,,, 2.0 Pts,0.0 Reb,1.0 Ast
-15,William Ridgell,,,G,5-9,165,,, 0.2 Pts,0.4 Reb,0.2 Ast
-16,Marcus Wallace,14,JR,G,6-3,180,"Jackson, MS",Provine HS (MS), 0.4 Pts,0.6 Reb,0.0 Ast
-17,Khalid Campbell,22,,G,6-1,175,"Greenwood, MS",Greenwood High School,,,
-18,Anthony Davis Jr.,,,G,5-9,165,,,,,
-19,Chris Smith,34,,F,6-8,225,,,,,
-20,Isiah Solomon,,,F,6-5,175,,,,,
+0,Martaveous McKnight,23,SR,G,6-4,190,"Walls, MS",Lake Cormorant High School, 20.8 Pts,5.0 Reb,2.9 Ast
+1,Shaun Doss,21,SO,F,6-5,185,"Marion, AR",, 12.7 Pts,4.2 Reb,1.7 Ast
+2,Charles Jackson,1,SR,G,6-5,210,"Cleveland, MS",Cleveland Eastside HS, 7.5 Pts,3.0 Reb,1.6 Ast
+3,Terrance Banyard,12,SO,F,6-8,215,"Milwaukee, WI",Destiny High School, 6.8 Pts,4.8 Reb,0.7 Ast
+4,Marquell Carter,2,JR,F,6-6,195,"Greenville, MS",, 4.5 Pts,3.4 Reb,1.1 Ast
+5,Isaac Bassey,33,JR,C,6-11,250,"Fallston, MD",, 2.5 Pts,1.5 Reb,0.1 Ast
+6,Artavious McDyess,21,JR,F,6-10,215,"Columbus, MS",Columbus High School, 3.5 Pts,2.5 Reb,0.5 Ast
+7,Marcus Wallace,14,SR,G,6-1,180,"Jackson, MS",Provine HS (MS), 1.7 Pts,0.9 Reb,0.5 Ast
+8,Cameron Posey,30,SO,G,6-2,180,"Milwaukee, WI",Destiny High School, 1.5 Pts,0.8 Reb,0.6 Ast
+9,Trevor Banks,13,JR,C,6-8,220,"Senatobia, MS",, 4.9 Pts,3.3 Reb,0.1 Ast
+10,Christian Robertson,25,SR,F,6-4,195,"Monticello, AR",Monticello High School, 2.3 Pts,1.0 Reb,0.3 Ast
+11,Quamauri Hardy,10,SR,G,6-3,180,"Hoover, AL",Hoover High School, 1.3 Pts,1.3 Reb,1.3 Ast
+12,Chris Smith,34,SR,F,6-8,225,"Memphis, TN",, 1.2 Pts,1.6 Reb,0.2 Ast
+13,Anthony Davis Jr.,5,FR,G,5-9,165,"Shaw, MS",Shaw HS, 1.3 Pts,0.6 Reb,0.4 Ast
+14,Dwain Whitfield,00,SR,F,6-6,205,"Forrest City, AR",Forrest City HS, 0.5 Pts,0.8 Reb,0.1 Ast
+15,Jordan McNair,50,JR,G,5-8,160,"Jacksonville, AR",Jacksonville Lighthouse School, 0.3 Pts,0.3 Reb,0.2 Ast
+16,William Ridgell,44,SO,G,5-9,165,"White Hall, AR",White Hall High School, 0.3 Pts,0.3 Reb,0.0 Ast
+17,Khalid Campbell,22,JR,G,6-1,175,"Greenwood, MS",Greenwood High School, 0.0 Pts,0.0 Reb,0.0 Ast
+18,J'Breun Sprinkle,40,JR,G,6-2,175,"White Hall, AR",White Hall High School, 0.0 Pts,0.0 Reb,0.5 Ast
+19,Zavian Jackson,3,JR,G,6-3,170,"Burlington, NC",,,,

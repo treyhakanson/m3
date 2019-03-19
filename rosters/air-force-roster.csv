@@ -1,21 +1,19 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Lavelle Scottie,12,SO,F,6-6,181,"Fort Worth, TX",Arlington Heights High School, 12.2 Pts,4.4 Reb,1.4 Ast
-1,Trevor Lyons,20,SR,G,6-3,190,"Newport News, VA",Woodside, 9.4 Pts,4.7 Reb,3.3 Ast
-2,Ryan Swan-Ford,34,SO,F,6-6,227,"Aurora, CO",Overland High School, 9.2 Pts,4.5 Reb,1.4 Ast
-3,Ryan Manning,32,SR,F,6-6,190,"Sacramento, CA",Sheldon, 6.3 Pts,3.0 Reb,0.5 Ast
-4,Jacob Van,15,SR,G,6-2,185,"Mansfield, TX",Mansfield Lake Ridge HS, 5.2 Pts,1.2 Reb,1.1 Ast
-5,Frank Toohey,33,SR,C,6-7,215,"Elmhurst, IL",York Community HS, 4.9 Pts,2.6 Reb,0.8 Ast
-6,Sid Tomes,3,SO,G,6-4,204,"Woodbury, MN",East Ridge High School, 4.7 Pts,1.6 Reb,1.2 Ast
-7,Caleb Morris,0,SO,G,6-2,188,"Vista, CA",Army and Navy Academy, 4.9 Pts,2.3 Reb,0.9 Ast
-8,Pervis Louder,22,JR,G,6-2,175,"Raleigh, NC",Village Christian Academy, 6.3 Pts,2.4 Reb,1.8 Ast
-9,Keaton Van Soelen,44,FR,G,6-7,190,"Waukee, IA",, 3.6 Pts,2.8 Reb,1.1 Ast
-10,C.J. Siples,2,SR,G,6-3,170,"Cibolo, TX",Steele, 3.2 Pts,1.3 Reb,1.5 Ast
-11,Jonathan DeWane,30,SO,F,6-8,200,"Jacksonville, FL",The Bolles School, 3.0 Pts,1.2 Reb,0.3 Ast
-12,Dane Norman,1,JR,F,6-7,175,"San Diego, CA",Foothills Christian HS, 1.9 Pts,1.3 Reb,0.2 Ast
-13,LeSean Brown,13,SO,G,6-1,172,"San Antonio, TX",The Episcopal School of Texas, 1.0 Pts,0.2 Reb,0.2 Ast
-14,Christopher Joyce,5,FR,G,6-6,196,"Jacksonville, FL",, 0.6 Pts,0.7 Reb,0.5 Ast
-15,Ameka Akaya,11,,F,6-6,215,,, 0.7 Pts,0.6 Reb,0.4 Ast
-16,Charles O'Briant,24,,F,6-8,200,,, 2.0 Pts,0.5 Reb,0.0 Ast
-17,James Edwards,35,,G,6-1,165,,, 2.0 Pts,0.0 Reb,0.0 Ast
-18,Bryce Hughes,25,,G,6-3,190,,, 2.0 Pts,1.0 Reb,0.0 Ast
-19,Kobi Betts,23,,G,6-1,188,"Pueblo, CO",, 0.0 Pts,1.0 Reb,0.0 Ast
+0,Lavelle Scottie,12,JR,F,6-7,225,"Fort Worth, TX",Arlington Heights High School, 15.3 Pts,5.6 Reb,1.3 Ast
+1,Ryan Swan-Ford,34,JR,F,6-7,235,"Aurora, CO",Overland High School, 12.6 Pts,7.1 Reb,1.8 Ast
+2,A.J. Walker,10,FR,G,6-2,191,"San Antonio, TX",St. Mary's Hall HS, 8.5 Pts,1.9 Reb,2.5 Ast
+3,Christopher Joyce,5,SO,G,6-5,185,"Jacksonville, FL",Bishop Kenny High School, 7.5 Pts,3.3 Reb,1.6 Ast
+4,Caleb Morris,0,JR,G,6-4,185,"Vista, CA",Army and Navy Academy, 7.2 Pts,3.0 Reb,1.5 Ast
+5,Sid Tomes,3,JR,G,6-4,200,"Woodbury, MN",East Ridge High School, 4.1 Pts,2.9 Reb,2.3 Ast
+6,Keaton Van Soelen,44,SO,G,6-7,190,"Waukee, IA",Des Moines Christian High School, 4.1 Pts,3.0 Reb,0.9 Ast
+7,Ameka Akaya,11,SO,F,6-6,215,"Hagerstown, MD",St. Maria Goretti High School, 4.3 Pts,1.8 Reb,0.5 Ast
+8,Pervis Louder,22,SR,G,6-4,187,"Raleigh, NC",Village Christian Academy, 3.6 Pts,1.6 Reb,1.0 Ast
+9,LeSean Brown,13,JR,G,6-2,185,"San Antonio, TX",The Episcopal School of Texas, 2.8 Pts,1.2 Reb,0.7 Ast
+10,Abe Kinrade,15,FR,F,6-7,190,"Maquoketa, IA",Maquoketa HS, 1.3 Pts,0.9 Reb,0.1 Ast
+11,Bryce Hughes,25,SO,G,6-4,195,"San Antonio, TX",Lady Bird Johnson High School, 0.7 Pts,0.3 Reb,0.3 Ast
+12,Charles O'Briant,24,SO,F,6-8,210,"Johns Creek, GA",Greater Atlanta Christian School, 3.0 Pts,2.5 Reb,0.0 Ast
+13,Zach Couper,2,FR,G,6-4,205,"Rockford, IL",Boylan Catholic HS, 0.4 Pts,0.0 Reb,0.1 Ast
+14,James Edwards,35,SO,G,6-0,165,"Allison Park, PA",Plum High School, 0.3 Pts,0.0 Reb,0.5 Ast
+15,Nick Rene,21,FR,G,6-0,180,"Garland, TX",Lakeview Centennial HS, 0.5 Pts,0.3 Reb,0.0 Ast
+16,Isaac Monson,20,FR,F,6-9,205,"Salt Lake City, UT",Olympus HS, 0.1 Pts,0.7 Reb,0.0 Ast
+17,Nick Wells,14,JR,G,6-6,210,"Riverdale, GA",Walton HS,,,

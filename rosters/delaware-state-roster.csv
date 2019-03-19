@@ -1,18 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Artem Tavakalyan,24,SR,F,6-6,210,Russia,Florida Air Academy, 10.8 Pts,5.5 Reb,1.5 Ast
-1,Simon Okolue,20,JR,F,6-10,230,Nigeria,, 11.5 Pts,7.1 Reb,0.3 Ast
-2,Johquin Wiley,4,FR,PG,5-11,175,"Chesterfield, VA",, 8.5 Pts,1.9 Reb,2.8 Ast
-3,Marquise Collins,1,FR,F,6-7,210,"Chester, PA",, 9.0 Pts,2.8 Reb,0.6 Ast
-4,Johnathan Walker,11,,G,6-3,185,"Atlanta, GA",, 8.0 Pts,2.0 Reb,2.1 Ast
-5,Kavon Waller,10,,F,6-5,210,"Chester, VA",Thomas Dale HS, 7.0 Pts,3.7 Reb,1.8 Ast
-6,Joseph Lewis,3,,C,6-9,225,"Detroit, MI",Westsude Christian Academy, 4.2 Pts,2.8 Reb,0.9 Ast
-7,Ameer Bennett,15,FR,F,6-8,220,"Richmond, VA",, 2.9 Pts,1.9 Reb,0.2 Ast
-8,Kobe Gantz,5,SO,G,6-4,180,"Lancaster, PA",J.P. McCaseky High School, 13.5 Pts,5.2 Reb,3.3 Ast
-9,Jonathan Mitchell,,SO,G,6-4,210,"Waterbury, CT",, 6.9 Pts,2.2 Reb,2.1 Ast
-10,Saleik Edwards,21,JR,G,6-3,210,"Winterville, NC",, 2.0 Pts,0.7 Reb,0.2 Ast
-11,Daivon Gamble,32,JR,C,6-5,235,"Livermore Falls, ME",, 2.5 Pts,1.5 Reb,0.1 Ast
-12,Demola Onifade,50,JR,C,6-9,245,Nigeria,Camden Catholic HS, 1.0 Pts,2.3 Reb,0.2 Ast
-13,Matthew Stevenson,,FR,G,6-2,175,"Winston-salem, NC",, 0.8 Pts,0.1 Reb,0.0 Ast
-14,Myles Carter,13,FR,G,6-1,170,"Philadelphia, PA",, 0.5 Pts,0.2 Reb,0.1 Ast
-15,Reginald Giles,55,SO,C,6-9,215,"Dover, DE",, 2.0 Pts,2.0 Reb,0.0 Ast
-16,Jamelle Christian,2,,G,6-1,190,"Washington, DC",Capital Christian HS,,,
+0,Kevin Larkin,2,SR,G,6-5,175,"Georgetown, DE",Sussex Technical High School, 16.0 Pts,8.8 Reb,1.7 Ast
+1,Johquin Wiley,4,SO,G,5-11,175,"Chesterfield, VA",Chesterfield Community High School, 9.5 Pts,3.4 Reb,4.4 Ast
+2,Saleik Edwards,21,SR,G,6-3,210,"Winterville, NC",South Central High School, 10.5 Pts,3.6 Reb,1.4 Ast
+3,Ameer Bennett,15,SO,F,6-8,220,"Richmond, VA",St. Christopher's School, 8.2 Pts,4.6 Reb,0.5 Ast
+4,Jonathan Mitchell,6,JR,G,6-4,210,"Waterbury, CT",Shooting for Greatness Academy, 8.0 Pts,5.2 Reb,0.9 Ast
+5,D'Marco Baucum,,FR,F,6-6,225,"Arlington, VA",St. Francis Academy, 8.2 Pts,4.1 Reb,0.9 Ast
+6,Ronald Lucas,10,FR,F,6-6,190,"Baltimore, MD",Reach Partnership School, 3.0 Pts,2.1 Reb,0.2 Ast
+7,Fahim Jenneto,32,FR,F,6-7,230,"Ajax, Canada",Thornlea Secondary School, 6.5 Pts,3.1 Reb,0.8 Ast
+8,Myles Carter,13,SO,G,6-1,170,"Philadelphia, PA",Academy at Palumbo, 2.0 Pts,1.2 Reb,0.3 Ast
+9,Montrell Horsey,3,FR,G,6-1,175,"Edgewood, MD",Joppatowne HS, 3.8 Pts,1.7 Reb,1.1 Ast
+10,Justin Ryder,0,FR,G,6-0,175,"Blackwood, NJ",Paul VI HS, 0.8 Pts,0.7 Reb,0.4 Ast
+11,Jordan Bushrod,13,SO,G,6-4,190,"Dover, DE",Fork Union Military Academy, 0.1 Pts,0.2 Reb,0.1 Ast
+12,Kobe Gantz,5,JR,G,6-3,180,"Lancaster, PA",J.P. McCaseky High School,,,
+13,Demola Onifade,50,SR,C,6-9,245,"Lagos, Nigeria",Camden Catholic HS,,,

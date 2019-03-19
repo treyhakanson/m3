@@ -1,23 +1,16 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Brandon Anderson,2,SO,G,6-1,170,"Mahwah, NJ",Don Bosco Preparatory High School, 17.3 Pts,2.7 Reb,3.9 Ast
-1,Desmond Cambridge,,FR,G,6-4,180,"Nashville, TN",, 17.3 Pts,4.5 Reb,1.2 Ast
-2,Zach Hunsaker,,SO,G,6-2,185,"Orem, UT",, 9.7 Pts,3.3 Reb,1.7 Ast
-3,Obi Okolie,4,JR,G,6-5,195,Canada,Archbishop Dennis O'Connor, 8.8 Pts,3.9 Reb,1.5 Ast
-4,Tamenang Choh,,FR,F,6-5,210,"Lowell, MA",, 7.2 Pts,5.4 Reb,1.5 Ast
-5,Joshua Howard,25,SO,F,6-6,200,"Charlotte, NC",Providence Day School, 5.9 Pts,3.2 Reb,0.9 Ast
-6,Jason Massey,,SR,G,6-5,200,"Cooper City, FL",American Heritage HS, 3.6 Pts,2.6 Reb,0.6 Ast
-7,Matt DeWolf,,FR,F,6-9,230,"Barrington, RI",, 3.0 Pts,4.4 Reb,0.5 Ast
-8,Chris Sullivan,11,JR,G,6-3,170,"Wilmette, IL",Northfield Mount Hermon School, 2.3 Pts,1.1 Reb,0.2 Ast
-9,Travis Fuller,1,JR,F,6-9,215,"Encinitas, CA",La Costa Canyon, 3.3 Pts,3.2 Reb,1.1 Ast
-10,David Erebor,10,SO,F,6-9,230,"Sykesville, MD",Our Lady of Mt. Camel High School, 2.0 Pts,1.7 Reb,0.0 Ast
-11,George Mawanda-Kalema,,FR,G,6-3,180,"Burke, VA",, 3.0 Pts,0.0 Reb,0.0 Ast
-12,Patrick Triplett,13,SR,G,6-4,210,"St. Louis, MO",Bayless HS, 2.0 Pts,1.0 Reb,1.0 Ast
-13,Jake Shaper,,FR,G,6-3,195,"Houston, TX",, 0.0 Pts,0.0 Reb,0.0 Ast
-14,Tavon Blackmon,5,,G,6-0,180,"Upper Marlboro, MD",Gonzaga College HS,,,
-15,Brandon Charnov,34,,C,6-11,250,"Houston, TX",The Kinkaid School,,,
-16,Corey Daugherty,22,,G,6-1,165,"Barrington, RI",Barrington High School,,,
-17,Kyle Haber,24,,F,6-6,190,"Dubuque, IA",Dubuque Senior HS,,,
-18,JR Hobbie,12,,G,6-4,190,"Spring Lake, NJ",Manasquan HS,,,
-19,Miki Ljuboja,30,,F,6-8,225,"North Riverside, IL",Phillips Exeter Academy,,,
-20,Steven Spieth,3,,F,6-6,200,"Dallas, TX",Jesuit College Prep,,,
-21,Blake Wilkinson,23,,F,6-7,235,"Bountiful, UT",Viewmont High School,,,
+0,Desmond Cambridge,24,SO,G,6-4,180,"Nashville, TN",Hun School of Princeton, 15.7 Pts,3.8 Reb,0.9 Ast
+1,Tamenang Choh,25,SO,F,6-5,210,"Lowell, MA",Brooks School, 12.8 Pts,8.7 Reb,3.2 Ast
+2,Obi Okolie,4,SR,G,6-5,205,"Ajax, Canada",Archbishop Dennis O'Connor, 11.8 Pts,4.2 Reb,1.9 Ast
+3,Brandon Anderson,2,JR,G,6-1,170,"Mahwah, NJ",Don Bosco Preparatory High School, 9.2 Pts,2.2 Reb,2.3 Ast
+4,Joshua Howard,5,JR,F,6-6,205,"Charlotte, NC",Providence Day School, 7.8 Pts,4.1 Reb,0.6 Ast
+5,Zach Hunsaker,20,JR,G,6-2,185,"North Salt Lake, UT",Orem High School, 5.8 Pts,2.1 Reb,1.4 Ast
+6,George Mawanda-Kalema,3,SO,G,6-3,180,"Burke, VA",Episcopal School, 4.9 Pts,1.8 Reb,0.4 Ast
+7,Matt DeWolf,44,SO,F,6-9,230,"Barrington, RI",Northfield Mount Hermon School, 2.9 Pts,3.0 Reb,1.0 Ast
+8,Chris Sullivan,11,SR,G,6-3,180,"Wilmette, IL",Northfield Mount Hermon School, 2.5 Pts,1.4 Reb,0.4 Ast
+9,David Mitchell,0,FR,G,6-6,200,"Roxbury, MA",Belmont Hill School, 2.3 Pts,2.6 Reb,0.7 Ast
+10,Travis Fuller,1,SR,F,6-9,225,"Encinitas, CA",La Costa Canyon, 1.5 Pts,1.4 Reb,0.4 Ast
+11,Jaylan Gainey,22,FR,F,6-9,190,"Greensboro, NC",The Academy at Smith HS, 2.2 Pts,2.0 Reb,0.1 Ast
+12,Thomas Shaughnessy,12,FR,G,6-0,170,"Needham, MA",Needham HS, 0.9 Pts,0.5 Reb,0.5 Ast
+13,Davis Franks,10,FR,F,6-8,205,"New York, NY",Northfield Mount Hermon HS, 0.9 Pts,0.7 Reb,0.3 Ast
+14,Jake Shaper,15,SO,G,6-3,195,"Houston, TX",The Kinkaid School, 1.0 Pts,0.6 Reb,0.5 Ast

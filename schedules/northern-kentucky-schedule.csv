@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Wilmington (OH),,W,102,38,,1,0,W 1,Bank of Kentucky Center
+1,2,"Fri, Nov 9, 2018",7:00p,REG,@,Northern Illinois,MAC,W,88,85,2OT,2,0,W 2,Convocation Center
+2,3,"Sun, Nov 11, 2018",6:00p,REG,,Wabash,,W,99,59,,3,0,W 3,Bank of Kentucky Center
+3,4,"Fri, Nov 16, 2018",7:00p,REG,,North Carolina-Asheville,Big South,W,77,50,,4,0,W 4,Bank of Kentucky Center
+4,5,"Sat, Nov 17, 2018",7:00p,REG,,Manhattan,MAAC,W,59,53,,5,0,W 5,Bank of Kentucky Center
+5,6,"Sun, Nov 18, 2018",6:30p,REG,,Coastal Carolina,Sun Belt,W,89,83,,6,0,W 6,Bank of Kentucky Center
+6,7,"Sat, Nov 24, 2018",6:00p,REG,@,Central Florida,AAC,L,53,66,,6,1,L 1,CFE Arena
+7,8,"Tue, Nov 27, 2018",7:35p,REG,@,Morehead State,OVC,W,93,71,,7,1,W 1,Ellis T. Johnson Arena
+8,9,"Fri, Nov 30, 2018",7:00p,REG,,Maryland-Baltimore County,AEC,W,78,60,,8,1,W 2,Bank of Kentucky Center
+9,10,"Tue, Dec 4, 2018",7:00p,REG,@,Cincinnati,AAC,L,65,78,,8,2,L 1,Fifth Third Arena
+10,11,"Sat, Dec 8, 2018",6:00p,REG,@,Eastern Kentucky,OVC,L,74,76,,8,3,L 2,McBrayer Arena
+11,12,"Sun, Dec 16, 2018",7:00p,REG,,Miami (OH),MAC,W,72,66,,9,3,W 1,Bank of Kentucky Center
+12,13,"Thu, Dec 20, 2018",7:00p,REG,,Northern Illinois,MAC,W,65,62,,10,3,W 2,Bank of Kentucky Center
+13,14,"Fri, Dec 28, 2018",7:00p,REG,,IUPUI,Horizon,W,92,77,,11,3,W 3,Bank of Kentucky Center
+14,15,"Sun, Dec 30, 2018",6:00p,REG,,Illinois-Chicago,Horizon,W,73,58,,12,3,W 4,Bank of Kentucky Center
+15,16,"Thu, Jan 3, 2019",7:00p,REG,@,Oakland,Horizon,L,74,76,,12,4,L 1,Athletics Center O'rena
+16,17,"Sat, Jan 5, 2019",1:00p,REG,@,Detroit Mercy,Horizon,W,95,73,,13,4,W 1,Calihan Hall
+17,18,"Fri, Jan 11, 2019",7:00p,REG,,Wright State,Horizon,W,68,64,,14,4,W 2,Bank of Kentucky Center
+18,19,"Thu, Jan 17, 2019",7:00p,REG,@,Cleveland State,Horizon,W,91,76,,15,4,W 3,Wolstein Center
+19,20,"Sat, Jan 19, 2019",1:00p,REG,@,Youngstown State,Horizon,W,82,74,,16,4,W 4,Beeghly Center
+20,21,"Thu, Jan 24, 2019",7:00p,REG,,Green Bay,Horizon,W,87,65,,17,4,W 5,Bank of Kentucky Center
+21,22,"Sat, Jan 26, 2019",7:00p,REG,,Milwaukee,Horizon,W,73,60,,18,4,W 6,Bank of Kentucky Center
+22,23,"Fri, Feb 1, 2019",7:00p,REG,@,IUPUI,Horizon,L,77,83,,18,5,L 1,Indiana Farmers Coliseum
+23,24,"Sun, Feb 3, 2019",4:00p,REG,@,Illinois-Chicago,Horizon,L,67,69,,18,6,L 2,UIC Pavilion
+24,25,"Thu, Feb 7, 2019",7:00p,REG,,Detroit Mercy,Horizon,W,97,65,,19,6,W 1,Bank of Kentucky Center
+25,26,"Sat, Feb 9, 2019",7:00p,REG,,Oakland,Horizon,W,79,64,,20,6,W 2,Bank of Kentucky Center
+26,27,"Fri, Feb 15, 2019",9:00p,REG,@,Wright State,Horizon,L,77,81,,20,7,L 1,Ervin J. Nutter Center
+27,28,"Thu, Feb 21, 2019",7:00p,REG,,Youngstown State,Horizon,W,76,69,,21,7,W 1,Bank of Kentucky Center
+28,29,"Sat, Feb 23, 2019",7:00p,REG,,Cleveland State,Horizon,L,77,83,,21,8,L 1,Bank of Kentucky Center
+29,30,"Thu, Feb 28, 2019",8:00p,REG,@,Milwaukee,Horizon,W,65,55,,22,8,W 1,UW-Milwaukee Panther Arena
+30,31,"Sat, Mar 2, 2019",1:00p,REG,@,Green Bay,Horizon,W,86,82,,23,8,W 2,Resch Center
+31,32,"Wed, Mar 6, 2019",7:00p,CTOURN,,Detroit Mercy,Horizon,W,99,88,,24,8,W 3,Bank of Kentucky Center
+32,33,"Mon, Mar 11, 2019",9:00p,CTOURN,N,Oakland,Horizon,W,64,63,,25,8,W 4,Little Caesars Arena
+33,34,"Tue, Mar 12, 2019",7:00p,CTOURN,N,Wright State,Horizon,W,77,66,,26,8,W 5,Little Caesars Arena
+34,35,"Fri, Mar 22, 2019",1:30p,NCAA,N,Texas Tech (7),Big 12,,,,,,,,

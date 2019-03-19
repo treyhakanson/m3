@@ -1,15 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Justin Strings,3,SR,F,6-6,210,"Carson, CA",Mira Costa HS, 17.9 Pts,7.0 Reb,2.3 Ast
-1,Joshua Patton,30,SO,F,6-8,200,"Manteca, CA",Sierra HS, 10.9 Pts,5.1 Reb,0.6 Ast
-2,Jordan Tolbert,12,JR,G,5-9,150,"Houston, TX",, 10.1 Pts,2.7 Reb,2.3 Ast
-3,Izayah Mauriohooho-Le'afa,2,,G,6-2,200,,, 8.5 Pts,3.4 Reb,3.6 Ast
-4,Bryce Fowler,23,FR,F,6-6,195,"Avondale, AZ",, 6.3 Pts,3.9 Reb,2.0 Ast
-5,Kevin Hicks,11,JR,G,5-11,168,"New Orleans, LA",, 4.7 Pts,1.4 Reb,0.5 Ast
-6,Jeff Wu,14,JR,G,6-2,180,Taiwan,Modesto Christian HS, 5.6 Pts,1.8 Reb,1.8 Ast
-7,Calvin Martin,25,JR,F,6-6,235,"Ridgecrest, CA",, 2.7 Pts,2.9 Reb,0.1 Ast
-8,Chibueze Jacobs,1,SO,F,6-4,200,"Canyon Country, CA",Notre Dame High School, 1.6 Pts,1.3 Reb,0.2 Ast
-9,James Herrick,50,SR,C,6-9,240,"Minden, NV",Douglas HS, 1.2 Pts,1.2 Reb,0.0 Ast
-10,Jiday Ugbaja,4,,G,5-10,185,"San Francisco, CA",Archbishop Riordan HS, 1.8 Pts,1.5 Reb,1.8 Ast
-11,Jamion Wright,15,FR,G,5-11,160,"San Francisco, CA",, 0.8 Pts,0.3 Reb,0.1 Ast
-12,Cristian Perez,32,JR,F,6-7,215,"Santa Fe Springs, CA",, 1.0 Pts,0.3 Reb,0.0 Ast
-13,Marcus Graves,0,,G,6-0,188,"San Diego, CA",Westview HS,,,
+0,Marcus Graves,0,SR,G,6-0,188,"San Diego, CA",Westview HS, 17.0 Pts,4.7 Reb,5.4 Ast
+1,Joshua Patton,30,JR,C,6-8,225,"Manteca, CA",Sierra HS, 13.0 Pts,6.4 Reb,0.8 Ast
+2,Ethan Esposito,22,SO,F,6-7,220,"Naples, Italy",, 8.6 Pts,4.2 Reb,0.4 Ast
+3,Izayah Mauriohooho-Le'afa,2,JR,G,6-2,200,"Wellington, New Zealand",St. Patrick's College, 8.8 Pts,3.0 Reb,2.6 Ast
+4,Bryce Fowler,23,SO,F,6-6,195,"Avondale, AZ",Agua Fria High School, 8.1 Pts,3.9 Reb,2.8 Ast
+5,Osi Nwachukwu,21,JR,G,6-5,195,"Oakland, CA",, 6.0 Pts,3.6 Reb,1.1 Ast
+6,Chibueze Jacobs,1,JR,F,6-4,195,"Canyon Country, CA",Notre Dame High School, 4.0 Pts,2.8 Reb,0.2 Ast
+7,Calvin Martin,25,SR,C,6-6,235,"Ridgecrest, CA",Burroughs High School, 1.9 Pts,1.8 Reb,0.2 Ast
+8,James Bridges,20,FR,F,6-5,210,"Las Vegas, NV",Clark HS, 1.7 Pts,1.0 Reb,0.2 Ast
+9,Jordan Tolbert,12,SR,G,5-9,150,"Houston, TX",Brazosport High School, 2.9 Pts,0.3 Reb,0.5 Ast
+10,Kevin Hicks,11,SR,G,5-11,168,"New Orleans, LA",Warren Easton High School, 1.9 Pts,0.3 Reb,0.0 Ast
+11,Grant Greabel,13,FR,G,6-3,180,"Goodyear, AZ",Estrella Foothills HS, 1.4 Pts,1.1 Reb,0.3 Ast
+12,Jamion Wright,4,SO,G,5-11,160,"San Francisco, CA",Mission High School, 0.6 Pts,0.2 Reb,0.0 Ast
+13,Elijah McCullough,15,FR,G,6-3,170,"Chino Hills, CA",Damien HS, 0.0 Pts,1.0 Reb,0.0 Ast
+14,Brandon Davis,32,SO,G,6-2,190,"Mission Hills, CA",Bishop Alemany High School,,,
+15,Jeff Wu,14,SR,G,6-2,180,,Modesto Christian HS,,,

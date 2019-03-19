@@ -1,0 +1,34 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:00 pm/est,,REG,,Norfolk State,MEAC,W,102,74,,1,0,W 1,Auburn Arena
+1,2,"Thu, Nov 16, 2017",11:30 am/est,,REG,N,Indiana State,MVC,W,83,64,,2,0,W 2,TD Arena
+2,3,"Fri, Nov 17, 2017",11:00 am/est,,REG,N,Temple,AAC,L,74,88,,2,1,L 1,TD Arena
+3,4,"Sun, Nov 19, 2017",7:00 pm/est,,REG,N,Hofstra,CAA,W,89,78,,3,1,W 1,TD Arena
+4,5,"Fri, Nov 24, 2017",7:00 pm/est,,REG,,Winthrop,Big South,W,119,85,,4,1,W 2,Auburn Arena
+5,6,"Wed, Nov 29, 2017",7:00 pm/est,,REG,@,Dayton,A-10,W,73,60,,5,1,W 3,University of Dayton Arena
+6,7,"Sun, Dec 3, 2017",3:00 pm/est,,REG,,George Mason,A-10,W,79,63,,6,1,W 4,Auburn Arena
+7,8,"Wed, Dec 6, 2017",8:00 pm/est,,REG,,Gardner-Webb,Big South,W,80,55,,7,1,W 5,Auburn Arena
+8,9,"Sat, Dec 9, 2017",4:30 pm/est,,REG,,Alabama-Birmingham,CUSA,W,85,80,,8,1,W 6,Auburn Arena
+9,10,"Sat, Dec 16, 2017",6:00 pm/est,,REG,N,Middle Tennessee,CUSA,W,76,70,,9,1,W 7,Legacy Arena
+10,11,"Tue, Dec 19, 2017",8:00 pm/est,,REG,@,Murray State,OVC,W,81,77,,10,1,W 8,CFSB Center
+11,12,"Sat, Dec 23, 2017",2:30 pm/est,,REG,,Connecticut,AAC,W,89,64,,11,1,W 9,Auburn Arena
+12,13,"Sat, Dec 30, 2017",3:30 pm/est,,REG,,Cornell,Ivy,W,98,77,,12,1,W 10,Auburn Arena
+13,14,"Tue, Jan 2, 2018",7:00 pm/est,,REG,@,Tennessee (23),SEC,W,94,84,,13,1,W 11,Thompson-Boling Arena
+14,15,"Sat, Jan 6, 2018",6:00 pm/est,,REG,,Arkansas (22),SEC,W,88,77,,14,1,W 12,Auburn Arena
+15,16,"Tue, Jan 9, 2018",9:00 pm/est,,REG,,Mississippi,SEC,W,85,70,,15,1,W 13,Auburn Arena
+16,17,"Sat, Jan 13, 2018",3:30 pm/est,,REG,@,Mississippi State,SEC,W,76,68,,16,1,W 14,Humphrey Coliseum
+17,18,"Wed, Jan 17, 2018",7:00 pm/est,,REG,@,Alabama,SEC,L,71,76,,16,2,L 1,Coleman Coliseum 
+18,19,"Sat, Jan 20, 2018",6:00 pm/est,,REG,,Georgia,SEC,W,79,65,,17,2,W 1,Auburn Arena
+19,20,"Wed, Jan 24, 2018",9:00 pm/est,,REG,@,Missouri,SEC,W,91,73,,18,2,W 2,Mizzou Arena
+20,21,"Sat, Jan 27, 2018",6:00 pm/est,,REG,,Louisiana State,SEC,W,95,70,,19,2,W 3,Auburn Arena
+21,22,"Tue, Jan 30, 2018",9:00 pm/est,,REG,@,Mississippi,SEC,W,79,70,,20,2,W 4,The Pavilion at Ole Miss
+22,23,"Sat, Feb 3, 2018",8:30 pm/est,,REG,,Vanderbilt,SEC,W,93,81,,21,2,W 5,Auburn Arena
+23,24,"Wed, Feb 7, 2018",9:00 pm/est,,REG,,Texas A&M,SEC,L,80,81,,21,3,L 1,Auburn Arena
+24,25,"Sat, Feb 10, 2018",3:30 pm/est,,REG,@,Georgia,SEC,W,78,61,,22,3,W 1,Stegeman Coliseum
+25,26,"Wed, Feb 14, 2018",9:00 pm/est,,REG,,Kentucky,SEC,W,76,66,,23,3,W 2,Auburn Arena
+26,27,"Sat, Feb 17, 2018",3:30 pm/est,,REG,@,South Carolina,SEC,L,75,84,,23,4,L 1,The Colonial Life Arena
+27,28,"Wed, Feb 21, 2018",8:30 pm/est,,REG,,Alabama,SEC,W,90,71,,24,4,W 1,Auburn Arena
+28,29,"Sat, Feb 24, 2018",8:30 pm/est,,REG,@,Florida,SEC,L,66,72,,24,5,L 1,Stephen C. O'Connell Center
+29,30,"Tue, Feb 27, 2018",9:00 pm/est,,REG,@,Arkansas,SEC,L,82,91,,24,6,L 2,Bud Walton Arena
+30,31,"Sat, Mar 3, 2018",3:30 pm/est,,REG,,South Carolina,SEC,W,79,70,,25,6,W 1,Auburn Arena
+31,32,"Fri, Mar 9, 2018",1:00 pm/est,,CTOURN,N,Alabama,SEC,L,63,81,,25,7,L 1,Scottrade Center
+32,33,"Fri, Mar 16, 2018",7:27 pm/est,,NCAA,N,College of Charleston,CAA,,,,,,,,

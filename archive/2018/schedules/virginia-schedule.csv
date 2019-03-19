@@ -1,0 +1,35 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,,North Carolina-Greensboro,Southern,W,60,48,,1,0,W 1,John Paul Jones Arena
+1,2,"Mon, Nov 13, 2017",7:00 pm/est,,REG,,Austin Peay,OVC,W,93,49,,2,0,W 2,John Paul Jones Arena
+2,3,"Fri, Nov 17, 2017",4:00 pm/est,,REG,@,Virginia Commonwealth,A-10,W,76,67,,3,0,W 3,Stuart Siegel Center
+3,4,"Sun, Nov 19, 2017",1:00 pm/est,,REG,,Monmouth,MAAC,W,73,53,,4,0,W 4,John Paul Jones Arena
+4,5,"Thu, Nov 23, 2017",4:00 pm/est,,REG,N,Vanderbilt,SEC,W,68,42,,5,0,W 5,Barclays Center
+5,6,"Fri, Nov 24, 2017",7:30 pm/est,,REG,N,Rhode Island,A-10,W,70,55,,6,0,W 6,Barclays Center
+6,7,"Mon, Nov 27, 2017",9:00 pm/est,,REG,,Wisconsin,Big Ten,W,49,37,,7,0,W 7,John Paul Jones Arena
+7,8,"Sat, Dec 2, 2017",12:00 pm/est,,REG,,Lehigh,Patriot,W,75,54,,8,0,W 8,John Paul Jones Arena
+8,9,"Tue, Dec 5, 2017",7:00 pm/est,,REG,@,West Virginia (18),Big 12,L,61,68,,8,1,L 1,WVU Coliseum
+9,10,"Sat, Dec 16, 2017",2:00 pm/est,,REG,,Davidson,A-10,W,80,60,,9,1,W 1,John Paul Jones Arena
+10,11,"Tue, Dec 19, 2017",7:00 pm/est,,REG,,Savannah State,MEAC,W,78,47,,10,1,W 2,John Paul Jones Arena
+11,12,"Fri, Dec 22, 2017",7:00 pm/est,,REG,,Hampton,MEAC,W,82,48,,11,1,W 3,John Paul Jones Arena
+12,13,"Sat, Dec 30, 2017",2:00 pm/est,,REG,,Boston College,ACC,W,59,58,,12,1,W 4,John Paul Jones Arena
+13,14,"Wed, Jan 3, 2018",9:00 pm/est,,REG,@,Virginia Tech,ACC,W,78,52,,13,1,W 5,Cassell Coliseum
+14,15,"Sat, Jan 6, 2018",1:00 pm/est,,REG,,North Carolina (12),ACC,W,61,49,,14,1,W 6,John Paul Jones Arena
+15,16,"Tue, Jan 9, 2018",8:00 pm/est,,REG,,Syracuse,ACC,W,68,61,,15,1,W 7,John Paul Jones Arena
+16,17,"Sun, Jan 14, 2018",6:00 pm/est,,REG,,North Carolina State,ACC,W,68,51,,16,1,W 8,John Paul Jones Arena
+17,18,"Thu, Jan 18, 2018",8:00 pm/est,,REG,@,Georgia Tech,ACC,W,64,48,,17,1,W 9,McCamish Pavilion
+18,19,"Sun, Jan 21, 2018",6:00 pm/est,,REG,@,Wake Forest,ACC,W,59,49,,18,1,W 10,Lawrence Joel Coliseum
+19,20,"Tue, Jan 23, 2018",7:00 pm/est,,REG,,Clemson (18),ACC,W,61,36,,19,1,W 11,John Paul Jones Arena
+20,21,"Sat, Jan 27, 2018",2:00 pm/est,,REG,@,Duke (4),ACC,W,65,63,,20,1,W 12,Cameron Indoor Stadium
+21,22,"Wed, Jan 31, 2018",7:00 pm/est,,REG,,Louisville,ACC,W,74,64,,21,1,W 13,John Paul Jones Arena
+22,23,"Sat, Feb 3, 2018",4:00 pm/est,,REG,@,Syracuse,ACC,W,59,44,,22,1,W 14,Carrier Dome
+23,24,"Wed, Feb 7, 2018",7:00 pm/est,,REG,@,Florida State,ACC,W,59,55,,23,1,W 15,Donald L. Tucker Center
+24,25,"Sat, Feb 10, 2018",6:15 pm/est,,REG,,Virginia Tech,ACC,L,60,61,OT,23,2,L 1,John Paul Jones Arena
+25,26,"Tue, Feb 13, 2018",9:00 pm/est,,REG,@,Miami (FL),ACC,W,59,50,,24,2,W 1,BankUnited Center
+26,27,"Wed, Feb 21, 2018",7:00 pm/est,,REG,,Georgia Tech,ACC,W,65,54,,25,2,W 2,John Paul Jones Arena
+27,28,"Sat, Feb 24, 2018",4:00 pm/est,,REG,@,Pittsburgh,ACC,W,66,37,,26,2,W 3,Petersen Events Center
+28,29,"Thu, Mar 1, 2018",8:00 pm/est,,REG,@,Louisville,ACC,W,67,66,,27,2,W 4,KFC Yum! Center
+29,30,"Sat, Mar 3, 2018",4:00 pm/est,,REG,,Notre Dame,ACC,W,62,57,,28,2,W 5,John Paul Jones Arena
+30,31,"Thu, Mar 8, 2018",12:00 pm/est,,CTOURN,N,Louisville,ACC,W,75,58,,29,2,W 6,Barclays Center
+31,32,"Fri, Mar 9, 2018",7:00 pm/est,,CTOURN,N,Clemson (19),ACC,W,64,58,,30,2,W 7,Barclays Center
+32,33,"Sat, Mar 10, 2018",8:30 pm/est,,CTOURN,N,North Carolina (12),ACC,W,71,63,,31,2,W 8,Barclays Center
+33,34,"Fri, Mar 16, 2018",9:20 pm/est,,NCAA,N,Maryland-Baltimore County,AEC,,,,,,,,

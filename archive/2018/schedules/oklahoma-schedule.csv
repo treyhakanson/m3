@@ -1,0 +1,33 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Sun, Nov 12, 2017",3:00 pm/est,,REG,,Nebraska-Omaha,Summit,W,108,89,,1,0,W 1,Lloyd Noble Center
+1,2,"Wed, Nov 15, 2017",8:00 pm/est,,REG,,Ball State,MAC,W,108,69,,2,0,W 2,Lloyd Noble Center
+2,3,"Thu, Nov 23, 2017",5:00 pm/est,,REG,N,Arkansas,SEC,L,83,92,,2,1,L 1,Moda Center
+3,4,"Fri, Nov 24, 2017",6:00 pm/est,,REG,N,Portland,WCC,W,93,71,,3,1,W 1,
+4,5,"Sun, Nov 26, 2017",1:00 pm/est,,REG,N,Oregon,Pac-12,W,90,80,,4,1,W 2,
+5,6,"Thu, Nov 30, 2017",8:00 pm/est,,REG,,North Texas,CUSA,W,82,72,,5,1,W 3,Lloyd Noble Center
+6,7,"Mon, Dec 4, 2017",8:00 pm/est,,REG,,Texas-San Antonio,CUSA,W,97,85,,6,1,W 4,Lloyd Noble Center
+7,8,"Fri, Dec 8, 2017",10:30 pm/est,,REG,N,Southern California (25),Pac-12,W,85,83,,7,1,W 5,Staples Center
+8,9,"Sat, Dec 16, 2017",4:00 pm/est,,REG,@,Wichita State (3),AAC,W,91,83,,8,1,W 6,Charles Koch Arena
+9,10,"Tue, Dec 19, 2017",7:00 pm/est,,REG,,Northwestern State,Southland,W,105,68,,9,1,W 7,Lloyd Noble Center
+10,11,"Fri, Dec 22, 2017",7:00 pm/est,,REG,,Northwestern,Big Ten,W,104,78,,10,1,W 8,Lloyd Noble Center
+11,12,"Sat, Dec 30, 2017",2:00 pm/est,,REG,@,Texas Christian (10),Big 12,W,90,89,,11,1,W 9,Ed & Rae Schollmaier Arena
+12,13,"Wed, Jan 3, 2018",9:00 pm/est,,REG,,Oklahoma State,Big 12,W,109,89,,12,1,W 10,Lloyd Noble Center
+13,14,"Sat, Jan 6, 2018",7:15 pm/est,,REG,@,West Virginia (6),Big 12,L,76,89,,12,2,L 1,WVU Coliseum
+14,15,"Tue, Jan 9, 2018",7:00 pm/est,,REG,,Texas Tech (8),Big 12,W,75,65,,13,2,W 1,Lloyd Noble Center
+15,16,"Sat, Jan 13, 2018",1:00 pm/est,,REG,,Texas Christian (16),Big 12,W,102,97,OT,14,2,W 2,Lloyd Noble Center
+16,17,"Tue, Jan 16, 2018",9:00 pm/est,,REG,@,Kansas State,Big 12,L,69,87,,14,3,L 1,Bramlage Coliseum
+17,18,"Sat, Jan 20, 2018",2:00 pm/est,,REG,@,Oklahoma State,Big 12,L,81,83,OT,14,4,L 2,Gallagher-Iba Arena
+18,19,"Tue, Jan 23, 2018",7:00 pm/est,,REG,,Kansas (5),Big 12,W,85,80,,15,4,W 1,Lloyd Noble Center
+19,20,"Sat, Jan 27, 2018",2:15 pm/est,,REG,@,Alabama,SEC,L,73,80,,15,5,L 1,Coleman Coliseum 
+20,21,"Tue, Jan 30, 2018",9:00 pm/est,,REG,,Baylor,Big 12,W,98,96,,16,5,W 1,Lloyd Noble Center
+21,22,"Sat, Feb 3, 2018",6:15 pm/est,,REG,@,Texas,Big 12,L,74,79,,16,6,L 1,Frank Erwin Center
+22,23,"Mon, Feb 5, 2018",9:00 pm/est,,REG,,West Virginia (19),Big 12,L,73,75,,16,7,L 2,Lloyd Noble Center
+23,24,"Sat, Feb 10, 2018",2:00 pm/est,,REG,@,Iowa State,Big 12,L,80,88,,16,8,L 3,James H. Hilton Coliseum 
+24,25,"Tue, Feb 13, 2018",7:00 pm/est,,REG,@,Texas Tech (7),Big 12,L,78,88,,16,9,L 4,United Supermarkets Arena
+25,26,"Sat, Feb 17, 2018",12:00 pm/est,,REG,,Texas,Big 12,L,66,77,,16,10,L 5,Lloyd Noble Center
+26,27,"Mon, Feb 19, 2018",9:00 pm/est,,REG,@,Kansas (8),Big 12,L,74,104,,16,11,L 6,Allen Fieldhouse
+27,28,"Sat, Feb 24, 2018",6:00 pm/est,,REG,,Kansas State,Big 12,W,86,77,,17,11,W 1,Lloyd Noble Center
+28,29,"Tue, Feb 27, 2018",9:00 pm/est,,REG,@,Baylor,Big 12,L,64,87,,17,12,L 1,Ferrell Center
+29,30,"Fri, Mar 2, 2018",9:00 pm/est,,REG,,Iowa State,Big 12,W,81,60,,18,12,W 1,Lloyd Noble Center
+30,31,"Wed, Mar 7, 2018",7:00 pm/est,,CTOURN,N,Oklahoma State,Big 12,L,60,71,,18,13,L 1,Sprint Center
+31,32,"Thu, Mar 15, 2018",12:15 pm/est,,NCAA,N,Rhode Island,A-10,,,,,,,,

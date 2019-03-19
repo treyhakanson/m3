@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,North Carolina (8),ACC,L,67,78,,0,1,L 1,Richardson Indoor Stadium
+1,2,"Sat, Nov 10, 2018",2:00p,REG,@,High Point,Big South,W,68,60,,1,1,W 1,Millis Center
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Carver Bible,,W,94,35,,2,1,W 2,Richardson Indoor Stadium
+3,4,"Sun, Nov 18, 2018",2:00p,REG,@,Oklahoma,Big 12,L,64,75,,2,2,L 1,Lloyd Noble Center
+4,5,"Wed, Nov 21, 2018",7:00p,REG,,Coppin State,MEAC,W,99,65,,3,2,W 1,Richardson Indoor Stadium
+5,6,"Fri, Nov 23, 2018",1:00p,REG,,Mars Hill,,W,97,46,,4,2,W 2,Richardson Indoor Stadium
+6,7,"Mon, Nov 26, 2018",7:00p,REG,@,South Carolina,SEC,W,81,61,,5,2,W 3,The Colonial Life Arena
+7,8,"Sat, Dec 1, 2018",7:00p,REG,,East Tennessee State,Southern,W,79,62,,6,2,W 4,Richardson Indoor Stadium
+8,9,"Tue, Dec 4, 2018",8:00p,REG,@,Kansas (2),Big 12,L,47,72,,6,3,L 1,Allen Fieldhouse
+9,10,"Thu, Dec 6, 2018",7:00p,REG,,Kentucky Christian,,W,112,58,,7,3,W 1,Richardson Indoor Stadium
+10,11,"Sun, Dec 9, 2018",2:00p,REG,,Coastal Carolina,Sun Belt,W,82,71,,8,3,W 2,Richardson Indoor Stadium
+11,12,"Sat, Dec 15, 2018",7:00p,REG,,North Carolina-Asheville,Big South,W,92,49,,9,3,W 3,Richardson Indoor Stadium
+12,13,"Wed, Dec 19, 2018",8:00p,REG,@,Mississippi State (17),SEC,L,87,98,,9,4,L 1,Humphrey Coliseum
+13,14,"Sat, Dec 29, 2018",12:00p,REG,@,Western Carolina,Southern,W,74,54,,10,4,W 1,Ramsey Center
+14,15,"Thu, Jan 3, 2019",7:00p,REG,,Citadel,Southern,W,112,81,,11,4,W 2,Richardson Indoor Stadium
+15,16,"Sat, Jan 5, 2019",7:00p,REG,,Mercer,Southern,W,78,74,,12,4,W 3,Richardson Indoor Stadium
+16,17,"Thu, Jan 10, 2019",7:00p,REG,@,North Carolina-Greensboro,Southern,W,72,43,,13,4,W 4,Greensboro Coliseum
+17,18,"Sat, Jan 12, 2019",1:00p,REG,@,Virginia Military Institute,Southern,W,90,76,,14,4,W 5,Cameron Hall
+18,19,"Sat, Jan 19, 2019",7:00p,REG,,Furman,Southern,W,59,54,,15,4,W 6,Richardson Indoor Stadium
+19,20,"Thu, Jan 24, 2019",7:00p,REG,,Samford,Southern,W,107,106,OT,16,4,W 7,Richardson Indoor Stadium
+20,21,"Sat, Jan 26, 2019",7:00p,REG,,Chattanooga,Southern,W,80,69,,17,4,W 8,Richardson Indoor Stadium
+21,22,"Thu, Jan 31, 2019",7:00p,REG,@,Mercer,Southern,W,76,67,,18,4,W 9,Hawkins Arena
+22,23,"Sat, Feb 2, 2019",1:00p,REG,@,Citadel,Southern,W,99,61,,19,4,W 10,McAlister Field House
+23,24,"Thu, Feb 7, 2019",7:00p,REG,@,East Tennessee State,Southern,W,78,76,OT,20,4,W 11,Freedom Hall Civic Center
+24,25,"Sat, Feb 9, 2019",7:00p,REG,,Western Carolina,Southern,W,83,56,,21,4,W 12,Richardson Indoor Stadium
+25,26,"Thu, Feb 14, 2019",7:00p,REG,,Virginia Military Institute,Southern,W,95,84,,22,4,W 13,Richardson Indoor Stadium
+26,27,"Sat, Feb 16, 2019",7:00p,REG,,North Carolina-Greensboro,Southern,W,80,50,,23,4,W 14,Richardson Indoor Stadium
+27,28,"Sat, Feb 23, 2019",4:00p,REG,@,Furman,Southern,W,72,64,,24,4,W 15,Timmons Arena
+28,29,"Thu, Feb 28, 2019",7:00p,REG,@,Chattanooga,Southern,W,80,54,,25,4,W 16,The McKenzie Arena
+29,30,"Sat, Mar 2, 2019",2:00p,REG,@,Samford,Southern,W,85,64,,26,4,W 17,Pete Hanna Center
+30,31,"Sat, Mar 9, 2019",12:00p,CTOURN,N,Virginia Military Institute,Southern,W,99,72,,27,4,W 18,U.S. Cellular Center
+31,32,"Sun, Mar 10, 2019",4:00p,CTOURN,N,East Tennessee State,Southern,W,81,72,,28,4,W 19,U.S. Cellular Center
+32,33,"Mon, Mar 11, 2019",7:00p,CTOURN,N,North Carolina-Greensboro,Southern,W,70,58,,29,4,W 20,U.S. Cellular Center
+33,34,"Thu, Mar 21, 2019",9:40p,NCAA,N,Seton Hall,Big East,,,,,,,,

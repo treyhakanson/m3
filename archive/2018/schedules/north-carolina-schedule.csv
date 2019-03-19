@@ -1,0 +1,37 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,,Northern Iowa,MVC,W,86,69,,1,0,W 1,Dean Smith Center
+1,2,"Wed, Nov 15, 2017",8:00 pm/est,,REG,,Bucknell,Patriot,W,93,81,,2,0,W 2,Dean Smith Center
+2,3,"Mon, Nov 20, 2017",11:30 pm/est,,REG,@,Stanford,Pac-12,W,96,72,,3,0,W 3,Maples Pavilion
+3,4,"Thu, Nov 23, 2017",2:30 pm/est,,REG,N,Portland,WCC,W,102,78,,4,0,W 4,Moda Center
+4,5,"Fri, Nov 24, 2017",3:30 pm/est,,REG,N,Arkansas,SEC,W,87,68,,5,0,W 5,
+5,6,"Sun, Nov 26, 2017",8:30 pm/est,,REG,N,Michigan State (4),Big Ten,L,45,63,,5,1,L 1,Moda Center
+6,7,"Wed, Nov 29, 2017",7:30 pm/est,,REG,,Michigan,Big Ten,W,86,71,,6,1,W 1,Dean Smith Center
+7,8,"Fri, Dec 1, 2017",8:00 pm/est,,REG,N,Davidson,A-10,W,85,75,,7,1,W 2,
+8,9,"Sun, Dec 3, 2017",2:00 pm/est,,REG,,Tulane,AAC,W,97,73,,8,1,W 3,Dean Smith Center
+9,10,"Wed, Dec 6, 2017",7:00 pm/est,,REG,,Western Carolina,Southern,W,104,61,,9,1,W 4,Dean Smith Center
+10,11,"Sun, Dec 17, 2017",3:00 pm/est,,REG,@,Tennessee (20),SEC,W,78,73,,10,1,W 5,Thompson-Boling Arena
+11,12,"Wed, Dec 20, 2017",9:00 pm/est,,REG,,Wofford,Southern,L,75,79,,10,2,L 1,Dean Smith Center
+12,13,"Sat, Dec 23, 2017",1:30 pm/est,,REG,N,Ohio State,Big Ten,W,86,72,,11,2,W 1,Smoothie King Center
+13,14,"Sat, Dec 30, 2017",12:00 pm/est,,REG,,Wake Forest,ACC,W,73,69,,12,2,W 2,Dean Smith Center
+14,15,"Wed, Jan 3, 2018",7:00 pm/est,,REG,@,Florida State (24),ACC,L,80,81,,12,3,L 1,Donald L. Tucker Center
+15,16,"Sat, Jan 6, 2018",1:00 pm/est,,REG,@,Virginia (8),ACC,L,49,61,,12,4,L 2,John Paul Jones Arena
+16,17,"Tue, Jan 9, 2018",8:00 pm/est,,REG,,Boston College,ACC,W,96,66,,13,4,W 1,Dean Smith Center
+17,18,"Sat, Jan 13, 2018",6:00 pm/est,,REG,@,Notre Dame,ACC,W,69,68,,14,4,W 2,Purcell Pavilion at the Joyce Center
+18,19,"Tue, Jan 16, 2018",7:00 pm/est,,REG,,Clemson (20),ACC,W,87,79,,15,4,W 3,Dean Smith Center
+19,20,"Sat, Jan 20, 2018",2:00 pm/est,,REG,,Georgia Tech,ACC,W,80,66,,16,4,W 4,Dean Smith Center
+20,21,"Mon, Jan 22, 2018",7:00 pm/est,,REG,@,Virginia Tech,ACC,L,69,80,,16,5,L 1,Cassell Coliseum
+21,22,"Sat, Jan 27, 2018",12:00 pm/est,,REG,,North Carolina State,ACC,L,91,95,OT,16,6,L 2,Dean Smith Center
+22,23,"Tue, Jan 30, 2018",7:00 pm/est,,REG,@,Clemson (20),ACC,L,78,82,,16,7,L 3,Littlejohn Coliseum
+23,24,"Sat, Feb 3, 2018",8:00 pm/est,,REG,,Pittsburgh,ACC,W,96,65,,17,7,W 1,Dean Smith Center
+24,25,"Thu, Feb 8, 2018",8:00 pm/est,,REG,,Duke (9),ACC,W,82,78,,18,7,W 2,Dean Smith Center
+25,26,"Sat, Feb 10, 2018",2:00 pm/est,,REG,@,North Carolina State,ACC,W,96,89,,19,7,W 3,PNC Arena
+26,27,"Mon, Feb 12, 2018",7:00 pm/est,,REG,,Notre Dame,ACC,W,83,66,,20,7,W 4,Dean Smith Center
+27,28,"Sat, Feb 17, 2018",8:15 pm/est,,REG,@,Louisville,ACC,W,93,76,,21,7,W 5,KFC Yum! Center
+28,29,"Wed, Feb 21, 2018",7:00 pm/est,,REG,@,Syracuse,ACC,W,78,74,,22,7,W 6,Carrier Dome
+29,30,"Tue, Feb 27, 2018",9:00 pm/est,,REG,,Miami (FL),ACC,L,88,91,,22,8,L 1,Dean Smith Center
+30,31,"Sat, Mar 3, 2018",8:15 pm/est,,REG,@,Duke (5),ACC,L,64,74,,22,9,L 2,Cameron Indoor Stadium
+31,32,"Wed, Mar 7, 2018",9:00 pm/est,,CTOURN,N,Syracuse,ACC,W,78,59,,23,9,W 1,Barclays Center
+32,33,"Thu, Mar 8, 2018",9:00 pm/est,,CTOURN,N,Miami (FL) (24),ACC,W,82,65,,24,9,W 2,Barclays Center
+33,34,"Fri, Mar 9, 2018",9:00 pm/est,,CTOURN,N,Duke (5),ACC,W,74,69,,25,9,W 3,Barclays Center
+34,35,"Sat, Mar 10, 2018",8:30 pm/est,,CTOURN,N,Virginia (1),ACC,L,63,71,,25,10,L 1,Barclays Center
+35,36,"Fri, Mar 16, 2018",2:45 pm/est,,NCAA,N,Lipscomb,A-Sun,,,,,,,,

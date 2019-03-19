@@ -1,0 +1,35 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:00 pm/est,,REG,,North Florida,A-Sun,W,98,66,,1,0,W 1,Breslin Events Center
+1,2,"Tue, Nov 14, 2017",7:00 pm/est,,REG,N,Duke (1),ACC,L,81,88,,1,1,L 1,United Center
+2,3,"Sun, Nov 19, 2017",4:00 pm/est,,REG,,Stony Brook,AEC,W,93,71,,2,1,W 1,Breslin Events Center
+3,4,"Thu, Nov 23, 2017",11:30 pm/est,,REG,N,DePaul,Big East,W,73,51,,3,1,W 2,Moda Center
+4,5,"Sat, Nov 25, 2017",12:00 am/est,,REG,N,Connecticut,AAC,W,77,57,,4,1,W 3,
+5,6,"Sun, Nov 26, 2017",8:30 pm/est,,REG,N,North Carolina (9),ACC,W,63,45,,5,1,W 4,Moda Center
+6,7,"Thu, Nov 30, 2017",7:00 pm/est,,REG,,Notre Dame (5),ACC,W,81,63,,6,1,W 5,Breslin Events Center
+7,8,"Sun, Dec 3, 2017",4:30 pm/est,,REG,,Nebraska,Big Ten,W,86,57,,7,1,W 6,Breslin Events Center
+8,9,"Tue, Dec 5, 2017",7:00 pm/est,,REG,@,Rutgers,Big Ten,W,62,52,,8,1,W 7,Louis Brown Athletic Center
+9,10,"Sat, Dec 9, 2017",6:00 pm/est,,REG,,Southern Utah,Big Sky,W,88,63,,9,1,W 8,Breslin Events Center
+10,11,"Sat, Dec 16, 2017",2:00 pm/est,,REG,N,Oakland,Horizon,W,86,73,,10,1,W 9,
+11,12,"Mon, Dec 18, 2017",6:00 pm/est,,REG,,Houston Baptist,Southland,W,107,62,,11,1,W 10,Breslin Events Center
+12,13,"Thu, Dec 21, 2017",7:00 pm/est,,REG,,Long Beach State,Big West,W,102,60,,12,1,W 11,Breslin Events Center
+13,14,"Fri, Dec 29, 2017",6:00 pm/est,,REG,,Cleveland State,Horizon,W,111,61,,13,1,W 12,Breslin Events Center
+14,15,"Sun, Dec 31, 2017",12:00 pm/est,,REG,,Savannah State,MEAC,W,108,52,,14,1,W 13,Breslin Events Center
+15,16,"Thu, Jan 4, 2018",8:00 pm/est,,REG,,Maryland,Big Ten,W,91,61,,15,1,W 14,Breslin Events Center
+16,17,"Sun, Jan 7, 2018",4:30 pm/est,,REG,@,Ohio State,Big Ten,L,64,80,,15,2,L 1,Value City Arena
+17,18,"Wed, Jan 10, 2018",7:00 pm/est,,REG,,Rutgers,Big Ten,W,76,72,OT,16,2,W 1,Breslin Events Center
+18,19,"Sat, Jan 13, 2018",12:00 pm/est,,REG,,Michigan,Big Ten,L,72,82,,16,3,L 1,Breslin Events Center
+19,20,"Fri, Jan 19, 2018",7:00 pm/est,,REG,,Indiana,Big Ten,W,85,57,,17,3,W 1,Breslin Events Center
+20,21,"Mon, Jan 22, 2018",9:00 pm/est,,REG,@,Illinois,Big Ten,W,87,74,,18,3,W 2,State Farm Center
+21,22,"Fri, Jan 26, 2018",8:00 pm/est,,REG,,Wisconsin,Big Ten,W,76,61,,19,3,W 3,Breslin Events Center
+22,23,"Sun, Jan 28, 2018",1:00 pm/est,,REG,@,Maryland,Big Ten,W,74,68,,20,3,W 4,Xfinity Center
+23,24,"Wed, Jan 31, 2018",6:30 pm/est,,REG,,Penn State,Big Ten,W,76,68,,21,3,W 5,Breslin Events Center
+24,25,"Sat, Feb 3, 2018",8:15 pm/est,,REG,@,Indiana,Big Ten,W,63,60,,22,3,W 6,Assembly Hall
+25,26,"Tue, Feb 6, 2018",9:00 pm/est,,REG,@,Iowa,Big Ten,W,96,93,,23,3,W 7,Carver-Hawkeye Arena
+26,27,"Sat, Feb 10, 2018",4:00 pm/est,,REG,,Purdue (3),Big Ten,W,68,65,,24,3,W 8,Breslin Events Center
+27,28,"Tue, Feb 13, 2018",9:00 pm/est,,REG,@,Minnesota,Big Ten,W,87,57,,25,3,W 9,Williams Arena
+28,29,"Sat, Feb 17, 2018",2:00 pm/est,,REG,@,Northwestern,Big Ten,W,65,60,,26,3,W 10,Allstate Arena
+29,30,"Tue, Feb 20, 2018",7:00 pm/est,,REG,,Illinois,Big Ten,W,81,61,,27,3,W 11,Breslin Events Center
+30,31,"Sun, Feb 25, 2018",1:00 pm/est,,REG,@,Wisconsin,Big Ten,W,68,63,,28,3,W 12,Kohl Center
+31,32,"Fri, Mar 2, 2018",12:00 pm/est,,CTOURN,N,Wisconsin,Big Ten,W,63,60,,29,3,W 13,Madison Square Garden (IV)
+32,33,"Sat, Mar 3, 2018",2:00 pm/est,,CTOURN,N,Michigan (15),Big Ten,L,64,75,,29,4,L 1,Madison Square Garden (IV)
+33,34,"Fri, Mar 16, 2018",7:10 pm/est,,NCAA,N,Bucknell,Patriot,,,,,,,,

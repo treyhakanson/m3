@@ -1,0 +1,37 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,,Southeast Missouri State,OVC,W,75,65,,1,0,W 1,Chaifetz Arena
+1,2,"Sat, Nov 10, 2018",8:00p,REG,,Troy,Sun Belt,W,62,58,,2,0,W 2,Chaifetz Arena
+2,3,"Tue, Nov 13, 2018",8:00p,REG,,North Alabama,A-Sun,W,69,58,,3,0,W 3,Chaifetz Arena
+3,4,"Sat, Nov 17, 2018",8:00p,REG,@,Seton Hall,Big East,W,66,64,,4,0,W 4,Prudential Center
+4,5,"Wed, Nov 21, 2018",12:00p,REG,N,Pittsburgh,ACC,L,73,75,,4,1,L 1,Barclays Center
+5,6,"Sat, Nov 24, 2018",4:00p,REG,,Central Arkansas,Southland,W,73,61,,5,1,W 1,Chaifetz Arena
+6,7,"Sat, Dec 1, 2018",5:00p,REG,,Butler,Big East,W,64,52,,6,1,W 2,Chaifetz Arena
+7,8,"Wed, Dec 5, 2018",8:00p,REG,@,Southern Illinois,MVC,L,56,61,,6,2,L 1,The SIU Arena
+8,9,"Sun, Dec 9, 2018",3:30p,REG,,Oregon State,Pac-12,W,65,61,,7,2,W 1,Chaifetz Arena
+9,10,"Sun, Dec 16, 2018",3:00p,REG,@,Houston (24),AAC,L,64,68,,7,3,L 1,Hofheinz Pavilion
+10,11,"Wed, Dec 19, 2018",8:00p,REG,,North Carolina Central,MEAC,W,74,65,,8,3,W 1,Chaifetz Arena
+11,12,"Sat, Dec 22, 2018",2:30p,REG,N,Florida State (11),ACC,L,59,81,,8,4,L 1,BB&T Center
+12,13,"Sun, Dec 30, 2018",3:00p,REG,,Appalachian State,Sun Belt,W,83,55,,9,4,W 1,Chaifetz Arena
+13,14,"Sun, Jan 6, 2019",4:00p,REG,,Rhode Island,A-10,W,60,53,,10,4,W 2,Chaifetz Arena
+14,15,"Wed, Jan 9, 2019",9:00p,REG,,Massachusetts,A-10,W,65,62,,11,4,W 3,Chaifetz Arena
+15,16,"Sat, Jan 12, 2019",6:00p,REG,@,La Salle,A-10,W,71,64,,12,4,W 4,Tom Gola Arena
+16,17,"Tue, Jan 15, 2019",7:00p,REG,@,Fordham,A-10,W,63,60,,13,4,W 5,Rose Hill Gym
+17,18,"Fri, Jan 18, 2019",7:00p,REG,,Saint Joseph's,A-10,W,68,57,,14,4,W 6,Chaifetz Arena
+18,19,"Wed, Jan 23, 2019",8:00p,REG,@,Duquesne,A-10,L,73,77,,14,5,L 1,A.J. Palumbo Center
+19,20,"Sat, Jan 26, 2019",2:00p,REG,,Davidson,A-10,L,53,54,,14,6,L 2,Chaifetz Arena
+20,21,"Wed, Jan 30, 2019",7:00p,REG,,Richmond,A-10,L,81,84,,14,7,L 3,Chaifetz Arena
+21,22,"Sat, Feb 2, 2019",4:00p,REG,@,Rhode Island,A-10,L,54,65,,14,8,L 4,Ryan Center
+22,23,"Tue, Feb 5, 2019",9:00p,REG,,Dayton,A-10,W,73,60,,15,8,W 1,Chaifetz Arena
+23,24,"Fri, Feb 8, 2019",7:00p,REG,@,Saint Joseph's,A-10,L,61,91,,15,9,L 1,Hagan Arena
+24,25,"Wed, Feb 13, 2019",6:30p,REG,@,George Washington,A-10,W,73,58,,16,9,W 1,Charles E. Smith Center
+25,26,"Sat, Feb 16, 2019",5:00p,REG,,La Salle,A-10,W,62,49,,17,9,W 2,Chaifetz Arena
+26,27,"Sat, Feb 23, 2019",4:00p,REG,@,Dayton,A-10,L,62,70,,17,10,L 1,University of Dayton Arena
+27,28,"Tue, Feb 26, 2019",7:30p,REG,@,Virginia Commonwealth,A-10,L,65,71,,17,11,L 2,Stuart Siegel Center
+28,29,"Sat, Mar 2, 2019",3:00p,REG,,George Mason,A-10,W,81,71,,18,11,W 1,Chaifetz Arena
+29,30,"Wed, Mar 6, 2019",8:00p,REG,,Duquesne,A-10,W,85,75,,19,11,W 2,Chaifetz Arena
+30,31,"Sat, Mar 9, 2019",1:00p,REG,@,St. Bonaventure,A-10,L,57,66,,19,12,L 1,Reilly Center
+31,32,"Thu, Mar 14, 2019",8:30p,CTOURN,N,Richmond,A-10,W,71,68,,20,12,W 1,Barclays Center
+32,33,"Fri, Mar 15, 2019",8:30p,CTOURN,N,Dayton,A-10,W,64,55,,21,12,W 2,Barclays Center
+33,34,"Sat, Mar 16, 2019",3:30p,CTOURN,N,Davidson,A-10,W,67,44,,22,12,W 3,Barclays Center
+34,35,"Sun, Mar 17, 2019",1:00p,CTOURN,N,St. Bonaventure,A-10,W,55,53,,23,12,W 4,Barclays Center
+35,36,"Fri, Mar 22, 2019",9:57p,NCAA,N,Virginia Tech (16),ACC,,,,,,,,

@@ -1,0 +1,36 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,,Utah Valley,WAC,W,73,63,,1,0,W 1,Rupp Arena
+1,2,"Sun, Nov 12, 2017",3:30 pm/est,,REG,,Vermont,AEC,W,73,69,,2,0,W 2,Rupp Arena
+2,3,"Tue, Nov 14, 2017",9:30 pm/est,,REG,N,Kansas (4),Big 12,L,61,65,,2,1,L 1,United Center
+3,4,"Fri, Nov 17, 2017",7:00 pm/est,,REG,,East Tennessee State,Southern,W,78,61,,3,1,W 1,Rupp Arena
+4,5,"Mon, Nov 20, 2017",8:00 pm/est,,REG,,Troy,Sun Belt,W,70,62,,4,1,W 2,Rupp Arena
+5,6,"Wed, Nov 22, 2017",8:00 pm/est,,REG,,IPFW,Summit,W,86,67,,5,1,W 3,Rupp Arena
+6,7,"Sun, Nov 26, 2017",6:00 pm/est,,REG,,Illinois-Chicago,Horizon,W,107,73,,6,1,W 4,Rupp Arena
+7,8,"Sat, Dec 2, 2017",3:30 pm/est,,REG,,Harvard,Ivy,W,79,70,,7,1,W 5,Rupp Arena
+8,9,"Sat, Dec 9, 2017",12:00 pm/est,,REG,N,Monmouth,MAAC,W,93,76,,8,1,W 6,Madison Square Garden (IV)
+9,10,"Sat, Dec 16, 2017",2:00 pm/est,,REG,,Virginia Tech,ACC,W,93,86,,9,1,W 7,Rupp Arena
+10,11,"Sat, Dec 23, 2017",4:00 pm/est,,REG,N,UCLA,Pac-12,L,75,83,,9,2,L 1,Smoothie King Center
+11,12,"Fri, Dec 29, 2017",1:00 pm/est,,REG,,Louisville,ACC,W,90,61,,10,2,W 1,Rupp Arena
+12,13,"Sun, Dec 31, 2017",6:00 pm/est,,REG,,Georgia,SEC,W,66,61,,11,2,W 2,Rupp Arena
+13,14,"Wed, Jan 3, 2018",8:30 pm/est,,REG,@,Louisiana State,SEC,W,74,71,,12,2,W 3,Maravich Assembly Center
+14,15,"Sat, Jan 6, 2018",9:00 pm/est,,REG,@,Tennessee (23),SEC,L,65,76,,12,3,L 1,Thompson-Boling Arena
+15,16,"Tue, Jan 9, 2018",7:00 pm/est,,REG,,Texas A&M,SEC,W,74,73,,13,3,W 1,Rupp Arena
+16,17,"Sat, Jan 13, 2018",4:00 pm/est,,REG,@,Vanderbilt,SEC,W,74,67,,14,3,W 2,Memorial Gymnasium
+17,18,"Tue, Jan 16, 2018",9:00 pm/est,,REG,@,South Carolina,SEC,L,68,76,,14,4,L 1,The Colonial Life Arena
+18,19,"Sat, Jan 20, 2018",8:15 pm/est,,REG,,Florida,SEC,L,64,66,,14,5,L 2,Rupp Arena
+19,20,"Tue, Jan 23, 2018",9:00 pm/est,,REG,,Mississippi State,SEC,W,78,65,,15,5,W 1,Rupp Arena
+20,21,"Sat, Jan 27, 2018",7:00 pm/est,,REG,@,West Virginia (7),Big 12,W,83,76,,16,5,W 2,WVU Coliseum
+21,22,"Tue, Jan 30, 2018",9:00 pm/est,,REG,,Vanderbilt,SEC,W,83,81,OT,17,5,W 3,Rupp Arena
+22,23,"Sat, Feb 3, 2018",2:00 pm/est,,REG,@,Missouri,SEC,L,60,69,,17,6,L 1,Mizzou Arena
+23,24,"Tue, Feb 6, 2018",7:00 pm/est,,REG,,Tennessee (15),SEC,L,59,61,,17,7,L 2,Rupp Arena
+24,25,"Sat, Feb 10, 2018",8:15 pm/est,,REG,@,Texas A&M,SEC,L,74,85,,17,8,L 3,Reed Arena
+25,26,"Wed, Feb 14, 2018",9:00 pm/est,,REG,@,Auburn (10),SEC,L,66,76,,17,9,L 4,Auburn Arena
+26,27,"Sat, Feb 17, 2018",2:00 pm/est,,REG,,Alabama,SEC,W,81,71,,18,9,W 1,Rupp Arena
+27,28,"Tue, Feb 20, 2018",9:00 pm/est,,REG,@,Arkansas,SEC,W,87,72,,19,9,W 2,Bud Walton Arena
+28,29,"Sat, Feb 24, 2018",8:15 pm/est,,REG,,Missouri,SEC,W,87,66,,20,9,W 3,Rupp Arena
+29,30,"Wed, Feb 28, 2018",7:00 pm/est,,REG,,Mississippi,SEC,W,96,78,,21,9,W 4,Rupp Arena
+30,31,"Sat, Mar 3, 2018",12:00 pm/est,,REG,@,Florida,SEC,L,67,80,,21,10,L 1,Stephen C. O'Connell Center
+31,32,"Fri, Mar 9, 2018",3:25 pm/est,,CTOURN,N,Georgia,SEC,W,62,49,,22,10,W 1,Scottrade Center
+32,33,"Sat, Mar 10, 2018",1:00 pm/est,,CTOURN,N,Alabama,SEC,W,86,63,,23,10,W 2,Scottrade Center
+33,34,"Sun, Mar 11, 2018",1:00 pm/est,,CTOURN,N,Tennessee (13),SEC,W,77,72,,24,10,W 3,Scottrade Center
+34,35,"Thu, Mar 15, 2018",7:10 pm/est,,NCAA,N,Davidson,A-10,,,,,,,,

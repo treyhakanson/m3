@@ -1,15 +1,14 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,James Batemon,5,JR,G,6-1,188,"Milwaukee, WI",, 17.8 Pts,3.7 Reb,4.7 Ast
-1,Eli Scott,0,FR,F,6-5,224,"Chino Hills, CA",, 12.6 Pts,7.3 Reb,2.3 Ast
-2,Steven Haney,12,SR,F,6-5,195,"East Lansing, MI",St. Thomas, 12.9 Pts,2.4 Reb,1.5 Ast
-3,Mattias Markusson,14,SO,C,7-1,240,Sweden,Jamtland Basket, 8.6 Pts,6.3 Reb,0.6 Ast
-4,Zafir Williams,1,FR,F,6-6,254,"Long Beach, CA",, 6.5 Pts,3.5 Reb,0.7 Ast
-5,Cameron Allen,3,SO,G,6-2,176,"Greenville, SC",, 5.3 Pts,1.5 Reb,1.8 Ast
-6,Jeffery McClendon,25,JR,G,6-2,205,"Pasadena, CA",Eastside HS, 4.2 Pts,2.8 Reb,1.7 Ast
-7,Erik Johansson,20,SO,G,6-5,190,Sweden,Taljegymnasiet High School (Sodertalje), 3.0 Pts,0.7 Reb,0.4 Ast
-8,Donald Gipson,2,FR,G,6-3,190,"Los Angeles, CA",Fairfax High School, 2.8 Pts,1.2 Reb,0.6 Ast
-9,Joe Quintana,15,FR,G,6-2,164,"West Covina, CA",, 2.0 Pts,0.6 Reb,0.7 Ast
-10,Mikail Simmons,13,FR,F,6-8,212,"Plano, TX",, 2.0 Pts,1.4 Reb,0.3 Ast
-11,Petr Herman,11,SR,F,6-10,240,Czech Republic,Canarias Basketball Academy (Spain), 7.0 Pts,5.0 Reb,1.0 Ast
-12,Dylan Causwell,22,SO,F,6-7,197,"Johns Creek, GA",, 0.5 Pts,0.5 Reb,0.0 Ast
-13,Liam Eberhardt,34,,F,6-7,190,,,,,
+0,James Batemon,5,SR,G,6-1,189,"Milwaukee, WI",Riverside High School, 16.8 Pts,3.2 Reb,3.5 Ast
+1,Mattias Markusson,14,JR,C,7-3,261,"Stockholm, Sweden",Jamtland Basket, 10.2 Pts,6.4 Reb,0.8 Ast
+2,Dameane Douglas,13,FR,G,6-7,195,"Hanford, CA",San Juaquin Memorial HS, 8.4 Pts,4.8 Reb,1.2 Ast
+3,Joe Quintana,15,SO,G,6-2,170,"West Covina, CA",Bonita High School, 7.6 Pts,2.5 Reb,1.6 Ast
+4,Eli Scott,0,SO,F,6-5,243,"Chino Hills, CA",Chino Hills High School, 8.2 Pts,4.6 Reb,2.6 Ast
+5,Zafir Williams,1,SO,F,6-6,241,"Long Beach, CA",Long Beach Polytechnic High School, 4.9 Pts,3.1 Reb,0.9 Ast
+6,Jeffery McClendon,25,SR,G,6-2,216,"Pasadena, CA",Eastside HS, 5.3 Pts,2.3 Reb,1.7 Ast
+7,Petr Herman,11,SR,F,6-10,235,"Central Bohemian, Czech Republic",Canarias Basketball Academy (Spain), 3.8 Pts,1.8 Reb,0.2 Ast
+8,Jordan Bell,23,SO,F,6-8,231,"Inglewood, CA",Inglewood High School, 2.8 Pts,1.8 Reb,0.4 Ast
+9,Erik Johansson,20,JR,G,6-6,186,"Sodertalje, Sweden",Taljegymnasiet High School (Sodertalje), 1.9 Pts,0.7 Reb,0.7 Ast
+10,Ivan Alipiev,35,FR,F,6-7,200,"Sofia, Bulgaria",, 2.0 Pts,1.0 Reb,0.5 Ast
+11,Cameron Allen,3,JR,G,6-2,176,"Greenville, SC",Bunn High School, 3.7 Pts,0.3 Reb,1.0 Ast
+12,Donald Gipson,2,SO,G,6-3,213,"Los Angeles, CA",Fairfax High School, 0.9 Pts,1.0 Reb,0.6 Ast

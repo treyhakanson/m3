@@ -1,16 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Yuta Watanabe,12,SR,G,6-8,193,Japan,St. Thomas More (CT), 16.3 Pts,6.1 Reb,1.6 Ast
-1,Jair Bolden,3,SO,G,6-4,205,"Brooklyn, NY",Westtown School, 11.2 Pts,3.0 Reb,3.1 Ast
-2,Patrick Steeves,10,SR,F,6-7,220,Canada,The Hotchkiss School (Conn.), 9.9 Pts,5.3 Reb,2.0 Ast
-3,Terry Nolan Jr.,1,FR,G,6-2,175,"Essex, MD",, 9.1 Pts,3.2 Reb,2.5 Ast
-4,Arnaldo Toro,11,SO,F,6-8,245,"Hormigueros, PR",Saint Benedict's Preparaory School, 7.8 Pts,6.9 Reb,1.2 Ast
-5,Bo Zeigler,35,SR,F,6-6,202,"Detroit, MI",Community HS, 7.2 Pts,2.9 Reb,0.6 Ast
-6,Justin Mazzulla,0,FR,G,6-3,185,"Warwick, RI",, 2.6 Pts,2.2 Reb,2.0 Ast
-7,Maceo Jack,14,FR,G,6-5,190,"Buffalo, NY",, 2.8 Pts,0.8 Reb,0.3 Ast
-8,Justin Williams,4,SO,G,6-4,215,"Severn, MD",Annapolis High School, 1.7 Pts,1.5 Reb,0.1 Ast
-9,Javier Langarica,32,FR,F,6-9,180,Spain,, 1.1 Pts,1.0 Reb,0.0 Ast
-10,Jack Granger,30,,G,5-7,185,,, 0.4 Pts,0.4 Reb,0.1 Ast
-11,Adam Mitola,5,SO,G,6-2,205,"Florham Park, NJ",Gill St. Bernard's School, 0.1 Pts,0.4 Reb,0.2 Ast
-12,Luke Sasser,21,,F,6-5,220,"Raleigh, NC",, 0.0 Pts,0.0 Reb,0.1 Ast
-13,Armel Potter,2,,G,6-1,180,"Marietta, GA",Sprayberry HS,,,
-14,DJ Williams,13,,G,6-7,200,"Chicago, IL",Simeon HS,,,
+0,D.J. Williams,13,JR,G,6-7,215,"Chicago, IL",Simeon HS, 13.7 Pts,4.7 Reb,1.2 Ast
+1,Maceo Jack,14,SO,G,6-5,190,"Buffalo, NY",St. Thomas More Prep, 11.5 Pts,3.9 Reb,0.9 Ast
+2,Terry Nolan Jr.,1,SO,G,6-2,180,"Baltimore, MD",Mount Carmel High School, 10.6 Pts,4.6 Reb,1.8 Ast
+3,Justin Mazzulla,0,SO,G,6-3,195,"Johnston, RI",Bishop Hendricken High School, 8.9 Pts,4.5 Reb,3.5 Ast
+4,Javier Langarica,32,SO,F,6-9,228,"Bilbao, Spain",IES Miguel de Unamuno, 5.6 Pts,5.3 Reb,0.7 Ast
+5,Armel Potter,2,JR,G,6-1,182,"Long Island, NY",Sprayberry HS, 6.0 Pts,1.5 Reb,2.1 Ast
+6,Justin Williams,4,JR,G,6-4,218,"Ellicott City, MD",Annapolis High School, 4.3 Pts,3.5 Reb,0.6 Ast
+7,Arnaldo Toro,11,JR,F,6-8,248,"Hormigueros, Puerto Rico",Saint Benedict's Preparaory School, 10.1 Pts,9.3 Reb,0.7 Ast
+8,Mezie Offurum,15,FR,F,6-6,220,"Germantown, MD",Georgetown Prep, 2.0 Pts,1.0 Reb,0.4 Ast
+9,Marcus Littles,35,FR,F,6-9,260,"Philadelphia, PA",Neumann Goretti Catholic HS, 1.9 Pts,1.2 Reb,0.2 Ast
+10,Adam Mitola,5,JR,G,6-2,192,"Florham Park, NJ",Gill St. Bernard's School, 0.8 Pts,0.2 Reb,0.1 Ast
+11,Shandon Brown,12,FR,G,5-10,175,"Boston, MA",New Hampton School, 0.5 Pts,0.7 Reb,0.6 Ast
+12,Malcolm Elashari-Rashed,22,SR,G,6-3,185,"Philadelphia, PA",William Penn Charter School, 1.0 Pts,0.0 Reb,0.5 Ast
+13,Luke Sasser,21,JR,F,6-5,205,"Raleigh, NC",Carlisle School, 0.4 Pts,0.2 Reb,0.2 Ast

@@ -1,18 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Christopher Galbreath Jr.,23,SR,F,6-7,210,"Chicago, IL",Quakerdale Prep Academy, 14.8 Pts,7.8 Reb,1.3 Ast
-1,John Dewey III,11,JR,G,6-1,170,"Bronx, NY",Holderness School, 10.1 Pts,3.0 Reb,4.4 Ast
-2,Marcus Harris,22,JR,G,6-0,168,"San Antonio, TX",MacArthur HS, 9.7 Pts,2.8 Reb,1.0 Ast
-3,Jamal Williams,20,SR,G,6-4,190,"Houston, TX",Episcopal HS, 8.1 Pts,5.5 Reb,1.7 Ast
-4,Josh Delaney,15,JR,G,6-0,170,"Harker Heights, TX",Harker Heights HS, 7.5 Pts,1.7 Reb,2.1 Ast
-5,Abrian Edwards,1,JR,F,6-5,210,"Pflugerville, TX",, 6.1 Pts,3.7 Reb,2.3 Ast
-6,Cameron Delaney,2,,G,6-4,205,,, 3.9 Pts,2.8 Reb,0.8 Ast
-7,Albert Almanza,0,JR,G,6-5,190,"Austin, TX",Saint Stephens HS, 5.2 Pts,2.2 Reb,0.6 Ast
-8,Josh Boutte,5,,F,6-6,225,,, 5.4 Pts,3.6 Reb,0.3 Ast
-9,Bubba Furlong,13,FR,F,6-9,240,"Waco, TX",, 1.9 Pts,1.6 Reb,0.1 Ast
-10,Devin Jackson,3,JR,G,6-2,175,"Houston, TX",, 1.7 Pts,0.5 Reb,0.2 Ast
-11,Freddy Bitondo,32,JR,F,6-7,215,"Montreal, PQ",, 1.2 Pts,1.4 Reb,0.1 Ast
-12,Chidozie Ndu,35,FR,F,6-11,225,Nigeria,, 1.5 Pts,0.8 Reb,0.0 Ast
-13,Dajuan Jones,4,FR,G,5-10,165,"Killeen, TX",, 1.9 Pts,0.7 Reb,0.7 Ast
-14,Justin Van Pelt,33,FR,C,6-11,220,"Cypress, TX",, 0.8 Pts,1.2 Reb,0.0 Ast
-15,Manny Gatkek,24,,F,6-8,160,,,,,
-16,Dillon Todd,10,,G,6-4,180,,,,,
+0,Cameron Delaney,2,SR,G,6-4,205,"Harker Heights, TX",Harker Heights High School, 13.3 Pts,5.5 Reb,1.9 Ast
+1,Kai Mitchell,20,JR,C,6-7,245,"Haverstraw, NY",, 12.2 Pts,7.5 Reb,1.1 Ast
+2,Josh Delaney,15,SR,G,6-0,173,"Harker Heights, TX",Harker Heights HS, 10.6 Pts,2.4 Reb,4.8 Ast
+3,Marcus Harris,22,SR,G,6-0,180,"San Antonio, TX",MacArthur HS, 8.3 Pts,2.0 Reb,2.3 Ast
+4,Chad Bowie,3,JR,G,6-2,180,"Houston, TX",, 7.1 Pts,2.6 Reb,2.4 Ast
+5,Zach Nutall,10,FR,G,6-3,185,"Bryan, TX",Bryan HS, 6.4 Pts,3.2 Reb,1.0 Ast
+6,R.J. Smith,1,SO,F,6-5,220,"Olathe, KS",, 6.8 Pts,3.8 Reb,0.7 Ast
+7,Albert Almanza,0,SR,F,6-6,195,"Austin, TX",Saint Stephens HS, 6.1 Pts,2.7 Reb,0.8 Ast
+8,Bubba Furlong,13,SO,C,6-9,240,"Waco, TX",Midway High School, 3.4 Pts,2.6 Reb,0.3 Ast
+9,Xavier Bryant,11,FR,G,6-0,180,"DeSoto, TX",Greenhill HS, 2.1 Pts,1.0 Reb,2.1 Ast
+10,Chidozie Ndu,35,SO,C,6-11,225,"Lagos, Nigeria",Sunrise Christian Academy, 1.5 Pts,1.0 Reb,0.1 Ast
+11,ZaQwaun Matthews,5,JR,G,6-4,185,"Charlotte, NC",Myers Park, 1.2 Pts,0.7 Reb,0.3 Ast
+12,Cyrus Johnson,24,FR,F,6-5,220,"Culver City, CA",Culver City HS,,,
+13,Dajuan Jones,4,SO,G,5-10,165,"Killeen, TX",Ellison High School,,,

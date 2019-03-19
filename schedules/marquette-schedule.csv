@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:00p,REG,,Maryland-Baltimore County,AEC,W,67,42,,1,0,W 1,Fiserv Forum
+1,2,"Sat, Nov 10, 2018",4:00p,REG,,Bethune-Cookman,MEAC,W,92,59,,2,0,W 2,Fiserv Forum
+2,3,"Wed, Nov 14, 2018",8:30p,REG,@,Indiana,Big Ten,L,73,96,,2,1,L 1,Assembly Hall
+3,4,"Sat, Nov 17, 2018",1:00p,REG,,Presbyterian,Big South,W,74,55,,3,1,W 1,Fiserv Forum
+4,5,"Wed, Nov 21, 2018",7:00p,REG,N,Kansas (2),Big 12,L,68,77,,3,2,L 1,Barclays Center
+5,6,"Fri, Nov 23, 2018",7:00p,REG,N,Louisville,ACC,W,77,74,OT,4,2,W 1,Barclays Center
+6,7,"Tue, Nov 27, 2018",8:00p,REG,,Charleston Southern,Big South,W,76,55,,5,2,W 2,Fiserv Forum
+7,8,"Sat, Dec 1, 2018",2:30p,REG,,Kansas State (12),Big 12,W,83,71,,6,2,W 3,Fiserv Forum
+8,9,"Tue, Dec 4, 2018",8:30p,REG,,Texas-El Paso,CUSA,W,76,69,,7,2,W 4,Fiserv Forum
+9,10,"Sat, Dec 8, 2018",5:00p,REG,,Wisconsin (12),Big Ten,W,74,69,OT,8,2,W 5,Fiserv Forum
+10,11,"Tue, Dec 18, 2018",9:00p,REG,,North Dakota,Summit,W,92,66,,9,2,W 6,Fiserv Forum
+11,12,"Fri, Dec 21, 2018",8:30p,REG,,Buffalo (14),MAC,W,103,85,,10,2,W 7,Fiserv Forum
+12,13,"Fri, Dec 28, 2018",8:00p,REG,,Southern,SWAC,W,84,41,,11,2,W 8,Fiserv Forum
+13,14,"Tue, Jan 1, 2019",7:00p,REG,@,St. John's (NY),Big East,L,69,89,,11,3,L 1,Carnesecca Arena
+14,15,"Sun, Jan 6, 2019",12:00p,REG,,Xavier,Big East,W,70,52,,12,3,W 1,Fiserv Forum
+15,16,"Wed, Jan 9, 2019",7:00p,REG,@,Creighton,Big East,W,106,104,OT,13,3,W 2,CenturyLink Center
+16,17,"Sat, Jan 12, 2019",2:00p,REG,,Seton Hall,Big East,W,70,66,,14,3,W 3,Fiserv Forum
+17,18,"Tue, Jan 15, 2019",8:30p,REG,@,Georgetown,Big East,W,74,71,,15,3,W 4,Capital One Arena
+18,19,"Sun, Jan 20, 2019",12:00p,REG,,Providence,Big East,W,79,68,,16,3,W 5,Fiserv Forum
+19,20,"Wed, Jan 23, 2019",8:30p,REG,,DePaul,Big East,W,79,69,,17,3,W 6,Fiserv Forum
+20,21,"Sat, Jan 26, 2019",2:00p,REG,@,Xavier,Big East,W,87,82,,18,3,W 7,Cintas Center
+21,22,"Wed, Jan 30, 2019",6:30p,REG,@,Butler,Big East,W,76,58,,19,3,W 8,Hinkle Fieldhouse
+22,23,"Tue, Feb 5, 2019",8:00p,REG,,St. John's (NY),Big East,L,69,70,,19,4,L 1,Fiserv Forum
+23,24,"Sat, Feb 9, 2019",2:30p,REG,,Villanova (14),Big East,W,66,65,,20,4,W 1,Fiserv Forum
+24,25,"Tue, Feb 12, 2019",8:00p,REG,@,DePaul,Big East,W,92,73,,21,4,W 2,Wintrust Arena
+25,26,"Wed, Feb 20, 2019",9:00p,REG,,Butler,Big East,W,79,69,,22,4,W 3,Fiserv Forum
+26,27,"Sat, Feb 23, 2019",12:00p,REG,@,Providence,Big East,W,76,58,,23,4,W 4,Dunkin' Donuts Center
+27,28,"Wed, Feb 27, 2019",9:00p,REG,@,Villanova,Big East,L,61,67,,23,5,L 1,Finneran Pavilion
+28,29,"Sun, Mar 3, 2019",3:00p,REG,,Creighton,Big East,L,60,66,,23,6,L 2,Fiserv Forum
+29,30,"Wed, Mar 6, 2019",6:30p,REG,@,Seton Hall,Big East,L,64,73,,23,7,L 3,Prudential Center
+30,31,"Sat, Mar 9, 2019",2:30p,REG,,Georgetown,Big East,L,84,86,,23,8,L 4,Fiserv Forum
+31,32,"Thu, Mar 14, 2019",7:00p,CTOURN,N,St. John's (NY),Big East,W,86,54,,24,8,W 1,Madison Square Garden (IV)
+32,33,"Fri, Mar 15, 2019",9:00p,CTOURN,N,Seton Hall,Big East,L,79,81,,24,9,L 1,Madison Square Garden (IV)
+33,34,"Thu, Mar 21, 2019",4:30p,NCAA,N,Murray State,OVC,,,,,,,,

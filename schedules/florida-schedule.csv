@@ -1,33 +1,36 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Mon, Nov 13, 2017",7:00 pm/est,,REG,,Gardner-Webb,Big South,W,116,74,,1,0,W 1,Stephen C. O'Connell Center
-1,2,"Thu, Nov 16, 2017",7:00 pm/est,,REG,,North Florida,A-Sun,W,108,68,,2,0,W 2,Stephen C. O'Connell Center
-2,3,"Sun, Nov 19, 2017",6:00 pm/est,,REG,,New Hampshire,AEC,W,70,63,,3,0,W 3,Stephen C. O'Connell Center
-3,4,"Thu, Nov 23, 2017",10:00 pm/est,,REG,N,Stanford,Pac-12,W,108,87,,4,0,W 4,
-4,5,"Fri, Nov 24, 2017",11:00 pm/est,,REG,N,Gonzaga (17),WCC,W,111,105,2OT,5,0,W 5,Moda Center
-5,6,"Sun, Nov 26, 2017",10:30 pm/est,,REG,N,Duke (1),ACC,L,84,87,,5,1,L 1,Moda Center
-6,7,"Mon, Dec 4, 2017",9:00 pm/est,,REG,,Florida State,ACC,L,66,83,,5,2,L 2,Stephen C. O'Connell Center
-7,8,"Wed, Dec 6, 2017",8:00 pm/est,,REG,,Loyola (IL),MVC,L,59,65,,5,3,L 3,Stephen C. O'Connell Center
-8,9,"Sat, Dec 9, 2017",6:00 pm/est,,REG,N,Cincinnati (17),AAC,W,66,60,,6,3,W 1,Prudential Center
-9,10,"Sat, Dec 16, 2017",4:30 pm/est,,REG,N,Clemson,ACC,L,69,71,,6,4,L 1,BB&T; Center
-10,11,"Wed, Dec 20, 2017",7:00 pm/est,,REG,,James Madison,CAA,W,72,63,,7,4,W 1,Stephen C. O'Connell Center
-11,12,"Fri, Dec 22, 2017",7:00 pm/est,,REG,,Incarnate Word,Southland,W,75,60,,8,4,W 2,Stephen C. O'Connell Center
-12,13,"Sat, Dec 30, 2017",4:00 pm/est,,REG,,Vanderbilt,SEC,W,81,74,,9,4,W 3,Stephen C. O'Connell Center
-13,14,"Tue, Jan 2, 2018",9:00 pm/est,,REG,@,Texas A&M (11),SEC,W,83,66,,10,4,W 4,Reed Arena
-14,15,"Sat, Jan 6, 2018",1:00 pm/est,,REG,@,Missouri,SEC,W,77,75,,11,4,W 5,Mizzou Arena
-15,16,"Wed, Jan 10, 2018",7:00 pm/est,,REG,,Mississippi State,SEC,W,71,54,,12,4,W 6,Stephen C. O'Connell Center
-16,17,"Sat, Jan 13, 2018",1:00 pm/est,,REG,@,Mississippi,SEC,L,72,78,,12,5,L 1,The Pavilion at Ole Miss
-17,18,"Wed, Jan 17, 2018",7:00 pm/est,,REG,,Arkansas,SEC,W,88,73,,13,5,W 1,Stephen C. O'Connell Center
-18,19,"Sat, Jan 20, 2018",8:15 pm/est,,REG,@,Kentucky (18),SEC,W,66,64,,14,5,W 2,Rupp Arena
-19,20,"Wed, Jan 24, 2018",7:00 pm/est,,REG,,South Carolina,SEC,L,72,77,,14,6,L 1,Stephen C. O'Connell Center
-20,21,"Sat, Jan 27, 2018",12:00 pm/est,,REG,,Baylor,Big 12,W,81,60,,15,6,W 1,Stephen C. O'Connell Center
-21,22,"Tue, Jan 30, 2018",7:00 pm/est,,REG,@,Georgia,SEC,L,60,72,,15,7,L 1,Stegeman Coliseum
-22,23,"Sat, Feb 3, 2018",4:00 pm/est,,REG,,Alabama,SEC,L,50,68,,15,8,L 2,Stephen C. O'Connell Center
-23,24,"Wed, Feb 7, 2018",6:30 pm/est,,REG,,Louisiana State,SEC,W,73,64,,16,8,W 1,Stephen C. O'Connell Center
-24,25,"Sat, Feb 10, 2018",12:00 pm/est,,REG,@,South Carolina,SEC,W,65,41,,17,8,W 2,The Colonial Life Arena
-25,26,"Wed, Feb 14, 2018",9:00 pm/est,,REG,,Georgia,SEC,L,69,72,OT,17,9,L 1,Stephen C. O'Connell Center
-26,27,"Sat, Feb 17, 2018",4:00 pm/est,,REG,@,Vanderbilt,SEC,L,68,71,,17,10,L 2,Memorial Gymnasium
-27,28,"Wed, Feb 21, 2018",9:00 pm/est,,REG,@,Tennessee (19),SEC,L,57,62,,17,11,L 3,Thompson-Boling Arena
-28,29,"Sat, Feb 24, 2018",8:30 pm/est,,REG,,Auburn (12),SEC,W,72,66,,18,11,W 1,Stephen C. O'Connell Center
-29,30,"Tue, Feb 27, 2018",7:00 pm/est,,REG,@,Alabama,SEC,W,73,52,,19,11,W 2,Coleman Coliseum 
-30,31,"Sat, Mar 3, 2018",12:00 pm/est,,REG,,Kentucky (23),SEC,W,80,67,,20,11,W 3,Stephen C. O'Connell Center
-31,32,"Fri, Mar 9, 2018",9:30 pm/est,,CTOURN,N,Arkansas,SEC,L,72,80,,20,12,L 1,Scottrade Center
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:00p,REG,@,Florida State (17),ACC,L,60,81,,0,1,L 1,Donald L. Tucker Center
+1,2,"Fri, Nov 9, 2018",7:00p,REG,,Charleston Southern,Big South,W,76,46,,1,1,W 1,Stephen C. O'Connell Center
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,La Salle,A-10,W,82,69,,2,1,W 2,Stephen C. O'Connell Center
+3,4,"Wed, Nov 21, 2018",12:00p,REG,N,Oklahoma,Big 12,L,60,65,,2,2,L 1,Imperial Arena at Atlantis Resort
+4,5,"Thu, Nov 22, 2018",7:00p,REG,N,Stanford,Pac-12,W,72,49,,3,2,W 1,Imperial Arena at Atlantis Resort
+5,6,"Fri, Nov 23, 2018",9:30p,REG,N,Butler,Big East,L,54,61,,3,3,L 1,Imperial Arena at Atlantis Resort
+6,7,"Tue, Nov 27, 2018",7:00p,REG,,North Florida,A-Sun,W,98,66,,4,3,W 1,Stephen C. O'Connell Center
+7,8,"Tue, Dec 4, 2018",9:00p,REG,N,West Virginia,Big 12,W,66,56,,5,3,W 2,Madison Square Garden (IV)
+8,9,"Sat, Dec 8, 2018",12:00p,REG,,Michigan State (10),Big Ten,L,59,63,,5,4,L 1,Stephen C. O'Connell Center
+9,10,"Tue, Dec 18, 2018",8:00p,REG,,Mercer,Southern,W,71,63,,6,4,W 1,Stephen C. O'Connell Center
+10,11,"Sat, Dec 22, 2018",5:00p,REG,N,Florida Gulf Coast,A-Sun,W,77,56,,7,4,W 2,BB&T Center
+11,12,"Sat, Dec 29, 2018",4:00p,REG,,Butler,Big East,W,77,43,,8,4,W 3,Stephen C. O'Connell Center
+12,13,"Sat, Jan 5, 2019",7:00p,REG,,South Carolina,SEC,L,69,71,,8,5,L 1,Stephen C. O'Connell Center
+13,14,"Wed, Jan 9, 2019",8:30p,REG,@,Arkansas,SEC,W,57,51,,9,5,W 1,Bud Walton Arena
+14,15,"Sat, Jan 12, 2019",6:00p,REG,,Tennessee (3),SEC,L,67,78,,9,6,L 1,Stephen C. O'Connell Center
+15,16,"Tue, Jan 15, 2019",7:00p,REG,@,Mississippi State (24),SEC,L,68,71,,9,7,L 2,Humphrey Coliseum
+16,17,"Sat, Jan 19, 2019",12:00p,REG,@,Georgia,SEC,W,62,52,,10,7,W 1,Stegeman Coliseum
+17,18,"Tue, Jan 22, 2019",8:30p,REG,,Texas A&M,SEC,W,81,72,,11,7,W 2,Stephen C. O'Connell Center
+18,19,"Sat, Jan 26, 2019",12:00p,REG,@,Texas Christian,Big 12,L,50,55,,11,8,L 1,Ed & Rae Schollmaier Arena
+19,20,"Wed, Jan 30, 2019",6:30p,REG,,Mississippi,SEC,W,90,86,OT,12,8,W 1,Stephen C. O'Connell Center
+20,21,"Sat, Feb 2, 2019",4:00p,REG,,Kentucky (7),SEC,L,54,65,,12,9,L 1,Stephen C. O'Connell Center
+21,22,"Tue, Feb 5, 2019",9:00p,REG,@,Auburn,SEC,L,62,76,,12,10,L 2,Auburn Arena
+22,23,"Sat, Feb 9, 2019",4:00p,REG,@,Tennessee (1),SEC,L,61,73,,12,11,L 3,Thompson-Boling Arena
+23,24,"Wed, Feb 13, 2019",9:00p,REG,,Vanderbilt,SEC,W,66,57,,13,11,W 1,Stephen C. O'Connell Center
+24,25,"Sat, Feb 16, 2019",2:00p,REG,@,Alabama,SEC,W,71,53,,14,11,W 2,Coleman Coliseum 
+25,26,"Wed, Feb 20, 2019",7:00p,REG,@,Louisiana State (13),SEC,W,82,77,OT,15,11,W 3,Maravich Assembly Center
+26,27,"Sat, Feb 23, 2019",4:00p,REG,,Missouri,SEC,W,64,60,,16,11,W 4,Stephen C. O'Connell Center
+27,28,"Wed, Feb 27, 2019",9:00p,REG,@,Vanderbilt,SEC,W,71,55,,17,11,W 5,Memorial Gymnasium
+28,29,"Sat, Mar 2, 2019",8:30p,REG,,Georgia,SEC,L,55,61,,17,12,L 1,Stephen C. O'Connell Center
+29,30,"Wed, Mar 6, 2019",7:00p,REG,,Louisiana State (10),SEC,L,78,79,OT,17,13,L 2,Stephen C. O'Connell Center
+30,31,"Sat, Mar 9, 2019",2:00p,REG,@,Kentucky (6),SEC,L,57,66,,17,14,L 3,Rupp Arena
+31,32,"Thu, Mar 14, 2019",1:00p,CTOURN,N,Arkansas,SEC,W,66,50,,18,14,W 1,Bridgestone Arena
+32,33,"Fri, Mar 15, 2019",1:00p,CTOURN,N,Louisiana State (9),SEC,W,76,73,,19,14,W 2,Bridgestone Arena
+33,34,"Sat, Mar 16, 2019",1:00p,CTOURN,N,Auburn (22),SEC,L,62,65,,19,15,L 1,Bridgestone Arena
+34,35,"Thu, Mar 21, 2019",6:50p,NCAA,N,Nevada (14),MWC,,,,,,,,

@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Navy,Patriot,W,67,44,,1,0,W 1,Ted Constant Convocation Ctr.
+1,2,"Fri, Nov 9, 2018",7:30p,REG,@,Saint Joseph's,A-10,L,64,79,,1,1,L 1,Hagan Arena
+2,3,"Fri, Nov 16, 2018",1:00p,REG,N,Oregon State,Pac-12,L,56,61,,1,2,L 2,Virgin Islands Sport & Fitness Center 
+3,4,"Sat, Nov 17, 2018",3:00p,REG,N,Kennesaw State,A-Sun,W,65,47,,2,2,W 1,Virgin Islands Sport & Fitness Center 
+4,5,"Mon, Nov 19, 2018",3:00p,REG,N,Northern Iowa,MVC,L,53,54,,2,3,L 1,Virgin Islands Sport & Fitness Center 
+5,6,"Fri, Nov 23, 2018",7:00p,REG,,Northern Iowa,MVC,W,72,65,,3,3,W 1,Ted Constant Convocation Ctr.
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,Virginia Commonwealth,A-10,W,62,52,,4,3,W 2,Ted Constant Convocation Ctr.
+7,8,"Sat, Dec 1, 2018",7:00p,REG,,James Madison,CAA,W,67,42,,5,3,W 3,Ted Constant Convocation Ctr.
+8,9,"Wed, Dec 5, 2018",7:00p,REG,,William & Mary,CAA,W,71,53,,6,3,W 4,Ted Constant Convocation Ctr.
+9,10,"Sun, Dec 9, 2018",1:00p,REG,,Fairfield,MAAC,W,79,69,,7,3,W 5,Ted Constant Convocation Ctr.
+10,11,"Sat, Dec 15, 2018",12:00p,REG,@,Syracuse (25),ACC,W,68,62,,8,3,W 6,Carrier Dome
+11,12,"Wed, Dec 19, 2018",7:00p,REG,@,Richmond,A-10,W,63,54,,9,3,W 7,Robins Center
+12,13,"Sat, Dec 22, 2018",2:00p,REG,,Morgan State,MEAC,W,76,53,,10,3,W 8,Ted Constant Convocation Ctr.
+13,14,"Thu, Jan 3, 2019",7:00p,REG,,Marshall,CUSA,L,67,70,,10,4,L 1,Ted Constant Convocation Ctr.
+14,15,"Sat, Jan 5, 2019",7:00p,REG,,Western Kentucky,CUSA,W,69,66,,11,4,W 1,Ted Constant Convocation Ctr.
+15,16,"Thu, Jan 10, 2019",7:00p,REG,@,Florida Atlantic,CUSA,L,73,80,,11,5,L 1,FAU Arena
+16,17,"Sat, Jan 12, 2019",7:00p,REG,@,Florida International,CUSA,W,75,74,,12,5,W 1,FIU Arena
+17,18,"Thu, Jan 17, 2019",7:00p,REG,,Louisiana Tech,CUSA,W,64,63,,13,5,W 2,Ted Constant Convocation Ctr.
+18,19,"Sat, Jan 19, 2019",4:00p,REG,,Southern Mississippi,CUSA,W,78,60,,14,5,W 3,Ted Constant Convocation Ctr.
+19,20,"Mon, Jan 21, 2019",4:00p,REG,@,Charlotte,CUSA,W,76,70,,15,5,W 4,Dale F. Halton Arena
+20,21,"Thu, Jan 24, 2019",9:00p,REG,@,Texas-El Paso,CUSA,W,50,48,,16,5,W 5,Don Haskins Center
+21,22,"Sat, Jan 26, 2019",4:00p,REG,@,Texas-San Antonio,CUSA,L,73,74,,16,6,L 1,Convocation Center
+22,23,"Thu, Jan 31, 2019",7:00p,REG,,North Texas,CUSA,W,72,61,,17,6,W 1,Ted Constant Convocation Ctr.
+23,24,"Sat, Feb 2, 2019",7:00p,REG,,Rice,CUSA,W,80,76,,18,6,W 2,Ted Constant Convocation Ctr.
+24,25,"Thu, Feb 7, 2019",8:00p,REG,@,Alabama-Birmingham,CUSA,W,70,59,,19,6,W 3,Bartow Arena
+25,26,"Sat, Feb 9, 2019",7:00p,REG,@,Middle Tennessee,CUSA,W,55,50,,20,6,W 4,Murphy Athletic Center
+26,27,"Sat, Feb 16, 2019",2:00p,REG,,Charlotte,CUSA,W,73,60,,21,6,W 5,Ted Constant Convocation Ctr.
+27,28,"Sat, Feb 23, 2019",1:00p,REG,,Western Kentucky,CUSA,W,67,63,,22,6,W 6,Ted Constant Convocation Ctr.
+28,29,"Thu, Feb 28, 2019",8:00p,REG,@,Texas-San Antonio,CUSA,W,65,64,,23,6,W 7,Convocation Center
+29,30,"Wed, Mar 6, 2019",7:00p,REG,,Southern Mississippi,CUSA,L,52,59,,23,7,L 1,Ted Constant Convocation Ctr.
+30,31,"Sat, Mar 9, 2019",3:00p,REG,@,Alabama-Birmingham,CUSA,L,50,64,,23,8,L 2,Bartow Arena
+31,32,"Thu, Mar 14, 2019",7:00p,CTOURN,N,Louisiana Tech,CUSA,W,57,56,,24,8,W 1,Ford Center at The Star
+32,33,"Fri, Mar 15, 2019",1:30p,CTOURN,N,Alabama-Birmingham,CUSA,W,61,59,,25,8,W 2,Ford Center at The Star
+33,34,"Sat, Mar 16, 2019",8:30p,CTOURN,N,Western Kentucky,CUSA,W,62,56,,26,8,W 3,Ford Center at The Star
+34,35,"Thu, Mar 21, 2019",9:50p,NCAA,N,Purdue (13),Big Ten,,,,,,,,

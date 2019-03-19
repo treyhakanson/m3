@@ -1,13 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Jahad Thomas,10,SR,G,6-2,220,"Williamsport, PA",Williamsport HS, 21.1 Pts,8.4 Reb,4.0 Ast
-1,Matt Harris,22,SR,G,6-1,210,"Erie, PA",Cathedral Prep, 12.3 Pts,3.3 Reb,0.8 Ast
-2,Ryan Jones,5,JR,G,6-3,163,"Rio Rancho, NM",Cleveland HS, 11.3 Pts,4.6 Reb,3.0 Ast
-3,Rinardo Perry,1,SO,G,6-4,165,"Washington, DC",McKinley Technology High School, 9.1 Pts,2.5 Reb,1.5 Ast
-4,Josh Gantz,12,JR,F,6-6,190,"Grove City, OH",Bishop Ready HS, 8.4 Pts,4.2 Reb,2.3 Ast
-5,Obadiah Noel,11,FR,G,6-4,185,"Frederick, MD",, 6.5 Pts,2.5 Reb,1.1 Ast
-6,Shawn Jones,0,JR,G,6-0,180,"Bridge City, LA",, 4.1 Pts,1.2 Reb,1.6 Ast
-7,Connor Bennett,35,SO,F,6-10,230,"Wilmington, MA",Wilmington High School, 4.0 Pts,2.2 Reb,0.4 Ast
-8,Stefan Borovac,3,SO,F,6-8,205,Canada,Hargrave Military Academy, 2.3 Pts,1.7 Reb,0.5 Ast
-9,Joey Naccarato,24,FR,G,6-4,215,"Coeur d'Alene, ID",, 1.9 Pts,0.8 Reb,0.2 Ast
-10,Dontavious Smith,25,JR,F,6-8,180,"Cullen, LA",North Webster HS, 1.4 Pts,1.9 Reb,0.0 Ast
-11,Christian Lutete,23,,G,6-5,195,"Silver Spring, MD",Phillips Exeter Academy,,,
+0,Christian Lutete,23,JR,G,6-5,200,"Silver Spring, MD",Phillips Exeter Academy, 18.7 Pts,7.6 Reb,1.4 Ast
+1,Obadiah Noel,11,SO,G,6-4,190,"Frederick, MD",Tuscarora High School, 14.6 Pts,3.5 Reb,2.0 Ast
+2,Josh Gantz,12,SR,G,6-7,220,"Grove City, OH",Bishop Ready HS, 10.6 Pts,4.4 Reb,3.0 Ast
+3,Alex Rivera,30,FR,G,6-1,185,"Lowell, MA",, 9.2 Pts,3.4 Reb,1.6 Ast
+4,Ryan Jones,5,SR,G,6-3,180,"Rio Rancho, NM",Cleveland HS, 7.8 Pts,2.6 Reb,2.8 Ast
+5,Darius Henderson,4,FR,F,6-9,230,"Pasadena, CA",, 5.1 Pts,2.6 Reb,0.6 Ast
+6,Joey Glynn,14,FR,F,6-6,220,"Portsmouth, NH",, 5.1 Pts,2.3 Reb,0.1 Ast
+7,Allin Blunt,15,FR,F,6-7,205,"Bowie, MD",Gonzaga College HS, 3.7 Pts,1.9 Reb,0.8 Ast
+8,Bryce Daley,1,FR,G,6-4,190,"Pittsfield, MA",Salisbury School, 3.4 Pts,3.3 Reb,2.6 Ast
+9,Shawn Jones,0,SR,G,6-0,180,"Bridge City, LA",L.W. Higgins High School, 4.6 Pts,1.8 Reb,2.7 Ast
+10,Connor Bennett,35,JR,F,6-11,235,"Wilmington, MA",Wilmington High School, 1.0 Pts,1.1 Reb,0.2 Ast
+11,Mark Mayle,40,FR,F,6-9,215,"Malvern, OH",,,,
+12,Joey Naccarato,24,SO,G,6-4,215,"Coeur d'Alene, ID",Coeur d'Alene Charter Academy,,,
+13,Sesan Russell,2,FR,G,6-2,195,"London, United Kingdom",,,,

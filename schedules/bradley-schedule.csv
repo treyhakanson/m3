@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",8:00p,REG,,Wisconsin-Parkside,,W,74,58,,1,0,W 1,Carver Arena
+1,2,"Sat, Nov 10, 2018",2:00p,REG,,Southeast Missouri State,OVC,W,68,57,,2,0,W 2,Carver Arena
+2,3,"Wed, Nov 14, 2018",8:00p,REG,,Jacksonville State,OVC,W,74,65,,3,0,W 3,Carver Arena
+3,4,"Sat, Nov 17, 2018",8:00p,REG,@,Illinois-Chicago,Horizon,L,70,71,,3,1,L 1,UIC Pavilion
+4,5,"Tue, Nov 20, 2018",6:00p,REG,N,Southern Methodist,AAC,W,75,62,,4,1,W 1,Hard Rock Hotel Riviera Maya
+5,6,"Wed, Nov 21, 2018",8:30p,REG,N,Penn State,Big Ten,W,59,56,,5,1,W 2,Hard Rock Hotel Riviera Maya
+6,7,"Sat, Nov 24, 2018",2:00p,REG,,Chicago State,WAC,W,86,70,,6,1,W 3,Carver Arena
+7,8,"Wed, Nov 28, 2018",7:00p,REG,@,IUPUI,Horizon,L,73,85,,6,2,L 1,Indiana Farmers Coliseum
+8,9,"Sat, Dec 1, 2018",8:00p,REG,,New Mexico,MWC,L,75,85,,6,3,L 2,Carver Arena
+9,10,"Tue, Dec 4, 2018",7:30p,REG,@,Little Rock,Sun Belt,W,68,62,,7,3,W 1,Jack Stephens Center
+10,11,"Sat, Dec 15, 2018",8:00p,REG,,Eastern Illinois,OVC,L,66,73,,7,4,L 1,Carver Arena
+11,12,"Tue, Dec 18, 2018",7:30p,REG,@,Georgia Southern,Sun Belt,L,74,79,OT,7,5,L 2,Hanner Fieldhouse
+12,13,"Sat, Dec 22, 2018",2:00p,REG,,Southeastern Louisiana,Southland,W,63,60,,8,5,W 1,Carver Arena
+13,14,"Wed, Jan 2, 2019",8:00p,REG,,Northern Iowa,MVC,L,47,65,,8,6,L 1,Carver Arena
+14,15,"Sat, Jan 5, 2019",2:00p,REG,@,Indiana State,MVC,L,60,65,,8,7,L 2,Hulman Center
+15,16,"Tue, Jan 8, 2019",8:00p,REG,@,Valparaiso,MVC,L,50,61,,8,8,L 3,Athletics-Recreation Center
+16,17,"Sat, Jan 12, 2019",8:00p,REG,,Missouri State,MVC,L,64,69,,8,9,L 4,Carver Arena
+17,18,"Wed, Jan 16, 2019",8:00p,REG,,Drake,MVC,L,52,69,,8,10,L 5,Carver Arena
+18,19,"Sun, Jan 20, 2019",4:00p,REG,@,Southern Illinois,MVC,W,57,54,,9,10,W 1,The SIU Arena
+19,20,"Wed, Jan 23, 2019",7:00p,REG,,Illinois State,MVC,W,85,68,,10,10,W 2,Carver Arena
+20,21,"Sat, Jan 26, 2019",4:00p,REG,@,Missouri State,MVC,L,37,55,,10,11,L 1,JQH Arena
+21,22,"Wed, Jan 30, 2019",7:00p,REG,@,Evansville,MVC,W,81,73,,11,11,W 1,Ford Center
+22,23,"Sat, Feb 2, 2019",2:00p,REG,,Southern Illinois,MVC,L,68,72,,11,12,L 1,Carver Arena
+23,24,"Wed, Feb 6, 2019",8:00p,REG,@,Northern Iowa,MVC,W,79,71,,12,12,W 1,McLeod Center
+24,25,"Sat, Feb 9, 2019",8:00p,REG,,Indiana State,MVC,W,96,67,,13,12,W 2,Carver Arena
+25,26,"Wed, Feb 13, 2019",8:00p,REG,,Loyola (IL),MVC,W,61,54,,14,12,W 3,Carver Arena
+26,27,"Sat, Feb 16, 2019",8:00p,REG,@,Illinois State,MVC,W,65,59,,15,12,W 4,Redbird Arena
+27,28,"Tue, Feb 19, 2019",8:00p,REG,@,Drake,MVC,L,68,77,,15,13,L 1,Knapp Center
+28,29,"Sat, Feb 23, 2019",2:00p,REG,,Evansville,MVC,W,63,61,,16,13,W 1,Carver Arena
+29,30,"Wed, Feb 27, 2019",8:00p,REG,,Valparaiso,MVC,W,67,42,,17,13,W 2,Carver Arena
+30,31,"Sat, Mar 2, 2019",6:00p,REG,@,Loyola (IL),MVC,L,68,81,,17,14,L 1,Joseph J. Gentile Center
+31,32,"Fri, Mar 8, 2019",3:35p,CTOURN,N,Missouri State,MVC,W,61,58,,18,14,W 1,Scottrade Center
+32,33,"Sat, Mar 9, 2019",3:35p,CTOURN,N,Loyola (IL),MVC,W,53,51,,19,14,W 2,Scottrade Center
+33,34,"Sun, Mar 10, 2019",2:05p,CTOURN,N,Northern Iowa,MVC,W,57,54,,20,14,W 3,Scottrade Center
+34,35,"Thu, Mar 21, 2019",2:45p,NCAA,N,Michigan State (6),Big Ten,,,,,,,,

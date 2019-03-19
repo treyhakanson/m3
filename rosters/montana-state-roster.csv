@@ -1,14 +1,13 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Tyler Hall,3,JR,G,6-4,175,"Rock Island, IL",Rock Island HS, 17.5 Pts,3.7 Reb,2.8 Ast
-1,Harald Frey,5,SO,G,6-1,150,Norway,WANG Sports Academy, 13.1 Pts,3.1 Reb,3.2 Ast
-2,Keljin Blevins,2,JR,F,6-4,200,"Hot Springs, AR",Bishop O'Connell HS, 9.7 Pts,5.8 Reb,0.9 Ast
-3,Joe Mvuezolo Jr.,1,SR,F,6-6,180,United Kingdom,Barking Abbey, 7.8 Pts,3.4 Reb,0.8 Ast
-4,Devonte Klines,10,JR,G,6-2,185,"Los Angeles, CA",Santa Margarita Catholic High School, 7.3 Pts,1.8 Reb,1.4 Ast
-5,Konner Frey,22,SR,F,6-5,210,"Bountiful, UT",Viewmont, 7.2 Pts,5.0 Reb,0.7 Ast
-6,Zach Green,0,SR,G,6-4,195,"Gilbert, AZ",Mesquite HS, 4.8 Pts,4.1 Reb,1.0 Ast
-7,Sam Neumann,4,JR,F,6-7,200,"St. Paul, MN",Cretin-Durham Hall HS, 4.1 Pts,4.4 Reb,0.8 Ast
-8,Isaac Bonton,13,FR,G,6-2,175,"Portland, OR",, 7.8 Pts,2.8 Reb,1.4 Ast
-9,Benson Osayande,21,SR,F,6-9,200,"Elk Grove, CA",Franklin High School, 2.1 Pts,1.2 Reb,0.1 Ast
-10,Luke Schultz,44,FR,C,6-11,230,"Fredericksburg, TX",, 1.7 Pts,1.6 Reb,0.0 Ast
-11,Lassi Nikkarinen,33,FR,G,6-2,180,Finland,, 0.7 Pts,0.6 Reb,0.6 Ast
-12,Devin Kirby,31,,C,6-10,215,"Chandler, AZ",Basha High School,,,
+0,Tyler Hall,3,SR,G,6-5,210,"Rock Island, IL",Rock Island HS, 20.5 Pts,4.7 Reb,2.8 Ast
+1,Harald Frey,5,JR,G,6-1,180,"Oslo, Norway",WANG Sports Academy, 17.2 Pts,4.5 Reb,5.0 Ast
+2,Keljin Blevins,2,SR,F,6-6,200,"Hot Springs, AR",Bishop O'Connell HS, 11.8 Pts,5.9 Reb,1.6 Ast
+3,Ladan Ricketts,11,JR,F,6-5,185,"Livingston, MT",, 9.9 Pts,1.9 Reb,0.7 Ast
+4,Devin Kirby,31,SO,F,6-11,215,"Chandler, AZ",Basha High School, 8.0 Pts,5.0 Reb,0.7 Ast
+5,Sam Neumann,4,SR,C,6-7,220,"St. Paul, MN",Cretin-Durham Hall HS, 4.8 Pts,4.1 Reb,1.7 Ast
+6,Lassi Nikkarinen,13,SO,G,6-2,180,"Helsinki, Finland",HBA M�rsky, 2.3 Pts,1.0 Reb,1.3 Ast
+7,Russell Daniels,20,JR,G,5-11,165,"Baton Rouge, LA",, 1.8 Pts,1.1 Reb,1.4 Ast
+8,Quentin Guliford,12,FR,F,6-6,180,"Peoria, AZ",Liberty HS, 2.0 Pts,1.1 Reb,0.1 Ast
+9,Zeke Quinlan,0,FR,F,6-7,220,"Portland, OR",Hillcrest Prep HS, 1.1 Pts,1.9 Reb,0.5 Ast
+10,Usman Haruna,21,SR,C,6-11,235,"Kaduna, Nigeria",Potter's House Christian Academy, 1.5 Pts,1.5 Reb,0.1 Ast
+11,Maximilian Schuecker,32,FR,C,6-9,230,"Modling, Austria",, 0.7 Pts,0.3 Reb,0.0 Ast

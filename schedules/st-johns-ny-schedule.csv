@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",6:30p,REG,,Loyola (MD),Patriot,W,76,55,,1,0,W 1,Carnesecca Arena
+1,2,"Fri, Nov 9, 2018",6:30p,REG,,Bowling Green State,MAC,W,84,80,,2,0,W 2,Carnesecca Arena
+2,3,"Fri, Nov 16, 2018",7:00p,REG,@,Rutgers,Big Ten,W,84,65,,3,0,W 3,Louis Brown Athletic Center
+3,4,"Mon, Nov 19, 2018",7:00p,REG,N,University of California,Pac-12,W,82,79,,4,0,W 4,Barclays Center
+4,5,"Tue, Nov 20, 2018",7:30p,REG,N,Virginia Commonwealth,A-10,W,87,86,OT,5,0,W 5,Barclays Center
+5,6,"Tue, Nov 27, 2018",6:30p,REG,,Maryland-Eastern Shore,MEAC,W,85,64,,6,0,W 6,Carnesecca Arena
+6,7,"Sat, Dec 1, 2018",12:00p,REG,N,Georgia Tech,ACC,W,76,73,,7,0,W 7,American Airlines Arena
+7,8,"Wed, Dec 5, 2018",6:30p,REG,,Mount St. Mary's,NEC,W,85,71,,8,0,W 8,Carnesecca Arena
+8,9,"Sun, Dec 9, 2018",1:00p,REG,N,Princeton,Ivy,W,89,74,,9,0,W 9,Madison Square Garden (IV)
+9,10,"Sun, Dec 16, 2018",4:30p,REG,,Wagner,NEC,W,73,58,,10,0,W 10,Carnesecca Arena
+10,11,"Wed, Dec 19, 2018",6:30p,REG,,St. Francis (NY),NEC,W,86,52,,11,0,W 11,Carnesecca Arena
+11,12,"Sat, Dec 22, 2018",8:00p,REG,,Sacred Heart,NEC,W,104,82,,12,0,W 12,Carnesecca Arena
+12,13,"Sat, Dec 29, 2018",8:30p,REG,@,Seton Hall,Big East,L,74,76,,12,1,L 1,Prudential Center
+13,14,"Tue, Jan 1, 2019",7:00p,REG,,Marquette (16),Big East,W,89,69,,13,1,W 1,Carnesecca Arena
+14,15,"Sat, Jan 5, 2019",1:00p,REG,@,Georgetown,Big East,W,97,94,OT,14,1,W 2,Capital One Arena
+15,16,"Tue, Jan 8, 2019",7:00p,REG,@,Villanova,Big East,L,71,76,,14,2,L 1,Finneran Pavilion
+16,17,"Sat, Jan 12, 2019",6:00p,REG,,DePaul,Big East,L,71,79,,14,3,L 2,Carnesecca Arena
+17,18,"Wed, Jan 16, 2019",6:30p,REG,,Creighton,Big East,W,81,66,,15,3,W 1,Carnesecca Arena
+18,19,"Sat, Jan 19, 2019",4:30p,REG,@,Butler,Big East,L,71,80,,15,4,L 1,Hinkle Fieldhouse
+19,20,"Sun, Jan 27, 2019",12:00p,REG,,Georgetown,Big East,L,78,89,,15,5,L 2,Madison Square Garden (IV)
+20,21,"Wed, Jan 30, 2019",8:30p,REG,@,Creighton,Big East,W,83,67,,16,5,W 1,CenturyLink Center
+21,22,"Sat, Feb 2, 2019",12:00p,REG,@,Duke (2),ACC,L,61,91,,16,6,L 1,Cameron Indoor Stadium
+22,23,"Tue, Feb 5, 2019",8:00p,REG,@,Marquette (10),Big East,W,70,69,,17,6,W 1,Fiserv Forum
+23,24,"Sat, Feb 9, 2019",12:00p,REG,,Providence,Big East,L,56,70,,17,7,L 1,Madison Square Garden (IV)
+24,25,"Tue, Feb 12, 2019",8:30p,REG,,Butler,Big East,W,77,73,OT,18,7,W 1,Carnesecca Arena
+25,26,"Sun, Feb 17, 2019",5:00p,REG,N,Villanova (13),Big East,W,71,65,,19,7,W 2,Madison Square Garden (IV)
+26,27,"Wed, Feb 20, 2019",8:30p,REG,@,Providence,Big East,L,59,78,,19,8,L 1,Dunkin' Donuts Center
+27,28,"Sat, Feb 23, 2019",8:00p,REG,,Seton Hall,Big East,W,78,70,,20,8,W 1,Madison Square Garden (IV)
+28,29,"Thu, Feb 28, 2019",6:30p,REG,,Xavier,Big East,L,73,84,,20,9,L 1,Carnesecca Arena
+29,30,"Sun, Mar 3, 2019",12:00p,REG,@,DePaul,Big East,L,83,92,,20,10,L 2,Wintrust Arena
+30,31,"Sat, Mar 9, 2019",5:00p,REG,@,Xavier,Big East,L,68,81,,20,11,L 3,Cintas Center
+31,32,"Wed, Mar 13, 2019",9:30p,CTOURN,N,DePaul,Big East,W,82,74,,21,11,W 1,Madison Square Garden (IV)
+32,33,"Thu, Mar 14, 2019",7:00p,CTOURN,N,Marquette (23),Big East,L,54,86,,21,12,L 1,Madison Square Garden (IV)
+33,34,"Wed, Mar 20, 2019",9:10p,NCAA,N,Arizona State,Pac-12,,,,,,,,

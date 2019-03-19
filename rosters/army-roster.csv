@@ -1,23 +1,26 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Jordan Fox,1,JR,G,6-1,184,"Mckee, KY",United States Military Academy Preparatory School, 13.7 Pts,4.1 Reb,4.2 Ast
-1,Matthew Wilson,14,SO,F,6-9,235,"Alexandria, KY",Campbell County High School, 12.0 Pts,5.7 Reb,0.5 Ast
-2,Thomas Funk,3,SO,G,6-0,181,"Warrington, PA",Archbishop Wood HIgh School, 10.8 Pts,3.1 Reb,5.7 Ast
-3,Alex King,35,FR,F,6-8,197,"Columbus, IN",, 9.3 Pts,3.5 Reb,0.8 Ast
-4,Luke Morrison,25,SR,F,6-6,220,"Charlotte, NC",Northside Christian Academy, 8.6 Pts,3.7 Reb,1.0 Ast
-5,Tucker Blackwell,11,FR,G,6-1,173,"BLOOMINGTON, IN",, 6.0 Pts,1.5 Reb,1.1 Ast
-6,Jacob Kessler,10,JR,G,6-4,190,"Richmond, VA",Mills E. Godwin HS, 5.2 Pts,4.1 Reb,1.8 Ast
-7,John Emezie,52,JR,G,6-6,215,"Waxhaw, NC",Marvin Ridge High School, 3.8 Pts,1.7 Reb,0.8 Ast
-8,Lonnie Grayson,5,FR,G,6-0,159,"Cincinnati, OH",, 3.0 Pts,1.0 Reb,0.3 Ast
-9,Babacar Thiombane,0,FR,F,6-7,198,"LOS ANGELES, CA",, 1.2 Pts,2.8 Reb,0.3 Ast
-10,John Miller,34,JR,C,6-9,225,"New Albany, OH",New Albany HS, 1.2 Pts,1.3 Reb,0.1 Ast
-11,Cayne Edwards,2,JR,G,6-4,220,"Schertz, TX",Samuel Clemens HS, 2.0 Pts,1.4 Reb,0.2 Ast
-12,Parker Fennema,51,JR,F,6-6,215,"Raleigh, NC",, 1.2 Pts,0.6 Reb,0.2 Ast
-13,Mark Pollack,44,SR,F,6-6,210,"Charlotte, NC",Charlotte Catholic, 1.0 Pts,0.3 Reb,0.0 Ast
-14,Mark Madden,15,FR,G,6-5,201,"SOUTH BEND, IN",, 0.6 Pts,0.4 Reb,0.1 Ast
-15,Will Culliton,21,SO,G,6-2,177,"Wayzata, MN",, 2.0 Pts,1.0 Reb,0.0 Ast
-16,Nick Finke,12,FR,F,6-7,202,"CHAMPAIGN, IL",, 0.0 Pts,0.0 Reb,0.0 Ast
-17,Jason Houle,24,JR,G,6-5,207,"Plymouth, MI",Father Gabriel Richard Regional Catholic High School, 0.0 Pts,0.5 Reb,0.0 Ast
-18,Lance Lawson,53,SO,G,6-2,169,"Charlotte, NC",, 0.0 Pts,0.0 Reb,1.5 Ast
-19,Keeston Smith,43,SO,F,6-5,168,"Oregon City, OR",, 0.0 Pts,1.0 Reb,0.0 Ast
-20,Cam Fuller,33,,F,6-8,201,,,,,
-21,Adam Roe,45,,F,6-5,210,"Weston, MO",West Platte HS,,,
+0,Matthew Wilson,14,JR,F,6-9,245,"Alexandria, KY",Campbell County High School, 13.8 Pts,8.6 Reb,0.4 Ast
+1,Thomas Funk,3,JR,G,6-0,195,"Warrington, PA",Archbishop Wood HIgh School, 12.6 Pts,3.9 Reb,5.9 Ast
+2,Jordan Fox,1,SR,G,6-1,190,"Jackson County, KY",United States Military Academy Preparatory School, 8.8 Pts,3.3 Reb,2.8 Ast
+3,Alex King,35,SO,F,6-8,200,"Columbus, IN",Columbus North High School, 7.1 Pts,3.1 Reb,1.0 Ast
+4,Lonnie Grayson,13,SO,G,6-0,175,"Cincinnati, OH",Wyoming High School, 7.3 Pts,2.6 Reb,0.8 Ast
+5,John Emezie,52,SR,G,6-6,220,"Waxhaw, NC",Marvin Ridge High School, 5.6 Pts,1.8 Reb,1.0 Ast
+6,Aaron Duhart,23,FR,G,6-0,190,"Richmond, VA",, 3.5 Pts,1.1 Reb,1.5 Ast
+7,Cayne Edwards,2,SR,G,6-4,215,"Schertz, TX",Samuel Clemens HS, 3.7 Pts,2.7 Reb,0.1 Ast
+8,Josh Caldwell,0,FR,G,6-2,180,"Columbia, SC",, 3.3 Pts,2.3 Reb,0.9 Ast
+9,Jacob Kessler,10,SR,G,6-4,193,"Richmond, VA",Mills E. Godwin HS, 2.8 Pts,1.9 Reb,0.8 Ast
+10,Tucker Blackwell,11,SO,G,6-1,178,"Bloomington, IN",Bloomington South High School, 3.2 Pts,0.7 Reb,0.5 Ast
+11,Ben Kinker,30,FR,F,6-8,220,"Greensburg, IN",Oldenburg Academy, 2.3 Pts,1.0 Reb,0.1 Ast
+12,John Scully,32,FR,G,6-2,185,"Flower Mound, TX",, 4.7 Pts,0.7 Reb,1.0 Ast
+13,John Miller,34,SR,C,6-9,240,"New Albany, OH",New Albany HS, 1.3 Pts,1.3 Reb,0.0 Ast
+14,Jordan Coleman,25,FR,G,6-6,180,"Greenwood, SC",, 0.0 Pts,0.0 Reb,0.0 Ast
+15,Will Culliton,21,JR,G,6-2,187,"Wayzata, MN",Breck School, 0.0 Pts,0.0 Reb,0.0 Ast
+16,Parker Fennema,51,SR,F,6-6,215,"Raleigh, NC",United States Military Academy Preparatory School, 0.0 Pts,0.0 Reb,0.0 Ast
+17,Nick Finke,12,SO,F,6-7,220,"Champaign, IL",Champaign Central High School, 0.0 Pts,1.0 Reb,0.3 Ast
+18,Mark Madden,5,SO,G,6-5,205,"South Bend, IN",Saint Joseph's High School, 0.0 Pts,1.5 Reb,0.3 Ast
+19,Brendan Thiele,42,FR,G,6-5,210,"Kearny, NJ",St. Peter's Prep, 0.0 Pts,0.5 Reb,0.0 Ast
+20,Cam Fuller,33,SO,F,6-8,225,"Santa Clarita, CA",,,,
+21,Jason Houle,24,SR,G,6-5,215,"Plymouth, MI",Father Gabriel Richard Regional Catholic High School,,,
+22,Lance Lawson,53,JR,G,6-2,190,"Charlotte, NC",Ardrey Kell High School,,,
+23,Adam Roe,15,SR,F,6-5,215,"Weston, MO",West Platte HS,,,
+24,Keeston Smith,43,JR,F,6-5,210,"Oregon City, OR",La Salle Catholic College Preparatory,,,

@@ -1,17 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Mike Amius,23,JR,F,6-7,210,"Lake Worth, FL",, 12.7 Pts,5.6 Reb,1.1 Ast
-1,Deriece Parks,13,SR,G,6-5,155,"Charlotte, NC",Olympic High School, 10.6 Pts,3.8 Reb,2.7 Ast
-2,Marc Gosselin,12,JR,F,6-7,195,France,"Cite Scolaire Internationale (Lyon, France)", 8.8 Pts,6.5 Reb,1.5 Ast
-3,Matt Halvorsen,2,FR,G,6-1,170,"Kingsport, TN",, 8.5 Pts,1.1 Reb,1.0 Ast
-4,Devin Peterson,5,SR,G,6-1,171,"Milton, GA",Mt. Pisgah Christian School, 7.1 Pts,2.1 Reb,3.0 Ast
-5,Marcus Thomas,21,FR,G,6-3,180,"Mint Hill, NC",, 5.6 Pts,1.9 Reb,0.6 Ast
-6,Desmond Johnson,1,FR,G,5-11,170,"Memphis, TN",, 4.0 Pts,2.2 Reb,1.5 Ast
-7,Ashley Williams,24,SR,F,6-5,167,"Morehead City, NC",Greenfield School, 4.7 Pts,1.4 Reb,0.5 Ast
-8,Haboubacar Mutombo,11,SR,G,6-5,190,Canada,Notre Dame Prep, 2.5 Pts,2.4 Reb,0.5 Ast
-9,Adam Sledd,44,SO,F,6-8,220,"Roanoke, VA",Virginia Episcopal School, 1.9 Pts,1.2 Reb,0.2 Ast
-10,Maurice Smith,0,SO,G,6-6,215,"Lauderdale Lakes, FL",Northeast High School, 2.0 Pts,2.8 Reb,0.6 Ast
-11,Onno Steger,33,SO,F,6-5,205,"Upper Arlington, OH",Upper Arlington High School, 2.1 Pts,0.9 Reb,0.3 Ast
-12,Devonte Fuller,32,SR,G,6-1,175,"Hickory, NC",Hickory High School, 3.1 Pts,0.9 Reb,0.2 Ast
-13,Charlendez Brooks,41,SR,F,6-9,270,"Duncan, SC",Byrnes HS, 0.4 Pts,1.0 Reb,0.5 Ast
-14,Yalim Olcay,35,SO,F,6-8,225,Turkey,SPIRE Sports Academy, 0.7 Pts,0.9 Reb,0.2 Ast
-15,Jason McMillan,3,SO,G,5-11,165,"Cherokee, NC",Cherokee High School, 0.7 Pts,0.2 Reb,0.1 Ast
+0,Kameron Gibson,14,FR,G,6-3,180,"Cincinnati, OH",Walnut Hills HS, 13.6 Pts,2.1 Reb,1.9 Ast
+1,Carlos Dotson,4,JR,F,6-7,265,"Riverdale, MD",Dorman HS, 13.9 Pts,9.5 Reb,1.5 Ast
+2,Matt Halvorsen,2,SO,G,6-1,170,"Kingsport, TN",Christ School, 11.6 Pts,3.3 Reb,2.8 Ast
+3,Onno Steger,33,JR,F,6-5,205,"Upper Arlington, OH",Upper Arlington High School, 11.3 Pts,4.8 Reb,2.0 Ast
+4,Marcus Thomas,21,SO,G,6-3,180,"Mint Hill, NC",Moravian Prep, 8.8 Pts,3.2 Reb,1.3 Ast
+5,Marc Gosselin,12,SR,F,6-7,205,"Lyon, France","Cite Scolaire Internationale (Lyon, France)", 5.5 Pts,4.7 Reb,1.2 Ast
+6,Josh Cottrell,15,FR,G,6-2,185,"Hayesville, NC",Hayesville HS, 3.3 Pts,0.7 Reb,0.5 Ast
+7,D.J. Myers,5,FR,F,6-6,200,"Raleigh, NC",Hargrave Military Academy, 2.3 Pts,2.4 Reb,0.7 Ast
+8,Adam Sledd,44,JR,F,6-8,220,"Roanoke, VA",Virginia Episcopal School, 1.9 Pts,1.8 Reb,0.2 Ast
+9,Maurice Smith,0,JR,G,6-6,215,"Lauderdale Lakes, FL",Northeast High School, 2.5 Pts,4.5 Reb,0.5 Ast
+10,Yalim Olcay,35,JR,F,6-8,225,"Izmir, Turkey",SPIRE Sports Academy, 0.7 Pts,1.1 Reb,0.2 Ast
+11,Jason McMillan,3,JR,G,5-11,165,"Cherokee, NC",Cherokee High School, 0.5 Pts,0.3 Reb,0.2 Ast
+12,Douglas Elks,10,FR,G,6-4,189,"Raleigh, NC",,,,
+13,Mason Faulkner,11,JR,G,6-1,165,"Glasgow, KY",Caverna High School,,,

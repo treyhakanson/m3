@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Thu, Nov 8, 2018",8:00p,REG,,Missouri-Kansas City,WAC,W,77,63,,1,0,W 1,Carver-Hawkeye Arena
+1,2,"Sun, Nov 11, 2018",3:00p,REG,,Green Bay,Horizon,W,93,82,,2,0,W 2,Carver-Hawkeye Arena
+2,3,"Thu, Nov 15, 2018",9:15p,REG,N,Oregon (13),Pac-12,W,77,69,,3,0,W 3,Madison Square Garden (IV)
+3,4,"Fri, Nov 16, 2018",6:30p,REG,N,Connecticut,AAC,W,91,72,,4,0,W 4,Madison Square Garden (IV)
+4,5,"Wed, Nov 21, 2018",8:30p,REG,,Alabama State,SWAC,W,105,78,,5,0,W 5,Carver-Hawkeye Arena
+5,6,"Tue, Nov 27, 2018",9:00p,REG,,Pittsburgh,ACC,W,69,68,,6,0,W 6,Carver-Hawkeye Arena
+6,7,"Fri, Nov 30, 2018",8:00p,REG,,Wisconsin (22),Big Ten,L,66,72,,6,1,L 1,Carver-Hawkeye Arena
+7,8,"Mon, Dec 3, 2018",6:30p,REG,@,Michigan State (10),Big Ten,L,68,90,,6,2,L 2,Breslin Events Center
+8,9,"Thu, Dec 6, 2018",8:00p,REG,,Iowa State,Big 12,W,98,84,,7,2,W 1,Carver-Hawkeye Arena
+9,10,"Sat, Dec 15, 2018",7:00p,REG,N,Northern Iowa,MVC,W,77,54,,8,2,W 2,Wells Fargo Arena
+10,11,"Tue, Dec 18, 2018",9:00p,REG,,Western Carolina,Southern,W,78,60,,9,2,W 3,Carver-Hawkeye Arena
+11,12,"Sat, Dec 22, 2018",1:00p,REG,,Savannah State,MEAC,W,110,64,,10,2,W 4,Carver-Hawkeye Arena
+12,13,"Sat, Dec 29, 2018",8:00p,REG,,Bryant,NEC,W,72,67,,11,2,W 5,Carver-Hawkeye Arena
+13,14,"Thu, Jan 3, 2019",7:00p,REG,@,Purdue,Big Ten,L,70,86,,11,3,L 1,Mackey Arena
+14,15,"Sun, Jan 6, 2019",5:30p,REG,,Nebraska (24),Big Ten,W,93,84,,12,3,W 1,Carver-Hawkeye Arena
+15,16,"Wed, Jan 9, 2019",9:00p,REG,@,Northwestern,Big Ten,W,73,63,,13,3,W 2,Welsh-Ryan Arena
+16,17,"Sat, Jan 12, 2019",2:30p,REG,,Ohio State (16),Big Ten,W,72,62,,14,3,W 3,Carver-Hawkeye Arena
+17,18,"Wed, Jan 16, 2019",7:00p,REG,@,Penn State,Big Ten,W,89,82,,15,3,W 4,Bryce Jordan Center
+18,19,"Sun, Jan 20, 2019",1:00p,REG,,Illinois,Big Ten,W,95,71,,16,3,W 5,Carver-Hawkeye Arena
+19,20,"Thu, Jan 24, 2019",7:00p,REG,,Michigan State (6),Big Ten,L,67,82,,16,4,L 1,Carver-Hawkeye Arena
+20,21,"Sun, Jan 27, 2019",5:00p,REG,@,Minnesota,Big Ten,L,87,92,,16,5,L 2,Williams Arena
+21,22,"Fri, Feb 1, 2019",7:00p,REG,,Michigan (5),Big Ten,W,74,59,,17,5,W 1,Carver-Hawkeye Arena
+22,23,"Thu, Feb 7, 2019",9:00p,REG,@,Indiana,Big Ten,W,77,72,,18,5,W 2,Assembly Hall
+23,24,"Sun, Feb 10, 2019",6:30p,REG,,Northwestern,Big Ten,W,80,79,,19,5,W 3,Carver-Hawkeye Arena
+24,25,"Sat, Feb 16, 2019",6:00p,REG,@,Rutgers,Big Ten,W,71,69,,20,5,W 4,Louis Brown Athletic Center
+25,26,"Tue, Feb 19, 2019",8:00p,REG,,Maryland (24),Big Ten,L,65,66,,20,6,L 1,Carver-Hawkeye Arena
+26,27,"Fri, Feb 22, 2019",9:15p,REG,,Indiana,Big Ten,W,76,70,OT,21,6,W 1,Carver-Hawkeye Arena
+27,28,"Tue, Feb 26, 2019",7:00p,REG,@,Ohio State,Big Ten,L,70,90,,21,7,L 1,Value City Arena
+28,29,"Sat, Mar 2, 2019",5:00p,REG,,Rutgers,Big Ten,L,72,86,,21,8,L 2,Carver-Hawkeye Arena
+29,30,"Thu, Mar 7, 2019",7:00p,REG,@,Wisconsin (21),Big Ten,L,45,65,,21,9,L 3,Kohl Center
+30,31,"Sun, Mar 10, 2019",2:00p,REG,@,Nebraska,Big Ten,L,91,93,OT,21,10,L 4,Pinnacle Bank Arena
+31,32,"Thu, Mar 14, 2019",9:25p,CTOURN,N,Illinois,Big Ten,W,83,62,,22,10,W 1,United Center
+32,33,"Fri, Mar 15, 2019",9:25p,CTOURN,N,Michigan (10),Big Ten,L,53,74,,22,11,L 1,United Center
+33,34,"Fri, Mar 22, 2019",12:15p,NCAA,N,Cincinnati (24),AAC,,,,,,,,

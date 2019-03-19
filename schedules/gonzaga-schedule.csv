@@ -1,36 +1,34 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Fri, Nov 10, 2017",9:00 pm/est,,REG,,Texas Southern,SWAC,W,97,69,,1,0,W 1,
-1,2,"Tue, Nov 14, 2017",9:00 pm/est,,REG,,Howard,MEAC,W,106,69,,2,0,W 2,
-2,3,"Sat, Nov 18, 2017",10:00 pm/est,,REG,,Utah State,MWC,W,79,66,,3,0,W 3,
-3,4,"Thu, Nov 23, 2017",11:59 pm/est,,REG,N,Ohio State,Big Ten,W,86,59,,4,0,W 4,
-4,5,"Fri, Nov 24, 2017",11:00 pm/est,,REG,N,Florida (7),SEC,L,105,111,2OT,4,1,L 1,Moda Center
-5,6,"Sun, Nov 26, 2017",1:00 pm/est,,REG,N,Texas,Big 12,W,76,71,OT,5,1,W 1,Moda Center
-6,7,"Wed, Nov 29, 2017",9:00 pm/est,,REG,,Incarnate Word,Southland,W,103,68,,6,1,W 2,
-7,8,"Fri, Dec 1, 2017",10:00 pm/est,,REG,,Creighton (25),Big East,W,91,74,,7,1,W 3,
-8,9,"Tue, Dec 5, 2017",7:00 pm/est,,REG,N,Villanova (4),Big East,L,72,88,,7,2,L 1,Madison Square Garden (IV)
-9,10,"Sun, Dec 10, 2017",8:00 pm/est,,REG,@,Washington,Pac-12,W,97,70,,8,2,W 1,Alaska Airlines Arena
-10,11,"Sat, Dec 16, 2017",8:00 pm/est,,REG,,North Dakota,Big Sky,W,89,83,OT,9,2,W 2,
-11,12,"Mon, Dec 18, 2017",9:00 pm/est,,REG,,IUPUI,Horizon,W,101,71,,10,2,W 3,
-12,13,"Thu, Dec 21, 2017",10:00 pm/est,,REG,@,San Diego State,MWC,L,70,72,,10,3,L 1,Viejas Arena
-13,14,"Thu, Dec 28, 2017",9:00 pm/est,,REG,,Pacific,WCC,W,81,48,,11,3,W 1,
-14,15,"Sat, Dec 30, 2017",7:00 pm/est,,REG,,Santa Clara,WCC,W,101,52,,12,3,W 2,
-15,16,"Thu, Jan 4, 2018",11:00 pm/est,,REG,@,Pepperdine,WCC,W,89,59,,13,3,W 3,Firestone Fieldhouse
-16,17,"Sat, Jan 6, 2018",10:00 pm/est,,REG,@,Loyola Marymount,WCC,W,85,66,,14,3,W 4,Albert Gersten Pavilion
-17,18,"Thu, Jan 11, 2018",9:00 pm/est,,REG,,Portland,WCC,W,103,57,,15,3,W 5,
-18,19,"Sat, Jan 13, 2018",9:30 pm/est,,REG,@,San Francisco,WCC,W,75,65,,16,3,W 6,War Memorial Gymnasium
-19,20,"Thu, Jan 18, 2018",9:00 pm/est,,REG,,Saint Mary's (CA),WCC,L,71,74,,16,4,L 1,
-20,21,"Sat, Jan 20, 2018",8:00 pm/est,,REG,@,Santa Clara,WCC,W,75,60,,17,4,W 1,Leavey Center
-21,22,"Thu, Jan 25, 2018",11:00 pm/est,,REG,@,Portland,WCC,W,95,79,,18,4,W 2,Chiles Center
-22,23,"Sat, Jan 27, 2018",8:00 pm/est,,REG,,San Francisco,WCC,W,82,73,,19,4,W 3,
-23,24,"Thu, Feb 1, 2018",9:00 pm/est,,REG,,San Diego,WCC,W,69,59,,20,4,W 4,
-24,25,"Sat, Feb 3, 2018",10:00 pm/est,,REG,,Brigham Young,WCC,W,68,60,,21,4,W 5,
-25,26,"Thu, Feb 8, 2018",10:00 pm/est,,REG,@,Pacific,WCC,W,71,61,,22,4,W 6,A.G. Spanos Center
-26,27,"Sat, Feb 10, 2018",10:00 pm/est,,REG,@,Saint Mary's (CA) (11),WCC,W,78,65,,23,4,W 7,McKeon Pavilion
-27,28,"Thu, Feb 15, 2018",9:00 pm/est,,REG,,Loyola Marymount,WCC,W,76,46,,24,4,W 8,
-28,29,"Sat, Feb 17, 2018",8:00 pm/est,,REG,,Pepperdine,WCC,W,81,67,,25,4,W 9,
-29,30,"Thu, Feb 22, 2018",9:00 pm/est,,REG,@,San Diego,WCC,W,77,72,,26,4,W 10,Jenny Craig Pavillion
-30,31,"Sat, Feb 24, 2018",8:00 pm/est,,REG,@,Brigham Young,WCC,W,79,65,,27,4,W 11,Marriott Center
-31,32,"Sat, Mar 3, 2018",10:00 pm/est,,CTOURN,N,Loyola Marymount,WCC,W,83,69,,28,4,W 12,Orleans Arena
-32,33,"Mon, Mar 5, 2018",9:00 pm/est,,CTOURN,N,San Francisco,WCC,W,88,60,,29,4,W 13,Orleans Arena
-33,34,"Tue, Mar 6, 2018",9:00 pm/est,,CTOURN,N,Brigham Young,WCC,W,74,54,,30,4,W 14,Orleans Arena
-34,35,"Thu, Mar 15, 2018",1:30 pm/est,,NCAA,N,North Carolina-Greensboro,Southern,,,,,,,,
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:00p,REG,,Idaho State,Big Sky,W,120,79,,1,0,W 1,McCarthey Athletic Center
+1,2,"Sat, Nov 10, 2018",10:00p,REG,,Texas Southern,SWAC,W,104,67,,2,0,W 2,McCarthey Athletic Center
+2,3,"Thu, Nov 15, 2018",11:30p,REG,,Texas A&M,SEC,W,94,71,,3,0,W 3,McCarthey Athletic Center
+3,4,"Mon, Nov 19, 2018",11:30p,REG,N,Illinois,Big Ten,W,84,78,,4,0,W 4,Lahaina Civic Center
+4,5,"Tue, Nov 20, 2018",10:00p,REG,N,Arizona,Pac-12,W,91,74,,5,0,W 5,Lahaina Civic Center
+5,6,"Wed, Nov 21, 2018",5:00p,REG,N,Duke (1),ACC,W,89,87,,6,0,W 6,Lahaina Civic Center
+6,7,"Mon, Nov 26, 2018",9:00p,REG,,North Dakota State,Summit,W,102,60,,7,0,W 7,McCarthey Athletic Center
+7,8,"Sat, Dec 1, 2018",2:00p,REG,@,Creighton,Big East,W,103,92,,8,0,W 8,CenturyLink Center
+8,9,"Wed, Dec 5, 2018",11:00p,REG,,Washington,Pac-12,W,81,79,,9,0,W 9,McCarthey Athletic Center
+9,10,"Sun, Dec 9, 2018",3:00p,REG,N,Tennessee (7),SEC,L,73,76,,9,1,L 1,Talking Stick Resort Arena
+10,11,"Sat, Dec 15, 2018",7:00p,REG,@,North Carolina (12),ACC,L,90,103,,9,2,L 2,Dean Smith Center
+11,12,"Tue, Dec 18, 2018",9:00p,REG,,Texas-Arlington,Sun Belt,W,89,55,,10,2,W 1,McCarthey Athletic Center
+12,13,"Fri, Dec 21, 2018",9:00p,REG,,Denver,Summit,W,101,40,,11,2,W 2,McCarthey Athletic Center
+13,14,"Fri, Dec 28, 2018",9:00p,REG,,North Alabama,A-Sun,W,96,51,,12,2,W 3,McCarthey Athletic Center
+14,15,"Mon, Dec 31, 2018",9:00p,REG,,Cal State Bakersfield,WAC,W,89,54,,13,2,W 4,McCarthey Athletic Center
+15,16,"Sat, Jan 5, 2019",9:00p,REG,,Santa Clara,WCC,W,91,48,,14,2,W 5,McCarthey Athletic Center
+16,17,"Thu, Jan 10, 2019",11:00p,REG,,Pacific,WCC,W,67,36,,15,2,W 6,McCarthey Athletic Center
+17,18,"Sat, Jan 12, 2019",10:00p,REG,@,San Francisco,WCC,W,96,83,,16,2,W 7,War Memorial Gymnasium
+18,19,"Thu, Jan 17, 2019",9:00p,REG,,Loyola Marymount,WCC,W,73,55,,17,2,W 8,McCarthey Athletic Center
+19,20,"Sat, Jan 19, 2019",10:00p,REG,@,Portland,WCC,W,89,66,,18,2,W 9,Chiles Center
+20,21,"Thu, Jan 24, 2019",11:00p,REG,@,Santa Clara,WCC,W,98,39,,19,2,W 10,Leavey Center
+21,22,"Thu, Jan 31, 2019",11:00p,REG,@,Brigham Young,WCC,W,93,63,,20,2,W 11,Marriott Center
+22,23,"Sat, Feb 2, 2019",8:00p,REG,,San Diego,WCC,W,85,69,,21,2,W 12,McCarthey Athletic Center
+23,24,"Thu, Feb 7, 2019",9:00p,REG,,San Francisco,WCC,W,92,62,,22,2,W 13,McCarthey Athletic Center
+24,25,"Sat, Feb 9, 2019",10:00p,REG,,Saint Mary's (CA),WCC,W,94,46,,23,2,W 14,McCarthey Athletic Center
+25,26,"Thu, Feb 14, 2019",11:00p,REG,@,Loyola Marymount,WCC,W,73,60,,24,2,W 15,Albert Gersten Pavilion
+26,27,"Sat, Feb 16, 2019",10:00p,REG,@,San Diego,WCC,W,79,67,,25,2,W 16,Jenny Craig Pavillion
+27,28,"Thu, Feb 21, 2019",9:00p,REG,,Pepperdine,WCC,W,92,64,,26,2,W 17,McCarthey Athletic Center
+28,29,"Sat, Feb 23, 2019",10:00p,REG,,Brigham Young,WCC,W,102,68,,27,2,W 18,McCarthey Athletic Center
+29,30,"Thu, Feb 28, 2019",11:00p,REG,@,Pacific,WCC,W,86,66,,28,2,W 19,A.G. Spanos Center
+30,31,"Sat, Mar 2, 2019",10:00p,REG,@,Saint Mary's (CA),WCC,W,69,55,,29,2,W 20,McKeon Pavilion
+31,32,"Mon, Mar 11, 2019",9:00p,CTOURN,N,Pepperdine,WCC,W,100,74,,30,2,W 21,Orleans Arena
+32,33,"Tue, Mar 12, 2019",9:00p,CTOURN,N,Saint Mary's (CA),WCC,L,47,60,,30,3,L 1,Orleans Arena

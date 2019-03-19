@@ -1,0 +1,35 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,@,Albany (NY),AEC,L,67,69,,0,1,L 1,SEFCU Arena
+1,2,"Tue, Nov 14, 2017",7:00 pm/est,,REG,@,Syracuse,ACC,L,62,71,,0,2,L 2,Carrier Dome
+2,3,"Fri, Nov 17, 2017",8:00 pm/est,,REG,N,Weber State,Big Sky,W,80,72,,1,2,W 1,Imperial Arena at Atlantis Resort
+3,4,"Sat, Nov 18, 2017",8:00 pm/est,,REG,N,Northern Kentucky,Horizon,L,72,85,,1,3,L 1,
+4,5,"Sun, Nov 19, 2017",5:00 pm/est,,REG,N,Coastal Carolina,Sun Belt,L,84,89,,1,4,L 2,
+5,6,"Tue, Nov 28, 2017",7:00 pm/est,,REG,@,Ohio,MAC,W,93,88,,2,4,W 1,Convocation Center
+6,7,"Sat, Dec 2, 2017",1:00 pm/est,,REG,,Fairleigh Dickinson,NEC,W,82,75,,3,4,W 2,Hynes Athletics Center
+7,8,"Sat, Dec 9, 2017",4:00 pm/est,,REG,@,NJIT,A-Sun,W,74,70,,4,4,W 3,
+8,9,"Tue, Dec 12, 2017",7:00 pm/est,,REG,,Yale,Ivy,W,83,67,,5,4,W 4,Hynes Athletics Center
+9,10,"Sun, Dec 17, 2017",4:30 pm/est,,REG,@,St. John's (NY),Big East,L,59,69,,5,5,L 1,Madison Square Garden (IV)
+10,11,"Tue, Dec 19, 2017",7:05 pm/est,,REG,@,Holy Cross,Patriot,W,82,68,,6,5,W 1,Hart Recreation Center
+11,12,"Thu, Dec 21, 2017",7:00 pm/est,,REG,@,Rhode Island,A-10,L,74,80,,6,6,L 1,
+12,13,"Fri, Dec 29, 2017",7:00 pm/est,,REG,@,Niagara,MAAC,W,98,93,OT,7,6,W 1,Gallagher Center
+13,14,"Sun, Dec 31, 2017",1:00 pm/est,,REG,@,Canisius,MAAC,L,78,85,,7,7,L 1,Koessler Athletic Center
+14,15,"Fri, Jan 5, 2018",7:00 pm/est,,REG,,Saint Peter's,MAAC,W,73,69,,8,7,W 1,Hynes Athletics Center
+15,16,"Sun, Jan 7, 2018",1:00 pm/est,,REG,,Fairfield,MAAC,W,84,65,,9,7,W 2,Hynes Athletics Center
+16,17,"Thu, Jan 11, 2018",7:00 pm/est,,REG,,Siena,MAAC,W,71,69,,10,7,W 3,Hynes Athletics Center
+17,18,"Sun, Jan 14, 2018",1:00 pm/est,,REG,,Rider,MAAC,W,91,64,,11,7,W 4,Hynes Athletics Center
+18,19,"Fri, Jan 19, 2018",7:00 pm/est,,REG,@,Monmouth,MAAC,W,76,73,,12,7,W 5,Multipurpose Activity Center
+19,20,"Sun, Jan 21, 2018",1:00 pm/est,,REG,,Canisius,MAAC,L,82,84,,12,8,L 1,Hynes Athletics Center
+20,21,"Sat, Jan 27, 2018",7:00 pm/est,,REG,N,Manhattan,MAAC,W,78,65,,13,8,W 1,
+21,22,"Mon, Jan 29, 2018",7:00 pm/est,,REG,@,Fairfield,MAAC,L,100,103,OT,13,9,L 1,Webster Bank Arena
+22,23,"Fri, Feb 2, 2018",7:00 pm/est,,REG,,Quinnipiac,MAAC,W,87,82,2OT,14,9,W 1,Hynes Athletics Center
+23,24,"Sun, Feb 4, 2018",12:00 pm/est,,REG,@,Marist,MAAC,W,98,64,,15,9,W 2,McCann Recreation Center
+24,25,"Thu, Feb 8, 2018",7:00 pm/est,,REG,,Monmouth,MAAC,L,50,72,,15,10,L 1,Hynes Athletics Center
+25,26,"Sat, Feb 10, 2018",12:00 pm/est,,REG,@,Saint Peter's,MAAC,W,86,77,,16,10,W 1,Yanitelli Center
+26,27,"Mon, Feb 12, 2018",7:00 pm/est,,REG,@,Siena,MAAC,L,78,82,OT,16,11,L 1,Times Union Center 
+27,28,"Fri, Feb 16, 2018",7:00 pm/est,,REG,,Niagara,MAAC,L,84,85,,16,12,L 2,Hynes Athletics Center
+28,29,"Fri, Feb 23, 2018",9:00 pm/est,,REG,,Manhattan,MAAC,W,88,75,,17,12,W 1,Hynes Athletics Center
+29,30,"Sun, Feb 25, 2018",2:00 pm/est,,REG,@,Rider,MAAC,L,101,110,,17,13,L 1,Alumni Gymnasium
+30,31,"Sat, Mar 3, 2018",9:30 pm/est,,CTOURN,N,Manhattan,MAAC,W,72,60,,18,13,W 1,Times Union Center 
+31,32,"Sun, Mar 4, 2018",7:00 pm/est,,CTOURN,N,Saint Peter's,MAAC,W,65,62,,19,13,W 2,Times Union Center 
+32,33,"Mon, Mar 5, 2018",7:00 pm/est,,CTOURN,N,Fairfield,MAAC,W,83,71,,20,13,W 3,Times Union Center 
+33,34,"Thu, Mar 15, 2018",2:45 pm/est,,NCAA,N,Duke (9),ACC,,,,,,,,

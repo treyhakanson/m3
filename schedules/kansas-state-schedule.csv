@@ -1,35 +1,35 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Fri, Nov 10, 2017",9:00 pm/est,,REG,,American,Patriot,W,83,45,,1,0,W 1,Bramlage Coliseum
-1,2,"Tue, Nov 14, 2017",8:00 pm/est,,REG,,Missouri-Kansas City,WAC,W,72,51,,2,0,W 2,Bramlage Coliseum
-2,3,"Fri, Nov 17, 2017",9:00 pm/est,,REG,,UC-Irvine,Big West,W,71,49,,3,0,W 3,Bramlage Coliseum
-3,4,"Mon, Nov 20, 2017",8:00 pm/est,,REG,,Northern Arizona,Big Sky,W,80,58,,4,0,W 4,Bramlage Coliseum
-4,5,"Thu, Nov 23, 2017",7:30 pm/est,,REG,N,Arizona State,Pac-12,L,90,92,,4,1,L 1,Orleans Arena
-5,6,"Fri, Nov 24, 2017",8:00 pm/est,,REG,N,George Washington,A-10,W,67,59,,5,1,W 1,Orleans Arena
-6,7,"Wed, Nov 29, 2017",8:00 pm/est,,REG,,Oral Roberts,Summit,W,77,68,,6,1,W 2,Bramlage Coliseum
-7,8,"Sun, Dec 3, 2017",2:30 pm/est,,REG,@,Vanderbilt,SEC,W,84,79,,7,1,W 3,Memorial Gymnasium
-8,9,"Tue, Dec 5, 2017",8:00 pm/est,,REG,,South Carolina Upstate,A-Sun,W,86,49,,8,1,W 4,Bramlage Coliseum
-9,10,"Sat, Dec 9, 2017",8:00 pm/est,,REG,N,Tulsa,AAC,L,54,61,,8,2,L 1,Intrust Bank Arena
-10,11,"Sat, Dec 16, 2017",8:00 pm/est,,REG,,Southeast Missouri State,OVC,W,89,71,,9,2,W 1,Bramlage Coliseum
-11,12,"Wed, Dec 20, 2017",11:00 pm/est,,REG,@,Washington State,Pac-12,W,68,65,,10,2,W 2,Beasley Coliseum
-12,13,"Fri, Dec 29, 2017",9:00 pm/est,,REG,@,Iowa State,Big 12,W,91,75,,11,2,W 3,James H. Hilton Coliseum 
-13,14,"Mon, Jan 1, 2018",5:00 pm/est,,REG,,West Virginia (6),Big 12,L,69,77,,11,3,L 1,Bramlage Coliseum
-14,15,"Sat, Jan 6, 2018",4:00 pm/est,,REG,@,Texas Tech (18),Big 12,L,58,74,,11,4,L 2,United Supermarkets Arena
-15,16,"Wed, Jan 10, 2018",8:00 pm/est,,REG,,Oklahoma State,Big 12,W,86,82,,12,4,W 1,Bramlage Coliseum
-16,17,"Sat, Jan 13, 2018",12:00 pm/est,,REG,@,Kansas (12),Big 12,L,72,73,,12,5,L 1,Allen Fieldhouse
-17,18,"Tue, Jan 16, 2018",9:00 pm/est,,REG,,Oklahoma (4),Big 12,W,87,69,,13,5,W 1,Bramlage Coliseum
-18,19,"Sat, Jan 20, 2018",4:00 pm/est,,REG,,Texas Christian (24),Big 12,W,73,68,,14,5,W 2,Bramlage Coliseum
-19,20,"Mon, Jan 22, 2018",9:00 pm/est,,REG,@,Baylor,Big 12,W,90,83,,15,5,W 3,Ferrell Center
-20,21,"Sat, Jan 27, 2018",2:00 pm/est,,REG,,Georgia,SEC,W,56,51,,16,5,W 4,Bramlage Coliseum
-21,22,"Mon, Jan 29, 2018",9:00 pm/est,,REG,,Kansas (7),Big 12,L,56,70,,16,6,L 1,Bramlage Coliseum
-22,23,"Sat, Feb 3, 2018",4:00 pm/est,,REG,@,West Virginia (15),Big 12,L,51,89,,16,7,L 2,WVU Coliseum
-23,24,"Wed, Feb 7, 2018",8:00 pm/est,,REG,@,Texas,Big 12,W,67,64,,17,7,W 1,Frank Erwin Center
-24,25,"Sat, Feb 10, 2018",8:00 pm/est,,REG,,Texas Tech (7),Big 12,L,47,66,,17,8,L 1,Bramlage Coliseum
-25,26,"Wed, Feb 14, 2018",7:00 pm/est,,REG,@,Oklahoma State,Big 12,W,82,72,,18,8,W 1,Gallagher-Iba Arena
-26,27,"Sat, Feb 17, 2018",1:00 pm/est,,REG,,Iowa State,Big 12,W,78,66,,19,8,W 2,Bramlage Coliseum
-27,28,"Wed, Feb 21, 2018",9:00 pm/est,,REG,,Texas,Big 12,W,58,48,,20,8,W 3,Bramlage Coliseum
-28,29,"Sat, Feb 24, 2018",6:00 pm/est,,REG,@,Oklahoma,Big 12,L,77,86,,20,9,L 1,Lloyd Noble Center
-29,30,"Tue, Feb 27, 2018",9:00 pm/est,,REG,@,Texas Christian,Big 12,L,59,66,,20,10,L 2,Ed & Rae Schollmaier Arena
-30,31,"Sat, Mar 3, 2018",2:00 pm/est,,REG,,Baylor,Big 12,W,77,67,,21,10,W 1,Bramlage Coliseum
-31,32,"Thu, Mar 8, 2018",12:30 pm/est,,CTOURN,N,Texas Christian,Big 12,W,66,64,OT,22,10,W 2,Sprint Center
-32,33,"Fri, Mar 9, 2018",7:00 pm/est,,CTOURN,N,Kansas (9),Big 12,L,67,83,,22,11,L 1,Sprint Center
-33,34,"Fri, Mar 16, 2018",6:50 pm/est,,NCAA,N,Creighton,Big East,,,,,,,,
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",8:00p,REG,,Kennesaw State,A-Sun,W,56,41,,1,0,W 1,Bramlage Coliseum
+1,2,"Mon, Nov 12, 2018",9:00p,REG,,Denver,Summit,W,64,56,,2,0,W 2,Bramlage Coliseum
+2,3,"Fri, Nov 16, 2018",7:30p,REG,N,Eastern Kentucky,OVC,W,95,68,,3,0,W 3,Virgin Islands Sport & Fitness Center 
+3,4,"Sun, Nov 18, 2018",7:30p,REG,N,Pennsylvania,Ivy,W,64,48,,4,0,W 4,Virgin Islands Sport & Fitness Center 
+4,5,"Mon, Nov 19, 2018",7:30p,REG,N,Missouri,SEC,W,82,67,,5,0,W 5,Virgin Islands Sport & Fitness Center 
+5,6,"Sat, Nov 24, 2018",4:30p,REG,,Lehigh,Patriot,W,77,58,,6,0,W 6,Bramlage Coliseum
+6,7,"Sat, Dec 1, 2018",2:30p,REG,@,Marquette,Big East,L,71,83,,6,1,L 1,Fiserv Forum
+7,8,"Sat, Dec 8, 2018",4:30p,REG,@,Tulsa,AAC,L,46,47,,6,2,L 2,Donald W. Reynolds Center
+8,9,"Sat, Dec 15, 2018",8:00p,REG,,Georgia State,Sun Belt,W,71,59,,7,2,W 1,Bramlage Coliseum
+9,10,"Wed, Dec 19, 2018",8:00p,REG,,Southern Mississippi,CUSA,W,55,51,,8,2,W 2,Bramlage Coliseum
+10,11,"Sat, Dec 22, 2018",7:00p,REG,N,Vanderbilt,SEC,W,69,58,,9,2,W 3,Sprint Center
+11,12,"Sat, Dec 29, 2018",8:00p,REG,,George Mason,A-10,W,59,58,,10,2,W 4,Bramlage Coliseum
+12,13,"Wed, Jan 2, 2019",9:00p,REG,,Texas,Big 12,L,47,67,,10,3,L 1,Bramlage Coliseum
+13,14,"Sat, Jan 5, 2019",2:00p,REG,@,Texas Tech (11),Big 12,L,57,63,,10,4,L 2,United Supermarkets Arena
+14,15,"Wed, Jan 9, 2019",7:00p,REG,,West Virginia,Big 12,W,71,69,,11,4,W 1,Bramlage Coliseum
+15,16,"Sat, Jan 12, 2019",12:00p,REG,@,Iowa State (20),Big 12,W,58,57,,12,4,W 2,James H. Hilton Coliseum 
+16,17,"Wed, Jan 16, 2019",7:00p,REG,@,Oklahoma (20),Big 12,W,74,61,,13,4,W 3,Lloyd Noble Center
+17,18,"Sat, Jan 19, 2019",4:00p,REG,,Texas Christian,Big 12,W,65,55,,14,4,W 4,Bramlage Coliseum
+18,19,"Tue, Jan 22, 2019",7:00p,REG,,Texas Tech (14),Big 12,W,58,45,,15,4,W 5,Bramlage Coliseum
+19,20,"Sat, Jan 26, 2019",2:00p,REG,@,Texas A&M,SEC,L,53,65,,15,5,L 1,Reed Arena
+20,21,"Sat, Feb 2, 2019",6:00p,REG,@,Oklahoma State,Big 12,W,75,57,,16,5,W 1,Gallagher-Iba Arena
+21,22,"Tue, Feb 5, 2019",9:00p,REG,,Kansas (13),Big 12,W,74,67,,17,5,W 2,Bramlage Coliseum
+22,23,"Sat, Feb 9, 2019",6:00p,REG,@,Baylor,Big 12,W,70,63,,18,5,W 3,Ferrell Center
+23,24,"Tue, Feb 12, 2019",9:00p,REG,@,Texas,Big 12,W,71,64,,19,5,W 4,Frank Erwin Center
+24,25,"Sat, Feb 16, 2019",4:00p,REG,,Iowa State (23),Big 12,L,64,78,,19,6,L 1,Bramlage Coliseum
+25,26,"Mon, Feb 18, 2019",9:00p,REG,@,West Virginia,Big 12,W,65,51,,20,6,W 1,WVU Coliseum
+26,27,"Sat, Feb 23, 2019",4:00p,REG,,Oklahoma State,Big 12,W,85,46,,21,6,W 2,Bramlage Coliseum
+27,28,"Mon, Feb 25, 2019",9:00p,REG,@,Kansas (15),Big 12,L,49,64,,21,7,L 1,Allen Fieldhouse
+28,29,"Sat, Mar 2, 2019",8:00p,REG,,Baylor,Big 12,W,66,60,,22,7,W 1,Bramlage Coliseum
+29,30,"Mon, Mar 4, 2019",9:00p,REG,@,Texas Christian,Big 12,W,64,52,,23,7,W 2,Ed & Rae Schollmaier Arena
+30,31,"Sat, Mar 9, 2019",6:00p,REG,,Oklahoma,Big 12,W,68,53,,24,7,W 3,Bramlage Coliseum
+31,32,"Thu, Mar 14, 2019",2:30p,CTOURN,N,Texas Christian,Big 12,W,70,61,,25,7,W 4,Sprint Center
+32,33,"Fri, Mar 15, 2019",7:00p,CTOURN,N,Iowa State,Big 12,L,59,63,,25,8,L 1,Sprint Center
+33,34,"Fri, Mar 22, 2019",2:00p,NCAA,N,UC-Irvine,Big West,,,,,,,,

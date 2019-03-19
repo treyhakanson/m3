@@ -1,17 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,James Palmer,24,JR,G,6-5,200,"Upper Marlboro, MD",St. John's College HS, 17.3 Pts,4.3 Reb,2.9 Ast
-1,Isaac Copeland,14,JR,F,6-9,220,"Raleigh, NC",Brewster Academy (NH), 12.8 Pts,6.2 Reb,1.2 Ast
-2,Glynn Watson Jr.,5,JR,G,6-0,160,"Bellwood, IL",St. Joseph HS, 10.5 Pts,3.3 Reb,3.3 Ast
-3,Isaiah Roby,15,SO,F,6-8,214,"Dixon, IL",Dixon High School, 8.7 Pts,6.2 Reb,1.7 Ast
-4,Anton Gill,13,SR,G,6-8,195,"Raleigh, NC",Ravenscroft/Hargrave Military Academy, 8.1 Pts,1.9 Reb,1.1 Ast
-5,Evan Taylor,11,SR,G,6-4,205,"Cincinnati, OH",Paul VI, 6.5 Pts,3.5 Reb,2.3 Ast
-6,Jordy Tshimanga,32,SO,C,6-11,275,Canada,MacDuffie School, 4.0 Pts,4.7 Reb,0.5 Ast
-7,Thomas Allen,12,FR,G,6-1,180,"Raleigh, NC",, 3.3 Pts,1.0 Reb,0.5 Ast
-8,Jack McVeigh,10,JR,F,6-7,210,Australia,Australian Institute of Sport, 1.9 Pts,1.1 Reb,0.1 Ast
-9,Duby Okeke,0,SR,C,6-8,230,"Jonesboro, GA",Jonesboro HS, 0.7 Pts,1.8 Reb,0.1 Ast
-10,Tanner Borchardt,20,JR,F,6-8,275,"Gothenburg, NE",Gothenburg HS, 0.9 Pts,1.8 Reb,0.1 Ast
-11,Thorir Thorbjarnarson,34,FR,G,6-5,194,Iceland,, 0.9 Pts,0.4 Reb,0.3 Ast
-12,Nana Akenten,25,FR,G,6-6,215,"Bolingbrook, IL",, 1.0 Pts,0.3 Reb,0.0 Ast
-13,Malcolm Laws,3,SR,G,6-1,195,"Orlando, FL",Lake Highland Prep, 0.2 Pts,0.0 Reb,0.0 Ast
-14,Johnny Trueblood,4,SO,G,6-4,195,"Omaha, NE",Elkhorn South HS, 0.1 Pts,0.4 Reb,0.1 Ast
-15,Justin Costello,33,,G,6-1,180,,,,,
+0,James Palmer,0,SR,G,6-6,207,"Washington, DC",St. John's College HS, 19.6 Pts,4.1 Reb,3.0 Ast
+1,Glynn Watson Jr.,5,SR,G,6-0,180,"Bellwood, IL",St. Joseph HS, 13.4 Pts,4.0 Reb,3.0 Ast
+2,Isaiah Roby,15,JR,F,6-8,230,"Dixon, IL",Dixon High School, 11.6 Pts,7.0 Reb,2.0 Ast
+3,Isaac Copeland,14,SR,F,6-9,225,"Raleigh, NC",Brewster Academy (NH), 14.0 Pts,5.4 Reb,1.1 Ast
+4,Thomas Allen,12,SO,G,6-1,184,"Raleigh, NC",Brewster Academy, 8.7 Pts,2.8 Reb,2.0 Ast
+5,Nana Akenten,25,SO,G,6-6,218,"Bolingbrook, IL",Bolingbrook High School, 4.3 Pts,2.5 Reb,0.3 Ast
+6,Tanner Borchardt,20,SR,F,6-8,250,"Gothenburg, NE",Gothenburg HS, 2.9 Pts,4.3 Reb,0.4 Ast
+7,Brady Heiman,45,FR,F,6-11,215,"Springfield, NE",Platteview HS, 1.9 Pts,1.8 Reb,0.1 Ast
+8,Amir Harris,1,FR,G,6-6,205,"Frederick, MD",St. James School, 2.2 Pts,2.5 Reb,0.7 Ast
+9,Thorir Thorbjarnarson,34,SO,G,6-6,206,"Reykjavik, Iceland",Menntaskolinn i Reykjavik, 1.8 Pts,2.0 Reb,1.0 Ast
+10,Johnny Trueblood,4,JR,G,6-3,194,"Omaha, NE",Elkhorn South HS, 1.5 Pts,2.0 Reb,0.9 Ast
+11,Justin Costello,33,FR,G,6-1,200,"Omaha, NE",Elkhorn South HS, 0.9 Pts,0.2 Reb,0.4 Ast
+12,Dachon Burke Jr.,11,JR,G,6-4,180,"Orange, NJ",Coastal Academy,,,
+13,Karrington Davis,10,FR,G,6-6,215,"St. Louis, MO",Montverde Academy,,,

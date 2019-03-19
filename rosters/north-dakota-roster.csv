@@ -1,16 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Geno Crandall,0,JR,G,6-2,170,"Minneapolis, MN",DeLaSalle HS, 16.6 Pts,4.4 Reb,3.6 Ast
-1,Marlon Stewart,1,SO,G,6-3,210,"Eldridge, IA",North Scott HS, 11.7 Pts,2.7 Reb,2.9 Ast
-2,Conner Avants,32,JR,F,6-7,220,"Edmond, OK",Deer Creek HS, 11.6 Pts,6.0 Reb,0.9 Ast
-3,Dale Jones,13,SR,F,6-8,220,"Waterloo, IA",Waterloo West (IA), 11.8 Pts,6.5 Reb,1.0 Ast
-4,Cortez Seales,15,JR,G,6-4,180,"Eldridge, IA",North Scott HS, 10.7 Pts,3.6 Reb,2.1 Ast
-5,Kienan Walter,23,SO,F,6-8,190,"Vancouver, WA",King's Way Christian School, 4.9 Pts,2.3 Reb,0.6 Ast
-6,Tray Buchanan,30,FR,G,6-1,180,"East Moline, IL",, 4.7 Pts,1.0 Reb,0.7 Ast
-7,Billy Brown,3,SO,G,6-3,175,"Spirit Lake, IA",Spirit Lake High School, 3.8 Pts,1.7 Reb,0.9 Ast
-8,Jafar Kinsey,11,,G,6-2,185,"Syracuse, NY",Jamesville-Dewitt, 1.9 Pts,1.0 Reb,0.4 Ast
-9,Garrett Franken,24,FR,F,6-7,195,"Atlantic, IA",, 0.8 Pts,0.8 Reb,0.0 Ast
-10,Jaqwan McCauley,10,JR,G,6-6,215,"High Point, NC",, 1.7 Pts,0.7 Reb,0.0 Ast
-11,Carter Brooks,22,,F,6-7,210,,, 3.0 Pts,2.0 Reb,0.0 Ast
-12,Josh Collins,2,,F,6-6,230,"Minneapolis, MN",DeLeSalle HS,,,
-13,Ethan Igbanugo,21,,G,6-2,185,,,,,
-14,Aanen Moody,5,,G,6-3,175,,,,,
+0,Cortez Seales,15,SR,G,6-4,190,"Eldridge, IA",North Scott HS, 14.0 Pts,4.8 Reb,3.1 Ast
+1,Aanen Moody,10,FR,G,6-3,175,"Dickinson, ND",Dickinson HS, 9.7 Pts,2.0 Reb,0.9 Ast
+2,Conner Avants,32,SR,F,6-7,235,"Edmond, OK",Deer Creek HS, 11.8 Pts,5.2 Reb,1.5 Ast
+3,Marlon Stewart,1,JR,G,6-3,200,"Rock Island, IL",North Scott HS, 14.3 Pts,3.0 Reb,3.8 Ast
+4,Filip Rebraca,12,SO,F,6-9,210,"Sombor, Serbia",, 8.0 Pts,5.9 Reb,0.6 Ast
+5,Kienan Walter,23,JR,F,6-9,195,"Vancouver, WA",King's Way Christian School, 8.0 Pts,5.1 Reb,1.6 Ast
+6,Billy Brown,3,JR,G,6-3,190,"Spirit Lake, IA",Spirit Lake High School, 6.9 Pts,2.9 Reb,1.7 Ast
+7,Bentiu Panoam,11,SO,G,6-2,150,"Anchorage, AK",, 3.6 Pts,1.3 Reb,0.9 Ast
+8,Elijah Hazekamp,24,FR,F,6-6,205,"Sioux City, IA",Bishop Heelan Catholic HS, 3.6 Pts,1.9 Reb,0.3 Ast
+9,Davids Atelbauers,4,FR,G,6-1,170,"Ogre, Latvia",, 2.5 Pts,0.8 Reb,0.9 Ast
+10,Ethan Igbanugo,21,FR,G,6-2,185,"Lakeville, MN",Lakeville North HS, 2.0 Pts,0.5 Reb,0.4 Ast
+11,Jal Bijiek,20,FR,F,6-7,165,"Des Moines, IA",Des Moines North HS, 1.9 Pts,1.2 Reb,0.1 Ast
+12,Marko Coudreau,13,FR,F,6-9,220,"Marseille, France",, 1.1 Pts,0.9 Reb,0.3 Ast
+13,Carter Brooks,22,SO,F,6-7,210,"Lakeville, MN",Lakeville North HS, 1.2 Pts,1.6 Reb,0.2 Ast
+14,Zac Sadler,5,SO,F,6-7,210,"New Braunfels, TX",, 1.1 Pts,1.7 Reb,0.3 Ast
+15,Lucas Schmidt,50,FR,C,6-10,235,"Watsonville, CA",Monte Vista Christian HS,,,

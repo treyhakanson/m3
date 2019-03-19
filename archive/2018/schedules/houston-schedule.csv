@@ -1,0 +1,35 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",8:00 pm/est,,REG,,McNeese State,Southland,W,81,53,,1,0,W 1,Health & Physical Education Arena
+1,2,"Fri, Nov 17, 2017",2:30 pm/est,,REG,N,Drexel,CAA,L,80,84,,1,1,L 1,Vines Center
+2,3,"Sat, Nov 18, 2017",12:00 pm/est,,REG,N,Liberty,Big South,W,68,66,,2,1,W 1,Vines Center
+3,4,"Sun, Nov 19, 2017",2:30 pm/est,,REG,N,Wake Forest,ACC,W,78,73,,3,1,W 2,Vines Center
+4,5,"Sat, Nov 25, 2017",8:00 pm/est,,REG,,Incarnate Word,Southland,W,97,58,,4,1,W 3,Health & Physical Education Arena
+5,6,"Wed, Nov 29, 2017",8:00 pm/est,,REG,,New Orleans,Southland,W,75,66,,5,1,W 4,Health & Physical Education Arena
+6,7,"Sat, Dec 2, 2017",7:30 pm/est,,REG,,Arkansas,SEC,W,91,65,,6,1,W 5,Health & Physical Education Arena
+7,8,"Wed, Dec 6, 2017",12:00 pm/est,,REG,,Fairfield,MAAC,W,88,66,,7,1,W 6,Health & Physical Education Arena
+8,9,"Sat, Dec 9, 2017",8:00 pm/est,,REG,@,Saint Louis,A-10,W,77,58,,8,1,W 7,Chaifetz Arena
+9,10,"Wed, Dec 13, 2017",9:00 pm/est,,REG,@,Louisiana State,SEC,L,77,80,,8,2,L 1,Maravich Assembly Center
+10,11,"Sun, Dec 17, 2017",4:00 pm/est,,REG,,Prairie View,SWAC,W,92,72,,9,2,W 1,Health & Physical Education Arena
+11,12,"Wed, Dec 20, 2017",6:30 pm/est,,REG,N,Providence,Big East,W,70,59,,10,2,W 2,Mohegan Sun Arena
+12,13,"Thu, Dec 28, 2017",7:00 pm/est,,REG,@,South Florida,AAC,W,79,60,,11,2,W 3,Sun Dome
+13,14,"Sat, Dec 30, 2017",6:00 pm/est,,REG,,Temple,AAC,W,76,73,,12,2,W 4,Health & Physical Education Arena
+14,15,"Thu, Jan 4, 2018",7:00 pm/est,,REG,@,Wichita State (9),AAC,L,63,81,,12,3,L 1,Charles Koch Arena
+15,16,"Thu, Jan 11, 2018",7:00 pm/est,,REG,,Tulsa,AAC,W,104,71,,13,3,W 1,Health & Physical Education Arena
+16,17,"Sun, Jan 14, 2018",2:00 pm/est,,REG,@,East Carolina,AAC,W,65,49,,14,3,W 2,Williams Arena at Minges Coliseum
+17,18,"Wed, Jan 17, 2018",8:00 pm/est,,REG,@,Tulane,AAC,L,72,81,,14,4,L 1,Devlin Fieldhouse
+18,19,"Sat, Jan 20, 2018",12:00 pm/est,,REG,,Wichita State (7),AAC,W,73,59,,15,4,W 1,Health & Physical Education Arena
+19,20,"Sun, Jan 28, 2018",3:00 pm/est,,REG,,South Florida,AAC,W,63,40,,16,4,W 2,Health & Physical Education Arena
+20,21,"Wed, Jan 31, 2018",7:00 pm/est,,REG,@,Cincinnati (8),AAC,L,70,80,,16,5,L 1,Bank of Kentucky Center
+21,22,"Sat, Feb 3, 2018",12:00 pm/est,,REG,@,Central Florida,AAC,W,69,65,,17,5,W 1,CFE Arena
+22,23,"Thu, Feb 8, 2018",9:00 pm/est,,REG,,Southern Methodist,AAC,W,67,58,,18,5,W 2,Health & Physical Education Arena
+23,24,"Sun, Feb 11, 2018",6:00 pm/est,,REG,,Tulane,AAC,W,73,42,,19,5,W 3,Health & Physical Education Arena
+24,25,"Thu, Feb 15, 2018",7:00 pm/est,,REG,,Cincinnati (5),AAC,W,67,62,,20,5,W 4,Health & Physical Education Arena
+25,26,"Sun, Feb 18, 2018",4:00 pm/est,,REG,@,Temple,AAC,W,80,59,,21,5,W 5,Liacouras Center
+26,27,"Thu, Feb 22, 2018",9:00 pm/est,,REG,@,Memphis,AAC,L,85,91,,21,6,L 1,FedExForum
+27,28,"Sun, Feb 25, 2018",3:00 pm/est,,REG,,East Carolina,AAC,W,109,58,,22,6,W 1,Health & Physical Education Arena
+28,29,"Wed, Feb 28, 2018",9:00 pm/est,,REG,@,Southern Methodist,AAC,W,69,56,,23,6,W 2,Moody Coliseum
+29,30,"Sun, Mar 4, 2018",4:00 pm/est,,REG,,Connecticut,AAC,W,81,71,,24,6,W 3,Health & Physical Education Arena
+30,31,"Fri, Mar 9, 2018",9:30 pm/est,,CTOURN,N,Central Florida,AAC,W,84,56,,25,6,W 4,
+31,32,"Sat, Mar 10, 2018",3:30 pm/est,,CTOURN,N,Wichita State (11),AAC,W,77,74,,26,6,W 5,
+32,33,"Sun, Mar 11, 2018",3:30 pm/est,,CTOURN,N,Cincinnati (8),AAC,L,55,56,,26,7,L 1,
+33,34,"Thu, Mar 15, 2018",7:20 pm/est,,NCAA,N,San Diego State,MWC,,,,,,,,

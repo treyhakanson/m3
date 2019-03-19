@@ -1,13 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Roberto Gallinat,,JR,G,6-3,180,"Atlanta, GA",, 14.6 Pts,2.8 Reb,1.2 Ast
-1,Miles Reynolds,3,JR,G,6-2,170,"Chicago, IL",Whitney Young HS, 13.3 Pts,2.6 Reb,2.8 Ast
-2,Jahlil Tripp,,SO,F,6-5,190,"Brooklyn, NY",, 10.9 Pts,7.8 Reb,4.5 Ast
-3,Jack Williams,11,JR,F,6-8,195,"Porter Ranch, CA",Chaminade, 8.5 Pts,5.9 Reb,0.9 Ast
-4,Anthony Townes,5,JR,F,6-6,215,"Modesto, CA",Modesto Christian HS, 7.9 Pts,4.1 Reb,0.3 Ast
-5,Lafayette Dorsey,,FR,G,6-1,170,"Los Angeles, CA",, 7.1 Pts,2.6 Reb,0.6 Ast
-6,Namdi Okonkwo,,SR,C,7-0,205,"Dallas, TX",Westwind Prep (AZ), 5.1 Pts,4.6 Reb,0.3 Ast
-7,Kendall Small,1,SO,G,6-0,170,"Lakewood, CA",Mayfair HS, 8.3 Pts,2.3 Reb,2.7 Ast
-8,Max Tinsley,14,JR,G,6-2,170,"Porter Ranch, CA",Chaminade HS, 1.1 Pts,0.4 Reb,0.2 Ast
-9,Otto Taylor,,FR,G,6-2,170,"San Diego, CA",, 0.2 Pts,0.2 Reb,0.3 Ast
-10,Khy Kabellis,,,G,6-3,170,"Escondido, CA",Escondido HS, 0.0 Pts,0.0 Reb,0.0 Ast
-11,TySean Powell,25,,F,6-8,215,"Twinsburg, OH",IMG Academy (FL),,,
+0,Roberto Gallinat,4,SR,G,6-3,180,"Atlanta, GA",South Gwinnett High School, 15.2 Pts,3.1 Reb,0.6 Ast
+1,Lafayette Dorsey,1,SO,G,6-1,170,"Los Angeles, CA",Susan Miller Dorsey High School, 10.7 Pts,2.8 Reb,1.0 Ast
+2,Jahlil Tripp,0,JR,F,6-5,190,"Brooklyn, NY",Lincoln High School, 10.6 Pts,5.8 Reb,3.1 Ast
+3,Anthony Townes,5,SR,F,6-6,215,"Modesto, CA",Modesto Christian HS, 7.5 Pts,5.5 Reb,0.2 Ast
+4,Jeremiah Bailey,13,SO,F,6-6,203,"Fairbanks, AK",, 5.8 Pts,3.0 Reb,0.5 Ast
+5,Ajare Sanni,14,FR,G,6-2,158,"Houston, TX",Clear Lake HS, 8.6 Pts,1.4 Reb,1.2 Ast
+6,Khy Kabellis,11,JR,G,6-5,185,"Escondido, CA",Escondido HS, 4.1 Pts,1.4 Reb,1.0 Ast
+7,Kendall Small,25,JR,G,6-0,182,"Lakewood, CA",Mayfair HS, 2.7 Pts,1.1 Reb,1.3 Ast
+8,Zach Cameron,35,JR,F,6-10,207,"Sacramento, CA",Parkview High School, 2.5 Pts,3.6 Reb,0.3 Ast
+9,Jahbril Price-Noel,22,FR,G,6-7,202,"Scarborough, Canada",Southwest Christian Academy, 3.1 Pts,2.0 Reb,1.3 Ast
+10,Brandon McGhee,10,JR,G,6-3,190,"Oakland, CA",, 2.0 Pts,2.0 Reb,1.2 Ast
+11,Jade Brahmbhatt,20,FR,G,5-11,150,"Olney, MD",Bethesda Chevy Chase HS, 0.0 Pts,0.0 Reb,0.0 Ast
+12,Andre Smith,12,JR,G,6-0,175,"St. Paul, MN",, 0.0 Pts,0.0 Reb,0.0 Ast
+13,Amari McCray,2,JR,C,6-9,304,"Ruston, LA",,,,

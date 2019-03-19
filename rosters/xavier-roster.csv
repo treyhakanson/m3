@@ -1,14 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Trevon Bluiett,5,SR,G,6-6,215,"Indianapolis, IN",Park Tudor HS, 19.5 Pts,5.7 Reb,2.5 Ast
-1,J.P. Macura,55,SR,G,6-5,190,"Lakeville, MN",North HS, 12.2 Pts,4.4 Reb,3.0 Ast
-2,Kerem Kanter,11,SR,F,6-9,245,Turkey,IMG Academy, 10.4 Pts,4.5 Reb,0.5 Ast
-3,Quentin Goodin,3,SO,G,6-4,194,"Campbellsville, KY",Taylor County High School, 8.8 Pts,3.0 Reb,4.9 Ast
-4,Naji Marshall,13,FR,F,6-7,218,"Atlantic City, NJ",, 8.1 Pts,4.4 Reb,1.7 Ast
-5,Kaiser Gates,22,JR,F,6-8,205,"Alpharetta, GA",St. Francis HS, 7.4 Pts,4.6 Reb,0.9 Ast
-6,Sean O'Mara,54,,F,6-10,247,"Glen Ellyn, IL",Benet Academy, 7.1 Pts,3.3 Reb,1.0 Ast
-7,Tyrique Jones,0,SO,F,6-9,243,"Bloomfield, CT",Vermont Academy, 7.0 Pts,4.5 Reb,0.4 Ast
-8,Paul Scruggs,1,FR,G,6-3,207,"Indianapolis, IN",, 4.8 Pts,2.0 Reb,1.7 Ast
-9,Elias Harden,4,FR,G,6-5,187,"East Point, GA",, 0.7 Pts,0.2 Reb,0.4 Ast
-10,Leighton Schrand,10,SO,G,6-0,155,"Villa Hills, KY",Holy Cross High School, 0.0 Pts,0.0 Reb,0.0 Ast
-11,Matt Singleton,20,SR,F,6-7,215,"Garrett, IN",, 0.0 Pts,0.0 Reb,0.0 Ast
-12,Nick Vanderpohl,12,FR,G,6-1,170,"Harrison, OH",, 0.0 Pts,0.0 Reb,0.3 Ast
+0,Naji Marshall,13,SO,F,6-7,222,"Atlantic City, NJ",Hargrave Military Academy, 14.4 Pts,6.7 Reb,3.4 Ast
+1,Paul Scruggs,1,SO,G,6-3,200,"Indianapolis, IN",Prolific Prep, 12.6 Pts,5.0 Reb,3.3 Ast
+2,Zach Hankins,35,SR,F,6-11,245,"Charlevoix, MI",, 10.7 Pts,5.3 Reb,1.0 Ast
+3,Tyrique Jones,0,JR,F,6-9,235,"Bloomfield, CT",Vermont Academy, 10.9 Pts,7.6 Reb,0.8 Ast
+4,Quentin Goodin,3,JR,G,6-4,194,"Campbellsville, KY",Taylor County High School, 10.9 Pts,3.1 Reb,4.8 Ast
+5,Ryan Welage,32,SR,F,6-10,205,"Greensburg, IN",Greensburg HS, 7.0 Pts,1.9 Reb,0.7 Ast
+6,Kyle Castlin,2,SR,G,6-4,193,"Marietta, GA",Hillgrove HS, 4.4 Pts,3.4 Reb,0.8 Ast
+7,Elias Harden,4,SO,G,6-5,187,"East Point, GA",Pebblebrook High School, 2.7 Pts,0.7 Reb,0.4 Ast
+8,Keonte Kennedy,11,FR,G,6-5,187,"Aurora, CO",Austin Westlake HS, 2.1 Pts,1.5 Reb,0.6 Ast
+9,Dontarius James,12,FR,F,6-7,210,"Kershaw, SC",Huntington Prep, 0.3 Pts,0.4 Reb,0.1 Ast
+10,Leighton Schrand,10,JR,G,6-1,170,"Villa Hills, KY",Holy Cross High School, 0.0 Pts,0.0 Reb,0.2 Ast
+11,A.J. Frazier,22,,F,6-3,214,"Tucker, GA",Chamblee Charter HS,,,
+12,Myles Hanson,34,SO,G,6-7,215,"Chaska, MN",Chaska High School,,,
+13,Ramon Singh,20,,G,6-4,170,"Sydney, Australia",La Lumiere School,,,
+14,Zak Swetye,21,,G,6-1,170,"Darien, CT",Darien HS,,,
+15,Nick Vanderpohl,14,SO,G,6-1,180,"Harrison, OH",Harrison High School,,,

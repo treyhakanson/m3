@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:00p,REG,@,Montana State,Big Sky,W,101,71,,1,0,W 1,Max Worthington Arena
+1,2,"Fri, Nov 9, 2018",9:00p,REG,,Hartford,AEC,W,100,73,,2,0,W 2,Dee Glen Smith Spectrum
+2,3,"Tue, Nov 13, 2018",9:00p,REG,,Mississippi Valley State,SWAC,W,94,59,,3,0,W 3,Dee Glen Smith Spectrum
+3,4,"Fri, Nov 16, 2018",9:00p,REG,,Utah Valley,WAC,W,65,46,,4,0,W 4,Dee Glen Smith Spectrum
+4,5,"Mon, Nov 19, 2018",8:30p,REG,N,Saint Mary's (CA),WCC,W,80,63,,5,0,W 5,T-Mobile Arena
+5,6,"Wed, Nov 21, 2018",11:00p,REG,N,Arizona State,Pac-12,L,82,87,,5,1,L 1,T-Mobile Arena
+6,7,"Wed, Nov 28, 2018",9:00p,REG,,Northern Iowa,MVC,W,71,52,,6,1,W 1,Dee Glen Smith Spectrum
+7,8,"Sat, Dec 1, 2018",10:00p,REG,@,UC-Irvine,Big West,W,89,65,,7,1,W 2,Bren Events Center
+8,9,"Wed, Dec 5, 2018",9:00p,REG,@,Brigham Young,WCC,L,80,95,,7,2,L 1,Marriott Center
+9,10,"Sat, Dec 8, 2018",4:30p,REG,N,Weber State,Big Sky,W,76,67,,8,2,W 1,Vivint Smart Home Arena
+10,11,"Sat, Dec 15, 2018",9:00p,REG,,Alabama State,SWAC,W,86,48,,9,2,W 2,Dee Glen Smith Spectrum
+11,12,"Thu, Dec 20, 2018",8:00p,REG,@,Houston (21),AAC,L,50,60,,9,3,L 1,Hofheinz Pavilion
+12,13,"Fri, Dec 28, 2018",9:00p,REG,,Eastern Oregon,,W,84,57,,10,3,W 1,Dee Glen Smith Spectrum
+13,14,"Wed, Jan 2, 2019",11:00p,REG,@,Nevada (6),MWC,L,49,72,,10,4,L 1,Lawlor Events Center
+14,15,"Sat, Jan 5, 2019",9:00p,REG,,Air Force,MWC,W,79,62,,11,4,W 1,Dee Glen Smith Spectrum
+15,16,"Wed, Jan 9, 2019",9:00p,REG,,Fresno State,MWC,L,77,78,,11,5,L 1,Dee Glen Smith Spectrum
+16,17,"Sat, Jan 12, 2019",6:00p,REG,@,Wyoming,MWC,W,71,55,,12,5,W 1,Arena-Auditorium
+17,18,"Wed, Jan 16, 2019",10:00p,REG,@,San Jose State,MWC,W,81,63,,13,5,W 2,San Jose State Event Center
+18,19,"Sat, Jan 19, 2019",9:00p,REG,,Colorado State,MWC,W,87,72,,14,5,W 3,Dee Glen Smith Spectrum
+19,20,"Sat, Jan 26, 2019",4:00p,REG,@,New Mexico,MWC,W,68,66,,15,5,W 4,The Pit
+20,21,"Wed, Jan 30, 2019",9:00p,REG,,San Jose State,MWC,W,103,73,,16,5,W 5,Dee Glen Smith Spectrum
+21,22,"Sat, Feb 2, 2019",4:30p,REG,,Nevada-Las Vegas,MWC,W,82,65,,17,5,W 6,Dee Glen Smith Spectrum
+22,23,"Tue, Feb 5, 2019",10:30p,REG,@,Fresno State,MWC,W,82,81,,18,5,W 7,Save Mart Center
+23,24,"Sat, Feb 9, 2019",10:00p,REG,@,San Diego State,MWC,L,63,68,,18,6,L 1,Viejas Arena
+24,25,"Wed, Feb 13, 2019",9:00p,REG,,Wyoming,MWC,W,76,59,,19,6,W 1,Dee Glen Smith Spectrum
+25,26,"Sat, Feb 16, 2019",4:00p,REG,@,Air Force,MWC,W,76,62,,20,6,W 2,Clune Arena 
+26,27,"Wed, Feb 20, 2019",11:00p,REG,,New Mexico,MWC,W,71,55,,21,6,W 3,Dee Glen Smith Spectrum
+27,28,"Sat, Feb 23, 2019",4:00p,REG,@,Boise State,MWC,W,78,71,OT,22,6,W 4,Taco Bell Arena
+28,29,"Tue, Feb 26, 2019",9:30p,REG,,San Diego State,MWC,W,70,54,,23,6,W 5,Dee Glen Smith Spectrum
+29,30,"Sat, Mar 2, 2019",8:30p,REG,,Nevada (12),MWC,W,81,76,,24,6,W 6,Dee Glen Smith Spectrum
+30,31,"Tue, Mar 5, 2019",9:00p,REG,@,Colorado State,MWC,W,100,96,OT,25,6,W 7,Moby Arena
+31,32,"Thu, Mar 14, 2019",9:00p,CTOURN,N,New Mexico,MWC,W,91,83,,26,6,W 8,Thomas & Mack Center
+32,33,"Fri, Mar 15, 2019",11:30p,CTOURN,N,Fresno State,MWC,W,85,60,,27,6,W 9,Thomas & Mack Center
+33,34,"Sat, Mar 16, 2019",6:00p,CTOURN,N,San Diego State,MWC,W,64,57,,28,6,W 10,Thomas & Mack Center
+34,35,"Fri, Mar 22, 2019",6:50p,NCAA,N,Washington,Pac-12,,,,,,,,

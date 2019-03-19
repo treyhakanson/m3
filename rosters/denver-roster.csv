@@ -1,16 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Joe Rosga,2,JR,G,6-3,185,"St. Paul, MN",Cretin-Derham Hall HS, 16.1 Pts,4.1 Reb,2.9 Ast
-1,Daniel Amigo,44,SR,C,6-10,250,"El Paso, TX",Coronado HS, 15.3 Pts,6.6 Reb,1.5 Ast
-2,Jake Pemberton,5,SR,G,6-3,170,"Highlands Ranch, CO",Mountain Vista HS, 11.1 Pts,3.3 Reb,2.8 Ast
-3,Ade Murkey,0,SO,G,6-5,200,"Minneapolis, MN",St. Crois Lutherna High School, 7.5 Pts,4.2 Reb,2.8 Ast
-4,Jake Krafka,11,SO,F,6-7,215,"Austin, TX",Jack C. Hays High School, 5.4 Pts,5.5 Reb,2.1 Ast
-5,Christian Mackey,24,SR,C,6-6,270,"Kirtland, NM",Kirkland HS, 3.8 Pts,2.5 Reb,0.2 Ast
-6,Elvin Rodriguez,3,FR,G,6-1,180,"Harlem, NY",, 4.3 Pts,1.2 Reb,0.7 Ast
-7,Jake Holtzmann,10,JR,G,6-6,190,"Parker, CO",Chaparral HS, 3.6 Pts,1.5 Reb,1.1 Ast
-8,Donoven Carlisle,30,FR,F,6-8,210,"Indianapolis, IN",, 2.3 Pts,2.8 Reb,0.1 Ast
-9,Luke Neff,12,SO,G,6-0,155,"Arvada, CO",Arvada West High School, 2.5 Pts,0.7 Reb,0.4 Ast
-10,Abiola Akintola,32,JR,F,6-6,195,Australia,Australian Institute of Sport, 1.9 Pts,2.2 Reb,0.4 Ast
-11,Thomas Neff,15,,G,6-5,195,"Arvada, CO",Arvada West HS, 2.5 Pts,0.9 Reb,0.7 Ast
-12,Emil Knighton,25,JR,F,6-6,205,"Parker, CO",Ponderosa HS, 0.7 Pts,0.3 Reb,0.1 Ast
-13,Elijah Blake,1,,G,6-2,175,,, 4.0 Pts,1.0 Reb,0.0 Ast
-14,Drew Joiner,14,,G,6-3,175,,,,,
+0,Ronnie Harrell,25,SR,G,6-7,200,"Denver, CO",East HS, 12.9 Pts,5.5 Reb,2.0 Ast
+1,Ade Murkey,0,JR,G,6-5,200,"Minneapolis, MN",St. Crois Lutherna High School, 11.3 Pts,3.6 Reb,2.1 Ast
+2,Joe Rosga,2,SR,G,6-3,185,"St. Paul, MN",Cretin-Derham Hall HS, 12.0 Pts,2.8 Reb,2.4 Ast
+3,David Nzekwesi,1,FR,F,6-9,240,"Fort Worth, TX",Byron Nelson HS, 8.1 Pts,3.1 Reb,0.2 Ast
+4,Jase Townsend,3,FR,G,6-3,175,"Dallas, TX",Skyline HS, 6.3 Pts,2.0 Reb,1.2 Ast
+5,Donoven Carlisle,30,SO,F,6-8,210,"Indianapolis, IN",Arlington High School, 4.8 Pts,5.0 Reb,0.9 Ast
+6,Tory Stewart-Miller,14,SR,F,6-9,245,"Kansas City, KS",New Hampton Prep, 8.2 Pts,5.2 Reb,0.6 Ast
+7,Abiola Akintola,32,SR,F,6-6,220,"Melbourne, Australia",Australian Institute of Sport, 3.7 Pts,3.9 Reb,0.4 Ast
+8,Elvin Rodriguez,5,SO,G,6-1,180,"Harlem, NY",Forest Trail Academy, 3.7 Pts,1.3 Reb,0.8 Ast
+9,Taelyr Gatlin,4,FR,G,6-3,180,"Atoka, TN",Brighton HS, 3.2 Pts,1.2 Reb,1.4 Ast
+10,Alperen Kurnaz,12,FR,F,6-8,220,"Istanbul, Turkey",St. Mary's Ryken HS, 2.5 Pts,2.6 Reb,0.4 Ast
+11,Joseph Lanzi,10,FR,G,6-5,195,"Birmingham, AL",Hillcrest Prep, 2.3 Pts,1.1 Reb,0.7 Ast
+12,Jake Krafka,11,JR,F,6-7,225,"Austin, TX",Jack C. Hays High School, 4.3 Pts,3.3 Reb,0.7 Ast
+13,Drew Joiner,20,SR,G,6-3,175,"Centennial, CO",Grandview HS, 0.6 Pts,0.6 Reb,0.1 Ast

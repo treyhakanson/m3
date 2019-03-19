@@ -1,0 +1,35 @@
+,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,,Presbyterian,Big South,W,88,53,,1,0,W 1,Thompson-Boling Arena
+1,2,"Tue, Nov 14, 2017",7:00 pm/est,,REG,,High Point,Big South,W,84,53,,2,0,W 2,Thompson-Boling Arena
+2,3,"Wed, Nov 22, 2017",12:00 pm/est,,REG,N,Purdue (18),Big Ten,W,78,75,OT,3,0,W 3,Imperial Arena at Atlantis Resort
+3,4,"Thu, Nov 23, 2017",12:30 pm/est,,REG,N,Villanova (5),Big East,L,76,85,,3,1,L 1,Imperial Arena at Atlantis Resort
+4,5,"Fri, Nov 24, 2017",2:30 pm/est,,REG,N,North Carolina State,ACC,W,67,58,,4,1,W 1,Imperial Arena at Atlantis Resort
+5,6,"Wed, Nov 29, 2017",7:00 pm/est,,REG,,Mercer,Southern,W,84,60,,5,1,W 2,Thompson-Boling Arena
+6,7,"Sun, Dec 3, 2017",6:00 pm/est,,REG,@,Georgia Tech,ACC,W,77,70,,6,1,W 3,McCamish Pavilion
+7,8,"Sat, Dec 9, 2017",2:15 pm/est,,REG,,Lipscomb,A-Sun,W,81,71,,7,1,W 4,Thompson-Boling Arena
+8,9,"Sun, Dec 17, 2017",3:00 pm/est,,REG,,North Carolina (7),ACC,L,73,78,,7,2,L 1,Thompson-Boling Arena
+9,10,"Wed, Dec 20, 2017",9:00 pm/est,,REG,,Furman,Southern,W,66,61,,8,2,W 1,Thompson-Boling Arena
+10,11,"Sat, Dec 23, 2017",12:30 pm/est,,REG,@,Wake Forest,ACC,W,79,60,,9,2,W 2,Lawrence Joel Coliseum
+11,12,"Sat, Dec 30, 2017",1:00 pm/est,,REG,@,Arkansas,SEC,L,93,95,OT,9,3,L 1,Bud Walton Arena
+12,13,"Tue, Jan 2, 2018",7:00 pm/est,,REG,,Auburn,SEC,L,84,94,,9,4,L 2,Thompson-Boling Arena
+13,14,"Sat, Jan 6, 2018",9:00 pm/est,,REG,,Kentucky (17),SEC,W,76,65,,10,4,W 1,Thompson-Boling Arena
+14,15,"Tue, Jan 9, 2018",9:00 pm/est,,REG,@,Vanderbilt,SEC,W,92,84,,11,4,W 2,Memorial Gymnasium
+15,16,"Sat, Jan 13, 2018",6:00 pm/est,,REG,,Texas A&M,SEC,W,75,62,,12,4,W 3,Thompson-Boling Arena
+16,17,"Wed, Jan 17, 2018",9:00 pm/est,,REG,@,Missouri,SEC,L,55,59,,12,5,L 1,Mizzou Arena
+17,18,"Sat, Jan 20, 2018",6:00 pm/est,,REG,@,South Carolina,SEC,W,70,63,,13,5,W 1,The Colonial Life Arena
+18,19,"Tue, Jan 23, 2018",7:00 pm/est,,REG,,Vanderbilt,SEC,W,67,62,,14,5,W 2,Thompson-Boling Arena
+19,20,"Sat, Jan 27, 2018",4:00 pm/est,,REG,@,Iowa State,Big 12,W,68,45,,15,5,W 3,James H. Hilton Coliseum 
+20,21,"Wed, Jan 31, 2018",6:30 pm/est,,REG,,Louisiana State,SEC,W,84,61,,16,5,W 4,Thompson-Boling Arena
+21,22,"Sat, Feb 3, 2018",6:00 pm/est,,REG,,Mississippi,SEC,W,94,61,,17,5,W 5,Thompson-Boling Arena
+22,23,"Tue, Feb 6, 2018",7:00 pm/est,,REG,@,Kentucky (24),SEC,W,61,59,,18,5,W 6,Rupp Arena
+23,24,"Sat, Feb 10, 2018",6:00 pm/est,,REG,@,Alabama,SEC,L,50,78,,18,6,L 1,Coleman Coliseum 
+24,25,"Tue, Feb 13, 2018",9:00 pm/est,,REG,,South Carolina,SEC,W,70,67,,19,6,W 1,Thompson-Boling Arena
+25,26,"Sat, Feb 17, 2018",6:00 pm/est,,REG,@,Georgia,SEC,L,62,73,,19,7,L 1,Stegeman Coliseum
+26,27,"Wed, Feb 21, 2018",9:00 pm/est,,REG,,Florida,SEC,W,62,57,,20,7,W 1,Thompson-Boling Arena
+27,28,"Sat, Feb 24, 2018",1:00 pm/est,,REG,@,Mississippi,SEC,W,73,65,,21,7,W 2,The Pavilion at Ole Miss
+28,29,"Tue, Feb 27, 2018",7:00 pm/est,,REG,@,Mississippi State,SEC,W,76,54,,22,7,W 3,Humphrey Coliseum
+29,30,"Sat, Mar 3, 2018",6:00 pm/est,,REG,,Georgia,SEC,W,66,61,,23,7,W 4,Thompson-Boling Arena
+30,31,"Fri, Mar 9, 2018",7:00 pm/est,,CTOURN,N,Mississippi State,SEC,W,62,59,,24,7,W 5,Scottrade Center
+31,32,"Sat, Mar 10, 2018",3:00 pm/est,,CTOURN,N,Arkansas,SEC,W,84,66,,25,7,W 6,Scottrade Center
+32,33,"Sun, Mar 11, 2018",1:00 pm/est,,CTOURN,N,Kentucky,SEC,L,72,77,,25,8,L 1,Scottrade Center
+33,34,"Thu, Mar 15, 2018",12:40 pm/est,,NCAA,N,Wright State,Horizon,,,,,,,,

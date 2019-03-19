@@ -1,17 +1,14 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Malcolm Drumwright,21,SR,G,6-3,165,"Rancho Cucamonga, CA",Rancho Cucamonga HS, 12.5 Pts,2.4 Reb,3.6 Ast
-1,Jason Burnell,14,JR,F,6-7,220,"Deland, FL",, 10.9 Pts,5.9 Reb,1.7 Ast
-2,Marlon Hunter,23,JR,G,6-2,195,"Memphis, TN",Houston HS, 10.6 Pts,3.5 Reb,1.1 Ast
-3,Jamall Gregory,0,JR,G,6-4,180,"Washington, DC",Coolidge HS, 8.8 Pts,3.5 Reb,3.2 Ast
-4,Norbertas Giga,12,SR,F,6-10,245,Lithuania,Saint Benedict's Preparatory School, 8.3 Pts,6.2 Reb,1.7 Ast
-5,Christian Cunningham,31,JR,F,6-6,200,"Albuquerque, NM",Cibola High School, 7.7 Pts,7.0 Reb,0.5 Ast
-6,Ashton Spears,34,SO,G,6-2,175,"Independence, LA",Believe Prep, 3.9 Pts,1.9 Reb,1.0 Ast
-7,Cam Martin,30,FR,F,6-9,230,"Yukon, OK",, 4.1 Pts,2.6 Reb,0.7 Ast
-8,Maurice Dunlap,1,JR,G,6-2,170,"Greenwood, MS",Amanda Elzy, 2.9 Pts,1.0 Reb,1.0 Ast
-9,Tyrik Edwards,3,SO,G,5-10,165,"Hopkinsville, KY",Christian County High School, 2.0 Pts,1.5 Reb,1.0 Ast
-10,Jacara Cross,11,SO,F,6-8,250,"Lithonia, GA",Lithonia High School, 1.9 Pts,1.4 Reb,0.4 Ast
-11,Mohamed Abuarisha,2,SO,G,6-7,200,Israel,ELEVI8 Sports Institute, 0.8 Pts,0.5 Reb,0.2 Ast
-12,Des Curry,5,SR,G,6-0,180,"Jacksonville, AL",Jacksonville HS, 0.5 Pts,0.0 Reb,0.1 Ast
-13,Deon Wright,4,,G,6-0,165,,, 0.8 Pts,0.0 Reb,0.0 Ast
-14,Ty Hudson,44,,G,6-1,200,"Mableton, GA",Pebblebrook HS,,,
-15,Detrick Mostella,13,,G,6-1,175,"Decatur, AL",La Lumiere (IN),,,
+0,Jason Burnell,14,SR,F,6-7,220,"DeLand, FL",Providence School, 17.1 Pts,9.6 Reb,3.1 Ast
+1,Marlon Hunter,23,SR,G,6-3,195,"Panama City, FL",Houston HS, 12.7 Pts,3.9 Reb,0.8 Ast
+2,Ty Hudson,4,JR,G,6-1,200,"Baton Rouge, LA",Pebblebrook HS, 9.8 Pts,2.7 Reb,2.7 Ast
+3,Jamall Gregory,0,SR,G,6-3,202,"Washington, DC",Coolidge HS, 9.4 Pts,4.0 Reb,1.9 Ast
+4,Christian Cunningham,31,SR,F,6-7,215,"Albuquerque, NM",Cibola High School, 8.2 Pts,7.6 Reb,0.8 Ast
+5,Detrick Mostella,2,SR,G,6-1,175,"Decatur, AL",La Lumiere (IN), 8.9 Pts,2.3 Reb,1.7 Ast
+6,Jacara Cross,11,JR,F,6-8,240,"Atlanta, GA",Lithonia High School, 4.1 Pts,2.1 Reb,0.4 Ast
+7,De'Torrion Ware,33,FR,G,6-4,200,"Hopkinsville, KY",Christian County HS, 5.3 Pts,1.4 Reb,0.3 Ast
+8,Derek St. Hilaire,15,SO,G,5-11,180,"Atlanta, GA",, 3.3 Pts,1.4 Reb,0.9 Ast
+9,Maurice Dunlap,10,SR,G,6-2,175,"Greenwood, MS",Amanda Elzy, 2.5 Pts,1.5 Reb,1.7 Ast
+10,Maros Zeliznak,3,FR,C,6-11,250,"Kosice, Slovakia",Get Better Academy, 1.8 Pts,1.6 Reb,0.1 Ast
+11,Jacob Hyde,5,JR,G,6-3,195,"Gadsden, AL",, 0.3 Pts,0.9 Reb,0.2 Ast
+12,Cam Jones,1,FR,G,6-6,190,"Memphis, TN",Whitehaven HS, 1.0 Pts,0.0 Reb,0.0 Ast

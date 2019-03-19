@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",6:30p,REG,,Rider,MAAC,W,84,70,,1,0,W 1,CFE Arena
+1,2,"Sun, Nov 11, 2018",3:00p,REG,,Florida Atlantic,CUSA,L,79,80,,1,1,L 1,CFE Arena
+2,3,"Thu, Nov 15, 2018",1:30p,REG,N,Cal State Fullerton,Big West,W,68,52,,2,1,W 1,The HTC Center
+3,4,"Fri, Nov 16, 2018",1:30p,REG,N,Saint Joseph's,A-10,W,77,57,,3,1,W 2,The HTC Center
+4,5,"Sun, Nov 18, 2018",6:30p,REG,N,Western Kentucky,CUSA,W,78,62,,4,1,W 3,The HTC Center
+5,6,"Sat, Nov 24, 2018",6:00p,REG,,Northern Kentucky,Horizon,W,66,53,,5,1,W 4,CFE Arena
+6,7,"Thu, Nov 29, 2018",7:00p,REG,,Alabama,SEC,W,70,64,,6,1,W 5,CFE Arena
+7,8,"Sun, Dec 2, 2018",3:00p,REG,@,Missouri,SEC,L,62,64,OT,6,2,L 1,Mizzou Arena
+8,9,"Sat, Dec 8, 2018",1:00p,REG,,Grambling,SWAC,W,70,45,,7,2,W 1,CFE Arena
+9,10,"Tue, Dec 11, 2018",7:00p,REG,,Georgia Southern,Sun Belt,W,95,88,,8,2,W 2,CFE Arena
+10,11,"Sun, Dec 16, 2018",3:00p,REG,,Stetson,A-Sun,W,90,65,,9,2,W 3,CFE Arena
+11,12,"Fri, Dec 21, 2018",7:00p,REG,,Illinois State,MVC,W,77,56,,10,2,W 4,CFE Arena
+12,13,"Wed, Jan 2, 2019",7:00p,REG,,Temple,AAC,W,78,73,,11,2,W 5,CFE Arena
+13,14,"Sat, Jan 5, 2019",12:00p,REG,@,Connecticut,AAC,W,65,53,,12,2,W 6,XL Center
+14,15,"Sun, Jan 13, 2019",4:00p,REG,,East Carolina,AAC,W,76,65,,13,2,W 7,CFE Arena
+15,16,"Wed, Jan 16, 2019",10:00p,REG,@,Wichita State,AAC,L,67,75,,13,3,L 1,Charles Koch Arena
+16,17,"Sat, Jan 19, 2019",12:00p,REG,,Tulsa,AAC,W,64,62,,14,3,W 1,CFE Arena
+17,18,"Wed, Jan 23, 2019",8:00p,REG,@,Tulane,AAC,W,75,50,,15,3,W 2,Devlin Fieldhouse
+18,19,"Sun, Jan 27, 2019",4:00p,REG,@,Memphis,AAC,L,57,77,,15,4,L 1,FedExForum
+19,20,"Thu, Jan 31, 2019",9:00p,REG,,Connecticut,AAC,W,73,67,,16,4,W 1,CFE Arena
+20,21,"Thu, Feb 7, 2019",7:00p,REG,,Houston (12),AAC,L,68,77,,16,5,L 1,CFE Arena
+21,22,"Sun, Feb 10, 2019",2:00p,REG,@,Southern Methodist,AAC,W,71,65,,17,5,W 1,Moody Coliseum
+22,23,"Wed, Feb 13, 2019",7:00p,REG,,South Florida,AAC,W,78,65,,18,5,W 2,CFE Arena
+23,24,"Sat, Feb 16, 2019",6:00p,REG,,Memphis,AAC,W,79,72,,19,5,W 3,CFE Arena
+24,25,"Thu, Feb 21, 2019",7:00p,REG,@,Cincinnati,AAC,L,55,60,,19,6,L 1,Fifth Third Arena
+25,26,"Sun, Feb 24, 2019",12:00p,REG,,Southern Methodist,AAC,W,95,48,,20,6,W 1,CFE Arena
+26,27,"Wed, Feb 27, 2019",7:00p,REG,@,South Florida,AAC,W,75,63,,21,6,W 2,Sun Dome
+27,28,"Sat, Mar 2, 2019",4:00p,REG,@,Houston (8),AAC,W,69,64,,22,6,W 3,Hofheinz Pavilion
+28,29,"Thu, Mar 7, 2019",7:00p,REG,,Cincinnati (20),AAC,W,58,55,,23,6,W 4,CFE Arena
+29,30,"Sat, Mar 9, 2019",4:00p,REG,@,Temple,AAC,L,62,67,,23,7,L 1,Liacouras Center
+30,31,"Fri, Mar 15, 2019",2:00p,CTOURN,N,Memphis,AAC,L,55,79,,23,8,L 2,FedExForum
+31,32,"Fri, Mar 22, 2019",9:50p,NCAA,N,Virginia Commonwealth,A-10,,,,,,,,

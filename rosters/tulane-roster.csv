@@ -1,17 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Melvin Frazier,35,JR,G,6-5,200,"Avondale, LA",L.W. Higgins HS, 15.9 Pts,5.6 Reb,2.9 Ast
-1,Cameron Reynolds,5,SR,G,6-7,195,"Pearland, TX",Pearland HS, 15.1 Pts,6.3 Reb,2.2 Ast
-2,Samir Sehic,21,SO,F,6-9,247,"Cypress, TX",Cy Woods HS, 10.5 Pts,5.2 Reb,0.8 Ast
-3,Jordan Cornish,0,JR,G,6-6,220,"New Orleans, LA",Brother Martin HS, 9.9 Pts,3.2 Reb,3.3 Ast
-4,Ray Ona Embo,3,SO,G,6-5,185,France,Quality Education Academy, 10.1 Pts,3.2 Reb,3.3 Ast
-5,Caleb Daniels,10,FR,G,6-4,205,"New Orleans, LA",, 6.4 Pts,2.2 Reb,1.5 Ast
-6,Blake Paul,23,JR,F,6-9,230,"New Orleans, LA",Landry-Walker HS, 3.3 Pts,3.1 Reb,0.8 Ast
-7,Colin Slater,14,SO,G,6-1,185,"New Orleans, LA",Clovis East High School, 2.7 Pts,0.8 Reb,1.0 Ast
-8,Bul Ajang,11,FR,F,6-10,225,Sudan,, 0.8 Pts,1.5 Reb,0.3 Ast
-9,Shakwon Barrett,24,FR,G,6-5,180,Canada,, 0.4 Pts,0.1 Reb,0.7 Ast
-10,Buay Koka,13,FR,C,7-0,200,South Sudan,, 0.4 Pts,1.7 Reb,0.0 Ast
-11,Jackson Johnson,2,JR,G,5-10,165,"Ponte Vedra Beach, FL",, 0.3 Pts,0.7 Reb,0.0 Ast
-12,Riley Conroy,4,JR,G,5-11,175,"New Orleans, LA",Jesuit HS, 0.0 Pts,0.2 Reb,0.0 Ast
-13,Cameron Galic,32,,F,6-6,205,,, 0.0 Pts,0.5 Reb,0.0 Ast
-14,Sammis Reyes,12,JR,F,6-7,240,Chile,North Broward Preparatory School, 0.0 Pts,1.0 Reb,0.0 Ast
-15,Bernard Woodside,30,,G,6-0,185,"Tampa, FL",Tampa Preparatory School,,,
+0,Caleb Daniels,10,SO,G,6-4,205,"New Orleans, LA",St. Augustine High School, 16.9 Pts,5.3 Reb,3.3 Ast
+1,Samir Sehic,21,JR,F,6-9,235,"Cypress, TX",Cy Woods HS, 12.4 Pts,7.7 Reb,0.8 Ast
+2,Jordan Cornish,0,SR,G,6-6,225,"New Orleans, LA",Brother Martin HS, 9.4 Pts,3.8 Reb,4.1 Ast
+3,Connor Crabtree,5,FR,G,6-6,190,"Hillsborough, NC",Hargrave Military Academy, 7.1 Pts,2.0 Reb,1.1 Ast
+4,Kevin Zhang,12,FR,G,6-9,215,"Shenyang, China",Montverde Academy, 6.5 Pts,2.4 Reb,0.8 Ast
+5,Shakwon Barrett,24,FR,G,6-5,180,"Toronto, Canada",Canada Tech Academy, 4.7 Pts,1.8 Reb,2.5 Ast
+6,Moses Wood,4,FR,G,6-8,190,"Reno, NV",Galena HS, 4.5 Pts,3.1 Reb,0.9 Ast
+7,Blake Paul,23,SR,F,6-9,250,"New Orleans, LA",Landry-Walker HS, 4.8 Pts,4.4 Reb,0.9 Ast
+8,Buay Koka,13,FR,C,7-0,200,"Nasir, South Sudan",St. Patrick High School, 3.7 Pts,2.6 Reb,0.1 Ast
+9,Bul Ajang,11,SO,F,6-10,225,"Jonglei, South Sudan",The Patrick School, 1.4 Pts,2.2 Reb,0.4 Ast
+10,Grant Quinn,15,SO,G,6-5,195,"Lewisville, TX",Liberty Christian HS, 0.5 Pts,0.0 Reb,0.0 Ast
+11,Cameron Galic,32,SO,G,6-6,205,"Bethesda, MD",Bethesda-Chevy Chase High School, 0.2 Pts,0.3 Reb,0.1 Ast
+12,Ray Ona Embo,3,JR,G,6-5,195,,Quality Education Academy,,,
+13,Jordan Walker,2,SO,G,5-11,170,"Port Washington, NY",The Patrick School,,,

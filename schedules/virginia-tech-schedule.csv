@@ -1,34 +1,34 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Fri, Nov 10, 2017",6:00 pm/est,,REG,,Detroit Mercy,Horizon,W,111,79,,1,0,W 1,Cassell Coliseum
-1,2,"Sun, Nov 12, 2017",7:00 pm/est,,REG,,Citadel,Southern,W,132,93,,2,0,W 2,Cassell Coliseum
-2,3,"Thu, Nov 16, 2017",7:00 pm/est,,REG,N,Saint Louis,A-10,L,71,77,,2,1,L 1,Madison Square Garden (IV)
-3,4,"Fri, Nov 17, 2017",5:00 pm/est,,REG,N,Washington,Pac-12,W,103,79,,3,1,W 1,Madison Square Garden (IV)
-4,5,"Tue, Nov 21, 2017",7:00 pm/est,,REG,,Houston Baptist,Southland,W,99,73,,4,1,W 2,Cassell Coliseum
-5,6,"Sat, Nov 25, 2017",1:00 pm/est,,REG,,Morehead State,OVC,W,96,63,,5,1,W 3,Cassell Coliseum
-6,7,"Tue, Nov 28, 2017",9:00 pm/est,,REG,,Iowa,Big Ten,W,79,55,,6,1,W 4,Cassell Coliseum
-7,8,"Sat, Dec 2, 2017",2:00 pm/est,,REG,@,Mississippi,SEC,W,83,80,OT,7,1,W 5,The Pavilion at Ole Miss
-8,9,"Wed, Dec 6, 2017",6:00 pm/est,,REG,,Radford,Big South,W,95,68,,8,1,W 6,Cassell Coliseum
-9,10,"Sun, Dec 10, 2017",3:00 pm/est,,REG,,Maryland-Eastern Shore,MEAC,W,93,40,,9,1,W 7,Cassell Coliseum
-10,11,"Sat, Dec 16, 2017",2:00 pm/est,,REG,@,Kentucky (8),SEC,L,86,93,,9,2,L 1,Rupp Arena
-11,12,"Tue, Dec 19, 2017",7:00 pm/est,,REG,,Presbyterian,Big South,W,63,55,,10,2,W 1,Cassell Coliseum
-12,13,"Thu, Dec 28, 2017",12:00 pm/est,,REG,,North Carolina A&T,MEAC,W,76,59,,11,2,W 2,Cassell Coliseum
-13,14,"Sun, Dec 31, 2017",6:00 pm/est,,REG,@,Syracuse,ACC,L,56,68,,11,3,L 1,Carrier Dome
-14,15,"Wed, Jan 3, 2018",9:00 pm/est,,REG,,Virginia (8),ACC,L,52,78,,11,4,L 2,Cassell Coliseum
-15,16,"Sat, Jan 6, 2018",12:00 pm/est,,REG,,Pittsburgh,ACC,W,81,67,,12,4,W 1,Cassell Coliseum
-16,17,"Wed, Jan 10, 2018",7:00 pm/est,,REG,@,Wake Forest,ACC,W,83,75,,13,4,W 2,Lawrence Joel Coliseum
-17,18,"Sat, Jan 13, 2018",4:00 pm/est,,REG,@,Louisville,ACC,L,86,94,,13,5,L 1,KFC Yum! Center
-18,19,"Sat, Jan 20, 2018",12:00 pm/est,,REG,,Florida State,ACC,L,82,91,,13,6,L 2,Cassell Coliseum
-19,20,"Mon, Jan 22, 2018",7:00 pm/est,,REG,,North Carolina (10),ACC,W,80,69,,14,6,W 1,Cassell Coliseum
-20,21,"Sat, Jan 27, 2018",8:00 pm/est,,REG,@,Notre Dame,ACC,W,80,75,,15,6,W 2,Purcell Pavilion at the Joyce Center
-21,22,"Wed, Jan 31, 2018",9:00 pm/est,,REG,@,Boston College,ACC,W,85,80,OT,16,6,W 3,Silvio O. Conte Forum
-22,23,"Sat, Feb 3, 2018",2:00 pm/est,,REG,,Miami (FL),ACC,L,75,84,,16,7,L 1,Cassell Coliseum
-23,24,"Wed, Feb 7, 2018",9:00 pm/est,,REG,,North Carolina State,ACC,W,85,75,,17,7,W 1,Cassell Coliseum
-24,25,"Sat, Feb 10, 2018",6:15 pm/est,,REG,@,Virginia (2),ACC,W,61,60,OT,18,7,W 2,John Paul Jones Arena
-25,26,"Wed, Feb 14, 2018",7:00 pm/est,,REG,@,Duke (12),ACC,L,52,74,,18,8,L 1,Cameron Indoor Stadium
-26,27,"Sat, Feb 17, 2018",12:00 pm/est,,REG,@,Georgia Tech,ACC,W,76,56,,19,8,W 1,McCamish Pavilion
-27,28,"Wed, Feb 21, 2018",7:00 pm/est,,REG,,Clemson (15),ACC,W,65,58,,20,8,W 2,Cassell Coliseum
-28,29,"Sat, Feb 24, 2018",1:00 pm/est,,REG,,Louisville,ACC,L,68,75,,20,9,L 1,Cassell Coliseum
-29,30,"Mon, Feb 26, 2018",7:00 pm/est,,REG,,Duke (5),ACC,W,64,63,,21,9,W 1,Cassell Coliseum
-30,31,"Sat, Mar 3, 2018",12:00 pm/est,,REG,@,Miami (FL),ACC,L,68,69,,21,10,L 1,BankUnited Center
-31,32,"Wed, Mar 7, 2018",7:00 pm/est,,CTOURN,N,Notre Dame,ACC,L,65,71,,21,11,L 2,Barclays Center
-32,33,"Thu, Mar 15, 2018",9:20 pm/est,,NCAA,N,Alabama,SEC,,,,,,,,
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",7:00p,REG,,Gardner-Webb,Big South,W,87,59,,1,0,W 1,Cassell Coliseum
+1,2,"Thu, Nov 15, 2018",11:30a,REG,N,Ball State,MAC,W,73,64,,2,0,W 2,TD Arena
+2,3,"Fri, Nov 16, 2018",11:00a,REG,N,Northeastern,CAA,W,88,60,,3,0,W 3,TD Arena
+3,4,"Sun, Nov 18, 2018",8:30p,REG,N,Purdue (23),Big Ten,W,89,83,,4,0,W 4,TD Arena
+4,5,"Sat, Nov 24, 2018",1:00p,REG,,Saint Francis (PA),NEC,W,75,37,,5,0,W 5,Cassell Coliseum
+5,6,"Tue, Nov 27, 2018",7:00p,REG,@,Penn State,Big Ten,L,62,63,,5,1,L 1,Bryce Jordan Center
+6,7,"Sat, Dec 1, 2018",5:00p,REG,,Central Connecticut State,NEC,W,94,40,,6,1,W 1,Cassell Coliseum
+7,8,"Wed, Dec 5, 2018",7:00p,REG,,Virginia Military Institute,Southern,W,89,68,,7,1,W 2,Cassell Coliseum
+8,9,"Sun, Dec 9, 2018",1:00p,REG,,South Carolina State,MEAC,W,81,44,,8,1,W 3,Cassell Coliseum
+9,10,"Sat, Dec 15, 2018",7:00p,REG,N,Washington,Pac-12,W,73,61,,9,1,W 4,
+10,11,"Wed, Dec 19, 2018",7:00p,REG,,North Carolina A&T,MEAC,W,82,60,,10,1,W 5,Cassell Coliseum
+11,12,"Fri, Dec 28, 2018",7:00p,REG,,Maryland-Eastern Shore,MEAC,W,85,40,,11,1,W 6,Cassell Coliseum
+12,13,"Tue, Jan 1, 2019",1:00p,REG,,Notre Dame,ACC,W,81,66,,12,1,W 7,Cassell Coliseum
+13,14,"Sat, Jan 5, 2019",12:00p,REG,,Boston College,ACC,W,77,66,,13,1,W 8,Cassell Coliseum
+14,15,"Wed, Jan 9, 2019",7:00p,REG,@,Georgia Tech,ACC,W,52,49,,14,1,W 9,McCamish Pavilion
+15,16,"Tue, Jan 15, 2019",8:00p,REG,@,Virginia (4),ACC,L,59,81,,14,2,L 1,John Paul Jones Arena
+16,17,"Sat, Jan 19, 2019",4:00p,REG,,Wake Forest,ACC,W,87,71,,15,2,W 1,Cassell Coliseum
+17,18,"Mon, Jan 21, 2019",7:00p,REG,@,North Carolina (11),ACC,L,82,103,,15,3,L 1,Dean Smith Center
+18,19,"Sat, Jan 26, 2019",8:00p,REG,,Syracuse,ACC,W,78,56,,16,3,W 1,Cassell Coliseum
+19,20,"Wed, Jan 30, 2019",7:00p,REG,@,Miami (FL),ACC,W,82,70,,17,3,W 2,BankUnited Center
+20,21,"Sat, Feb 2, 2019",12:00p,REG,@,North Carolina State (23),ACC,W,47,24,,18,3,W 3,PNC Arena
+21,22,"Mon, Feb 4, 2019",7:00p,REG,,Louisville (16),ACC,L,64,72,,18,4,L 1,Cassell Coliseum
+22,23,"Sat, Feb 9, 2019",12:00p,REG,@,Clemson,ACC,L,51,59,,18,5,L 2,Littlejohn Coliseum
+23,24,"Wed, Feb 13, 2019",8:00p,REG,,Georgia Tech,ACC,W,76,68,,19,5,W 1,Cassell Coliseum
+24,25,"Sat, Feb 16, 2019",4:30p,REG,@,Pittsburgh,ACC,W,70,64,,20,5,W 2,Petersen Events Center
+25,26,"Mon, Feb 18, 2019",7:00p,REG,,Virginia (3),ACC,L,58,64,,20,6,L 1,Cassell Coliseum
+26,27,"Sat, Feb 23, 2019",4:00p,REG,@,Notre Dame,ACC,W,67,59,,21,6,W 1,Purcell Pavilion at the Joyce Center
+27,28,"Tue, Feb 26, 2019",7:00p,REG,,Duke (3),ACC,W,77,72,,22,6,W 2,Cassell Coliseum
+28,29,"Tue, Mar 5, 2019",7:00p,REG,@,Florida State (14),ACC,L,64,73,OT,22,7,L 1,Donald L. Tucker Center
+29,30,"Fri, Mar 8, 2019",7:00p,REG,,Miami (FL),ACC,W,84,70,,23,7,W 1,Cassell Coliseum
+30,31,"Wed, Mar 13, 2019",2:00p,CTOURN,N,Miami (FL),ACC,W,71,56,,24,7,W 2,Spectrum Center
+31,32,"Thu, Mar 14, 2019",2:30p,CTOURN,N,Florida State (12),ACC,L,63,65,OT,24,8,L 1,Spectrum Center
+32,33,"Fri, Mar 22, 2019",9:57p,NCAA,N,Saint Louis,A-10,,,,,,,,

@@ -1,16 +1,14 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Victor Sanders,11,SR,G,6-5,195,"Portland, OR",Jefferson HS, 19.0 Pts,3.5 Reb,3.3 Ast
-1,Brayon Blake,4,SR,F,6-7,220,"Seattle, WA",Garfield High School, 17.0 Pts,9.6 Reb,1.2 Ast
-2,Nate Sherwood,23,JR,F,6-8,235,"Albany, OR",West Albany HS, 9.5 Pts,4.7 Reb,1.7 Ast
-3,Perrion Callandret,1,SR,G,6-2,180,"Bothell, WA",Bothel HS, 9.6 Pts,3.4 Reb,3.0 Ast
-4,Jordan Scott,44,SR,F,6-6,200,"Colorado Springs, CO",Lewis-Palmer HS, 5.5 Pts,5.2 Reb,1.6 Ast
-5,Arkadiy Mkrtychyan,21,SR,F,6-7,235,"Portland, OR",Columbia Christian HS, 6.4 Pts,3.6 Reb,1.0 Ast
-6,Chad Sherwood,14,SR,G,6-2,180,"Albany, OR",West Albany HS, 5.0 Pts,1.7 Reb,1.7 Ast
-7,Trevon Allen,25,SO,G,6-2,180,"Lapwai, ID",Calrkston High School, 4.1 Pts,1.9 Reb,1.5 Ast
-8,Scott Blakney,34,FR,F,6-9,,"Prosser, WA",, 1.0 Pts,0.9 Reb,0.1 Ast
-9,Geno West,13,FR,G,6-2,,"Portland, OR",, 1.2 Pts,0.4 Reb,0.5 Ast
-10,Garrett Kingman,,FR,G,6-6,,"Gig Harbor, WA",, 0.8 Pts,1.3 Reb,0.2 Ast
-11,Chance Garvin,12,FR,G,6-4,170,"Coulee Dam, WA",Lake Roosevelt High School, 0.3 Pts,0.3 Reb,0.0 Ast
-12,Losini Kamara,3,,G,6-3,,,,,,
-13,Jared Rodriguez,20,,F,6-8,,,,,,
-14,Cassius Smits-Francisco,31,,F,6-9,,,,,,
+0,Trevon Allen,25,JR,G,6-2,180,"Lapwai, ID",Calrkston High School, 14.0 Pts,4.2 Reb,3.1 Ast
+1,Cameron Tyson,5,FR,G,6-3,185,"Bothell, WA",Bothell HS, 13.5 Pts,1.9 Reb,0.8 Ast
+2,Jared Rodriguez,20,FR,F,6-8,180,"Glendale, AZ",Mountain Ridge HS, 11.2 Pts,6.5 Reb,1.0 Ast
+3,Scott Blakney,34,SO,F,6-9,225,"Prosser, WA",Prosser High School, 7.5 Pts,4.7 Reb,0.7 Ast
+4,Geno West,13,SO,G,6-2,160,"Portland, OR",Jefferson High School, 5.5 Pts,1.6 Reb,1.7 Ast
+5,Rayquawndis Mitchell,0,FR,G,6-4,180,"Blaine, MN",Blaine HS, 4.4 Pts,1.8 Reb,1.2 Ast
+6,Xavier Smith,11,SO,G,6-4,180,"Seattle, WA",O'Dea High School, 3.5 Pts,1.4 Reb,1.6 Ast
+7,Cassius Smits-Francisco,31,FR,F,6-9,230,"Cave Creek, AZ",Cactus Shadows HS, 3.4 Pts,3.8 Reb,0.4 Ast
+8,Khadim Samb,24,FR,F,6-6,185,"Marietta, GA",Sprayberry HS, 4.0 Pts,2.4 Reb,0.5 Ast
+9,Marquell Fraser,15,JR,G,6-4,200,"Hamilton, Canada",Mountain Mission High School, 9.6 Pts,6.5 Reb,3.1 Ast
+10,Chance Garvin,12,SO,G,6-4,180,"Coulee Dam, WA",Lake Roosevelt High School, 1.8 Pts,1.2 Reb,1.2 Ast
+11,Losini Kamara,3,FR,G,6-3,180,"Brooklyn Park, MN",Park Center HS, 1.3 Pts,1.9 Reb,1.1 Ast
+12,Nate Sherwood,14,SR,PF,6-8,210,"Albany, OR",West Albany HS,,,

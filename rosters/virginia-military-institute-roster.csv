@@ -1,16 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Bubba Parham,23,FR,G,5-11,155,"Snellville, GA",, 14.6 Pts,3.4 Reb,2.5 Ast
-1,Austin Vereen,0,JR,G,6-4,190,"Washington, DC",Maret High School, 10.4 Pts,4.7 Reb,1.0 Ast
-2,Tyler Creammer,25,SO,F,6-10,245,"Parkton, NC",The Miller school of Albermarle, 7.1 Pts,5.4 Reb,0.6 Ast
-3,Keith Smith,1,SO,G,6-2,170,"Danville, CA",Montverde Academy, 7.0 Pts,2.4 Reb,3.1 Ast
-4,Jordan Ratliffe,11,FR,G,6-0,188,"Marston, NC",, 7.3 Pts,2.4 Reb,0.7 Ast
-5,Garrett Gilkeson,2,SO,G,6-4,200,"Parkersburg, WV",Parkersburg High School, 5.7 Pts,4.0 Reb,1.3 Ast
-6,Greg Parham,5,FR,G,6-4,160,"Richmond, VA",, 3.1 Pts,1.1 Reb,1.3 Ast
-7,Myles Lewis,15,FR,F,6-5,181,"Ashburn, VA",, 3.5 Pts,1.8 Reb,0.2 Ast
-8,Sarju Patel,31,FR,G,6-3,170,"Daleville, VA",, 2.7 Pts,1.2 Reb,0.5 Ast
-9,Will Miller,24,SO,F,6-8,210,"South Boston, VA",Halifax County High School, 2.8 Pts,1.5 Reb,0.3 Ast
-10,Fred Iruafemi,4,SR,F,6-6,205,"Raleigh, NC",Middle Creek HS, 2.4 Pts,3.7 Reb,0.4 Ast
-11,Tragen Fahl,3,FR,F,6-8,180,"Virginia Beach, VA",, 0.7 Pts,0.3 Reb,0.0 Ast
-12,Ta'Vonne Bond,12,,G,6-0,163,,, 0.4 Pts,0.1 Reb,0.4 Ast
-13,Armani Branch,21,,F,6-6,205,"Hampton, VA",Genesis Academy,,,
-14,Kuony Deng,10,,F,6-6,190,,John Champe High School,,,
+0,Bubba Parham,3,SO,G,5-11,155,"Snellville, GA",Brookwood High School, 21.4 Pts,3.4 Reb,3.5 Ast
+1,Garrett Gilkeson,2,JR,G,6-4,200,"Parkersburg, WV",Parkersburg High School, 10.8 Pts,6.2 Reb,2.8 Ast
+2,Myles Lewis,15,SO,F,6-5,181,"Ashburn, VA",Middleburg Academy, 10.6 Pts,5.0 Reb,1.1 Ast
+3,Sarju Patel,31,SO,G,6-3,170,"Daleville, VA",Tilton School, 10.2 Pts,3.6 Reb,1.3 Ast
+4,Greg Parham,5,SO,G,6-4,160,"Richmond, VA",Monacan High School, 7.1 Pts,2.3 Reb,2.4 Ast
+5,Jake Stephens,34,FR,C,6-8,230,"Bunker Hill, WV",Musselman HS, 7.0 Pts,3.5 Reb,1.1 Ast
+6,Tyler Creammer,25,JR,F,6-10,245,"Parkton, NC",The Miller school of Albermarle, 5.5 Pts,5.4 Reb,0.7 Ast
+7,Connor Arnold,21,FR,F,6-7,205,"Knoxville, TN",Grace Christian HS, 2.3 Pts,1.1 Reb,0.2 Ast
+8,Ta'Vonne Bond,12,SO,G,6-0,163,"Columbia, SC",Irmo High School, 1.6 Pts,0.9 Reb,0.7 Ast
+9,Will Miller,24,FR,F,6-8,210,"South Boston, VA",Halifax County High School, 1.6 Pts,1.0 Reb,0.7 Ast
+10,Tragen Fahl,1,SO,F,6-8,180,"Virginia Beach, VA",Atlantic Shores Christian School, 0.9 Pts,0.5 Reb,0.0 Ast
+11,Rafael Jenkins,4,FR,G,6-0,160,"Charlotte, NC",United Faith Christian HS,,,
+12,Jordan Ratliffe,11,SO,G,6-0,188,"Marston, NC",Village Christian Academy,,,
+13,Austin Vereen,0,SR,G,6-4,190,"Washington, DC",Maret High School,,,

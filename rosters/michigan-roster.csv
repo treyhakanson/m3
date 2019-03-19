@@ -1,18 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Moritz Wagner,13,JR,F,6-10,210,Germany,Alba Berlin, 14.5 Pts,7.1 Reb,0.8 Ast
-1,Muhammad-Ali Abdur-Rahkman,12,SR,G,6-4,175,"Allentown, PA",Central Catholic HS, 12.6 Pts,3.9 Reb,3.3 Ast
-2,Charles Matthews,1,JR,G,6-6,189,"Chicago, IL",St. rita HS, 12.6 Pts,5.4 Reb,2.6 Ast
-3,Duncan Robinson,22,SR,G,6-8,190,"New Castle, NH",Phillips Exeter Academy (NH), 9.6 Pts,2.6 Reb,1.1 Ast
-4,Zavier Simpson,3,SO,G,6-0,185,"Lima, OH",, 7.5 Pts,3.1 Reb,3.6 Ast
-5,Jordan Poole,2,FR,G,6-4,190,"Milwaukee, WI",, 6.5 Pts,1.4 Reb,0.6 Ast
-6,Isaiah Livers,4,FR,F,6-7,230,"Kalamazoo, MI",, 3.9 Pts,2.3 Reb,0.5 Ast
-7,Jon Teske,15,SO,C,7-1,245,"Medina, OH",Medina High School, 3.6 Pts,3.5 Reb,0.4 Ast
-8,Eli Brooks,55,FR,G,6-0,170,"Spring Grove, PA",, 2.0 Pts,1.2 Reb,1.1 Ast
-9,Ibi Watson,23,SO,G,6-5,190,"Pickerington, OH",Pickerington High School Central, 2.4 Pts,0.8 Reb,0.4 Ast
-10,Jaaron Simmons,5,SR,G,6-1,175,"Dayton, OH",Archbishop Alter, 1.5 Pts,0.7 Reb,1.1 Ast
-11,Austin Davis,51,SO,F,6-10,240,"Onsted, MI",, 1.3 Pts,1.6 Reb,0.0 Ast
-12,Brent Hibbitts,0,JR,F,6-8,190,"Hudsonville, MI",Hudsonville HS, 1.8 Pts,0.6 Reb,0.2 Ast
-13,C.J. Baird,,FR,F,6-5,220,"Novi, MI",, 1.0 Pts,0.0 Reb,0.5 Ast
-14,Naji Ozeir,25,FR,F,6-8,225,"Novi, MI",, 1.0 Pts,0.5 Reb,0.0 Ast
-15,Rico Ozuna-Harrison,,,G,5-11,165,,, 0.0 Pts,1.0 Reb,0.0 Ast
-16,Luke Wilson,11,FR,G,6-0,165,"Boulder, CO",, 0.0 Pts,0.0 Reb,0.0 Ast
+0,Ignas Brazdeikis,13,FR,F,6-7,215,"Mono, Canada",Orangeville Prep, 15.1 Pts,5.2 Reb,0.9 Ast
+1,Jordan Poole,2,SO,G,6-5,195,"Milwaukee, WI",La Lumiere School, 12.8 Pts,3.0 Reb,2.2 Ast
+2,Charles Matthews,1,SR,G,6-6,205,"Chicago, IL",St. rita HS, 12.0 Pts,4.8 Reb,1.5 Ast
+3,Jon Teske,15,JR,C,7-1,260,"Medina, OH",Medina High School, 9.6 Pts,6.9 Reb,0.9 Ast
+4,Zavier Simpson,3,JR,G,6-0,190,"Lima, OH",Lima Senior High School, 9.2 Pts,4.9 Reb,6.6 Ast
+5,Isaiah Livers,4,SO,F,6-7,235,"Kalamazoo, MI",Kalamazoo Central High School, 8.1 Pts,4.0 Reb,0.8 Ast
+6,Eli Brooks,55,SO,G,6-1,185,"Spring Grove, PA",Spring Grove High School, 2.5 Pts,1.1 Reb,1.2 Ast
+7,Austin Davis,51,JR,F,6-10,245,"Onsted, MI",Onsted High School, 1.1 Pts,0.8 Reb,0.1 Ast
+8,Colin Castleton,11,FR,F,6-11,210,"Daytona Beach, FL",Father Lopez Catholic HS, 1.3 Pts,1.3 Reb,0.1 Ast
+9,Brandon Johns Jr,23,FR,F,6-8,225,"East Lansing, MI",East Lansing HS, 0.8 Pts,1.2 Reb,0.0 Ast
+10,David Dejulius,0,FR,G,6-0,190,"Detroit, MI",East English Village HS, 0.6 Pts,0.5 Reb,0.2 Ast
+11,C.J. Baird,24,SO,F,6-5,220,"Novi, MI",Detroit Catholic Central High School, 0.5 Pts,0.1 Reb,0.0 Ast
+12,Adrien Nunez,5,FR,G,6-6,205,"Brooklyn, NY",St. Thomas More Prep, 0.2 Pts,0.3 Reb,0.0 Ast
+13,Rico Ozuna-Harrison,14,SO,G,5-11,170,"Detroit, MI",Cass Technical High School, 0.0 Pts,0.0 Reb,0.0 Ast
+14,Luke Wilson,32,SO,G,6-0,170,"Boulder, CO",Boulder High School, 0.0 Pts,0.2 Reb,0.0 Ast
+15,Jaron Faulds,44,SO,F,6-10,225,"Holt, MI",Holt High School,,,

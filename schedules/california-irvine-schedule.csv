@@ -1,0 +1,37 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,,Idaho,Big Sky,W,86,68,,1,0,W 1,Bren Events Center
+1,2,"Fri, Nov 9, 2018",9:30p,REG,@,Texas A&M,SEC,W,74,73,,2,0,W 2,Reed Arena
+2,3,"Mon, Nov 12, 2018",10:00p,REG,,Life Pacific,,W,87,53,,3,0,W 3,Bren Events Center
+3,4,"Thu, Nov 15, 2018",10:00p,REG,@,Santa Clara,WCC,W,61,49,,4,0,W 4,Leavey Center
+4,5,"Mon, Nov 19, 2018",1:30p,REG,N,Texas-San Antonio,CUSA,W,65,56,,5,0,W 5,Germain Arena
+5,6,"Tue, Nov 20, 2018",5:00p,REG,N,Tulane,AAC,W,67,55,,6,0,W 6,Germain Arena
+6,7,"Wed, Nov 21, 2018",7:30p,REG,N,Toledo,MAC,L,60,67,,6,1,L 1,Germain Arena
+7,8,"Wed, Nov 28, 2018",10:00p,REG,@,Saint Mary's (CA),WCC,W,80,75,,7,1,W 1,McKeon Pavilion
+8,9,"Sat, Dec 1, 2018",10:00p,REG,,Utah State,MWC,L,65,89,,7,2,L 1,Bren Events Center
+9,10,"Wed, Dec 5, 2018",10:00p,REG,@,California Baptist,WAC,W,69,66,,8,2,W 1,CBU Events Center
+10,11,"Sat, Dec 8, 2018",10:00p,REG,,Montana,Big Sky,W,60,51,,9,2,W 2,Bren Events Center
+11,12,"Sat, Dec 15, 2018",10:00p,REG,,Denver,Summit,W,86,52,,10,2,W 3,Bren Events Center
+12,13,"Wed, Dec 19, 2018",7:00p,REG,@,Eastern Michigan,MAC,W,52,48,,11,2,W 4,Convocation Center
+13,14,"Fri, Dec 21, 2018",6:30p,REG,@,Butler,Big East,L,54,71,,11,3,L 1,Hinkle Fieldhouse
+14,15,"Sat, Dec 29, 2018",10:00p,REG,@,Pacific,WCC,L,75,84,OT,11,4,L 2,A.G. Spanos Center
+15,16,"Thu, Jan 3, 2019",10:00p,REG,,Texas-Rio Grande Valley,WAC,W,85,74,,12,4,W 1,Bren Events Center
+16,17,"Thu, Jan 10, 2019",10:00p,REG,,UC-Davis,Big West,W,71,69,OT,13,4,W 2,Bren Events Center
+17,18,"Sat, Jan 12, 2019",9:00p,REG,@,Cal State Fullerton,Big West,W,63,46,,14,4,W 3,Titan Gym
+18,19,"Wed, Jan 16, 2019",10:00p,REG,,Long Beach State,Big West,L,70,80,,14,5,L 1,Bren Events Center
+19,20,"Sat, Jan 19, 2019",6:00p,REG,@,Cal State Northridge,Big West,W,74,68,,15,5,W 1,The Matadome
+20,21,"Wed, Jan 23, 2019",11:59p,REG,@,Hawaii,Big West,W,75,74,OT,16,5,W 2,Stan Sheriff Center
+21,22,"Sat, Jan 26, 2019",10:00p,REG,,UC-Riverside,Big West,W,82,64,,17,5,W 3,Bren Events Center
+22,23,"Thu, Jan 31, 2019",11:00p,REG,@,UC-Santa Barbara,Big West,W,66,62,OT,18,5,W 4,The Thunderdome
+23,24,"Sat, Feb 2, 2019",10:00p,REG,@,Long Beach State,Big West,W,82,80,,19,5,W 5,The Walter Pyramid
+24,25,"Wed, Feb 6, 2019",10:00p,REG,,Cal State Fullerton,Big West,W,60,53,,20,5,W 6,Bren Events Center
+25,26,"Sat, Feb 9, 2019",10:00p,REG,,Hawaii,Big West,W,67,56,,21,5,W 7,Bren Events Center
+26,27,"Sat, Feb 16, 2019",11:59p,REG,,UC-Santa Barbara,Big West,W,83,70,,22,5,W 8,Bren Events Center
+27,28,"Thu, Feb 21, 2019",10:00p,REG,,Cal Poly,Big West,W,74,47,,23,5,W 9,Bren Events Center
+28,29,"Thu, Feb 28, 2019",11:00p,REG,@,UC-Davis,Big West,W,64,48,,24,5,W 10,The Pavilion
+29,30,"Sat, Mar 2, 2019",8:00p,REG,@,UC-Riverside,Big West,W,68,47,,25,5,W 11,UC Riverside Student Recreation Center
+30,31,"Thu, Mar 7, 2019",10:00p,REG,@,Cal Poly,Big West,W,110,72,,26,5,W 12,Robert A. Mott Gymnasium
+31,32,"Sat, Mar 9, 2019",10:30p,REG,,Cal State Northridge,Big West,W,86,74,,27,5,W 13,Bren Events Center
+32,33,"Thu, Mar 14, 2019",9:00p,CTOURN,N,UC-Riverside,Big West,W,63,44,,28,5,W 14,Honda Center
+33,34,"Fri, Mar 15, 2019",9:30p,CTOURN,N,Long Beach State,Big West,W,75,67,,29,5,W 15,Honda Center
+34,35,"Sat, Mar 16, 2019",11:59p,CTOURN,N,Cal State Fullerton,Big West,W,92,64,,30,5,W 16,Honda Center
+35,36,"Fri, Mar 22, 2019",2:00p,NCAA,N,Kansas State (15),Big 12,,,,,,,,

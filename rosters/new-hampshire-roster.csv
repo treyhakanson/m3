@@ -1,17 +1,16 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Tanner Leissner,21,SR,F,6-6,210,"Converse, TX",Judson HS, 18.7 Pts,6.9 Reb,2.0 Ast
-1,Iba Camara,12,SR,F,6-9,225,Senegal,Admiral Farragut Academy, 9.6 Pts,10.7 Reb,0.9 Ast
-2,Josh Hopkins,15,FR,G,6-5,185,"Greensboro, NC",, 7.5 Pts,2.2 Reb,0.6 Ast
-3,Jordan Reed,11,JR,G,5-11,170,"Lucas, TX",Lovejoy, 7.3 Pts,2.6 Reb,2.0 Ast
-4,Jacoby Armstrong,3,SR,F,6-7,230,"Dallas, TX",Wylie HS, 6.4 Pts,4.1 Reb,1.2 Ast
-5,John Ogwuche,10,SO,G,6-1,190,Nigeria,Greenforest Christian High School, 5.9 Pts,2.9 Reb,1.0 Ast
-6,Elijah Jordan,13,FR,G,6-1,185,"Orlando, FL",, 6.2 Pts,2.2 Reb,3.1 Ast
-7,Darryl Stewart,2,JR,G,6-1,185,"Atlanta, GA",, 3.6 Pts,1.1 Reb,1.2 Ast
-8,Keon Burns,4,SR,G,6-4,205,"Beaverton, OR",Westview, 2.9 Pts,1.4 Reb,0.4 Ast
-9,David Watkins,22,JR,F,6-7,210,"Dorchester, MA",Dorchester Academy, 2.2 Pts,1.5 Reb,0.2 Ast
-10,Evan Horn,,,G,6-0,201,,, 2.6 Pts,2.2 Reb,0.6 Ast
-11,Chris Lester,23,SO,F,6-6,225,"Barrington, IL",, 4.3 Pts,3.3 Reb,0.8 Ast
-12,Luke Rosinski,44,SO,F,6-8,235,"Derry, NH",Kimball Union Academy, 1.4 Pts,1.5 Reb,0.3 Ast
-13,Ken Uhlar,32,,F,6-6,215,"Walpole, MA",Walpole High School, 0.0 Pts,0.0 Reb,0.0 Ast
-14,Mark Carbone,5,,G,6-2,180,"Wethersfield, CT",East Catholic High School,,,
-15,Kijana Love,0,,G,6-1,170,"Cibolo, TX",Steele High School,,,
+0,Jordan Reed,11,SR,G,6-0,190,"Lucas, TX",Lovejoy, 10.4 Pts,3.0 Reb,1.4 Ast
+1,Josh Hopkins,15,SO,G,6-5,185,"Greensboro, NC",James B. Dudley High School, 9.1 Pts,2.6 Reb,1.3 Ast
+2,Nick Guadarrama,3,FR,F,6-5,220,"Newington, CT",Perkiomen School, 7.8 Pts,5.4 Reb,1.5 Ast
+3,David Watkins,22,SR,F,6-8,225,"Dorchester, MA",Dorchester Academy, 6.3 Pts,4.2 Reb,0.8 Ast
+4,Jayden Martinez,24,FR,F,6-7,195,"Cibolo, TX",Steele HS, 7.9 Pts,5.1 Reb,0.8 Ast
+5,Marque Maultsby,1,FR,G,6-3,165,"Raleigh, NC",Garner HS, 5.9 Pts,2.9 Reb,1.7 Ast
+6,Elijah Jordan,13,SO,G,6-1,185,"Orlando, FL",The First Academy, 5.9 Pts,2.0 Reb,2.2 Ast
+7,Mark Carbone,5,JR,G,6-2,180,"Wethersfield, CT",East Catholic High School, 5.2 Pts,2.1 Reb,1.0 Ast
+8,Chris Lester,23,JR,F,6-6,225,"Barrington, IL",Standard of Excellence Academy, 5.1 Pts,4.3 Reb,1.2 Ast
+9,David Hall,2,JR,F,6-6,205,"Bucyrus, OH",, 1.5 Pts,1.5 Reb,0.3 Ast
+10,Kijana Love,0,JR,G,6-1,170,"Cibolo, TX",Steele High School, 1.9 Pts,0.6 Reb,0.3 Ast
+11,Luke Rosinski,44,JR,F,6-8,235,"Derry, NH",Kimball Union Academy, 1.4 Pts,2.5 Reb,0.3 Ast
+12,John Ogwuche,10,JR,G,6-1,190,"Makurdi, Nigeria",Greenforest Christian High School, 1.2 Pts,2.0 Reb,0.0 Ast
+13,Nate Hobbs,14,FR,F,6-3,183,"Peabody, MA",St. John's Prep, 2.5 Pts,1.5 Reb,0.5 Ast
+14,Evan Horn,14,SO,G,6-0,201,"Lebanaon, PA",Cedar Crest High School,,,

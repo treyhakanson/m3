@@ -1,35 +1,34 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Fri, Nov 10, 2017",9:00 pm/est,,REG,,South Alabama,Sun Belt,W,75,50,,1,0,W 1,United Supermarkets Arena
-1,2,"Tue, Nov 14, 2017",8:00 pm/est,,REG,,Maine,AEC,W,83,44,,2,0,W 2,United Supermarkets Arena
-2,3,"Sat, Nov 18, 2017",12:00 pm/est,,REG,N,Boston College,ACC,W,75,64,,3,0,W 3,Mohegan Sun Arena
-3,4,"Sun, Nov 19, 2017",5:00 pm/est,,REG,N,Northwestern (20),Big Ten,W,85,49,,4,0,W 4,Mohegan Sun Arena
-4,5,"Wed, Nov 22, 2017",6:30 pm/est,,REG,,Wofford,Southern,W,79,56,,5,0,W 5,United Supermarkets Arena
-5,6,"Sat, Nov 25, 2017",3:00 pm/est,,REG,,Savannah State,MEAC,W,103,69,,6,0,W 6,United Supermarkets Arena
-6,7,"Thu, Nov 30, 2017",6:30 pm/est,,REG,N,Seton Hall,Big East,L,79,89,,6,1,L 1,Madison Square Garden (IV)
-7,8,"Tue, Dec 5, 2017",8:00 pm/est,,REG,,Nevada (22),MWC,W,82,76,OT,7,1,W 1,United Supermarkets Arena
-8,9,"Wed, Dec 13, 2017",9:00 pm/est,,REG,,Kennesaw State,A-Sun,W,82,53,,8,1,W 2,United Supermarkets Arena
-9,10,"Sat, Dec 16, 2017",8:00 pm/est,,REG,,Rice,CUSA,W,73,53,,9,1,W 3,United Supermarkets Arena
-10,11,"Tue, Dec 19, 2017",8:00 pm/est,,REG,,Florida Atlantic,CUSA,W,90,54,,10,1,W 4,United Supermarkets Arena
-11,12,"Fri, Dec 22, 2017",3:00 pm/est,,REG,,Abilene Christian,Southland,W,74,47,,11,1,W 5,United Supermarkets Arena
-12,13,"Fri, Dec 29, 2017",8:00 pm/est,,REG,,Baylor (18),Big 12,W,77,53,,12,1,W 6,United Supermarkets Arena
-13,14,"Tue, Jan 2, 2018",9:00 pm/est,,REG,@,Kansas (10),Big 12,W,85,73,,13,1,W 7,Allen Fieldhouse
-14,15,"Sat, Jan 6, 2018",4:00 pm/est,,REG,,Kansas State,Big 12,W,74,58,,14,1,W 8,United Supermarkets Arena
-15,16,"Tue, Jan 9, 2018",7:00 pm/est,,REG,@,Oklahoma (9),Big 12,L,65,75,,14,2,L 1,Lloyd Noble Center
-16,17,"Sat, Jan 13, 2018",2:00 pm/est,,REG,,West Virginia (2),Big 12,W,72,71,,15,2,W 1,United Supermarkets Arena
-17,18,"Wed, Jan 17, 2018",8:00 pm/est,,REG,@,Texas,Big 12,L,58,67,,15,3,L 1,Frank Erwin Center
-18,19,"Sat, Jan 20, 2018",2:00 pm/est,,REG,@,Iowa State,Big 12,L,52,70,,15,4,L 2,James H. Hilton Coliseum 
-19,20,"Tue, Jan 23, 2018",7:00 pm/est,,REG,,Oklahoma State,Big 12,W,75,70,,16,4,W 1,United Supermarkets Arena
-20,21,"Sat, Jan 27, 2018",12:00 pm/est,,REG,@,South Carolina,SEC,W,70,63,,17,4,W 2,The Colonial Life Arena
-21,22,"Wed, Jan 31, 2018",9:00 pm/est,,REG,,Texas,Big 12,W,73,71,OT,18,4,W 3,United Supermarkets Arena
-22,23,"Sat, Feb 3, 2018",2:00 pm/est,,REG,@,Texas Christian,Big 12,W,83,71,,19,4,W 4,Ed & Rae Schollmaier Arena
-23,24,"Wed, Feb 7, 2018",9:00 pm/est,,REG,,Iowa State,Big 12,W,76,58,,20,4,W 5,United Supermarkets Arena
-24,25,"Sat, Feb 10, 2018",8:00 pm/est,,REG,@,Kansas State,Big 12,W,66,47,,21,4,W 6,Bramlage Coliseum
-25,26,"Tue, Feb 13, 2018",7:00 pm/est,,REG,,Oklahoma (23),Big 12,W,88,78,,22,4,W 7,United Supermarkets Arena
-26,27,"Sat, Feb 17, 2018",7:30 pm/est,,REG,@,Baylor,Big 12,L,57,59,,22,5,L 1,Ferrell Center
-27,28,"Wed, Feb 21, 2018",7:00 pm/est,,REG,@,Oklahoma State,Big 12,L,71,79,,22,6,L 2,Gallagher-Iba Arena
-28,29,"Sat, Feb 24, 2018",4:15 pm/est,,REG,,Kansas (8),Big 12,L,72,74,,22,7,L 3,United Supermarkets Arena
-29,30,"Mon, Feb 26, 2018",9:00 pm/est,,REG,@,West Virginia (20),Big 12,L,74,84,,22,8,L 4,WVU Coliseum
-30,31,"Sat, Mar 3, 2018",4:00 pm/est,,REG,,Texas Christian,Big 12,W,79,75,,23,8,W 1,United Supermarkets Arena
-31,32,"Thu, Mar 8, 2018",7:00 pm/est,,CTOURN,N,Texas,Big 12,W,73,69,,24,8,W 2,Sprint Center
-32,33,"Fri, Mar 9, 2018",9:00 pm/est,,CTOURN,N,West Virginia (18),Big 12,L,63,66,,24,9,L 1,Sprint Center
-33,34,"Thu, Mar 15, 2018",7:27 pm/est,,NCAA,N,Stephen F. Austin,Southland,,,,,,,,
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:30p,REG,,Incarnate Word,Southland,W,87,37,,1,0,W 1,United Supermarkets Arena
+1,2,"Fri, Nov 9, 2018",9:00p,REG,,Mississippi Valley State,SWAC,W,84,52,,2,0,W 2,United Supermarkets Arena
+2,3,"Tue, Nov 13, 2018",7:30p,REG,,Southeastern Louisiana,Southland,W,59,40,,3,0,W 3,United Supermarkets Arena
+3,4,"Mon, Nov 19, 2018",9:30p,REG,N,Southern California,Pac-12,W,78,63,,4,0,W 4,Sprint Center
+4,5,"Tue, Nov 20, 2018",9:30p,REG,N,Nebraska,Big Ten,W,70,52,,5,0,W 5,Sprint Center
+5,6,"Sat, Nov 24, 2018",5:30p,REG,,Northern Colorado,Big Sky,W,93,62,,6,0,W 6,United Supermarkets Arena
+6,7,"Sat, Dec 1, 2018",2:30p,REG,N,Memphis,AAC,W,78,67,,7,0,W 7,American Airlines Arena
+7,8,"Wed, Dec 5, 2018",7:30p,REG,,Arkansas-Pine Bluff,SWAC,W,65,47,,8,0,W 8,United Supermarkets Arena
+8,9,"Wed, Dec 12, 2018",7:30p,REG,,Northwestern State,Southland,W,79,44,,9,0,W 9,United Supermarkets Arena
+9,10,"Sat, Dec 15, 2018",7:00p,REG,,Abilene Christian,Southland,W,82,48,,10,0,W 10,
+10,11,"Thu, Dec 20, 2018",7:00p,REG,N,Duke (2),ACC,L,58,69,,10,1,L 1,Madison Square Garden (IV)
+11,12,"Fri, Dec 28, 2018",7:00p,REG,,Texas-Rio Grande Valley,WAC,W,71,46,,11,1,W 1,United Supermarkets Arena
+12,13,"Wed, Jan 2, 2019",7:00p,REG,@,West Virginia,Big 12,W,62,59,,12,1,W 2,WVU Coliseum
+13,14,"Sat, Jan 5, 2019",2:00p,REG,,Kansas State,Big 12,W,63,57,,13,1,W 3,United Supermarkets Arena
+14,15,"Tue, Jan 8, 2019",9:00p,REG,,Oklahoma (23),Big 12,W,66,59,,14,1,W 4,United Supermarkets Arena
+15,16,"Sat, Jan 12, 2019",2:00p,REG,@,Texas,Big 12,W,68,62,,15,1,W 5,Frank Erwin Center
+16,17,"Wed, Jan 16, 2019",9:00p,REG,,Iowa State,Big 12,L,64,68,,15,2,L 1,United Supermarkets Arena
+17,18,"Sat, Jan 19, 2019",6:00p,REG,@,Baylor,Big 12,L,62,73,,15,3,L 2,Ferrell Center
+18,19,"Tue, Jan 22, 2019",7:00p,REG,@,Kansas State,Big 12,L,45,58,,15,4,L 3,Bramlage Coliseum
+19,20,"Sat, Jan 26, 2019",6:00p,REG,,Arkansas,SEC,W,67,64,,16,4,W 1,United Supermarkets Arena
+20,21,"Mon, Jan 28, 2019",9:00p,REG,,Texas Christian,Big 12,W,84,65,,17,4,W 2,United Supermarkets Arena
+21,22,"Sat, Feb 2, 2019",4:00p,REG,@,Kansas (11),Big 12,L,63,79,,17,5,L 1,Allen Fieldhouse
+22,23,"Mon, Feb 4, 2019",9:00p,REG,,West Virginia,Big 12,W,81,50,,18,5,W 1,United Supermarkets Arena
+23,24,"Sat, Feb 9, 2019",4:00p,REG,@,Oklahoma,Big 12,W,66,54,,19,5,W 2,Lloyd Noble Center
+24,25,"Wed, Feb 13, 2019",9:00p,REG,@,Oklahoma State,Big 12,W,78,50,,20,5,W 3,Gallagher-Iba Arena
+25,26,"Sat, Feb 16, 2019",2:00p,REG,,Baylor,Big 12,W,86,61,,21,5,W 4,United Supermarkets Arena
+26,27,"Sat, Feb 23, 2019",8:00p,REG,,Kansas (12),Big 12,W,91,62,,22,5,W 5,United Supermarkets Arena
+27,28,"Wed, Feb 27, 2019",7:00p,REG,,Oklahoma State,Big 12,W,84,80,OT,23,5,W 6,United Supermarkets Arena
+28,29,"Sat, Mar 2, 2019",4:00p,REG,@,Texas Christian,Big 12,W,81,66,,24,5,W 7,Ed & Rae Schollmaier Arena
+29,30,"Mon, Mar 4, 2019",9:00p,REG,,Texas,Big 12,W,70,51,,25,5,W 8,United Supermarkets Arena
+30,31,"Sat, Mar 9, 2019",2:00p,REG,@,Iowa State,Big 12,W,80,73,,26,5,W 9,James H. Hilton Coliseum 
+31,32,"Thu, Mar 14, 2019",7:00p,CTOURN,N,West Virginia,Big 12,L,74,79,,26,6,L 1,Sprint Center
+32,33,"Fri, Mar 22, 2019",1:30p,NCAA,N,Northern Kentucky,Horizon,,,,,,,,

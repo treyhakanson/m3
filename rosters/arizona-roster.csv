@@ -1,18 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,DeAndre Ayton,13,FR,F,7-1,250,Bahamas,, 20.3 Pts,11.5 Reb,1.6 Ast
-1,Allonzo Trier,35,JR,G,6-4,190,"Seattle, WA",Montrose Christian (MD) / Findlay Prep (NV), 18.4 Pts,3.1 Reb,3.3 Ast
-2,Dusan Ristic,14,SR,C,7-0,240,Serbia,Sunrise Christian Academy, 12.1 Pts,7.0 Reb,0.9 Ast
-3,Rawle Alkins,1,,G,6-5,220,"Brooklyn, NY",Christ the King, 13.4 Pts,4.8 Reb,2.4 Ast
-4,Parker Jackson-Cartwright,0,SR,G,5-8,150,"Los Angeles, CA",Sierra Canyon HS, 7.9 Pts,2.4 Reb,4.6 Ast
-5,Dylan Smith,3,SO,G,6-5,170,"Mobile, AL",Hoover HS, 4.5 Pts,1.6 Reb,1.1 Ast
-6,Brandon Randolph,5,FR,G,6-6,175,"Yonkers, NY",, 3.8 Pts,0.8 Reb,0.8 Ast
-7,Keanu Pinder,25,SR,F,6-9,220,"Perth, WA",Sunrise Christian Academy, 2.2 Pts,2.1 Reb,0.1 Ast
-8,Ira Lee,11,FR,F,6-7,235,"Los Angeles, CA",, 2.3 Pts,2.3 Reb,0.4 Ast
-9,Emmanuel Akot,24,FR,G,6-7,200,"Winnipeg, MB",, 1.9 Pts,1.1 Reb,0.8 Ast
-10,Alex Barcello,23,FR,G,6-2,180,"Chandler, AZ",, 2.4 Pts,1.0 Reb,0.9 Ast
-11,Tyler Trillo,50,JR,G,5-11,170,"Southbury, CT",Terryville High School, 1.5 Pts,0.0 Reb,0.0 Ast
-12,Jake Desjardins,55,SO,F,6-6,215,"Henderson, NV",Coronado High School, 0.7 Pts,1.0 Reb,0.3 Ast
-13,Talbott Denny,20,SR,F,6-6,205,"Tucson, AZ",Salpointe Catholic HS, 0.3 Pts,0.0 Reb,0.0 Ast
-14,Matt Weyand,54,,F,6-5,190,,, 0.0 Pts,0.0 Reb,0.0 Ast
-15,Chase Jeter,4,,F,6-10,230,"Las Vegas, NV",Bishop Gorman HS,,,
-16,Kory Jones,52,,G,6-3,170,,Westfield High School,,,
+0,Brandon Randolph,5,SO,G,6-6,175,"Yonkers, NY",Westtown School, 12.4 Pts,3.3 Reb,1.0 Ast
+1,Chase Jeter,4,JR,C,6-10,230,"Las Vegas, NV",Bishop Gorman HS, 10.9 Pts,6.6 Reb,0.6 Ast
+2,Brandon Williams,2,FR,G,6-2,190,"Los Angeles, CA",Crespi Carmelite HS, 11.4 Pts,2.8 Reb,3.3 Ast
+3,Justin Coleman,12,SR,G,5-10,170,"Birmingham, AL",Wenonah HS, 8.9 Pts,2.6 Reb,3.8 Ast
+4,Ryan Luther,10,SR,F,6-9,225,"Gibsonia, PA",Hampton HS, 8.4 Pts,4.3 Reb,1.2 Ast
+5,Dylan Smith,3,JR,G,6-5,170,"Mobile, AL",Hoover HS, 7.2 Pts,3.7 Reb,1.1 Ast
+6,Ira Lee,11,SO,F,6-7,235,"Los Angeles, CA",Crossroads School, 6.6 Pts,4.2 Reb,0.5 Ast
+7,Alex Barcello,23,SO,G,6-2,180,"Chandler, AZ",Corona del Sol High School, 3.3 Pts,0.9 Reb,0.5 Ast
+8,Devonaire Doutrive,1,FR,G,6-5,175,"Dallas, TX",Birmingham HS, 3.3 Pts,3.0 Reb,0.7 Ast
+9,Emmanuel Akot,24,SO,G,6-7,200,"Winnipeg, Canada",Wasatch Academy, 3.8 Pts,2.8 Reb,1.1 Ast
+10,Jake Desjardins,55,JR,F,6-6,215,"Henderson, NV",Coronado High School, 0.9 Pts,0.9 Reb,0.1 Ast
+11,Matt Weyand,54,SO,F,6-5,190,"Irvine, CA",Mater Dei High School, 0.5 Pts,0.3 Reb,0.0 Ast
+12,Kory Jones,52,SO,G,6-3,170,"Herndon, VA",Westfield High School, 0.0 Pts,0.0 Reb,0.0 Ast
+13,Alec Spence,50,FR,G,6-6,195,"St. Louis, MO",Mary Institute and Saint Louis Country Day School,,,

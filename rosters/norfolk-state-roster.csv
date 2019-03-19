@@ -1,14 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Steven Whitley,34,SO,G,6-4,210,"Norfolk, VA",Booker T. Washington (VA), 12.2 Pts,5.7 Reb,4.7 Ast
-1,Alex Long,22,JR,F,6-8,220,"Clinton, MD",Mount Zion Baptist Christian School, 10.5 Pts,5.8 Reb,0.9 Ast
-2,Kyle Williams,24,SR,G,6-4,185,"Bronx, NY",Salesian High School, 9.6 Pts,3.6 Reb,1.4 Ast
-3,Preston Bungei,1,SR,F,6-6,175,"Albuquerque, NM",Cibola HS, 8.5 Pts,6.1 Reb,2.2 Ast
-4,Derrik Jamerson Jr.,35,JR,G,6-5,190,"Detroit, MI",, 8.5 Pts,3.1 Reb,0.4 Ast
-5,Nic Thomas,14,SO,G,6-2,180,"Arlington, TX",HSAA, 8.5 Pts,2.9 Reb,1.5 Ast
-6,Mastadi Pitt,0,FR,G,6-1,205,"Hampton, VA",, 8.4 Pts,1.9 Reb,2.3 Ast
-7,Bryan Gellineau,5,,C,6-11,280,"Amityville, NY",Kellenberg Menorial High School, 4.2 Pts,2.2 Reb,0.3 Ast
-8,Stavian Allen,13,SR,F,6-7,200,"Cary, NC",Prominance Academy, 3.5 Pts,2.7 Reb,0.3 Ast
-9,Dan Robinson,44,SR,C,7-0,215,"Norfolk, VA",IMG Academy, 2.9 Pts,3.2 Reb,0.2 Ast
-10,Vilontae Eanes,,,G,,,,, 0.0 Pts,0.0 Reb,0.5 Ast
-11,Kyonze Chavis,55,,G,6-4,180,,,,,
-12,Zaynah Robinson,2,,G,5-11,180,"Atlanta, GA",Duluth HS,,,
+0,Nic Thomas,14,JR,G,6-2,185,"Arlington, TX",HSAA, 14.4 Pts,3.1 Reb,1.7 Ast
+1,Derrik Jamerson Jr.,35,SR,G,6-5,180,"Detroit, MI",Cornerstone Health and Technology High School, 10.3 Pts,3.8 Reb,0.5 Ast
+2,Mastadi Pitt,0,SO,G,6-1,210,"Hampton, VA",Hampton High School, 9.8 Pts,2.3 Reb,2.8 Ast
+3,Steven Whitley,34,JR,G,6-3,220,"Norfolk, VA",Booker T. Washington (VA), 9.6 Pts,5.1 Reb,3.9 Ast
+4,Alex Long,22,SR,F,6-8,225,"Clinton, MD",Mount Zion Baptist Christian School, 8.5 Pts,4.4 Reb,1.0 Ast
+5,Jordan Butler,45,SR,F,6-6,245,"Hartford, CT",Putnam Science Academy, 8.1 Pts,6.3 Reb,0.8 Ast
+6,Armani Branch,5,SR,F,6-7,210,"Hampton, VA",Genesis Academy, 4.4 Pts,2.5 Reb,0.7 Ast
+7,C.J. Kelly,15,FR,G,6-5,190,"Long Island, NY",Queens HS Of Teaching, 4.6 Pts,2.0 Reb,0.4 Ast
+8,Kyonze Chavis,55,SO,G,6-4,185,"Chesapeake, VA",, 3.7 Pts,1.9 Reb,1.1 Ast
+9,Joe Bryant Jr,4,FR,G,6-1,225,"Norfolk, VA",Lake Taylor HS, 2.3 Pts,1.4 Reb,0.6 Ast
+10,BJ Fitzgerald,1,FR,G,6-6,200,"Danville, VA",Carlisle School, 2.2 Pts,1.4 Reb,0.0 Ast
+11,Chris Ford,32,FR,F,6-8,220,"Chesterfield, VA",L.C. Bird HS, 1.0 Pts,1.1 Reb,0.1 Ast
+12,Jermaine Bishop,11,JR,G,6-1,180,"Queens, NY",Holy Cross HS,,,
+13,Obi Momah,3,SR,F,6-7,240,"Farmington, CT",Farmington HS,,,

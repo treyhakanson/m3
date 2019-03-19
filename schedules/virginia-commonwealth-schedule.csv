@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Gardner-Webb,Big South,W,69,57,,1,0,W 1,Stuart Siegel Center
+1,2,"Fri, Nov 9, 2018",7:00p,REG,,Hampton,Big South,W,69,57,,2,0,W 2,Stuart Siegel Center
+2,3,"Mon, Nov 12, 2018",7:00p,REG,,Bowling Green State,MAC,W,72,61,,3,0,W 3,Stuart Siegel Center
+3,4,"Mon, Nov 19, 2018",9:30p,REG,N,Temple,AAC,W,57,51,,4,0,W 4,Barclays Center
+4,5,"Tue, Nov 20, 2018",7:30p,REG,N,St. John's (NY),Big East,L,86,87,OT,4,1,L 1,Barclays Center
+5,6,"Sat, Nov 24, 2018",7:00p,REG,,Hofstra,CAA,W,69,67,OT,5,1,W 1,Stuart Siegel Center
+6,7,"Wed, Nov 28, 2018",7:00p,REG,@,Old Dominion,CUSA,L,52,62,,5,2,L 1,Ted Constant Convocation Ctr.
+7,8,"Sat, Dec 1, 2018",7:00p,REG,,Iona,MAAC,W,88,59,,6,2,W 1,Stuart Siegel Center
+8,9,"Wed, Dec 5, 2018",8:00p,REG,@,Texas,Big 12,W,54,53,,7,2,W 2,Frank Erwin Center
+9,10,"Sun, Dec 9, 2018",1:30p,REG,@,Virginia (4),ACC,L,49,57,,7,3,L 1,John Paul Jones Arena
+10,11,"Sat, Dec 15, 2018",4:00p,REG,,College of Charleston,CAA,L,79,83,,7,4,L 2,Stuart Siegel Center
+11,12,"Sat, Dec 22, 2018",4:00p,REG,,Wichita State,AAC,W,70,54,,8,4,W 1,Stuart Siegel Center
+12,13,"Sun, Dec 30, 2018",2:00p,REG,,Rider,MAAC,W,90,79,,9,4,W 2,Stuart Siegel Center
+13,14,"Sat, Jan 5, 2019",2:00p,REG,@,Fordham,A-10,W,76,51,,10,4,W 3,Rose Hill Gym
+14,15,"Wed, Jan 9, 2019",7:00p,REG,,La Salle,A-10,W,69,63,,11,4,W 4,Stuart Siegel Center
+15,16,"Sat, Jan 12, 2019",2:00p,REG,@,Davidson,A-10,L,57,64,,11,5,L 1,Belk Arena
+16,17,"Wed, Jan 16, 2019",8:00p,REG,,Dayton,A-10,W,76,71,,12,5,W 1,Stuart Siegel Center
+17,18,"Sat, Jan 19, 2019",6:30p,REG,,Massachusetts,A-10,W,68,50,,13,5,W 2,Stuart Siegel Center
+18,19,"Wed, Jan 23, 2019",7:00p,REG,@,Rhode Island,A-10,L,65,71,,13,6,L 1,Ryan Center
+19,20,"Sat, Jan 26, 2019",2:00p,REG,@,Duquesne,A-10,W,80,74,,14,6,W 1,A.J. Palumbo Center
+20,21,"Sat, Feb 2, 2019",6:30p,REG,,George Mason,A-10,W,79,63,,15,6,W 2,Stuart Siegel Center
+21,22,"Wed, Feb 6, 2019",7:00p,REG,@,George Washington,A-10,W,60,50,,16,6,W 3,Charles E. Smith Center
+22,23,"Sat, Feb 9, 2019",2:00p,REG,@,St. Bonaventure,A-10,W,85,55,,17,6,W 4,Reilly Center
+23,24,"Wed, Feb 13, 2019",7:00p,REG,,Richmond,A-10,W,81,60,,18,6,W 5,Stuart Siegel Center
+24,25,"Sat, Feb 16, 2019",4:00p,REG,@,Dayton,A-10,W,69,68,,19,6,W 6,University of Dayton Arena
+25,26,"Tue, Feb 19, 2019",8:00p,REG,,Rhode Island,A-10,W,76,42,,20,6,W 7,Stuart Siegel Center
+26,27,"Sat, Feb 23, 2019",2:00p,REG,,George Washington,A-10,W,85,57,,21,6,W 8,Stuart Siegel Center
+27,28,"Tue, Feb 26, 2019",7:30p,REG,,Saint Louis,A-10,W,71,65,,22,6,W 9,Stuart Siegel Center
+28,29,"Sat, Mar 2, 2019",4:00p,REG,@,Richmond,A-10,W,69,66,,23,6,W 10,Robins Center
+29,30,"Tue, Mar 5, 2019",7:30p,REG,@,George Mason,A-10,W,71,36,,24,6,W 11,EagleBank Arena
+30,31,"Fri, Mar 8, 2019",9:00p,REG,,Saint Joseph's,A-10,W,75,63,,25,6,W 12,Stuart Siegel Center
+31,32,"Fri, Mar 15, 2019",12:00p,CTOURN,N,Rhode Island,A-10,L,70,75,,25,7,L 1,Barclays Center
+32,33,"Fri, Mar 22, 2019",9:50p,NCAA,N,Central Florida,AAC,,,,,,,,

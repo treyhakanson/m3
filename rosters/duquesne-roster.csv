@@ -1,19 +1,18 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Mike Lewis II,1,SO,G,6-1,175,"St. Louis, MO",Chaminade College Preparatory School, 14.4 Pts,2.3 Reb,0.7 Ast
-1,Eric Williams Jr.,50,FR,G,6-5,190,"New Haven, MI",, 14.3 Pts,8.8 Reb,1.6 Ast
-2,Rene Castro,4,SR,G,6-2,195,"Boston, MA",Worcester Academy, 13.3 Pts,2.8 Reb,3.4 Ast
-3,Tarin Smith,3,JR,G,6-2,175,"Ocean Township, NJ",St. Anthony, 12.4 Pts,3.0 Reb,3.2 Ast
-4,Jordan Robinson,55,SR,C,6-8,250,Canada,Quality Education Academy, 5.7 Pts,3.9 Reb,0.7 Ast
-5,Kellon Taylor,35,SO,F,6-5,220,"Landover, MD",DeMatha Catholic High School, 3.8 Pts,3.8 Reb,0.9 Ast
-6,Chas Brown,0,,F,6-8,220,"Baltimore, MD",Baltimore Polytechnic Institute, 3.9 Pts,4.2 Reb,0.5 Ast
-7,Tydus Verhoeven,25,FR,F,6-8,215,"Manteca, CA",, 3.1 Pts,3.3 Reb,0.9 Ast
-8,Eric James,2,SR,F,6-5,205,"Westerville, OH",Westerville Central HS, 1.8 Pts,1.3 Reb,0.2 Ast
-9,Marko Krivacevic,22,,F,6-9,215,,, 1.3 Pts,0.9 Reb,0.0 Ast
-10,Nicholas Kratholm,34,FR,F,6-8,220,"Louisville, KY",, 1.0 Pts,1.1 Reb,0.1 Ast
-11,Zach Snyder,32,,F,6-5,190,"Cranberry Township, PA",Seneca Valley HS, 1.3 Pts,1.0 Reb,0.3 Ast
-12,Caleb Davis,31,,G,6-1,170,"New Kensington, PA",Valley High School, 0.5 Pts,0.0 Reb,0.3 Ast
-13,Tavian Dunn-Martin,,,G,5-8,155,"Huntington, WV",Huntington HIgh School,,,
-14,Frankie Hughes,,,G,6-4,195,"Cleveland, OH",Garfield Heights High School,,,
-15,Michael Hughes,,,C,6-8,255,"Liberty, MO",Liberty North High School,,,
-16,Craig Randall II,,,G,6-4,185,"Youngstown, OH",Shadow Mountain HS,,,
-17,Marcus Weathers,,,F,6-5,205,"Roeland Park, KS",Shawnee Mission North HIgh School,,,
+0,Eric Williams Jr.,50,SO,G,6-6,205,"Port Huron, MI",New Haven High School, 14.0 Pts,7.6 Reb,1.4 Ast
+1,Sincere Carry,35,FR,G,6-1,180,"Solon, OH",Solon HS, 12.1 Pts,3.6 Reb,5.8 Ast
+2,Michael Hughes,21,SO,C,6-8,250,"Kansas City, MO",Liberty North High School, 11.2 Pts,6.5 Reb,0.9 Ast
+3,Marcus Weathers,5,SO,F,6-5,225,"Overland Park, KS",Shawnee Mission North HIgh School, 10.0 Pts,6.4 Reb,0.8 Ast
+4,Frankie Hughes,3,SO,G,6-4,195,"Cleveland, OH",Garfield Heights High School, 9.0 Pts,2.2 Reb,1.6 Ast
+5,Tavian Dunn-Martin,0,SO,G,5-8,155,"Huntington, WV",Huntington HIgh School, 7.7 Pts,1.4 Reb,2.6 Ast
+6,Lamar Norman Jr.,22,FR,G,6-3,175,"Grand Rapids, MI",Godwin Heights HS, 4.8 Pts,1.6 Reb,0.4 Ast
+7,Austin Rotroff,34,FR,F,6-10,235,"Wauseon, OH",Wauseon HS, 4.2 Pts,2.4 Reb,0.2 Ast
+8,Mike Lewis II,1,JR,G,6-1,185,"St. Louis, MO",Chaminade College Preparatory School, 5.6 Pts,0.8 Reb,0.4 Ast
+9,Amari Kelly,23,FR,F,6-9,225,"Long Island, NY",Meadowcreek HS, 2.1 Pts,2.1 Reb,0.3 Ast
+10,Brandon Wade,2,FR,G,6-2,185,"Ann Arbor, MI",Skyline HS, 1.0 Pts,0.7 Reb,0.8 Ast
+11,Gavin Bizeau,14,FR,F,6-11,230,"Plainfield, IN",Plainfield HS, 1.3 Pts,0.7 Reb,0.1 Ast
+12,Kellon Taylor,20,JR,F,6-5,220,"Landover, MD",DeMatha Catholic High School, 0.8 Pts,1.2 Reb,0.3 Ast
+13,Caleb Davis,31,JR,G,6-0,175,"New Kensington, PA",Valley High School, 0.0 Pts,0.5 Reb,0.0 Ast
+14,Zach Snyder,32,SR,F,6-5,210,"Cranberry Township, PA",Seneca Valley HS, 0.0 Pts,0.3 Reb,0.0 Ast
+15,James Ellis,,FR,C,6-11,230,"Pittsburgh, PA",Westinghouse HS,,,
+16,Dylan Swingle,25,FR,C,6-11,300,"Chillicothe, OH",Paint Valley HS,,,

@@ -1,14 +1,15 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Shake Milton,1,JR,G,6-5,195,"Owasso, OK",Owasso HS, 18.0 Pts,4.7 Reb,4.4 Ast
-1,Ben Emelogu,21,SR,G,6-5,205,"Grand Prairie, TX",South Grand Prairie, 10.6 Pts,5.5 Reb,1.7 Ast
-2,Jimmy Whitt,31,SO,G,6-4,173,"Columbia, MO",Hickman HS, 10.5 Pts,5.2 Reb,3.5 Ast
-3,Jahmal McMurray,0,,G,6-0,175,"Topeka, KS",Sunrise Christian Academy, 14.7 Pts,2.7 Reb,1.5 Ast
-4,Ethan Chargois,5,FR,F,6-9,235,"Tulsa, OK",, 9.1 Pts,4.4 Reb,1.1 Ast
-5,Jarrey Foster,10,JR,G,6-5,200,"Houston, TX",North Shore HS, 13.2 Pts,5.9 Reb,2.7 Ast
-6,Akoy Agau,23,SR,F,6-8,230,"Omaha, NE",Omaha Central, 5.0 Pts,3.6 Reb,0.6 Ast
-7,Elijah Landrum,20,FR,G,6-0,180,"Tulsa, OK",, 3.2 Pts,1.6 Reb,1.1 Ast
-8,William Douglas,3,FR,G,6-5,180,"Memphis, TN",, 2.0 Pts,1.9 Reb,0.9 Ast
-9,Everett Ray,24,FR,F,6-7,220,"Addison, TX",, 2.3 Pts,2.7 Reb,0.4 Ast
-10,Luke Wilfong,22,FR,G,6-1,170,"Memphis, TN",, 0.5 Pts,0.1 Reb,0.0 Ast
-11,James Pyle,12,SO,G,6-3,175,"Overland Park, KS",St. Thomas Aquinas High school, 0.1 Pts,0.1 Reb,0.1 Ast
-12,Isiaha Mike,15,,F,6-8,200,Canada,Trinity International School,,,
+0,Jahmal McMurray,0,SR,G,6-0,175,"Topeka, KS",Sunrise Christian Academy, 18.1 Pts,2.3 Reb,2.6 Ast
+1,Ethan Chargois,25,SO,F,6-9,235,"Tulsa, OK",Union High School, 12.4 Pts,6.2 Reb,1.9 Ast
+2,Isiaha Mike,15,SO,F,6-8,200,"Scarborough, Canada",Trinity International School, 11.7 Pts,5.4 Reb,1.7 Ast
+3,Jimmy Whitt,31,JR,G,6-3,175,"Columbia, MO",Hickman HS, 12.3 Pts,6.4 Reb,4.0 Ast
+4,Feron Hunt,1,FR,F,6-8,190,"DeSoto, TX",Desoto HS, 7.6 Pts,6.4 Reb,0.7 Ast
+5,Nat Dixon,5,SR,G,6-4,180,"Panama City, FL",Mosley High School, 5.0 Pts,1.9 Reb,1.5 Ast
+6,Jarrey Foster,10,SR,G,6-6,220,"Houston, TX",North Shore HS, 6.9 Pts,3.6 Reb,1.5 Ast
+7,C.J. White,13,FR,G,6-5,185,"Little Rock, AR",Parkview HS, 1.9 Pts,1.7 Reb,0.8 Ast
+8,William Douglas,3,SO,G,6-5,180,"Memphis, TN",Christian Brothers High School, 0.8 Pts,0.7 Reb,0.4 Ast
+9,Jahmar Young Jr.,21,FR,F,6-9,205,"DeSoto, TX",DeSoto HS, 0.5 Pts,1.0 Reb,0.0 Ast
+10,James Pyle,12,JR,G,6-3,175,"Overland Park, KS",St. Thomas Aquinas High school, 0.0 Pts,0.0 Reb,0.2 Ast
+11,Everett Ray,24,SO,F,6-7,220,"Addison, TX",Trinity Christian Academy,,,
+12,Luke Wilfong,22,SO,G,6-1,170,"Memphis, TN",Memphis University School,,,
+13,Grant Youngkin,20,JR,G,6-3,190,"Washington, DC",St. Albans School,,,

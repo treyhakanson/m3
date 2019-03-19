@@ -1,15 +1,16 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Kalob Ledoux,1,SO,G,6-3,215,"Port Barre, LA",Lafayette Christian Academy, 14.8 Pts,4.4 Reb,1.0 Ast
-1,Jarren Greenwood,10,JR,G,6-2,175,"Houston, TX",Bellaire High School, 12.6 Pts,3.8 Reb,3.2 Ast
-2,Quatarrius Wilson,0,JR,F,6-8,200,"Mobile, AL",, 10.8 Pts,10.2 Reb,1.3 Ast
-3,James Harvey,2,JR,G,6-2,170,"Amite, LA",Amite High School, 10.4 Pts,2.0 Reb,1.5 Ast
-4,Jacob Ledoux,12,SO,G,6-3,210,"Port Barre, LA",Lafayette Christian Academy, 8.1 Pts,2.6 Reb,1.9 Ast
-5,Stephen Ugochukwu,31,SR,F,6-7,210,"Lewisville, TX",Argyle Liberty Christian Academy, 8.0 Pts,5.3 Reb,0.9 Ast
-6,LaBarrius Hill,15,SR,F,6-8,210,"Parrish, AL",Parrish High School, 4.1 Pts,3.8 Reb,0.6 Ast
-7,Richard Laku,3,SO,F,6-8,170,"Dallas, TX",Sachse High School, 2.6 Pts,1.1 Reb,0.2 Ast
-8,Demarco Owens,33,JR,PF,6-8,260,"St. Louis, MO",, 3.0 Pts,1.9 Reb,0.4 Ast
-9,Adrian Brown,30,JR,F,6-7,210,"Houston, TX",North Shore HIgh School, 1.7 Pts,1.2 Reb,0.2 Ast
-10,Myles Hutchinson,11,FR,PG,6-0,170,"Abbeville, LA",, 1.9 Pts,0.5 Reb,0.4 Ast
-11,Kelvin Henry Jr.,20,FR,G,6-1,175,"Lake Charles, LA",, 1.5 Pts,0.6 Reb,0.6 Ast
-12,Fred Haywood,5,FR,SF,6-5,190,"Mound Bayou, MS",, 1.2 Pts,0.7 Reb,0.0 Ast
-13,Jacob Bonnington,13,FR,PF,6-10,215,"Sugar Land, TX",, 1.1 Pts,1.1 Reb,0.0 Ast
+0,Shamarkus Kennedy,23,JR,F,6-8,205,"Tuscaloosa, AL",, 13.0 Pts,7.0 Reb,1.0 Ast
+1,James Harvey,2,SR,G,6-2,172,"Amite, LA",Amite High School, 12.4 Pts,2.4 Reb,1.1 Ast
+2,Roydell Brown,22,JR,G,6-5,205,"New Orleans, LA",Helen Cox High School, 14.5 Pts,9.5 Reb,1.5 Ast
+3,Jarren Greenwood,10,SR,G,6-2,172,"Houston, TX",Bellaire High School, 7.0 Pts,2.2 Reb,2.5 Ast
+4,Kevin Hunt,5,SO,G,6-3,180,"Little Rock, AR",, 6.9 Pts,2.0 Reb,2.9 Ast
+5,Malik Hines,0,SR,C,6-10,255,"Jackson, MS",Murrah HS, 9.9 Pts,4.7 Reb,1.5 Ast
+6,Will Robinson,24,JR,F,6-5,215,"Baltimore, MD",, 6.0 Pts,3.4 Reb,0.8 Ast
+7,Trey Touchet,14,SR,G,6-2,190,"Lafayette, LA",Saint Thomas More HS, 4.7 Pts,2.7 Reb,3.0 Ast
+8,Trey Johnson,13,FR,G,6-3,185,"Baton Rouge, LA",Jehovah-Jireh Christian Academy, 2.2 Pts,0.9 Reb,0.7 Ast
+9,Adrian Brown,30,SR,F,6-7,211,"Houston, TX",North Shore HIgh School, 1.4 Pts,1.2 Reb,0.2 Ast
+10,Myles Hutchinson,11,SO,G,6-0,170,"Abbeville, LA",Abbeville High School, 1.2 Pts,0.3 Reb,0.2 Ast
+11,Richard Laku,3,JR,F,6-8,190,"Dallas, TX",Sachse High School, 0.4 Pts,0.7 Reb,0.3 Ast
+12,Spencer Foley,,SO,F,6-7,190,"Chicago, IL",Commonwealth Academy,,,
+13,Jeremy Harrell,1,JR,F,6-7,225,"Pickens, MS",,,,
+14,A.J. Lawson,,JR,G,6-5,195,"Bryan, TX",Bryan High School,,,

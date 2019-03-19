@@ -1,13 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Otis Livingston II,4,JR,G,5-11,160,"Linden, NJ",Linden HS, 17.3 Pts,3.2 Reb,4.3 Ast
-1,Jaire Grayer,5,JR,G,6-4,187,"Flint, MI",IMG Academy, 12.3 Pts,7.3 Reb,1.3 Ast
-2,Justin Kier,1,SO,G,6-4,182,"Penn Laird, VA",Spotswood High School, 11.0 Pts,4.6 Reb,2.3 Ast
-3,Goanar Mar,0,FR,F,6-7,195,"Mankato, MN",, 10.9 Pts,4.4 Reb,0.8 Ast
-4,Ian Boyd,32,SO,G,6-3,215,"Apex, NC",Apex High School, 7.7 Pts,4.3 Reb,1.2 Ast
-5,Greg Calixte,33,FR,F,6-8,230,"Mount Vernon, NY",, 4.9 Pts,4.3 Reb,0.4 Ast
-6,Javon Greene,23,FR,G,6-1,174,"Mcdonough, GA",, 4.5 Pts,2.8 Reb,0.9 Ast
-7,A.J. Wilson,12,,F,6-6,189,"Lanham, MD",, 3.7 Pts,2.9 Reb,0.1 Ast
-8,Jack Tempchin,21,,G,5-9,155,,, 1.0 Pts,0.5 Reb,0.3 Ast
-9,Nick Diclementi,24,,G,6-6,198,,, 0.0 Pts,0.5 Reb,0.0 Ast
-10,Zach Garrett,2,,G,6-4,202,,, 0.0 Pts,0.0 Reb,0.0 Ast
-11,Jarred Reuter,31,,F,6-7,260,"Marion, MA",Brewster Academy (NH),,,
+0,Justin Kier,1,JR,G,6-4,190,"Grottoes, VA",Spotswood High School, 14.5 Pts,6.5 Reb,2.6 Ast
+1,Otis Livingston II,4,SR,G,5-11,172,"Linden, NJ",Linden HS, 12.9 Pts,2.3 Reb,4.0 Ast
+2,Javon Greene,23,SO,G,6-2,190,"Mcdonough, GA",Henry County High School, 9.4 Pts,4.9 Reb,1.2 Ast
+3,Jarred Reuter,31,JR,F,6-7,260,"Marion, MA",Brewster Academy (NH), 7.3 Pts,4.2 Reb,1.5 Ast
+4,Jordan Miller,11,FR,G,6-6,185,"Middleberg, VA",Loudoun Valley HS, 10.4 Pts,7.1 Reb,0.6 Ast
+5,Ian Boyd,32,JR,G,6-4,215,"Apex, NC",Apex High School, 5.2 Pts,2.1 Reb,0.6 Ast
+6,Greg Calixte,33,SO,F,6-8,225,"Mount Vernon, NY",Mount Vernon High School, 4.6 Pts,3.5 Reb,0.2 Ast
+7,A.J. Wilson,12,SO,F,6-7,201,"Laurel, MD",DuVal High School, 3.7 Pts,2.6 Reb,0.1 Ast
+8,Jamal Hartwell II,10,FR,G,5-10,150,"Inglewood, CA",Fairfax HS, 3.2 Pts,0.5 Reb,0.7 Ast
+9,Jaire Grayer,5,SR,G,6-5,200,"Flint, MI",IMG Academy, 10.0 Pts,3.6 Reb,1.3 Ast
+10,Goanar Mar,0,SO,F,6-7,209,"Mankato, MN",De La Salle High School, 3.1 Pts,2.6 Reb,0.7 Ast
+11,Jason Douglas-Stanley,20,FR,G,6-2,179,"Mount Vernon, NY",Mount Vernon HS, 2.0 Pts,0.5 Reb,0.2 Ast
+12,Jack Tempchin,21,SO,G,5-9,155,"Silver Spring, MD",James Hubert Blake High School, 0.3 Pts,0.1 Reb,0.0 Ast
+13,Nick Diclementi,24,SR,G,6-6,208,"Leesburg, VA",Middleburg Academy, 0.0 Pts,0.0 Reb,0.0 Ast
+14,Logan Samuels,13,SR,G,6-1,185,"Bowie, MD",The Potomac School, 0.0 Pts,0.0 Reb,0.0 Ast
+15,Zach Garrett,2,SO,G,6-4,202,"Leesburg, VA",Woodbridge High School,,,

@@ -1,34 +1,35 @@
-,Game,Date,Time,Network,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
-0,1,"Fri, Nov 10, 2017",7:00 pm/est,,REG,,Robert Morris,NEC,W,95,64,,1,0,W 1,Value City Arena
-1,2,"Sun, Nov 12, 2017",2:30 pm/est,,REG,,Radford,Big South,W,82,72,,2,0,W 2,Value City Arena
-2,3,"Thu, Nov 16, 2017",7:00 pm/est,,REG,,Texas Southern,SWAC,W,82,64,,3,0,W 3,Value City Arena
-3,4,"Sun, Nov 19, 2017",2:00 pm/est,,REG,,Northeastern,CAA,W,80,55,,4,0,W 4,Value City Arena
-4,5,"Thu, Nov 23, 2017",11:59 pm/est,,REG,N,Gonzaga (17),WCC,L,59,86,,4,1,L 1,
-5,6,"Fri, Nov 24, 2017",9:00 pm/est,,REG,N,Stanford,Pac-12,W,79,71,,5,1,W 1,Moda Center
-6,7,"Sun, Nov 26, 2017",3:00 pm/est,,REG,N,Butler,Big East,L,66,67,OT,5,2,L 1,
-7,8,"Wed, Nov 29, 2017",7:15 pm/est,,REG,,Clemson,ACC,L,65,79,,5,3,L 2,Value City Arena
-8,9,"Sat, Dec 2, 2017",5:00 pm/est,,REG,@,Wisconsin,Big Ten,W,83,58,,6,3,W 1,Kohl Center
-9,10,"Mon, Dec 4, 2017",6:30 pm/est,,REG,,Michigan,Big Ten,W,71,62,,7,3,W 2,Value City Arena
-10,11,"Sat, Dec 9, 2017",12:00 pm/est,,REG,,William & Mary,CAA,W,97,62,,8,3,W 3,Value City Arena
-11,12,"Sat, Dec 16, 2017",6:00 pm/est,,REG,,Appalachian State,Sun Belt,W,80,67,,9,3,W 4,Value City Arena
-12,13,"Tue, Dec 19, 2017",7:00 pm/est,,REG,,Citadel,Southern,W,94,65,,10,3,W 5,Value City Arena
-13,14,"Sat, Dec 23, 2017",1:30 pm/est,,REG,N,North Carolina (5),ACC,L,72,86,,10,4,L 1,Smoothie King Center
-14,15,"Sat, Dec 30, 2017",12:00 pm/est,,REG,,Miami (OH),MAC,W,72,59,,11,4,W 1,Value City Arena
-15,16,"Thu, Jan 4, 2018",7:00 pm/est,,REG,@,Iowa,Big Ten,W,92,81,,12,4,W 2,Carver-Hawkeye Arena
-16,17,"Sun, Jan 7, 2018",4:30 pm/est,,REG,,Michigan State (1),Big Ten,W,80,64,,13,4,W 3,Value City Arena
-17,18,"Thu, Jan 11, 2018",7:00 pm/est,,REG,,Maryland,Big Ten,W,91,69,,14,4,W 4,Value City Arena
-18,19,"Sun, Jan 14, 2018",7:00 pm/est,,REG,@,Rutgers,Big Ten,W,68,46,,15,4,W 5,Louis Brown Athletic Center
-19,20,"Wed, Jan 17, 2018",9:00 pm/est,,REG,@,Northwestern,Big Ten,W,71,65,,16,4,W 6,Allstate Arena
-20,21,"Sat, Jan 20, 2018",12:00 pm/est,,REG,N,Minnesota,Big Ten,W,67,49,,17,4,W 7,Madison Square Garden (IV)
-21,22,"Mon, Jan 22, 2018",8:00 pm/est,,REG,,Nebraska,Big Ten,W,64,59,,18,4,W 8,Value City Arena
-22,23,"Thu, Jan 25, 2018",8:00 pm/est,,REG,,Penn State,Big Ten,L,79,82,,18,5,L 1,Value City Arena
-23,24,"Tue, Jan 30, 2018",7:00 pm/est,,REG,,Indiana,Big Ten,W,71,56,,19,5,W 1,Value City Arena
-24,25,"Sun, Feb 4, 2018",12:00 pm/est,,REG,,Illinois,Big Ten,W,75,67,,20,5,W 2,Value City Arena
-25,26,"Wed, Feb 7, 2018",8:30 pm/est,,REG,@,Purdue (3),Big Ten,W,64,63,,21,5,W 3,Mackey Arena
-26,27,"Sat, Feb 10, 2018",6:00 pm/est,,REG,,Iowa,Big Ten,W,82,64,,22,5,W 4,Value City Arena
-27,28,"Thu, Feb 15, 2018",8:00 pm/est,,REG,@,Penn State,Big Ten,L,56,79,,22,6,L 1,Bryce Jordan Center
-28,29,"Sun, Feb 18, 2018",1:00 pm/est,,REG,@,Michigan (22),Big Ten,L,62,74,,22,7,L 2,Crisler Arena
-29,30,"Tue, Feb 20, 2018",7:00 pm/est,,REG,,Rutgers,Big Ten,W,79,52,,23,7,W 1,Value City Arena
-30,31,"Fri, Feb 23, 2018",8:00 pm/est,,REG,@,Indiana,Big Ten,W,80,78,2OT,24,7,W 2,Assembly Hall
-31,32,"Fri, Mar 2, 2018",6:30 pm/est,,CTOURN,N,Penn State,Big Ten,L,68,69,,24,8,L 1,Madison Square Garden (IV)
-32,33,"Thu, Mar 15, 2018",4:00 pm/est,,NCAA,N,South Dakota State,Summit,,,,,,,,
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",6:00p,REG,@,Cincinnati,AAC,W,64,56,,1,0,W 1,Fifth Third Arena
+1,2,"Sun, Nov 11, 2018",4:00p,REG,,Purdue-Fort Wayne,Summit,W,107,61,,2,0,W 2,Value City Arena
+2,3,"Thu, Nov 15, 2018",7:00p,REG,@,Creighton,Big East,W,69,60,,3,0,W 3,CenturyLink Center
+3,4,"Sun, Nov 18, 2018",2:00p,REG,,South Carolina State,MEAC,W,89,61,,4,0,W 4,Value City Arena
+4,5,"Tue, Nov 20, 2018",7:00p,REG,,Samford,Southern,W,68,50,,5,0,W 5,Value City Arena
+5,6,"Fri, Nov 23, 2018",8:00p,REG,,Cleveland State,Horizon,W,89,62,,6,0,W 6,St. John Arena
+6,7,"Wed, Nov 28, 2018",7:15p,REG,,Syracuse,ACC,L,62,72,,6,1,L 1,Value City Arena
+7,8,"Sun, Dec 2, 2018",7:00p,REG,,Minnesota,Big Ten,W,79,59,,7,1,W 1,Value City Arena
+8,9,"Wed, Dec 5, 2018",7:00p,REG,N,Illinois,Big Ten,W,77,67,,8,1,W 2,United Center
+9,10,"Sat, Dec 15, 2018",12:00p,REG,,Bucknell,Patriot,W,73,71,,9,1,W 3,Value City Arena
+10,11,"Tue, Dec 18, 2018",7:00p,REG,,Youngstown State,Horizon,W,75,56,,10,1,W 4,Value City Arena
+11,12,"Sat, Dec 22, 2018",3:00p,REG,N,UCLA,Pac-12,W,80,66,,11,1,W 5,United Center
+12,13,"Sat, Dec 29, 2018",12:00p,REG,,High Point,Big South,W,82,64,,12,1,W 6,Value City Arena
+13,14,"Sat, Jan 5, 2019",12:00p,REG,,Michigan State (8),Big Ten,L,77,86,,12,2,L 1,Value City Arena
+14,15,"Wed, Jan 9, 2019",7:00p,REG,@,Rutgers,Big Ten,L,61,64,,12,3,L 2,Louis Brown Athletic Center
+15,16,"Sat, Jan 12, 2019",2:30p,REG,@,Iowa,Big Ten,L,62,72,,12,4,L 3,Carver-Hawkeye Arena
+16,17,"Fri, Jan 18, 2019",6:30p,REG,,Maryland (19),Big Ten,L,61,75,,12,5,L 4,Value City Arena
+17,18,"Wed, Jan 23, 2019",7:00p,REG,,Purdue,Big Ten,L,67,79,,12,6,L 5,Value City Arena
+18,19,"Sat, Jan 26, 2019",12:00p,REG,@,Nebraska,Big Ten,W,70,60,,13,6,W 1,Pinnacle Bank Arena
+19,20,"Tue, Jan 29, 2019",9:00p,REG,@,Michigan (5),Big Ten,L,49,65,,13,7,L 1,Crisler Arena
+20,21,"Sat, Feb 2, 2019",12:00p,REG,,Rutgers,Big Ten,W,76,62,,14,7,W 1,Value City Arena
+21,22,"Thu, Feb 7, 2019",7:00p,REG,,Penn State,Big Ten,W,74,70,,15,7,W 2,Value City Arena
+22,23,"Sun, Feb 10, 2019",1:00p,REG,@,Indiana,Big Ten,W,55,52,,16,7,W 3,Assembly Hall
+23,24,"Thu, Feb 14, 2019",7:00p,REG,,Illinois,Big Ten,L,56,63,,16,8,L 1,Value City Arena
+24,25,"Sun, Feb 17, 2019",1:00p,REG,@,Michigan State (11),Big Ten,L,44,62,,16,9,L 2,Breslin Events Center
+25,26,"Wed, Feb 20, 2019",8:30p,REG,,Northwestern,Big Ten,W,63,49,,17,9,W 1,Value City Arena
+26,27,"Sat, Feb 23, 2019",2:00p,REG,@,Maryland (24),Big Ten,L,62,72,,17,10,L 1,Xfinity Center
+27,28,"Tue, Feb 26, 2019",7:00p,REG,,Iowa (22),Big Ten,W,90,70,,18,10,W 1,Value City Arena
+28,29,"Sat, Mar 2, 2019",2:00p,REG,@,Purdue (14),Big Ten,L,51,86,,18,11,L 1,Mackey Arena
+29,30,"Wed, Mar 6, 2019",9:00p,REG,@,Northwestern,Big Ten,L,50,68,,18,12,L 2,Welsh-Ryan Arena
+30,31,"Sun, Mar 10, 2019",4:30p,REG,,Wisconsin (21),Big Ten,L,67,73,OT,18,13,L 3,Value City Arena
+31,32,"Thu, Mar 14, 2019",12:30p,CTOURN,N,Indiana,Big Ten,W,79,75,,19,13,W 1,United Center
+32,33,"Fri, Mar 15, 2019",12:30p,CTOURN,N,Michigan State (6),Big Ten,L,70,77,,19,14,L 1,United Center
+33,34,"Fri, Mar 22, 2019",9:50p,NCAA,N,Iowa State,Big 12,,,,,,,,

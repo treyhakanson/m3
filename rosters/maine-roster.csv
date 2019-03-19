@@ -1,18 +1,17 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Aaron Calixte,1,SR,G,5-11,175,"Stoughton, MA",Stoughton, 16.9 Pts,3.1 Reb,3.2 Ast
-1,Andrew Fleming,0,SO,F,6-7,222,"South Paris, ME",Oxford Hills High School, 9.7 Pts,5.3 Reb,1.3 Ast
-2,Isaiah White,14,FR,G,6-6,180,"Ellicott, MD",Centennial HS, 11.1 Pts,4.6 Reb,0.8 Ast
-3,Ilker Er,33,SR,G,6-6,212,Turkey,Arlington Country Day School, 7.9 Pts,3.6 Reb,0.5 Ast
-4,Vernon Lowndes Jr.,15,FR,G,6-5,180,"Charleston, SC",, 6.5 Pts,3.2 Reb,0.6 Ast
-5,Ilija Stojiljkovic,11,JR,F,6-7,210,Serbia,Pravno-Poslovna skola Nis, 4.3 Pts,5.1 Reb,0.9 Ast
-6,Dennis Ashley,32,SO,G,6-1,165,"Los Angeles, CA",Bridgton Academy, 3.9 Pts,1.5 Reb,0.6 Ast
-7,Danny Evans,5,SO,G,6-4,203,United Kingdom,Phillips Academy, 3.7 Pts,2.1 Reb,0.8 Ast
-8,Dusan Majstorovic,4,JR,G,6-5,195,Serbia,, 4.0 Pts,2.3 Reb,0.7 Ast
-9,Miks Antoms,13,FR,F,6-8,245,Latvia,, 1.9 Pts,2.0 Reb,0.4 Ast
-10,Celio Araujo,2,FR,G,5-10,175,Brazil,, 1.3 Pts,1.3 Reb,1.8 Ast
-11,Trae Bryant,3,FR,G,6-1,180,"Wilmington, NC",Hoggard HS, 5.4 Pts,3.4 Reb,2.9 Ast
-12,Garvey Melmed,22,JR,G,6-1,175,"Penobscot, ME",Old Town HS, 1.0 Pts,0.5 Reb,0.3 Ast
-13,Duncan Douglas,21,FR,F,6-6,230,"Lubbock, TX",, 0.0 Pts,0.5 Reb,0.0 Ast
-14,Rob Birstonas,31,,G,6-4,195,,,,,
-15,Vincent Eze,50,,F,6-8,218,"Bethlehem, PA",Notre Dame HS/Putnam,,,
-16,Lewis Wang,12,,G,6-1,180,,,,,
+0,Isaiah White,14,JR,G,6-5,195,"Ellicott City, MD",Centennial HS, 13.5 Pts,3.6 Reb,1.6 Ast
+1,Andrew Fleming,0,JR,F,6-7,222,"Norway, ME",Oxford Hills High School, 13.8 Pts,7.0 Reb,3.1 Ast
+2,Sergio El Darwich,25,JR,G,6-4,205,"Dekweneh, Lebanon",Lee Academy Prep, 10.4 Pts,4.2 Reb,3.0 Ast
+3,Vincent Eze,50,JR,F,6-8,218,"Lagos, Nigeria",Notre Dame HS/Putnam, 6.8 Pts,4.2 Reb,1.2 Ast
+4,Vilgot Larsson,3,SO,F,6-8,215,"Stockholm, Sweden",, 6.7 Pts,3.8 Reb,1.3 Ast
+5,Terion Moss,4,FR,G,5-10,175,"Portland, ME",Portland HS, 5.4 Pts,2.6 Reb,1.7 Ast
+6,Dennis Ashley,32,JR,G,6-1,176,"Los Angeles, CA",Bridgton Academy, 4.1 Pts,0.7 Reb,0.6 Ast
+7,Ilija Stojiljkovic,11,SR,F,6-7,223,"Nis, Serbia",Pravno-Poslovna skola Nis, 3.1 Pts,2.5 Reb,1.6 Ast
+8,Miks Antoms,13,SO,F,6-8,245,"Riga, Latvia",Lee Academy Prep, 1.7 Pts,1.8 Reb,1.0 Ast
+9,Celio Araujo,2,SR,G,5-10,175,"Governador Valadares, Brazil",The Master's School, 1.3 Pts,0.6 Reb,1.2 Ast
+10,Lewis Wang,12,SO,G,6-1,180,"Taipei, Taiwan",Lee Academy, 0.9 Pts,0.0 Reb,0.2 Ast
+11,Mykhailo Yagodin,24,SO,G,6-5,195,"Odessa, Ukraine",, 7.0 Pts,0.0 Reb,1.0 Ast
+12,Solomon Iluyomade,22,SO,F,6-7,225,"London, United Kingdom",, 0.0 Pts,3.0 Reb,0.0 Ast
+13,Stephane Ingo,10,FR,F,6-9,200,"Mississauga, Canada",Gould Academy, 0.0 Pts,0.0 Reb,0.0 Ast
+14,David Begic,20,FR,F,6-7,209,"Zadar, Croatia",The Vanguard School,,,
+15,Nedeljko Prijovic,5,JR,F,6-8,210,"Belgrade, Serbia",Lee Academy Prep,,,

@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Arlington Baptist,,W,107,54,,1,0,W 1,Moody Coliseum 
+1,2,"Fri, Nov 9, 2018",8:30p,REG,,Arkansas State,Sun Belt,W,94,73,,2,0,W 2,Moody Coliseum 
+2,3,"Thu, Nov 15, 2018",9:00p,REG,@,Denver,Summit,W,67,61,,3,0,W 3,Magness Arena
+3,4,"Thu, Nov 22, 2018",6:00p,REG,N,Elon,CAA,W,72,56,,4,0,W 4,A.G. Spanos Center
+4,5,"Fri, Nov 23, 2018",8:30p,REG,@,Pacific,WCC,W,73,71,,5,0,W 5,A.G. Spanos Center
+5,6,"Sat, Nov 24, 2018",8:30p,REG,N,UC-Riverside,Big West,W,60,48,,6,0,W 6,A.G. Spanos Center
+6,7,"Tue, Nov 27, 2018",7:00p,REG,,Howard Payne,,W,90,53,,7,0,W 7,Moody Coliseum 
+7,8,"Sat, Dec 1, 2018",8:00p,REG,@,Pepperdine,WCC,L,62,77,,7,1,L 1,Firestone Fieldhouse
+8,9,"Tue, Dec 4, 2018",8:00p,REG,,Campbell,Big South,W,83,68,,8,1,W 1,Moody Coliseum 
+9,10,"Sat, Dec 8, 2018",11:30a,REG,,Schreiner,,W,93,53,,9,1,W 2,Moody Coliseum 
+10,11,"Sat, Dec 15, 2018",7:00p,REG,@,Texas Tech (11),Big 12,L,48,82,,9,2,L 1,
+11,12,"Fri, Dec 21, 2018",7:30p,REG,@,Southeast Missouri State,OVC,W,70,68,,10,2,W 1,Show Me Center
+12,13,"Sat, Dec 29, 2018",2:00p,REG,,McMurry,,W,88,40,,11,2,W 2,Moody Coliseum 
+13,14,"Wed, Jan 2, 2019",8:00p,REG,,New Orleans,Southland,W,68,58,,12,2,W 3,Moody Coliseum 
+14,15,"Sat, Jan 5, 2019",6:30p,REG,@,Sam Houston State,Southland,L,68,71,,12,3,L 1,Johnson Coliseum
+15,16,"Wed, Jan 9, 2019",7:30p,REG,@,McNeese State,Southland,W,73,72,,13,3,W 1,H&HP Complex
+16,17,"Sat, Jan 12, 2019",5:00p,REG,@,Southeastern Louisiana,Southland,W,75,72,,14,3,W 2,University Center
+17,18,"Wed, Jan 16, 2019",8:00p,REG,,Houston Baptist,Southland,W,75,68,,15,3,W 3,Moody Coliseum 
+18,19,"Sat, Jan 19, 2019",7:00p,REG,,Northwestern State,Southland,W,78,69,,16,3,W 4,Moody Coliseum 
+19,20,"Wed, Jan 23, 2019",7:30p,REG,@,Stephen F. Austin,Southland,L,60,61,,16,4,L 1,William Johnson Coliseum
+20,21,"Sat, Jan 26, 2019",4:30p,REG,,Central Arkansas,Southland,W,79,56,,17,4,W 1,Moody Coliseum 
+21,22,"Wed, Jan 30, 2019",8:00p,REG,,Texas A&M-Corpus Christi,Southland,W,78,71,,18,4,W 2,Moody Coliseum 
+22,23,"Wed, Feb 6, 2019",8:00p,REG,@,Lamar,Southland,W,75,64,,19,4,W 3,Montagne Center
+23,24,"Sat, Feb 9, 2019",7:00p,REG,,Sam Houston State,Southland,L,85,90,2OT,19,5,L 1,Moody Coliseum 
+24,25,"Wed, Feb 13, 2019",8:00p,REG,@,Nicholls State,Southland,W,64,48,,20,5,W 1,David Stopher Gymnasium
+25,26,"Sat, Feb 16, 2019",4:00p,REG,@,Incarnate Word,Southland,W,68,48,,21,5,W 2,McDermott Center
+26,27,"Sat, Feb 23, 2019",4:30p,REG,,Southeastern Louisiana,Southland,L,66,75,,21,6,L 1,Moody Coliseum 
+27,28,"Wed, Feb 27, 2019",8:00p,REG,@,Texas A&M-Corpus Christi,Southland,W,73,64,,22,6,W 1,American Bank Center
+28,29,"Sat, Mar 2, 2019",5:00p,REG,@,Central Arkansas,Southland,W,67,55,,23,6,W 2,Jeff Farris Center
+29,30,"Tue, Mar 5, 2019",8:00p,REG,,Stephen F. Austin,Southland,W,72,58,,24,6,W 3,Moody Coliseum 
+30,31,"Sat, Mar 9, 2019",4:30p,REG,,Incarnate Word,Southland,W,81,52,,25,6,W 4,Moody Coliseum 
+31,32,"Fri, Mar 15, 2019",8:30p,CTOURN,N,Southeastern Louisiana,Southland,W,69,66,,26,6,W 5,Leonard E. Merrell Center
+32,33,"Sat, Mar 16, 2019",9:30p,CTOURN,N,New Orleans,Southland,W,77,60,,27,6,W 6,Leonard E. Merrell Center
+33,34,"Thu, Mar 21, 2019",7:10p,NCAA,N,Kentucky (4),SEC,,,,,,,,

@@ -1,17 +1,14 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Colton Weisbrod,21,SR,F,6-5,215,"Nederland, TX",Nederland, 14.7 Pts,8.0 Reb,1.8 Ast
-1,Nick Garth,3,JR,G,5-11,185,"Houston, TX",Cypress Lake HS, 13.5 Pts,2.3 Reb,1.7 Ast
-2,Josh Nzeakor,11,JR,F,6-6,207,"Mesquite, TX",Mesquite High School, 12.5 Pts,7.4 Reb,0.7 Ast
-3,Zjori Bosha,12,SR,G,6-5,170,"Nome, TX",Hardin-Jefferson HS, 9.4 Pts,5.0 Reb,1.2 Ast
-4,James Harrison,1,SR,F,6-4,210,"Houston, TX",Westfield, 8.7 Pts,2.3 Reb,0.7 Ast
-5,Joey Frenchwood,32,SR,G,6-1,175,"Newark, CA",Memorial, 7.5 Pts,2.5 Reb,4.2 Ast
-6,Torey Noel,10,SR,G,5-10,190,"Oklahoma City, OK",Midwest City High School, 3.9 Pts,1.7 Reb,2.8 Ast
-7,Tyrin Atwood,15,SO,G,6-6,203,"Beaumont, TX",Beaumont Central High School, 4.3 Pts,2.6 Reb,0.8 Ast
-8,Jordan Foster,23,FR,C,6-9,225,"Lafayette, LA",, 2.5 Pts,2.6 Reb,0.1 Ast
-9,Avery Sullivan,5,FR,F,6-8,220,"Pflugerville, TX",, 1.3 Pts,1.6 Reb,0.3 Ast
-10,Da'Shawn Robinson,20,,G,6-4,200,"Houston, TX",Alief Elsik High School, 1.5 Pts,0.8 Reb,0.6 Ast
-11,Cannon Broussard,25,FR,G,6-1,170,"Beaumont, TX",, 2.2 Pts,0.0 Reb,0.0 Ast
-12,Vince Holmes,,,G,6-4,185,"Jupiter, FL",Oxbridge Academy of the Palm Beaches,,,
-13,Jordan Hunter,,,G,5-11,180,"Beaumont, TX",Ozen High School,,,
-14,Michael Kolawole,,,G,6-5,195,"Rowlett, TX",Rowlett (TX),,,
-15,Laquarious Paige,,,G,6-3,180,"West Orange, TX",Stark HS,,,
+0,Nick Garth,3,SR,G,6-0,191,"Houston, TX",Cypress Lake HS, 16.7 Pts,2.4 Reb,2.3 Ast
+1,Josh Nzeakor,11,SR,F,6-8,230,"Mesquite, TX",Mesquite High School, 15.0 Pts,7.8 Reb,0.7 Ast
+2,Jordan Hunter,0,JR,G,5-11,180,"Beaumont, TX",Ozen High School, 11.4 Pts,2.3 Reb,3.6 Ast
+3,Tyrin Atwood,15,JR,G,6-6,203,"Beaumont, TX",Beaumont Central High School, 10.9 Pts,5.4 Reb,2.1 Ast
+4,Christian Barrett,22,JR,F,6-6,220,"Houston, TX",, 7.5 Pts,7.4 Reb,0.7 Ast
+5,Vince Holmes,12,JR,G,6-4,185,"Jupiter, FL",Oxbridge Academy of the Palm Beaches, 5.1 Pts,3.0 Reb,2.6 Ast
+6,Davion Buster,13,FR,G,5-10,150,"Austin, TX",Lanier HS, 8.1 Pts,1.6 Reb,1.3 Ast
+7,Michael Kolawole,1,JR,G,6-5,200,"Rowlett, TX",Rowlett (TX), 4.4 Pts,3.6 Reb,1.6 Ast
+8,Edwin Jeudy,14,JR,F,6-7,210,"Montreal, Canada",, 5.1 Pts,3.7 Reb,0.6 Ast
+9,Grehlon Easter,2,FR,G,6-3,172,"Little Rock, AR",Mills HS, 2.8 Pts,0.8 Reb,0.5 Ast
+10,Laquarious Paige,24,JR,G,6-3,180,"West Orange, TX",Stark HS, 5.1 Pts,1.5 Reb,0.9 Ast
+11,Avery Sullivan,5,SO,F,6-8,220,"Pflugerville, TX",Pflugerville High School, 2.5 Pts,1.5 Reb,0.1 Ast
+12,Jordan Foster,23,SO,C,6-9,225,"Lafayette, LA",Ovey Comeaux High School, 1.0 Pts,1.4 Reb,0.1 Ast

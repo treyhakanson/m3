@@ -1,16 +1,14 @@
 ,Name,Number,Year,Position,Height,Weight,Hometown,High School,PPG,RPG,APG
-0,Connor Cashaw,0,JR,G,6-5,195,"Lincolnshire, IL",Stevenson HS, 15.5 Pts,7.1 Reb,3.2 Ast
-1,Ako Adams,3,SO,G,6-2,170,"Washington, DC",OConnell High School, 10.5 Pts,2.6 Reb,3.2 Ast
-2,Malik Osborne,13,FR,F,6-8,200,"Matteson, IL",, 9.0 Pts,6.5 Reb,0.8 Ast
-3,Bishop Mency,15,SR,G,6-5,185,"Chino Hills, CA",Chino Hills HS, 7.8 Pts,5.0 Reb,0.8 Ast
-4,Najja Hunter,14,FR,G,6-5,180,"Brooklyn, NY",, 6.4 Pts,3.1 Reb,1.1 Ast
-5,Robert Martin,10,SO,F,6-6,220,"Pittsburgh, PA",Tilton School, 6.0 Pts,3.0 Reb,0.9 Ast
-6,Tim Harrison,35,SO,F,6-8,220,"San Diego, CA",Francis Parker High School, 3.1 Pts,2.1 Reb,0.2 Ast
-7,Austin Meyer,30,SO,F,6-9,250,"Pflugerville, TX",Mustang High School, 4.4 Pts,2.2 Reb,0.1 Ast
-8,A.J. Lapray,2,SR,G,6-5,190,"Salem, OR",Sprague, 9.1 Pts,3.3 Reb,0.8 Ast
-9,Miles Lester,11,FR,G,6-5,190,"Wichita, KS",, 3.1 Pts,1.2 Reb,1.6 Ast
-10,Dylan Jones,4,SR,F,6-8,215,"Houston, TX",The Village School, 2.2 Pts,1.2 Reb,0.3 Ast
-11,Addison Owen,5,,G,6-5,190,"Atlanta, GA",Paideia School, 0.0 Pts,1.0 Reb,0.0 Ast
-12,J.T. Trauber,24,SR,G,5-10,165,"Houston, TX",St. John's School, 0.0 Pts,0.3 Reb,0.3 Ast
-13,Grant Youngkin,20,,G,6-3,180,"Washington, DC",St. Albans School, 0.0 Pts,0.0 Reb,0.0 Ast
-14,Josh Parrish,12,,G,6-5,210,"Arlington, TX",Seguin High School,,,
+0,Robert Martin,10,JR,F,6-6,220,"Pittsburgh, PA",Tilton School, 12.2 Pts,6.2 Reb,1.7 Ast
+1,Chris Mullins,24,FR,G,6-3,170,"Grand Prairie, TX",Mansfield Timberview HS, 12.0 Pts,2.8 Reb,2.7 Ast
+2,Ako Adams,3,JR,G,6-2,170,"Washington, DC",OConnell High School, 11.2 Pts,2.6 Reb,2.6 Ast
+3,Jack Williams,32,SR,F,6-8,220,"Valencia, CA",Chaminade HS, 9.5 Pts,7.8 Reb,0.9 Ast
+4,Trey Murphy III,2,FR,G,6-7,180,"Durham, NC",Cary Academy, 8.4 Pts,2.6 Reb,0.7 Ast
+5,Quentin Millora-Brown,42,FR,F,6-9,205,"Lorton, VA",South County HS, 7.2 Pts,5.9 Reb,1.2 Ast
+6,Josh Parrish,1,SO,G,6-5,210,"Arlington, TX",Seguin High School, 6.3 Pts,2.8 Reb,1.1 Ast
+7,Drew Peterson,23,FR,G,6-8,180,"Libertyville, IL",Libertyville HS, 5.0 Pts,3.3 Reb,1.5 Ast
+8,Payton Moore,0,FR,G,6-4,175,"Los Angeles, CA",Santa Monica HS, 2.6 Pts,1.2 Reb,0.9 Ast
+9,Tim Harrison,35,JR,F,6-8,220,"San Diego, CA",Francis Parker High School, 0.9 Pts,0.6 Reb,0.3 Ast
+10,Dylan Jones,4,SR,F,6-8,215,"Houston, TX",The Village School, 1.5 Pts,0.3 Reb,0.0 Ast
+11,Oliver Xu,30,SR,G,6-2,170,"Hong Kong, Hong Kong",Hong Kong International School, 0.3 Pts,0.7 Reb,0.3 Ast
+12,Addison Owen,5,JR,G,6-5,185,"Atlanta, GA",Paideia School, 0.0 Pts,0.0 Reb,0.0 Ast
