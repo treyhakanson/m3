@@ -79,6 +79,10 @@ def adjust_date_time(row):
     return '%s-%s' % (dt, tm)
 
 
+def clean_name(name):
+    return " ".join(sorted(re.sub(r"(Jr\.?|Sr\.?|III)", "", name).strip().split(" ")))
+
+
 def load_roster(fname):
     try:
         roster = pd.read_csv(fname)
@@ -87,6 +91,7 @@ def load_roster(fname):
         # if a team's roster is unavailable, they are terrible, and Chicago
         # State is the worst team whose roster is available
         roster = pd.read_csv(roster_file_path('chicago-state'))
+    roster['Name'] = roster['Name'].apply(clean_name)
     roster['Height'] = roster['Height'].apply(height_to_inches)
     roster['Height'] = roster['Height'].fillna(roster['Height'].mean())
     roster['Weight'] = roster['Weight'].fillna(roster['Weight'].mean())
@@ -106,7 +111,7 @@ def load_roster(fname):
     return roster
 
 
-def load_scheulde(fname):
+def load_schedule(fname):
     schedule = pd.read_csv(fname)
     schedule = schedule.drop('Unnamed: 0', axis=1)
     schedule = schedule.drop('Type', axis=1)
@@ -133,6 +138,7 @@ def load_scheulde(fname):
 
 def load_boxscore(fname):
     boxscore = pd.read_csv(fname)
+    boxscore['Name'] = boxscore['Name'].apply(clean_name)
     boxscore = boxscore.drop('Unnamed: 0', axis=1)
     boxscore = boxscore.drop('FG%', axis=1)
     boxscore = boxscore.drop('2P%', axis=1)
@@ -176,7 +182,7 @@ def avg_physiology(school):
     avg_weight = 0.0
     avg_height = 0.0
     roster = load_roster(roster_file_path(school))
-    schedule = load_scheulde(schedule_file_path(school))
+    schedule = load_schedule(schedule_file_path(school))
     for i, game in schedule.iterrows():
         boxscore = load_boxscore(boxscore_file_path_alt(school, game['Date']))
         weight, height = physiology(roster, boxscore)
@@ -193,7 +199,7 @@ def compute_stats(school, stat='PTS'):
     weights = []
     heights = []
 
-    schedule = load_scheulde(schedule_file_path(school))
+    schedule = load_schedule(schedule_file_path(school))
 
     print('Computing data for team %s...' % (school.upper()))
 
@@ -213,3 +219,8 @@ def compute_stats(school, stat='PTS'):
             points[player['Name']] = a
 
     return (points, weights, heights)
+
+
+def join_roster_and_boxscore(rdf, bdf):
+    bdf_joined = bdf.set_index("Name").join(rdf.set_index("Name"), on="Name")
+    return bdf_joined

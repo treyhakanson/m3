@@ -14,7 +14,7 @@ markers = ['o', '*', 'h', 'x', 'D', '+', '^']
 patches = []
 
 school_roster = utils.load_roster(utils.roster_file_path(school))
-school_schedule = utils.load_scheulde(utils.schedule_file_path(school))
+school_schedule = utils.load_schedule(utils.schedule_file_path(school))
 
 stats, heights, weights = utils.compute_stats(school, stat=stat)
 

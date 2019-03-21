@@ -27,12 +27,12 @@ def project_matchup(school1, school2):
 
     try:
         with suppress_stdout():
-            school1_schedule = utils.load_scheulde(
+            school1_schedule = utils.load_schedule(
                 utils.schedule_file_path(school1))
             school1_pts = school1_schedule['Team Points'].values
             school1_def = school1_schedule['Opponent Points'].values
 
-            school2_schedule = utils.load_scheulde(
+            school2_schedule = utils.load_schedule(
                 utils.schedule_file_path(school2))
             school2_pts = school2_schedule['Team Points'].values
             school2_def = school2_schedule['Opponent Points'].values
