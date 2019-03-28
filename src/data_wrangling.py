@@ -31,7 +31,7 @@ def _import_training_data(feature_teams):
 				})
 	return cleaned_training_data
 
-def _import_feature_vectors():
+def import_feature_vectors():
 	feature_vectors = {}
 	for fname in os.listdir(FEATURE_DIR):
 		if fname.endswith(".csv"): 
@@ -50,7 +50,7 @@ def _import_training_teams():
 	return teams
 
 def gimme_data():
-	feature_vectors = _import_feature_vectors()
+	feature_vectors = import_feature_vectors()
 	training_data = _import_training_data(feature_vectors.keys())
 	qualified_teams = _import_training_teams()
 
