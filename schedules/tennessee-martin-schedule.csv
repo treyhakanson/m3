@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:30p,REG,,Cumberland,,W,91,58,,1,0,W 1,Skyhawk Arena
+1,2,"Sat, Nov 10, 2018",7:00p,REG,@,Western Kentucky,CUSA,L,71,86,,1,1,L 1,E.A. Diddle Arena
+2,3,"Fri, Nov 16, 2018",7:00p,REG,@,Mercer,Southern,L,60,77,,1,2,L 2,Hawkins Arena
+3,4,"Wed, Nov 21, 2018",4:30p,REG,,Western Illinois,Summit,W,92,90,,2,2,W 1,Skyhawk Arena
+4,5,"Sat, Dec 1, 2018",8:30p,REG,,North Carolina-Asheville,Big South,W,87,70,,3,2,W 2,Skyhawk Arena
+5,6,"Wed, Dec 5, 2018",8:00p,REG,@,Tulane,AAC,L,74,87,,3,3,L 1,Devlin Fieldhouse
+6,7,"Sat, Dec 8, 2018",4:00p,REG,@,East Tennessee State,Southern,L,62,80,,3,4,L 2,Freedom Hall Civic Center
+7,8,"Sat, Dec 15, 2018",8:30p,REG,,Brescia,,W,108,79,,4,4,W 1,Skyhawk Arena
+8,9,"Tue, Dec 18, 2018",8:30p,REG,,Chattanooga,Southern,W,75,72,,5,4,W 2,Skyhawk Arena
+9,10,"Sat, Dec 22, 2018",7:00p,REG,@,Fresno State,MWC,L,53,93,,5,5,L 1,Save Mart Center
+10,11,"Sun, Dec 30, 2018",2:30p,REG,@,Bowling Green State,MAC,L,80,94,,5,6,L 2,Stroh Center
+11,12,"Thu, Jan 3, 2019",8:30p,REG,@,Eastern Illinois,OVC,L,87,92,OT,5,7,L 3,Lantz Arena
+12,13,"Sat, Jan 5, 2019",5:30p,REG,@,Southeast Missouri State,OVC,L,69,74,OT,5,8,L 4,Show Me Center
+13,14,"Thu, Jan 10, 2019",8:30p,REG,,Murray State,OVC,L,77,98,,5,9,L 5,Skyhawk Arena
+14,15,"Sat, Jan 12, 2019",4:30p,REG,,Austin Peay,OVC,L,70,72,,5,10,L 6,Skyhawk Arena
+15,16,"Thu, Jan 17, 2019",7:30p,REG,@,Eastern Kentucky,OVC,L,73,97,,5,11,L 7,McBrayer Arena
+16,17,"Sat, Jan 19, 2019",6:35p,REG,@,Morehead State,OVC,L,77,85,,5,12,L 8,Ellis T. Johnson Arena
+17,18,"Thu, Jan 24, 2019",8:30p,REG,,Eastern Illinois,OVC,L,64,66,,5,13,L 9,Skyhawk Arena
+18,19,"Sat, Jan 26, 2019",4:30p,REG,,Southern Illinois-Edwardsville,OVC,W,85,69,,6,13,W 1,Skyhawk Arena
+19,20,"Thu, Jan 31, 2019",8:30p,REG,@,Tennessee State,OVC,L,67,68,,6,14,L 1,Gentry Center Complex
+20,21,"Sat, Feb 2, 2019",6:00p,REG,@,Belmont,OVC,L,67,82,,6,15,L 2,Curb Event Center
+21,22,"Thu, Feb 7, 2019",8:30p,REG,,Jacksonville State,OVC,W,66,64,,7,15,W 1,Skyhawk Arena
+22,23,"Sat, Feb 9, 2019",4:30p,REG,,Tennessee Tech,OVC,W,77,58,,8,15,W 2,Skyhawk Arena
+23,24,"Thu, Feb 14, 2019",8:30p,REG,,Southeast Missouri State,OVC,W,81,72,,9,15,W 3,Skyhawk Arena
+24,25,"Sat, Feb 16, 2019",3:00p,REG,@,Southern Illinois-Edwardsville,OVC,W,73,69,,10,15,W 4,Sam Vadalabene Center 
+25,26,"Thu, Feb 21, 2019",8:00p,REG,@,Murray State,OVC,L,75,85,,10,16,L 1,CFSB Center
+26,27,"Sat, Feb 23, 2019",6:00p,REG,@,Austin Peay,OVC,L,78,92,,10,17,L 2,Winfield Dunn Center
+27,28,"Thu, Feb 28, 2019",8:30p,REG,,Belmont,OVC,L,67,112,,10,18,L 3,Skyhawk Arena
+28,29,"Sat, Mar 2, 2019",4:30p,REG,,Tennessee State,OVC,W,91,86,,11,18,W 1,Skyhawk Arena
+29,30,"Wed, Mar 6, 2019",9:30p,CTOURN,N,Eastern Illinois,OVC,W,78,71,,12,18,W 2,Ford Center
+30,31,"Thu, Mar 7, 2019",9:30p,CTOURN,N,Jacksonville State,OVC,L,81,88,,12,19,L 1,Ford Center

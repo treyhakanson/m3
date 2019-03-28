@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,@,Wyoming,MWC,W,76,66,,1,0,W 1,Arena-Auditorium
+1,2,"Sun, Nov 11, 2018",2:00p,REG,@,North Dakota State,Summit,L,63,82,,1,1,L 1,Scheels Center
+2,3,"Tue, Nov 13, 2018",10:00p,REG,,Cal Lutheran,,W,88,32,,2,1,W 1,The Thunderdome
+3,4,"Sat, Nov 17, 2018",5:00p,REG,,Montana State,Big Sky,W,88,69,,3,1,W 2,The Thunderdome
+4,5,"Fri, Nov 23, 2018",7:00p,REG,N,Portland State,Big Sky,W,76,69,,4,1,W 3,CenturyLink Arena
+5,6,"Sat, Nov 24, 2018",9:00p,REG,N,Idaho,Big Sky,W,66,55,,5,1,W 4,CenturyLink Arena
+6,7,"Thu, Nov 29, 2018",10:00p,REG,,Sacramento State,Big Sky,W,75,58,,6,1,W 5,The Thunderdome
+7,8,"Sun, Dec 2, 2018",8:00p,REG,@,Washington,Pac-12,L,63,67,,6,2,L 1,Alaska Airlines Arena
+8,9,"Sat, Dec 8, 2018",10:00p,REG,,Arkansas-Pine Bluff,SWAC,W,55,45,,7,2,W 1,The Thunderdome
+9,10,"Sat, Dec 15, 2018",3:00p,REG,@,Rice,CUSA,W,99,89,OT,8,2,W 2,Tudor Fieldhouse
+10,11,"Wed, Dec 19, 2018",8:00p,REG,@,Omaha,Summit,L,74,85,,8,3,L 1,Baxter Arena
+11,12,"Sat, Dec 22, 2018",5:00p,REG,,Idaho State,Big Sky,W,84,65,,9,3,W 1,The Thunderdome
+12,13,"Sat, Dec 29, 2018",10:00p,REG,,San Francisco,WCC,W,73,71,,10,3,W 2,The Thunderdome
+13,14,"Wed, Jan 2, 2019",10:00p,REG,,Bethesda University (CA),,W,109,47,,11,3,W 3,The Thunderdome
+14,15,"Wed, Jan 9, 2019",10:00p,REG,,Cal Poly,Big West,W,65,56,,12,3,W 4,The Thunderdome
+15,16,"Sat, Jan 12, 2019",10:00p,REG,,UC-Riverside,Big West,W,72,64,,13,3,W 5,The Thunderdome
+16,17,"Thu, Jan 17, 2019",10:00p,REG,@,UC-Davis,Big West,W,69,58,,14,3,W 6,The Pavilion
+17,18,"Thu, Jan 24, 2019",10:00p,REG,@,Cal State Fullerton,Big West,L,60,81,,14,4,L 1,Titan Gym
+18,19,"Sat, Jan 26, 2019",10:00p,REG,@,Long Beach State,Big West,W,82,71,,15,4,W 1,The Walter Pyramid
+19,20,"Thu, Jan 31, 2019",11:00p,REG,,UC-Irvine,Big West,L,62,66,OT,15,5,L 1,The Thunderdome
+20,21,"Sat, Feb 2, 2019",11:59p,REG,@,Hawaii,Big West,W,75,54,,16,5,W 1,Stan Sheriff Center
+21,22,"Wed, Feb 6, 2019",10:00p,REG,,Cal State Northridge,Big West,W,70,64,,17,5,W 2,The Thunderdome
+22,23,"Sat, Feb 9, 2019",11:59p,REG,,UC-Davis,Big West,L,57,61,,17,6,L 1,The Thunderdome
+23,24,"Thu, Feb 14, 2019",10:00p,REG,@,UC-Riverside,Big West,L,57,71,,17,7,L 2,UC Riverside Student Recreation Center
+24,25,"Sat, Feb 16, 2019",11:59p,REG,@,UC-Irvine,Big West,L,70,83,,17,8,L 3,Bren Events Center
+25,26,"Thu, Feb 21, 2019",11:00p,REG,,Hawaii,Big West,W,79,61,,18,8,W 1,The Thunderdome
+26,27,"Sat, Feb 23, 2019",10:00p,REG,,Cal State Fullerton,Big West,W,82,67,,19,8,W 2,The Thunderdome
+27,28,"Thu, Feb 28, 2019",10:00p,REG,,Long Beach State,Big West,L,64,69,,19,9,L 1,The Thunderdome
+28,29,"Thu, Mar 7, 2019",10:00p,REG,@,Cal State Northridge,Big West,W,76,74,,20,9,W 1,The Matadome
+29,30,"Sat, Mar 9, 2019",10:00p,REG,@,Cal Poly,Big West,W,92,82,,21,9,W 2,Robert A. Mott Gymnasium
+30,31,"Thu, Mar 14, 2019",3:00p,CTOURN,N,Cal State Northridge,Big West,W,71,68,,22,9,W 3,Honda Center
+31,32,"Fri, Mar 15, 2019",11:59p,CTOURN,N,Cal State Fullerton,Big West,L,58,64,,22,10,L 1,Honda Center

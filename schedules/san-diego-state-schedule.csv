@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,,Arkansas-Pine Bluff,SWAC,W,76,60,,1,0,W 1,Viejas Arena
+1,2,"Wed, Nov 14, 2018",10:00p,REG,,Texas Southern,SWAC,W,103,64,,2,0,W 2,Viejas Arena
+2,3,"Mon, Nov 19, 2018",4:30p,REG,N,Duke (1),ACC,L,64,90,,2,1,L 1,Lahaina Civic Center
+3,4,"Tue, Nov 20, 2018",2:30p,REG,N,Xavier,Big East,W,79,74,,3,1,W 1,Lahaina Civic Center
+4,5,"Wed, Nov 21, 2018",2:30p,REG,N,Iowa State,Big 12,L,57,87,,3,2,L 1,Lahaina Civic Center
+5,6,"Tue, Nov 27, 2018",10:30p,REG,,Jackson State,SWAC,W,87,44,,4,2,W 1,Viejas Arena
+6,7,"Sat, Dec 1, 2018",3:00p,REG,@,Illinois State,MVC,W,75,65,,5,2,W 2,Redbird Arena
+7,8,"Wed, Dec 5, 2018",10:00p,REG,,San Diego,WCC,L,61,73,,5,3,L 1,Viejas Arena
+8,9,"Sat, Dec 8, 2018",10:30p,REG,@,University of California,Pac-12,L,83,89,,5,4,L 2,Haas Pavilion
+9,10,"Wed, Dec 12, 2018",10:00p,REG,,Cal State Dominguez Hills,,W,99,46,,6,4,W 1,Viejas Arena
+10,11,"Sat, Dec 22, 2018",7:00p,REG,,Brigham Young,WCC,W,90,81,,7,4,W 2,Viejas Arena
+11,12,"Sat, Dec 29, 2018",8:00p,REG,,Brown,Ivy,L,61,82,,7,5,L 1,Viejas Arena
+12,13,"Tue, Jan 1, 2019",3:00p,REG,,Cal State Northridge,Big West,W,65,60,,8,5,W 1,Viejas Arena
+13,14,"Sat, Jan 5, 2019",10:00p,REG,@,Boise State,MWC,L,64,88,,8,6,L 1,Taco Bell Arena
+14,15,"Tue, Jan 8, 2019",10:00p,REG,,Wyoming,MWC,W,84,54,,9,6,W 1,Viejas Arena
+15,16,"Sat, Jan 12, 2019",4:00p,REG,@,Air Force,MWC,L,48,62,,9,7,L 1,Clune Arena 
+16,17,"Tue, Jan 15, 2019",11:00p,REG,,New Mexico,MWC,W,97,77,,10,7,W 1,Viejas Arena
+17,18,"Tue, Jan 22, 2019",11:00p,REG,@,Fresno State,MWC,L,62,66,,10,8,L 1,Save Mart Center
+18,19,"Sat, Jan 26, 2019",8:00p,REG,,Nevada-Las Vegas,MWC,W,94,77,,11,8,W 1,Viejas Arena
+19,20,"Wed, Jan 30, 2019",10:00p,REG,,Air Force,MWC,W,66,51,,12,8,W 2,Viejas Arena
+20,21,"Sat, Feb 2, 2019",9:00p,REG,@,San Jose State,MWC,W,67,56,,13,8,W 3,San Jose State Event Center
+21,22,"Tue, Feb 5, 2019",11:00p,REG,@,New Mexico,MWC,L,70,83,,13,9,L 1,The Pit
+22,23,"Sat, Feb 9, 2019",10:00p,REG,,Utah State,MWC,W,68,63,,14,9,W 1,Viejas Arena
+23,24,"Tue, Feb 12, 2019",11:00p,REG,@,Colorado State,MWC,W,71,60,,15,9,W 2,Moby Arena
+24,25,"Sat, Feb 16, 2019",7:00p,REG,,Boise State,MWC,W,71,65,,16,9,W 3,Viejas Arena
+25,26,"Wed, Feb 20, 2019",11:00p,REG,,Nevada (6),MWC,W,65,57,,17,9,W 4,Viejas Arena
+26,27,"Sat, Feb 23, 2019",10:00p,REG,@,Nevada-Las Vegas,MWC,W,60,59,,18,9,W 5,Thomas & Mack Center
+27,28,"Tue, Feb 26, 2019",9:30p,REG,@,Utah State,MWC,L,54,70,,18,10,L 1,Dee Glen Smith Spectrum
+28,29,"Sat, Mar 2, 2019",10:00p,REG,,San Jose State,MWC,W,84,56,,19,10,W 1,Viejas Arena
+29,30,"Wed, Mar 6, 2019",10:00p,REG,,Fresno State,MWC,L,74,76,,19,11,L 1,Viejas Arena
+30,31,"Sat, Mar 9, 2019",10:30p,REG,@,Nevada (17),MWC,L,53,81,,19,12,L 2,Lawlor Events Center
+31,32,"Thu, Mar 14, 2019",5:30p,CTOURN,N,Nevada-Las Vegas,MWC,W,63,55,,20,12,W 1,Thomas & Mack Center
+32,33,"Fri, Mar 15, 2019",9:00p,CTOURN,N,Nevada (14),MWC,W,65,56,,21,12,W 2,Thomas & Mack Center
+33,34,"Sat, Mar 16, 2019",6:00p,CTOURN,N,Utah State,MWC,L,57,64,,21,13,L 1,Thomas & Mack Center

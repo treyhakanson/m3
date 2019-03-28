@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Sat, Nov 10, 2018",7:00p,REG,@,Cleveland State,Horizon,W,83,79,,1,0,W 1,Wolstein Center
+1,2,"Tue, Nov 13, 2018",7:00p,REG,,Shawnee State,,W,90,69,,2,0,W 2,Memorial Athletic & Convocation Center
+2,3,"Fri, Nov 16, 2018",7:00p,REG,,Liberty,A-Sun,L,70,77,,2,1,L 1,Memorial Athletic & Convocation Center
+3,4,"Sun, Nov 18, 2018",4:00p,REG,,Alcorn State,SWAC,W,79,48,,3,1,W 1,Memorial Athletic & Convocation Center
+4,5,"Tue, Nov 20, 2018",7:00p,REG,,Savannah State,MEAC,W,104,84,,4,1,W 2,Memorial Athletic & Convocation Center
+5,6,"Fri, Nov 23, 2018",5:00p,REG,@,Vanderbilt,SEC,W,77,75,,5,1,W 3,Memorial Gymnasium
+6,7,"Wed, Nov 28, 2018",7:00p,REG,@,Detroit Mercy,Horizon,W,76,72,,6,1,W 4,Calihan Hall
+7,8,"Sat, Dec 1, 2018",4:00p,REG,,Norfolk State,MEAC,W,78,67,,7,1,W 5,Memorial Athletic & Convocation Center
+8,9,"Sat, Dec 8, 2018",4:00p,REG,,Wright State,Horizon,W,83,76,,8,1,W 6,Memorial Athletic & Convocation Center
+9,10,"Sat, Dec 15, 2018",4:00p,REG,@,Louisville,ACC,L,70,83,,8,2,L 1,KFC Yum! Center
+10,11,"Fri, Dec 21, 2018",3:00p,REG,@,Oregon State,Pac-12,W,66,63,,9,2,W 1,Gill Coliseum
+11,12,"Fri, Dec 28, 2018",7:00p,REG,,Albany (NY),AEC,W,70,68,,10,2,W 2,Memorial Athletic & Convocation Center
+12,13,"Mon, Dec 31, 2018",2:00p,REG,,Oberlin,,W,71,48,,11,2,W 3,Memorial Athletic & Convocation Center
+13,14,"Sat, Jan 5, 2019",7:00p,REG,,Bowling Green State,MAC,L,64,86,,11,3,L 1,Reed Arena
+14,15,"Tue, Jan 8, 2019",7:00p,REG,,Western Michigan,MAC,W,88,73,,12,3,W 1,Memorial Athletic & Convocation Center
+15,16,"Sat, Jan 12, 2019",12:00p,REG,@,Eastern Michigan,MAC,L,61,95,,12,4,L 1,Convocation Center
+16,17,"Tue, Jan 15, 2019",7:00p,REG,@,Ohio,MAC,W,66,52,,13,4,W 1,Convocation Center
+17,18,"Sat, Jan 19, 2019",2:30p,REG,,Northern Illinois,MAC,W,78,68,,14,4,W 2,Memorial Athletic & Convocation Center
+18,19,"Tue, Jan 22, 2019",7:00p,REG,,Toledo,MAC,W,87,85,OT,15,4,W 3,Memorial Athletic & Convocation Center
+19,20,"Fri, Jan 25, 2019",6:30p,REG,,Buffalo (14),MAC,L,79,88,,15,5,L 1,Memorial Athletic & Convocation Center
+20,21,"Sat, Feb 2, 2019",12:00p,REG,@,Ball State,MAC,W,83,80,OT,16,5,W 1,Worthen Arena
+21,22,"Tue, Feb 5, 2019",7:00p,REG,,Miami (OH),MAC,W,70,67,,17,5,W 2,Memorial Athletic & Convocation Center
+22,23,"Fri, Feb 8, 2019",9:00p,REG,@,Akron,MAC,L,53,72,,17,6,L 1,James A. Rhodes Arena
+23,24,"Thu, Feb 14, 2019",5:00p,REG,@,Western Michigan,MAC,W,82,63,,18,6,W 1,University Arena
+24,25,"Sat, Feb 16, 2019",7:00p,REG,,Eastern Michigan,MAC,W,71,58,,19,6,W 2,Memorial Athletic & Convocation Center
+25,26,"Tue, Feb 19, 2019",7:00p,REG,@,Central Michigan,MAC,L,74,84,,19,7,L 1,McGuirk Arena
+26,27,"Fri, Feb 22, 2019",7:00p,REG,@,Buffalo (25),MAC,L,57,80,,19,8,L 2,Alumni Arena
+27,28,"Tue, Feb 26, 2019",7:00p,REG,,Ohio,MAC,W,78,73,,20,8,W 1,Memorial Athletic & Convocation Center
+28,29,"Fri, Mar 1, 2019",6:00p,REG,@,Bowling Green State,MAC,L,72,77,,20,9,L 1,Stroh Center
+29,30,"Tue, Mar 5, 2019",7:00p,REG,@,Miami (OH),MAC,W,75,66,,21,9,W 1,Millett Hall
+30,31,"Fri, Mar 8, 2019",6:30p,REG,,Akron,MAC,W,68,65,,22,9,W 2,Memorial Athletic & Convocation Center
+31,32,"Thu, Mar 14, 2019",2:30p,CTOURN,N,Central Michigan,MAC,L,81,89,,22,10,L 1,Quicken Loans Arena
+32,33,"Thu, Mar 21, 2019",8:00p,CIT,@,Louisiana-Monroe,Sun Belt,L,77,87,,22,11,L 2,Fant-Ewing Coliseum

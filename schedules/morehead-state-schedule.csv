@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",6:05p,REG,,Kentucky Christian,,W,102,82,,1,0,W 1,Ellis T. Johnson Arena
+1,2,"Thu, Nov 8, 2018",7:00p,REG,@,Connecticut,AAC,L,70,80,,1,1,L 1,Harry A. Gampel Pavilion
+2,3,"Sat, Nov 10, 2018",7:00p,REG,@,Syracuse (16),ACC,L,70,84,,1,2,L 2,Carrier Dome
+3,4,"Fri, Nov 16, 2018",5:30p,REG,N,Missouri-Kansas City,WAC,W,99,89,,2,2,W 1,Reese Court
+4,5,"Sat, Nov 17, 2018",4:05p,REG,N,Green Bay,Horizon,L,70,87,,2,3,L 1,Reese Court
+5,6,"Sun, Nov 25, 2018",2:05p,REG,,Lipscomb,A-Sun,L,55,87,,2,4,L 2,Ellis T. Johnson Arena
+6,7,"Tue, Nov 27, 2018",7:35p,REG,,Northern Kentucky,Horizon,L,71,93,,2,5,L 3,Ellis T. Johnson Arena
+7,8,"Fri, Nov 30, 2018",11:05a,REG,,Ohio-Chillicothe,,W,103,50,,3,5,W 1,Ellis T. Johnson Arena
+8,9,"Mon, Dec 10, 2018",7:00p,REG,@,Marshall,CUSA,L,64,76,,3,6,L 1,Henderson Center
+9,10,"Thu, Dec 13, 2018",7:30p,REG,@,Samford,Southern,L,72,77,OT,3,7,L 2,Pete Hanna Center
+10,11,"Tue, Dec 18, 2018",7:00p,REG,@,Wright State,Horizon,L,67,78,,3,8,L 3,Ervin J. Nutter Center
+11,12,"Fri, Dec 21, 2018",5:35p,REG,,IUPUI,Horizon,W,74,70,,4,8,W 1,Ellis T. Johnson Arena
+12,13,"Sat, Dec 29, 2018",2:00p,REG,@,Missouri,SEC,L,61,75,,4,9,L 1,Mizzou Arena
+13,14,"Thu, Jan 3, 2019",8:00p,REG,@,Murray State,OVC,L,69,90,,4,10,L 2,CFSB Center
+14,15,"Sat, Jan 5, 2019",5:00p,REG,@,Austin Peay,OVC,L,67,81,,4,11,L 3,Winfield Dunn Center
+15,16,"Thu, Jan 10, 2019",7:30p,REG,@,Belmont,OVC,L,60,77,,4,12,L 4,Curb Event Center
+16,17,"Sat, Jan 12, 2019",8:30p,REG,@,Tennessee State,OVC,W,74,61,,5,12,W 1,Gentry Center Complex
+17,18,"Thu, Jan 17, 2019",7:35p,REG,,Southeast Missouri State,OVC,W,73,69,,6,12,W 2,Ellis T. Johnson Arena
+18,19,"Sat, Jan 19, 2019",6:35p,REG,,Tennessee-Martin,OVC,W,85,77,,7,12,W 3,Ellis T. Johnson Arena
+19,20,"Thu, Jan 24, 2019",7:35p,REG,,Tennessee Tech,OVC,W,67,61,,8,12,W 4,Ellis T. Johnson Arena
+20,21,"Sat, Jan 26, 2019",3:35p,REG,,Jacksonville State,OVC,L,71,77,,8,13,L 1,Ellis T. Johnson Arena
+21,22,"Thu, Jan 31, 2019",8:00p,REG,@,Southern Illinois-Edwardsville,OVC,L,76,83,,8,14,L 2,Sam Vadalabene Center 
+22,23,"Sat, Feb 2, 2019",4:15p,REG,@,Eastern Illinois,OVC,W,84,78,,9,14,W 1,Lantz Arena
+23,24,"Thu, Feb 7, 2019",7:35p,REG,,Tennessee State,OVC,L,80,81,2OT,9,15,L 1,Ellis T. Johnson Arena
+24,25,"Sat, Feb 9, 2019",4:35p,REG,,Belmont,OVC,L,86,96,,9,16,L 2,Ellis T. Johnson Arena
+25,26,"Thu, Feb 14, 2019",7:35p,REG,,Eastern Kentucky,OVC,W,78,72,,10,16,W 1,Ellis T. Johnson Arena
+26,27,"Sat, Feb 16, 2019",4:35p,REG,,Austin Peay,OVC,L,70,73,,10,17,L 1,Ellis T. Johnson Arena
+27,28,"Thu, Feb 21, 2019",8:15p,REG,@,Jacksonville State,OVC,L,64,65,,10,18,L 2,Pete Mathews Coliseum
+28,29,"Sat, Feb 23, 2019",8:30p,REG,@,Tennessee Tech,OVC,W,66,63,,11,18,W 1,Eblen Center
+29,30,"Thu, Feb 28, 2019",7:35p,REG,,Murray State,OVC,L,52,71,,11,19,L 1,Ellis T. Johnson Arena
+30,31,"Sat, Mar 2, 2019",7:00p,REG,@,Eastern Kentucky,OVC,W,78,77,,12,19,W 1,McBrayer Arena
+31,32,"Wed, Mar 6, 2019",7:30p,CTOURN,N,Southern Illinois-Edwardsville,OVC,W,72,68,,13,19,W 2,Ford Center
+32,33,"Thu, Mar 7, 2019",7:30p,CTOURN,N,Austin Peay,OVC,L,81,95,,13,20,L 1,Ford Center

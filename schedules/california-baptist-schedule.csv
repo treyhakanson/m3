@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",10:00p,REG,,San Diego Christian,,W,87,71,,1,0,W 1,CBU Events Center
+1,2,"Tue, Nov 13, 2018",8:00p,REG,@,Oral Roberts,Summit,W,70,69,,2,0,W 2,Mabee Center
+2,3,"Fri, Nov 16, 2018",1:00p,REG,@,Tulsa,AAC,L,79,82,,2,1,L 1,Donald W. Reynolds Center
+3,4,"Mon, Nov 19, 2018",10:00p,REG,@,Nevada (6),MWC,L,55,90,,2,2,L 2,Lawlor Events Center
+4,5,"Fri, Nov 23, 2018",2:00p,REG,N,Arkansas-Pine Bluff,SWAC,L,107,115,3OT,2,3,L 3,Jack Stephens Center
+5,6,"Sat, Nov 24, 2018",2:00p,REG,N,Howard,MEAC,L,84,86,,2,4,L 4,Jack Stephens Center
+6,7,"Thu, Nov 29, 2018",10:00p,REG,@,UC-Riverside,Big West,W,80,70,,3,4,W 1,UC Riverside Student Recreation Center
+7,8,"Sat, Dec 1, 2018",10:00p,REG,,Mississippi Valley State,SWAC,W,107,71,,4,4,W 2,CBU Events Center
+8,9,"Wed, Dec 5, 2018",10:00p,REG,,UC-Irvine,Big West,L,66,69,,4,5,L 1,CBU Events Center
+9,10,"Sat, Dec 8, 2018",10:00p,REG,,Cal Tech,,W,87,48,,5,5,W 1,CBU Events Center
+10,11,"Mon, Dec 17, 2018",8:30p,REG,@,Southeastern Louisiana,Southland,W,73,52,,6,5,W 2,University Center
+11,12,"Wed, Dec 19, 2018",3:30p,REG,@,Southern,SWAC,W,79,76,,7,5,W 3,F. G. Clark Activity Center
+12,13,"Sat, Dec 29, 2018",10:00p,REG,,La Verne,,W,97,46,,8,5,W 4,CBU Events Center
+13,14,"Thu, Jan 3, 2019",10:00p,REG,,New Mexico State,WAC,W,82,76,,9,5,W 5,CBU Events Center
+14,15,"Sat, Jan 5, 2019",10:00p,REG,,Texas-Rio Grande Valley,WAC,L,74,81,,9,6,L 1,CBU Events Center
+15,16,"Thu, Jan 10, 2019",7:00p,REG,@,Missouri-Kansas City,WAC,L,68,84,,9,7,L 2,Swinney Recreation Center
+16,17,"Sat, Jan 12, 2019",3:00p,REG,@,Chicago State,WAC,W,77,75,,10,7,W 1,Emil and Patricia Jones Convocation Center
+17,18,"Thu, Jan 24, 2019",10:00p,REG,,Cal State Bakersfield,WAC,L,84,88,,10,8,L 1,CBU Events Center
+18,19,"Sat, Jan 26, 2019",10:00p,REG,,Grand Canyon,WAC,L,73,90,,10,9,L 2,CBU Events Center
+19,20,"Wed, Jan 30, 2019",9:00p,REG,@,Utah Valley,WAC,L,62,79,,10,10,L 3,UCCU Center
+20,21,"Sat, Feb 2, 2019",10:00p,REG,@,Seattle,WAC,W,75,64,,11,10,W 1,Connolly Center
+21,22,"Thu, Feb 7, 2019",10:00p,REG,,Chicago State,WAC,W,94,44,,12,10,W 2,CBU Events Center
+22,23,"Sat, Feb 9, 2019",10:00p,REG,,Missouri-Kansas City,WAC,W,70,60,,13,10,W 3,CBU Events Center
+23,24,"Tue, Feb 12, 2019",10:00p,REG,,Bethesda University (CA),,W,115,65,,14,10,W 4,CBU Events Center
+24,25,"Thu, Feb 21, 2019",9:00p,REG,@,Grand Canyon,WAC,L,58,91,,14,11,L 1,Grand Canyon University Arena
+25,26,"Sat, Feb 23, 2019",10:00p,REG,@,Cal State Bakersfield,WAC,W,72,58,,15,11,W 1,Icardo Center
+26,27,"Thu, Feb 28, 2019",10:00p,REG,,Seattle,WAC,L,65,67,,15,12,L 1,CBU Events Center
+27,28,"Sat, Mar 2, 2019",10:00p,REG,,Utah Valley,WAC,L,63,64,,15,13,L 2,CBU Events Center
+28,29,"Thu, Mar 7, 2019",8:00p,REG,@,Texas-Rio Grande Valley,WAC,W,82,79,OT,16,13,W 1,UTRGV Fieldhouse
+29,30,"Sat, Mar 9, 2019",9:00p,REG,@,New Mexico State,WAC,L,63,75,,16,14,L 1,Pan American Center
+30,31,"Wed, Mar 20, 2019",10:30p,CBI,,Loyola Marymount,WCC,L,55,56,,16,15,L 2,CBU Events Center

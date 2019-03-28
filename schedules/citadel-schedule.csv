@@ -1,0 +1,31 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,Clemson (22),ACC,L,80,100,,0,1,L 1,Littlejohn Coliseum
+1,2,"Mon, Nov 12, 2018",7:00p,REG,,Mid-Atlantic Christian,,W,148,75,,1,1,W 1,McAlister Field House
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,Johnson University,,W,137,60,,2,1,W 2,McAlister Field House
+3,4,"Fri, Nov 16, 2018",8:00p,REG,@,Texas,Big 12,L,69,97,,2,2,L 1,Frank Erwin Center
+4,5,"Tue, Nov 20, 2018",7:00p,REG,@,James Madison,CAA,W,91,82,OT,3,2,W 1,JMU Convocation Center
+5,6,"Sat, Nov 24, 2018",2:00p,REG,@,South Florida,AAC,W,84,81,,4,2,W 2,Sun Dome
+6,7,"Tue, Nov 27, 2018",7:00p,REG,,High Point,Big South,W,112,87,,5,2,W 3,McAlister Field House
+7,8,"Sat, Dec 1, 2018",1:00p,REG,,Mercer,Southern,W,79,69,,6,2,W 4,McAlister Field House
+8,9,"Wed, Dec 5, 2018",7:00p,REG,,Johnson & Wales (NC),,W,127,93,,7,2,W 5,McAlister Field House
+9,10,"Sat, Dec 15, 2018",1:00p,REG,,Southeast Missouri State,OVC,W,86,74,,8,2,W 6,McAlister Field House
+10,11,"Tue, Dec 18, 2018",7:00p,REG,@,Campbell,Big South,W,82,76,,9,2,W 7,John W. Pope Jr. Convocation Center
+11,12,"Sat, Dec 29, 2018",1:00p,REG,,Longwood,Big South,L,94,110,,9,3,L 1,McAlister Field House
+12,13,"Thu, Jan 3, 2019",7:00p,REG,@,Wofford,Southern,L,81,112,,9,4,L 2,Richardson Indoor Stadium
+13,14,"Sat, Jan 5, 2019",4:00p,REG,@,Furman,Southern,L,85,101,,9,5,L 3,Timmons Arena
+14,15,"Thu, Jan 10, 2019",7:00p,REG,,East Tennessee State,Southern,L,73,98,,9,6,L 4,McAlister Field House
+15,16,"Sat, Jan 12, 2019",1:00p,REG,,Western Carolina,Southern,L,82,94,,9,7,L 5,McAlister Field House
+16,17,"Thu, Jan 17, 2019",7:30p,REG,@,Samford,Southern,L,77,80,,9,8,L 6,Pete Hanna Center
+17,18,"Sat, Jan 19, 2019",4:30p,REG,@,Chattanooga,Southern,L,71,73,,9,9,L 7,The McKenzie Arena
+18,19,"Thu, Jan 24, 2019",7:00p,REG,@,North Carolina-Greensboro,Southern,L,60,83,,9,10,L 8,Greensboro Coliseum
+19,20,"Sat, Jan 26, 2019",1:00p,REG,,Virginia Military Institute,Southern,W,84,82,,10,10,W 1,McAlister Field House
+20,21,"Thu, Jan 31, 2019",7:00p,REG,,Furman,Southern,L,61,71,,10,11,L 1,McAlister Field House
+21,22,"Sat, Feb 2, 2019",1:00p,REG,,Wofford,Southern,L,61,99,,10,12,L 2,McAlister Field House
+22,23,"Sat, Feb 9, 2019",4:00p,REG,@,Mercer,Southern,W,67,61,,11,12,W 1,Hawkins Arena
+23,24,"Thu, Feb 14, 2019",7:00p,REG,@,East Tennessee State,Southern,L,83,91,,11,13,L 1,Freedom Hall Civic Center
+24,25,"Sat, Feb 16, 2019",2:00p,REG,@,Western Carolina,Southern,L,82,103,,11,14,L 2,Ramsey Center
+25,26,"Thu, Feb 21, 2019",7:00p,REG,,Chattanooga,Southern,L,65,68,,11,15,L 3,McAlister Field House
+26,27,"Sat, Feb 23, 2019",1:00p,REG,,Samford,Southern,W,87,83,OT,12,15,W 1,McAlister Field House
+27,28,"Thu, Feb 28, 2019",7:00p,REG,,North Carolina-Greensboro,Southern,L,96,100,,12,16,L 1,McAlister Field House
+28,29,"Sat, Mar 2, 2019",1:00p,REG,@,Virginia Military Institute,Southern,L,78,81,,12,17,L 2,Cameron Hall
+29,30,"Fri, Mar 8, 2019",7:30p,CTOURN,N,Samford,Southern,L,71,100,,12,18,L 3,U.S. Cellular Center

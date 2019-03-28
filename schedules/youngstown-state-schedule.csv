@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,Pittsburgh,ACC,L,53,69,,0,1,L 1,Petersen Events Center
+1,2,"Sat, Nov 10, 2018",4:30p,REG,N,Akron,MAC,L,69,98,,0,2,L 2,Wolstein Center
+2,3,"Mon, Nov 12, 2018",7:00p,REG,,Heidelberg,,W,106,83,,1,2,W 1,Beeghly Center
+3,4,"Fri, Nov 16, 2018",8:30p,REG,N,Columbia,Ivy,W,94,83,,2,2,W 2,Rose Hill Gym
+4,5,"Sat, Nov 17, 2018",3:30p,REG,@,Fordham,A-10,L,61,67,,2,3,L 1,Rose Hill Gym
+5,6,"Sun, Nov 18, 2018",12:00p,REG,N,Florida International,CUSA,L,93,102,,2,4,L 2,Rose Hill Gym
+6,7,"Wed, Nov 21, 2018",7:00p,REG,,Westminster,,W,104,66,,3,4,W 1,Beeghly Center
+7,8,"Wed, Nov 28, 2018",7:00p,REG,@,Robert Morris,NEC,L,56,76,,3,5,L 1,North Athletic Complex
+8,9,"Sat, Dec 1, 2018",4:00p,REG,@,West Virginia,Big 12,L,72,106,,3,6,L 2,WVU Coliseum
+9,10,"Tue, Dec 4, 2018",7:00p,REG,,Central Michigan,MAC,L,94,100,3OT,3,7,L 3,Beeghly Center
+10,11,"Sat, Dec 8, 2018",2:00p,REG,,Western Michigan,MAC,L,77,88,,3,8,L 4,Beeghly Center
+11,12,"Sat, Dec 15, 2018",2:00p,REG,@,Binghamton,AEC,W,58,48,,4,8,W 1,Binghamton University Events Center
+12,13,"Tue, Dec 18, 2018",7:00p,REG,@,Ohio State (15),Big Ten,L,56,75,,4,9,L 1,Value City Arena
+13,14,"Fri, Dec 28, 2018",2:00p,REG,,Detroit Mercy,Horizon,L,66,78,,4,10,L 2,Beeghly Center
+14,15,"Sun, Dec 30, 2018",2:00p,REG,,Oakland,Horizon,L,74,76,,4,11,L 3,Beeghly Center
+15,16,"Thu, Jan 3, 2019",8:00p,REG,@,Green Bay,Horizon,L,93,99,OT,4,12,L 4,Resch Center
+16,17,"Sat, Jan 5, 2019",5:00p,REG,@,Milwaukee,Horizon,W,76,51,,5,12,W 1,UW-Milwaukee Panther Arena
+17,18,"Thu, Jan 10, 2019",8:00p,REG,@,Illinois-Chicago,Horizon,L,63,78,,5,13,L 1,UIC Pavilion
+18,19,"Sat, Jan 12, 2019",1:00p,REG,@,IUPUI,Horizon,W,82,76,,6,13,W 1,Indiana Farmers Coliseum
+19,20,"Thu, Jan 17, 2019",7:00p,REG,,Wright State,Horizon,L,74,80,,6,14,L 1,Beeghly Center
+20,21,"Sat, Jan 19, 2019",1:00p,REG,,Northern Kentucky,Horizon,L,74,82,,6,15,L 2,Beeghly Center
+21,22,"Sat, Jan 26, 2019",7:00p,REG,@,Cleveland State,Horizon,L,62,72,,6,16,L 3,Wolstein Center
+22,23,"Thu, Jan 31, 2019",7:00p,REG,@,Oakland,Horizon,W,75,74,,7,16,W 1,Athletics Center O'rena
+23,24,"Sat, Feb 2, 2019",1:00p,REG,@,Detroit Mercy,Horizon,W,72,70,,8,16,W 2,Calihan Hall
+24,25,"Thu, Feb 7, 2019",7:00p,REG,,Milwaukee,Horizon,W,72,71,,9,16,W 3,Beeghly Center
+25,26,"Sat, Feb 9, 2019",6:00p,REG,,Green Bay,Horizon,W,96,77,,10,16,W 4,Beeghly Center
+26,27,"Thu, Feb 14, 2019",7:00p,REG,,IUPUI,Horizon,W,75,73,,11,16,W 5,Beeghly Center
+27,28,"Sat, Feb 16, 2019",6:00p,REG,,Illinois-Chicago,Horizon,W,81,73,,12,16,W 6,Beeghly Center
+28,29,"Thu, Feb 21, 2019",7:00p,REG,@,Northern Kentucky,Horizon,L,69,76,,12,17,L 1,Bank of Kentucky Center
+29,30,"Sat, Feb 23, 2019",3:00p,REG,@,Wright State,Horizon,L,54,82,,12,18,L 2,Ervin J. Nutter Center
+30,31,"Sat, Mar 2, 2019",6:00p,REG,,Cleveland State,Horizon,L,80,89,OT,12,19,L 3,Beeghly Center
+31,32,"Wed, Mar 6, 2019",7:00p,CTOURN,@,Oakland,Horizon,L,84,88,,12,20,L 4,Athletics Center O'rena

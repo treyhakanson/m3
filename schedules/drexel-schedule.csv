@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",11:00a,REG,@,Eastern Michigan,MAC,L,62,66,,0,1,L 1,Convocation Center
+1,2,"Sun, Nov 11, 2018",3:00p,REG,@,Rutgers,Big Ten,L,66,95,,0,2,L 2,Louis Brown Athletic Center
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,Bryn Athyn,,W,118,41,,1,2,W 1,Daskalakis Athletic Center
+3,4,"Sat, Nov 17, 2018",4:00p,REG,@,La Salle,A-10,W,89,84,,2,2,W 2,Tom Gola Arena
+4,5,"Wed, Nov 21, 2018",3:00p,REG,,Boston University,Patriot,W,86,67,,3,2,W 3,Daskalakis Athletic Center
+5,6,"Sun, Nov 25, 2018",3:00p,REG,@,Bowling Green State,MAC,L,71,81,,3,3,L 1,Stroh Center
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,NJIT,A-Sun,L,67,70,,3,4,L 2,Daskalakis Athletic Center
+7,8,"Sat, Dec 1, 2018",2:00p,REG,,Robert Morris,NEC,W,82,69,,4,4,W 1,Daskalakis Athletic Center
+8,9,"Wed, Dec 5, 2018",7:00p,REG,,Loyola (MD),Patriot,W,95,86,,5,4,W 2,Daskalakis Athletic Center
+9,10,"Sat, Dec 8, 2018",2:00p,REG,,Maryland-Baltimore County,AEC,L,76,91,,5,5,L 1,Daskalakis Athletic Center
+10,11,"Sun, Dec 16, 2018",6:00p,REG,N,Quinnipiac,MAAC,W,92,83,,6,5,W 1,Mohegan Sun Arena
+11,12,"Tue, Dec 18, 2018",7:00p,REG,@,Connecticut,AAC,L,65,97,,6,6,L 1,Harry A. Gampel Pavilion
+12,13,"Sat, Dec 22, 2018",1:00p,REG,,Temple,AAC,L,64,82,,6,7,L 2,The Palestra
+13,14,"Fri, Dec 28, 2018",7:00p,REG,@,Northeastern,CAA,L,83,93,,6,8,L 3,Matthews Arena
+14,15,"Sun, Dec 30, 2018",4:00p,REG,@,Hofstra,CAA,L,75,89,,6,9,L 4,Mack Sports Complex
+15,16,"Thu, Jan 3, 2019",7:00p,REG,,Elon,CAA,W,79,65,,7,9,W 1,Daskalakis Athletic Center
+16,17,"Sat, Jan 5, 2019",4:00p,REG,,William & Mary,CAA,L,66,84,,7,10,L 1,Daskalakis Athletic Center
+17,18,"Thu, Jan 10, 2019",7:00p,REG,@,College of Charleston,CAA,W,79,78,,8,10,W 1,TD Arena
+18,19,"Sat, Jan 12, 2019",2:00p,REG,@,North Carolina-Wilmington,CAA,L,83,97,,8,11,L 1,Trask Coliseum
+19,20,"Thu, Jan 17, 2019",7:00p,REG,,Towson,CAA,W,72,66,,9,11,W 1,Daskalakis Athletic Center
+20,21,"Sat, Jan 19, 2019",2:00p,REG,,James Madison,CAA,W,73,68,,10,11,W 2,Daskalakis Athletic Center
+21,22,"Sat, Jan 26, 2019",2:00p,REG,@,Delaware,CAA,L,75,76,,10,12,L 1,Bob Carpenter Center
+22,23,"Thu, Jan 31, 2019",7:00p,REG,@,William & Mary,CAA,L,69,75,,10,13,L 2,Kaplan Arena at William and Mary Hall
+23,24,"Sat, Feb 2, 2019",7:00p,REG,@,Elon,CAA,W,67,63,,11,13,W 1,Alumni Gym
+24,25,"Thu, Feb 7, 2019",7:00p,REG,,North Carolina-Wilmington,CAA,W,69,57,,12,13,W 2,Daskalakis Athletic Center
+25,26,"Sat, Feb 9, 2019",4:00p,REG,,College of Charleston,CAA,L,84,86,,12,14,L 1,Daskalakis Athletic Center
+26,27,"Thu, Feb 14, 2019",7:00p,REG,@,James Madison,CAA,L,69,71,,12,15,L 2,JMU Convocation Center
+27,28,"Sat, Feb 16, 2019",2:00p,REG,@,Towson,CAA,L,77,92,,12,16,L 3,SECU Arena
+28,29,"Sat, Feb 23, 2019",5:00p,REG,,Delaware,CAA,W,68,60,,13,16,W 1,Daskalakis Athletic Center
+29,30,"Thu, Feb 28, 2019",7:00p,REG,,Hofstra,CAA,L,77,80,,13,17,L 1,Daskalakis Athletic Center
+30,31,"Sat, Mar 2, 2019",4:00p,REG,,Northeastern,CAA,L,66,90,,13,18,L 2,Daskalakis Athletic Center
+31,32,"Sun, Mar 10, 2019",8:30p,CTOURN,N,College of Charleston,CAA,L,61,73,,13,19,L 3,North Charleston Coliseum

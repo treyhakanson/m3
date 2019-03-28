@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,,Southeastern Baptist College,,W,111,66,,1,0,W 1,Reed Green Coliseum
+1,2,"Sun, Nov 11, 2018",3:00p,REG,@,Southern Methodist,AAC,W,74,64,,2,0,W 2,Moody Coliseum
+2,3,"Thu, Nov 15, 2018",7:00p,REG,@,Troy,Sun Belt,W,81,66,,3,0,W 3,Trojan Arena
+3,4,"Tue, Nov 20, 2018",3:00p,REG,N,North Florida,A-Sun,L,48,64,,3,1,L 1,Hard Rock Hotel Riviera Maya
+4,5,"Wed, Nov 21, 2018",12:30p,REG,N,Western Carolina,Southern,W,68,63,,4,1,W 1,Hard Rock Hotel Riviera Maya
+5,6,"Sun, Nov 25, 2018",3:00p,REG,,William Carey,,L,72,78,,4,2,L 1,Reed Green Coliseum
+6,7,"Wed, Nov 28, 2018",8:00p,REG,,South Alabama,Sun Belt,W,71,67,,5,2,W 1,Reed Green Coliseum
+7,8,"Sun, Dec 2, 2018",3:00p,REG,,Rust,,W,106,46,,6,2,W 2,Reed Green Coliseum
+8,9,"Tue, Dec 11, 2018",5:00p,REG,,Millsaps,,W,81,47,,7,2,W 3,Reed Green Coliseum
+9,10,"Sat, Dec 15, 2018",5:30p,REG,N,Wichita State,AAC,L,60,63,,7,3,L 1,Intrust Bank Arena
+10,11,"Wed, Dec 19, 2018",8:00p,REG,@,Kansas State,Big 12,L,51,55,,7,4,L 2,Bramlage Coliseum
+11,12,"Fri, Dec 21, 2018",8:00p,REG,@,South Dakota,Summit,W,66,60,,8,4,W 1,Sanford Coyote Sports Center
+12,13,"Sat, Dec 29, 2018",5:00p,REG,@,Louisiana Tech,CUSA,L,56,71,,8,5,L 1,Thomas Assembly Center
+13,14,"Thu, Jan 3, 2019",4:00p,REG,@,Rice,CUSA,L,65,73,,8,6,L 2,Tudor Fieldhouse
+14,15,"Sat, Jan 5, 2019",6:00p,REG,@,North Texas,CUSA,L,62,65,,8,7,L 3,UNT Coliseum
+15,16,"Thu, Jan 10, 2019",8:00p,REG,,Middle Tennessee,CUSA,W,77,70,,9,7,W 1,Reed Green Coliseum
+16,17,"Sat, Jan 12, 2019",5:00p,REG,,Alabama-Birmingham,CUSA,W,73,68,,10,7,W 2,Reed Green Coliseum
+17,18,"Thu, Jan 17, 2019",7:00p,REG,@,Charlotte,CUSA,W,63,60,,11,7,W 3,Dale F. Halton Arena
+18,19,"Sat, Jan 19, 2019",4:00p,REG,@,Old Dominion,CUSA,L,60,78,,11,8,L 1,Ted Constant Convocation Ctr.
+19,20,"Thu, Jan 24, 2019",8:00p,REG,,Western Kentucky,CUSA,L,63,66,,11,9,L 2,Reed Green Coliseum
+20,21,"Sat, Jan 26, 2019",5:00p,REG,,Marshall,CUSA,W,101,51,,12,9,W 1,Reed Green Coliseum
+21,22,"Thu, Jan 31, 2019",7:00p,REG,@,Florida International,CUSA,W,89,73,,13,9,W 2,FIU Arena
+22,23,"Sat, Feb 2, 2019",4:00p,REG,@,Florida Atlantic,CUSA,W,74,72,,14,9,W 3,FAU Arena
+23,24,"Sat, Feb 9, 2019",5:00p,REG,,Louisiana Tech,CUSA,W,73,71,OT,15,9,W 4,Reed Green Coliseum
+24,25,"Thu, Feb 14, 2019",8:00p,REG,,Texas-San Antonio,CUSA,W,78,71,,16,9,W 5,Reed Green Coliseum
+25,26,"Sat, Feb 16, 2019",3:00p,REG,,Texas-El Paso,CUSA,W,77,47,,17,9,W 6,Reed Green Coliseum
+26,27,"Sat, Feb 23, 2019",3:00p,REG,,Alabama-Birmingham,CUSA,L,72,76,OT,17,10,L 1,Reed Green Coliseum
+27,28,"Sun, Mar 3, 2019",3:00p,REG,@,Western Kentucky,CUSA,L,71,76,,17,11,L 2,E.A. Diddle Arena
+28,29,"Wed, Mar 6, 2019",7:00p,REG,@,Old Dominion,CUSA,W,59,52,,18,11,W 1,Ted Constant Convocation Ctr.
+29,30,"Sat, Mar 9, 2019",3:00p,REG,,Texas-San Antonio,CUSA,W,81,48,,19,11,W 2,Reed Green Coliseum
+30,31,"Thu, Mar 14, 2019",10:00p,CTOURN,N,Marshall,CUSA,W,82,73,,20,11,W 3,Ford Center at The Star
+31,32,"Fri, Mar 15, 2019",4:00p,CTOURN,N,Western Kentucky,CUSA,L,59,70,,20,12,L 1,Ford Center at The Star
+32,33,"Wed, Mar 20, 2019",7:00p,CBI,@,Longwood,Big South,L,68,90,,20,13,L 2,Willett Hall

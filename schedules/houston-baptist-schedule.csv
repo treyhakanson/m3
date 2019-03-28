@@ -1,0 +1,31 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",9:00p,REG,@,Arizona,Pac-12,L,60,90,,0,1,L 1,McKale Center
+1,2,"Sat, Nov 10, 2018",8:00p,REG,,Fordham,A-10,W,75,72,,1,1,W 1,Frank and Lucille Sharp Gymnasium
+2,3,"Sat, Nov 17, 2018",8:00p,REG,@,Wisconsin,Big Ten,L,59,96,,1,2,L 1,Kohl Center
+3,4,"Fri, Nov 23, 2018",2:00p,REG,@,Wake Forest,ACC,W,93,91,OT,2,2,W 1,Lawrence Joel Coliseum
+4,5,"Mon, Nov 26, 2018",8:00p,REG,,Texas-San Antonio,CUSA,L,82,86,,2,3,L 1,Frank and Lucille Sharp Gymnasium
+5,6,"Sat, Dec 1, 2018",5:00p,REG,@,Louisiana Tech,CUSA,L,78,85,,2,4,L 2,Thomas Assembly Center
+6,7,"Sat, Dec 8, 2018",5:00p,REG,@,Texas State,Sun Belt,L,80,90,,2,5,L 3,Strahan Coliseum
+7,8,"Fri, Dec 14, 2018",8:00p,REG,,Arlington Baptist,,W,107,70,,3,5,W 1,Frank and Lucille Sharp Gymnasium
+8,9,"Mon, Dec 17, 2018",7:30p,REG,@,Samford,Southern,L,61,85,,3,6,L 1,Pete Hanna Center
+9,10,"Wed, Dec 19, 2018",7:00p,REG,@,Miami (FL),ACC,L,73,80,,3,7,L 2,BankUnited Center
+10,11,"Sat, Dec 29, 2018",2:00p,REG,,Dallas Christian,,W,143,92,,4,7,W 1,Frank and Lucille Sharp Gymnasium
+11,12,"Wed, Jan 2, 2019",8:00p,REG,,Lamar,Southland,W,88,82,OT,5,7,W 2,Frank and Lucille Sharp Gymnasium
+12,13,"Sat, Jan 5, 2019",3:00p,REG,@,New Orleans,Southland,L,76,81,OT,5,8,L 1,Kiefer Lakefront Arena
+13,14,"Sat, Jan 12, 2019",4:30p,REG,@,Nicholls State,Southland,L,76,77,,5,9,L 2,David Stopher Gymnasium
+14,15,"Wed, Jan 16, 2019",8:00p,REG,@,Abilene Christian,Southland,L,68,75,,5,10,L 3,Moody Coliseum 
+15,16,"Sat, Jan 19, 2019",8:00p,REG,,Sam Houston State,Southland,L,65,71,,5,11,L 4,Frank and Lucille Sharp Gymnasium
+16,17,"Wed, Jan 23, 2019",8:00p,REG,,Southeastern Louisiana,Southland,L,67,70,,5,12,L 5,Frank and Lucille Sharp Gymnasium
+17,18,"Sat, Jan 26, 2019",4:00p,REG,@,McNeese State,Southland,L,73,79,,5,13,L 6,H&HP Complex
+18,19,"Wed, Jan 30, 2019",8:00p,REG,@,Incarnate Word,Southland,W,96,92,,6,13,W 1,McDermott Center
+19,20,"Sat, Feb 2, 2019",8:00p,REG,,Texas A&M-Corpus Christi,Southland,W,73,72,,7,13,W 2,Frank and Lucille Sharp Gymnasium
+20,21,"Wed, Feb 6, 2019",8:00p,REG,,Stephen F. Austin,Southland,L,77,79,,7,14,L 1,Frank and Lucille Sharp Gymnasium
+21,22,"Wed, Feb 13, 2019",8:00p,REG,@,Central Arkansas,Southland,W,75,71,,8,14,W 1,Jeff Farris Center
+22,23,"Sat, Feb 16, 2019",8:00p,REG,,Nicholls State,Southland,W,88,82,,9,14,W 2,Frank and Lucille Sharp Gymnasium
+23,24,"Wed, Feb 20, 2019",8:00p,REG,,Northwestern State,Southland,W,92,54,,10,14,W 3,Frank and Lucille Sharp Gymnasium
+24,25,"Sat, Feb 23, 2019",8:00p,REG,@,Sam Houston State,Southland,L,113,119,2OT,10,15,L 1,Johnson Coliseum
+25,26,"Wed, Feb 27, 2019",8:00p,REG,@,Lamar,Southland,L,75,110,,10,16,L 2,Montagne Center
+26,27,"Sat, Mar 2, 2019",8:00p,REG,,McNeese State,Southland,W,86,65,,11,16,W 1,Frank and Lucille Sharp Gymnasium
+27,28,"Wed, Mar 6, 2019",8:00p,REG,,Incarnate Word,Southland,W,118,111,,12,16,W 2,Frank and Lucille Sharp Gymnasium
+28,29,"Sat, Mar 9, 2019",6:00p,REG,@,Texas A&M-Corpus Christi,Southland,L,69,76,,12,17,L 1,American Bank Center
+29,30,"Wed, Mar 13, 2019",6:00p,CTOURN,N,Lamar,Southland,L,79,81,,12,18,L 2,Leonard E. Merrell Center

@@ -1,0 +1,31 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Sat, Nov 10, 2018",4:00p,REG,@,Lipscomb,A-Sun,L,79,86,,0,1,L 1,Allen Arena
+1,2,"Tue, Nov 13, 2018",8:00p,REG,,Little Rock,Sun Belt,L,67,83,,0,2,L 2,Gentry Center Complex
+2,3,"Thu, Nov 15, 2018",7:00p,REG,,Carver Bible,,W,92,57,,1,2,W 1,Gentry Center Complex
+3,4,"Sat, Nov 17, 2018",8:00p,REG,,Fisk,,W,113,61,,2,2,W 2,Gentry Center Complex
+4,5,"Tue, Nov 20, 2018",10:00p,REG,@,Cal State Northridge,Big West,L,77,80,,2,3,L 1,The Matadome
+5,6,"Fri, Nov 23, 2018",7:00p,REG,@,Kentucky (10),SEC,L,62,77,,2,4,L 2,Rupp Arena
+6,7,"Sat, Dec 1, 2018",7:00p,REG,@,Western Kentucky,CUSA,L,74,88,,2,5,L 3,E.A. Diddle Arena
+7,8,"Sun, Dec 9, 2018",3:00p,REG,@,Coppin State,MEAC,W,64,55,,3,5,W 1,Physical Education Complex
+8,9,"Sat, Dec 15, 2018",5:00p,REG,,North Carolina A&T,MEAC,L,76,78,,3,6,L 1,Gentry Center Complex
+9,10,"Tue, Dec 18, 2018",7:00p,REG,@,Akron,MAC,L,60,82,,3,7,L 2,James A. Rhodes Arena
+10,11,"Sat, Dec 22, 2018",3:00p,REG,@,Memphis,AAC,L,41,99,,3,8,L 3,FedExForum
+11,12,"Sat, Dec 29, 2018",1:30p,REG,@,Vanderbilt,SEC,L,76,95,,3,9,L 4,Memorial Gymnasium
+12,13,"Thu, Jan 3, 2019",8:30p,REG,,Tennessee Tech,OVC,L,64,66,,3,10,L 5,Gentry Center Complex
+13,14,"Sat, Jan 5, 2019",6:00p,REG,,Jacksonville State,OVC,L,62,69,,3,11,L 6,Gentry Center Complex
+14,15,"Thu, Jan 10, 2019",8:30p,REG,,Eastern Kentucky,OVC,W,82,81,,4,11,W 1,Gentry Center Complex
+15,16,"Sat, Jan 12, 2019",8:30p,REG,,Morehead State,OVC,L,61,74,,4,12,L 1,Gentry Center Complex
+16,17,"Thu, Jan 17, 2019",7:00p,REG,@,Tennessee Tech,OVC,W,79,62,,5,12,W 1,Eblen Center
+17,18,"Sat, Jan 19, 2019",6:00p,REG,@,Belmont,OVC,L,74,92,,5,13,L 1,Curb Event Center
+18,19,"Thu, Jan 24, 2019",9:00p,REG,@,Austin Peay,OVC,L,74,89,,5,14,L 2,Winfield Dunn Center
+19,20,"Sat, Jan 26, 2019",8:00p,REG,@,Murray State,OVC,L,62,100,,5,15,L 3,CFSB Center
+20,21,"Thu, Jan 31, 2019",8:30p,REG,,Tennessee-Martin,OVC,W,68,67,,6,15,W 1,Gentry Center Complex
+21,22,"Sat, Feb 2, 2019",8:30p,REG,,Southeast Missouri State,OVC,W,79,50,,7,15,W 2,Gentry Center Complex
+22,23,"Thu, Feb 7, 2019",7:35p,REG,@,Morehead State,OVC,W,81,80,2OT,8,15,W 3,Ellis T. Johnson Arena
+23,24,"Sat, Feb 9, 2019",7:00p,REG,@,Eastern Kentucky,OVC,L,65,75,,8,16,L 1,McBrayer Arena
+24,25,"Thu, Feb 14, 2019",8:00p,REG,,Belmont,OVC,L,66,77,,8,17,L 2,Gentry Center Complex
+25,26,"Sat, Feb 16, 2019",8:00p,REG,@,Jacksonville State,OVC,L,65,84,,8,18,L 3,Pete Mathews Coliseum
+26,27,"Thu, Feb 21, 2019",8:30p,REG,,Southern Illinois-Edwardsville,OVC,L,84,85,,8,19,L 4,Gentry Center Complex
+27,28,"Sat, Feb 23, 2019",8:30p,REG,,Eastern Illinois,OVC,W,75,60,,9,19,W 1,Gentry Center Complex
+28,29,"Thu, Feb 28, 2019",8:45p,REG,@,Southeast Missouri State,OVC,L,74,89,,9,20,L 1,Show Me Center
+29,30,"Sat, Mar 2, 2019",4:30p,REG,@,Tennessee-Martin,OVC,L,86,91,,9,21,L 2,Skyhawk Arena

@@ -1,0 +1,31 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,Villanova (9),Big East,L,77,100,,0,1,L 1,Finneran Pavilion
+1,2,"Fri, Nov 9, 2018",7:00p,REG,@,Saint Francis (PA),NEC,L,60,80,,0,2,L 2,DeGol Arena
+2,3,"Mon, Nov 12, 2018",8:30p,REG,@,DePaul,Big East,L,63,91,,0,3,L 3,Wintrust Arena
+3,4,"Tue, Nov 20, 2018",7:00p,REG,,Navy,Patriot,W,75,51,,1,3,W 1,Hill Field House
+4,5,"Sun, Nov 25, 2018",1:00p,REG,,Mount St. Mary's,NEC,W,78,68,,2,3,W 2,Hill Field House
+5,6,"Wed, Nov 28, 2018",7:00p,REG,@,George Mason,A-10,L,75,82,,2,4,L 1,EagleBank Arena
+6,7,"Mon, Dec 3, 2018",7:00p,REG,@,Virginia (4),ACC,L,45,83,,2,5,L 2,John Paul Jones Arena
+7,8,"Wed, Dec 5, 2018",7:00p,REG,,Binghamton,AEC,W,74,68,,3,5,W 1,Hill Field House
+8,9,"Sat, Dec 8, 2018",1:15p,REG,N,Towson,CAA,W,74,69,,4,5,W 2,Royal Farms Arena
+9,10,"Mon, Dec 17, 2018",7:00p,REG,,Wilmington (DE),,W,85,78,,5,5,W 3,Hill Field House
+10,11,"Sat, Dec 22, 2018",2:00p,REG,@,Old Dominion,CUSA,L,53,76,,5,6,L 1,Ted Constant Convocation Ctr.
+11,12,"Sat, Dec 29, 2018",10:00p,REG,@,Cal State Northridge,Big West,L,86,94,,5,7,L 2,The Matadome
+12,13,"Thu, Jan 3, 2019",3:00p,REG,,Lincoln (PA),,L,75,77,,5,8,L 3,Hill Field House
+13,14,"Sat, Jan 5, 2019",4:00p,REG,,Maryland-Eastern Shore,MEAC,W,66,53,,6,8,W 1,Hill Field House
+14,15,"Mon, Jan 7, 2019",7:30p,REG,,Savannah State,MEAC,L,87,88,OT,6,9,L 1,Hill Field House
+15,16,"Sat, Jan 12, 2019",4:00p,REG,,South Carolina State,MEAC,L,68,72,,6,10,L 2,Hill Field House
+16,17,"Tue, Jan 15, 2019",7:30p,REG,@,Howard,MEAC,W,89,86,OT,7,10,W 1,Burr Gymnasium
+17,18,"Sat, Jan 19, 2019",4:00p,REG,@,North Carolina A&T,MEAC,L,53,57,,7,11,L 1,Ellis Corbett Sports Center
+18,19,"Mon, Jan 21, 2019",4:00p,REG,@,North Carolina Central,MEAC,L,64,92,,7,12,L 2,McLendon-McDougald Gym
+19,20,"Sat, Jan 26, 2019",4:00p,REG,,Bethune-Cookman,MEAC,W,77,71,,8,12,W 1,Hill Field House
+20,21,"Mon, Jan 28, 2019",7:30p,REG,,Florida A&M,MEAC,L,66,72,,8,13,L 1,Hill Field House
+21,22,"Sat, Feb 2, 2019",4:00p,REG,@,Coppin State,MEAC,L,71,73,,8,14,L 2,Physical Education Complex
+22,23,"Sat, Feb 9, 2019",4:00p,REG,@,South Carolina State,MEAC,L,81,85,,8,15,L 3,SHM Memorial Center
+23,24,"Mon, Feb 11, 2019",7:30p,REG,@,Savannah State,MEAC,L,85,88,,8,16,L 4,Tiger Arena
+24,25,"Sat, Feb 23, 2019",4:00p,REG,,Norfolk State,MEAC,L,74,75,,8,17,L 5,Hill Field House
+25,26,"Mon, Feb 25, 2019",7:30p,REG,,Howard,MEAC,L,69,75,,8,18,L 6,Hill Field House
+26,27,"Sat, Mar 2, 2019",4:00p,REG,@,Delaware State,MEAC,W,76,58,,9,18,W 1,Memorial Hall
+27,28,"Mon, Mar 4, 2019",7:30p,REG,@,Maryland-Eastern Shore,MEAC,L,73,78,,9,19,L 1,Hytche Athletic Center
+28,29,"Thu, Mar 7, 2019",7:30p,REG,,Coppin State,MEAC,L,69,83,,9,20,L 2,Hill Field House
+29,30,"Tue, Mar 12, 2019",8:30p,CTOURN,N,Coppin State,MEAC,L,71,81,,9,21,L 3,Norfolk Scope

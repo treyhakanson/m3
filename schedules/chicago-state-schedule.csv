@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",6:30p,REG,@,Indiana,Big Ten,L,55,104,,0,1,L 1,Assembly Hall
+1,2,"Thu, Nov 8, 2018",7:00p,REG,@,Notre Dame,ACC,L,62,89,,0,2,L 2,Purcell Pavilion at the Joyce Center
+2,3,"Fri, Nov 9, 2018",7:00p,REG,@,Central Michigan,MAC,L,60,101,,0,3,L 3,McGuirk Arena
+3,4,"Tue, Nov 13, 2018",8:00p,REG,@,Illinois State,MVC,L,71,75,,0,4,L 4,Redbird Arena
+4,5,"Fri, Nov 16, 2018",7:00p,REG,@,Akron,MAC,L,46,87,,0,5,L 5,James A. Rhodes Arena
+5,6,"Mon, Nov 19, 2018",7:00p,REG,@,East Tennessee State,Southern,L,61,86,,0,6,L 6,Freedom Hall Civic Center
+6,7,"Tue, Nov 20, 2018",4:00p,REG,N,Jackson State,SWAC,L,68,81,,0,7,L 7,John Gray Gymnasium
+7,8,"Sat, Nov 24, 2018",2:00p,REG,@,Bradley,MVC,L,70,86,,0,8,L 8,Carver Arena
+8,9,"Thu, Nov 29, 2018",8:05p,REG,,East-West,,W,90,67,,1,8,W 1,Emil and Patricia Jones Convocation Center
+9,10,"Sat, Dec 1, 2018",3:00p,REG,,Eastern Illinois,OVC,W,80,72,,2,8,W 2,Emil and Patricia Jones Convocation Center
+10,11,"Thu, Dec 6, 2018",8:05p,REG,,Trinity Christian,,W,84,82,,3,8,W 3,Emil and Patricia Jones Convocation Center
+11,12,"Wed, Dec 12, 2018",8:00p,REG,@,DePaul,Big East,L,70,104,,3,9,L 1,Wintrust Arena
+12,13,"Mon, Dec 17, 2018",9:00p,REG,@,Northwestern,Big Ten,L,46,88,,3,10,L 2,Welsh-Ryan Arena
+13,14,"Thu, Dec 20, 2018",3:00p,REG,@,Western Illinois,Summit,L,52,81,,3,11,L 3,Western Hall
+14,15,"Sat, Dec 22, 2018",2:00p,REG,@,Northern Illinois,MAC,L,59,100,,3,12,L 4,Convocation Center
+15,16,"Sat, Jan 5, 2019",3:00p,REG,@,Missouri-Kansas City,WAC,L,72,80,,3,13,L 5,Swinney Recreation Center
+16,17,"Sat, Jan 12, 2019",3:00p,REG,,California Baptist,WAC,L,75,77,,3,14,L 6,Emil and Patricia Jones Convocation Center
+17,18,"Thu, Jan 17, 2019",9:00p,REG,@,Grand Canyon,WAC,L,46,80,,3,15,L 7,Grand Canyon University Arena
+18,19,"Sat, Jan 19, 2019",10:00p,REG,@,Cal State Bakersfield,WAC,L,73,86,,3,16,L 8,Icardo Center
+19,20,"Thu, Jan 24, 2019",8:00p,REG,,Seattle,WAC,L,47,75,,3,17,L 9,Emil and Patricia Jones Convocation Center
+20,21,"Sat, Jan 26, 2019",3:05p,REG,,Utah Valley,WAC,L,60,74,,3,18,L 10,Emil and Patricia Jones Convocation Center
+21,22,"Thu, Jan 31, 2019",8:00p,REG,@,Texas-Rio Grande Valley,WAC,L,46,77,,3,19,L 11,UTRGV Fieldhouse
+22,23,"Sat, Feb 2, 2019",6:00p,REG,@,New Mexico State,WAC,L,39,83,,3,20,L 12,Pan American Center
+23,24,"Thu, Feb 7, 2019",10:00p,REG,@,California Baptist,WAC,L,44,94,,3,21,L 13,CBU Events Center
+24,25,"Thu, Feb 14, 2019",8:05p,REG,,Cal State Bakersfield,WAC,L,62,75,,3,22,L 14,Emil and Patricia Jones Convocation Center
+25,26,"Sat, Feb 16, 2019",3:05p,REG,,Grand Canyon,WAC,L,59,90,,3,23,L 15,Emil and Patricia Jones Convocation Center
+26,27,"Thu, Feb 21, 2019",9:00p,REG,@,Utah Valley,WAC,L,71,103,,3,24,L 16,UCCU Center
+27,28,"Sat, Feb 23, 2019",4:00p,REG,@,Seattle,WAC,L,57,77,,3,25,L 17,Connolly Center
+28,29,"Thu, Feb 28, 2019",8:00p,REG,,Texas-Rio Grande Valley,WAC,L,77,82,,3,26,L 18,Emil and Patricia Jones Convocation Center
+29,30,"Sat, Mar 2, 2019",3:00p,REG,,New Mexico State,WAC,L,58,92,,3,27,L 19,Emil and Patricia Jones Convocation Center
+30,31,"Sat, Mar 9, 2019",3:00p,REG,,Missouri-Kansas City,WAC,L,61,76,,3,28,L 20,Emil and Patricia Jones Convocation Center
+31,32,"Thu, Mar 14, 2019",3:00p,CTOURN,N,New Mexico State,WAC,L,49,86,,3,29,L 21,Orleans Arena

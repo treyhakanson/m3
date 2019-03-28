@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,,Multnomah,,W,111,103,,1,0,W 1,Chiles Center
+1,2,"Fri, Nov 9, 2018",11:59p,REG,@,Hawaii,Big West,L,64,82,,1,1,L 1,Stan Sheriff Center
+2,3,"Sat, Nov 10, 2018",9:30p,REG,N,North Texas,CUSA,L,73,78,,1,2,L 2,Stan Sheriff Center
+3,4,"Sat, Nov 17, 2018",9:00p,REG,@,Cal State Northridge,Big West,W,80,77,,2,2,W 1,The Matadome
+4,5,"Mon, Nov 19, 2018",10:00p,REG,,Lewis & Clark,,W,77,57,,3,2,W 2,Chiles Center
+5,6,"Wed, Nov 21, 2018",10:00p,REG,,South Carolina Upstate,Big South,W,73,56,,4,2,W 3,Chiles Center
+6,7,"Fri, Nov 23, 2018",10:00p,REG,,Cal Poly,Big West,W,72,67,,5,2,W 4,Chiles Center
+7,8,"Sat, Nov 24, 2018",8:00p,REG,,Texas State,Sun Belt,L,68,91,,5,3,L 1,Chiles Center
+8,9,"Wed, Nov 28, 2018",9:00p,REG,@,Colorado,Pac-12,L,69,93,,5,4,L 2,Coors Events/Conference Center
+9,10,"Wed, Dec 5, 2018",10:05p,REG,@,Portland State,Big Sky,L,78,87,,5,5,L 3,Pamplin Sports Center
+10,11,"Sat, Dec 8, 2018",10:00p,REG,,Sacramento State,Big Sky,W,76,67,,6,5,W 1,Chiles Center
+11,12,"Sat, Dec 15, 2018",10:00p,REG,,Grambling,SWAC,L,58,70,,6,6,L 1,Chiles Center
+12,13,"Mon, Dec 17, 2018",10:00p,REG,,Seattle,WAC,L,56,67,,6,7,L 2,Chiles Center
+13,14,"Fri, Dec 21, 2018",8:00p,REG,,Florida A&M,MEAC,W,54,39,,7,7,W 1,Chiles Center
+14,15,"Sat, Dec 29, 2018",9:00p,REG,@,Cal State Fullerton,Big West,L,64,79,,7,8,L 1,Titan Gym
+15,16,"Sat, Jan 5, 2019",6:00p,REG,@,Loyola Marymount,WCC,L,64,76,,7,9,L 2,Albert Gersten Pavilion
+16,17,"Thu, Jan 10, 2019",9:00p,REG,@,Brigham Young,WCC,L,56,79,,7,10,L 3,Marriott Center
+17,18,"Sat, Jan 12, 2019",10:00p,REG,,Pacific,WCC,L,57,65,,7,11,L 4,Chiles Center
+18,19,"Thu, Jan 17, 2019",10:00p,REG,,San Diego,WCC,L,55,76,,7,12,L 5,Chiles Center
+19,20,"Sat, Jan 19, 2019",10:00p,REG,,Gonzaga (5),WCC,L,66,89,,7,13,L 6,Chiles Center
+20,21,"Thu, Jan 24, 2019",10:00p,REG,@,San Francisco,WCC,L,61,83,,7,14,L 7,War Memorial Gymnasium
+21,22,"Sat, Jan 26, 2019",4:00p,REG,@,Pacific,WCC,L,70,74,,7,15,L 8,A.G. Spanos Center
+22,23,"Thu, Jan 31, 2019",10:00p,REG,,Pepperdine,WCC,L,58,83,,7,16,L 9,Chiles Center
+23,24,"Sat, Feb 2, 2019",9:00p,REG,@,Santa Clara,WCC,L,63,69,OT,7,17,L 10,Leavey Center
+24,25,"Thu, Feb 7, 2019",11:00p,REG,,Brigham Young,WCC,L,48,83,,7,18,L 11,Chiles Center
+25,26,"Sat, Feb 9, 2019",10:00p,REG,,Loyola Marymount,WCC,L,55,72,,7,19,L 12,Chiles Center
+26,27,"Sat, Feb 16, 2019",10:00p,REG,,San Francisco,WCC,L,63,68,OT,7,20,L 13,Chiles Center
+27,28,"Thu, Feb 21, 2019",10:00p,REG,@,San Diego,WCC,L,52,63,,7,21,L 14,Jenny Craig Pavillion
+28,29,"Sat, Feb 23, 2019",8:00p,REG,@,Pepperdine,WCC,L,80,86,,7,22,L 15,Firestone Fieldhouse
+29,30,"Thu, Feb 28, 2019",11:00p,REG,@,Saint Mary's (CA),WCC,L,48,65,,7,23,L 16,McKeon Pavilion
+30,31,"Sat, Mar 2, 2019",10:00p,REG,,Santa Clara,WCC,L,62,78,,7,24,L 17,Chiles Center
+31,32,"Thu, Mar 7, 2019",11:00p,CTOURN,N,San Diego,WCC,L,47,67,,7,25,L 18,Orleans Arena

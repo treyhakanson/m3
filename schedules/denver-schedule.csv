@@ -1,0 +1,31 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:00p,REG,,Maine,AEC,W,63,50,,1,0,W 1,Magness Arena
+1,2,"Mon, Nov 12, 2018",9:00p,REG,@,Kansas State (12),Big 12,L,56,64,,1,1,L 1,Bramlage Coliseum
+2,3,"Thu, Nov 15, 2018",9:00p,REG,,Abilene Christian,Southland,L,61,67,,1,2,L 2,Magness Arena
+3,4,"Fri, Nov 23, 2018",3:00p,REG,@,Seattle,WAC,L,63,82,,1,3,L 3,Connolly Center
+4,5,"Sat, Nov 24, 2018",3:00p,REG,N,Longwood,Big South,W,64,62,,2,3,W 1,Connolly Center
+5,6,"Sun, Nov 25, 2018",3:00p,REG,N,Fairfield,MAAC,L,85,86,,2,4,L 1,Connolly Center
+6,7,"Wed, Nov 28, 2018",9:00p,REG,,Northern Colorado,Big Sky,L,72,88,,2,5,L 2,Magness Arena
+7,8,"Sat, Dec 1, 2018",9:00p,REG,@,Utah Valley,WAC,L,75,98,,2,6,L 3,UCCU Center
+8,9,"Wed, Dec 5, 2018",9:00p,REG,@,Air Force,MWC,L,65,73,,2,7,L 4,Clune Arena 
+9,10,"Sun, Dec 9, 2018",3:00p,REG,,Western State,,W,93,69,,3,7,W 1,Magness Arena
+10,11,"Tue, Dec 11, 2018",9:00p,REG,@,Wyoming,MWC,W,90,87,OT,4,7,W 2,Arena-Auditorium
+11,12,"Sat, Dec 15, 2018",10:00p,REG,@,UC-Irvine,Big West,L,52,86,,4,8,L 1,Bren Events Center
+12,13,"Tue, Dec 18, 2018",9:00p,REG,,Montana State,Big Sky,W,76,64,,5,8,W 1,Magness Arena
+13,14,"Fri, Dec 21, 2018",9:00p,REG,@,Gonzaga (8),WCC,L,40,101,,5,9,L 1,McCarthey Athletic Center
+14,15,"Fri, Dec 28, 2018",8:30p,REG,@,Omaha,Summit,L,84,91,,5,10,L 2,Baxter Arena
+15,16,"Sun, Dec 30, 2018",5:30p,REG,@,Western Illinois,Summit,L,60,78,,5,11,L 3,Western Hall
+16,17,"Wed, Jan 2, 2019",9:00p,REG,,South Dakota,Summit,L,70,71,,5,12,L 4,Magness Arena
+17,18,"Sat, Jan 5, 2019",3:00p,REG,,North Dakota,Summit,L,59,80,,5,13,L 5,Magness Arena
+18,19,"Thu, Jan 10, 2019",8:00p,REG,@,South Dakota State,Summit,L,66,78,,5,14,L 6,Frost Arena
+19,20,"Wed, Jan 16, 2019",9:00p,REG,,North Dakota State,Summit,W,80,65,,6,14,W 1,Magness Arena
+20,21,"Sun, Jan 20, 2019",6:00p,REG,,Oral Roberts,Summit,W,74,58,,7,14,W 2,Magness Arena
+21,22,"Sat, Jan 26, 2019",7:00p,REG,@,Purdue-Fort Wayne,Summit,L,81,91,,7,15,L 1,Hilliard Gates Sports Center
+22,23,"Sun, Feb 3, 2019",3:00p,REG,,South Dakota State,Summit,L,82,92,,7,16,L 2,Magness Arena
+23,24,"Thu, Feb 7, 2019",8:00p,REG,@,Oral Roberts,Summit,L,65,78,,7,17,L 3,Mabee Center
+24,25,"Sat, Feb 9, 2019",5:00p,REG,@,North Dakota State,Summit,L,71,81,,7,18,L 4,Scheels Center
+25,26,"Thu, Feb 14, 2019",9:00p,REG,,Purdue-Fort Wayne,Summit,L,81,94,,7,19,L 5,Magness Arena
+26,27,"Wed, Feb 20, 2019",8:00p,REG,@,South Dakota,Summit,L,45,72,,7,20,L 6,Sanford Coyote Sports Center
+27,28,"Sat, Feb 23, 2019",4:00p,REG,@,North Dakota,Summit,L,63,81,,7,21,L 7,Betty Engelstad Sioux Center 
+28,29,"Thu, Feb 28, 2019",9:00p,REG,,Western Illinois,Summit,W,74,46,,8,21,W 1,Magness Arena
+29,30,"Sat, Mar 2, 2019",3:00p,REG,,Omaha,Summit,L,76,86,,8,22,L 1,Magness Arena

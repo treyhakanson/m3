@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Bryant,NEC,W,97,63,,1,0,W 1,Ryan Center
+1,2,"Tue, Nov 13, 2018",7:00p,REG,@,College of Charleston,CAA,L,55,66,,1,1,L 1,TD Arena
+2,3,"Fri, Nov 16, 2018",7:00p,REG,,Harvard,Ivy,W,76,74,,2,1,W 1,Ryan Center
+3,4,"Sat, Nov 24, 2018",2:00p,REG,,Stony Brook,AEC,L,58,68,,2,2,L 1,Ryan Center
+4,5,"Wed, Nov 28, 2018",7:00p,REG,,Brown,Ivy,W,71,51,,3,2,W 1,Ryan Center
+5,6,"Sat, Dec 1, 2018",5:00p,REG,@,Providence,Big East,L,50,59,,3,3,L 1,Dunkin' Donuts Center
+6,7,"Sat, Dec 8, 2018",1:05p,REG,@,Holy Cross,Patriot,W,79,63,,4,3,W 1,DCU Center
+7,8,"Sun, Dec 16, 2018",1:00p,REG,N,West Virginia,Big 12,W,83,70,,5,3,W 2,Mohegan Sun Arena
+8,9,"Sat, Dec 22, 2018",10:00p,REG,N,Bucknell,Patriot,L,82,84,,5,4,L 1,Stan Sheriff Center
+9,10,"Mon, Dec 24, 2018",12:30a,REG,N,Charlotte,CUSA,W,75,61,,6,4,W 1,Stan Sheriff Center
+10,11,"Tue, Dec 25, 2018",3:00p,REG,N,Hawaii,Big West,L,60,68,,6,5,L 1,Stan Sheriff Center
+11,12,"Sun, Dec 30, 2018",5:00p,REG,,Middle Tennessee,CUSA,W,72,60,,7,5,W 1,Ryan Center
+12,13,"Sun, Jan 6, 2019",4:00p,REG,@,Saint Louis,A-10,L,53,60,,7,6,L 1,Chaifetz Arena
+13,14,"Wed, Jan 9, 2019",7:00p,REG,@,Richmond,A-10,W,78,67,,8,6,W 1,Robins Center
+14,15,"Sun, Jan 13, 2019",5:30p,REG,,George Mason,A-10,L,67,84,,8,7,L 1,Ryan Center
+15,16,"Wed, Jan 16, 2019",6:00p,REG,,St. Bonaventure,A-10,W,75,63,,9,7,W 1,Ryan Center
+16,17,"Sat, Jan 19, 2019",2:30p,REG,@,La Salle,A-10,W,78,67,,10,7,W 2,Tom Gola Arena
+17,18,"Wed, Jan 23, 2019",7:00p,REG,,Virginia Commonwealth,A-10,W,71,65,,11,7,W 3,Ryan Center
+18,19,"Sun, Jan 27, 2019",2:00p,REG,@,Massachusetts,A-10,L,70,77,,11,8,L 1,Mullins Center
+19,20,"Wed, Jan 30, 2019",7:00p,REG,@,Duquesne,A-10,L,72,75,,11,9,L 2,A.J. Palumbo Center
+20,21,"Sat, Feb 2, 2019",4:00p,REG,,Saint Louis,A-10,W,65,54,,12,9,W 1,Ryan Center
+21,22,"Wed, Feb 6, 2019",7:00p,REG,@,Davidson,A-10,L,53,68,,12,10,L 1,Belk Arena
+22,23,"Sat, Feb 9, 2019",4:00p,REG,,Dayton,A-10,L,48,77,,12,11,L 2,Ryan Center
+23,24,"Sat, Feb 16, 2019",2:00p,REG,,Fordham,A-10,L,63,66,OT,12,12,L 3,Ryan Center
+24,25,"Tue, Feb 19, 2019",8:00p,REG,@,Virginia Commonwealth,A-10,L,42,76,,12,13,L 4,Stuart Siegel Center
+25,26,"Fri, Feb 22, 2019",9:00p,REG,,Davidson,A-10,L,66,75,,12,14,L 5,Ryan Center
+26,27,"Tue, Feb 26, 2019",7:00p,REG,,George Washington,A-10,W,80,53,,13,14,W 1,Ryan Center
+27,28,"Fri, Mar 1, 2019",7:00p,REG,@,Dayton,A-10,W,72,70,OT,14,14,W 2,University of Dayton Arena
+28,29,"Tue, Mar 5, 2019",7:00p,REG,@,Saint Joseph's,A-10,W,86,85,OT,15,14,W 3,Hagan Arena
+29,30,"Sat, Mar 9, 2019",4:00p,REG,,Massachusetts,A-10,W,94,75,,16,14,W 4,Ryan Center
+30,31,"Thu, Mar 14, 2019",12:00p,CTOURN,N,La Salle,A-10,W,76,57,,17,14,W 5,Barclays Center
+31,32,"Fri, Mar 15, 2019",12:00p,CTOURN,N,Virginia Commonwealth,A-10,W,75,70,,18,14,W 6,Barclays Center
+32,33,"Sat, Mar 16, 2019",1:00p,CTOURN,N,St. Bonaventure,A-10,L,51,68,,18,15,L 1,Barclays Center

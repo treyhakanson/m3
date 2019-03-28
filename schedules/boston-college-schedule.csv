@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Milwaukee,Horizon,W,73,53,,1,0,W 1,Silvio O. Conte Forum
+1,2,"Sun, Nov 11, 2018",1:00p,REG,,St. Francis (NY),NEC,W,74,69,,2,0,W 2,Silvio O. Conte Forum
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,IUPUI,Horizon,L,69,76,,2,1,L 1,Silvio O. Conte Forum
+3,4,"Mon, Nov 19, 2018",9:00p,REG,N,Wyoming,MWC,W,88,76,,3,1,W 1,Suncoast Credit Union Arena
+4,5,"Wed, Nov 21, 2018",7:30p,REG,N,Loyola (IL),MVC,W,78,66,,4,1,W 2,Suncoast Credit Union Arena
+5,6,"Mon, Nov 26, 2018",9:00p,REG,,Minnesota,Big Ten,W,68,56,,5,1,W 3,Silvio O. Conte Forum
+6,7,"Thu, Nov 29, 2018",7:00p,REG,,Sacred Heart,NEC,W,81,73,,6,1,W 4,Silvio O. Conte Forum
+7,8,"Tue, Dec 4, 2018",7:00p,REG,,Providence,Big East,L,95,100,OT,6,2,L 1,Silvio O. Conte Forum
+8,9,"Wed, Dec 12, 2018",7:00p,REG,,Columbia,Ivy,W,82,73,,7,2,W 1,Silvio O. Conte Forum
+9,10,"Sun, Dec 16, 2018",1:00p,REG,,Fairfield,MAAC,W,77,67,,8,2,W 2,Silvio O. Conte Forum
+10,11,"Sat, Dec 22, 2018",3:30p,REG,@,DePaul,Big East,W,65,62,,9,2,W 3,Wintrust Arena
+11,12,"Mon, Dec 31, 2018",1:00p,REG,,Hartford,AEC,L,78,79,OT,9,3,L 1,Silvio O. Conte Forum
+12,13,"Sat, Jan 5, 2019",12:00p,REG,@,Virginia Tech (10),ACC,L,66,77,,9,4,L 2,Cassell Coliseum
+13,14,"Wed, Jan 9, 2019",9:00p,REG,,Virginia (4),ACC,L,56,83,,9,5,L 3,Silvio O. Conte Forum
+14,15,"Sat, Jan 12, 2019",12:00p,REG,@,Notre Dame,ACC,L,66,69,,9,6,L 4,Purcell Pavilion at the Joyce Center
+15,16,"Wed, Jan 16, 2019",7:00p,REG,@,Louisville,ACC,L,70,80,,9,7,L 5,KFC Yum! Center
+16,17,"Sun, Jan 20, 2019",12:00p,REG,,Florida State (11),ACC,W,87,82,,10,7,W 1,Silvio O. Conte Forum
+17,18,"Sat, Jan 26, 2019",4:00p,REG,@,Wake Forest,ACC,W,65,61,,11,7,W 2,Lawrence Joel Coliseum
+18,19,"Wed, Jan 30, 2019",8:00p,REG,,Syracuse,ACC,L,71,77,,11,8,L 1,Silvio O. Conte Forum
+19,20,"Sat, Feb 2, 2019",2:00p,REG,,Notre Dame,ACC,L,73,79,,11,9,L 2,Silvio O. Conte Forum
+20,21,"Tue, Feb 5, 2019",7:00p,REG,@,Duke (2),ACC,L,55,80,,11,10,L 3,Cameron Indoor Stadium
+21,22,"Sat, Feb 9, 2019",2:00p,REG,@,Syracuse,ACC,L,56,67,,11,11,L 4,Carrier Dome
+22,23,"Tue, Feb 12, 2019",7:00p,REG,,Pittsburgh,ACC,W,66,57,,12,11,W 1,Silvio O. Conte Forum
+23,24,"Sun, Feb 17, 2019",6:00p,REG,,Miami (FL),ACC,W,64,57,,13,11,W 2,Silvio O. Conte Forum
+24,25,"Wed, Feb 20, 2019",7:00p,REG,@,North Carolina State,ACC,L,80,89,OT,13,12,L 1,PNC Arena
+25,26,"Sat, Feb 23, 2019",12:00p,REG,@,Clemson,ACC,L,66,76,,13,13,L 2,Littlejohn Coliseum
+26,27,"Wed, Feb 27, 2019",9:00p,REG,,Louisville,ACC,W,66,59,,14,13,W 1,Silvio O. Conte Forum
+27,28,"Sun, Mar 3, 2019",6:00p,REG,@,Georgia Tech,ACC,L,78,81,OT,14,14,L 1,McCamish Pavilion
+28,29,"Tue, Mar 5, 2019",8:00p,REG,,North Carolina (3),ACC,L,66,79,,14,15,L 2,Silvio O. Conte Forum
+29,30,"Sat, Mar 9, 2019",2:00p,REG,,North Carolina State,ACC,L,47,73,,14,16,L 3,Silvio O. Conte Forum
+30,31,"Tue, Mar 12, 2019",7:00p,CTOURN,N,Pittsburgh,ACC,L,70,80,,14,17,L 4,Spectrum Center

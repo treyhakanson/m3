@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Sat, Nov 10, 2018",8:00p,REG,@,Villanova (9),Big East,L,53,86,,0,1,L 1,Wells Fargo Center
+1,2,"Thu, Nov 15, 2018",7:00p,REG,,Hartford,AEC,L,54,68,,0,2,L 2,TD Bank Sports Center
+2,3,"Tue, Nov 20, 2018",7:00p,REG,@,New Hampshire,AEC,W,69,63,,1,2,W 1,Lundholm Gymnasium
+3,4,"Sun, Nov 25, 2018",2:00p,REG,,Maine,AEC,W,58,50,,2,2,W 2,TD Bank Sports Center
+4,5,"Wed, Nov 28, 2018",7:00p,REG,@,Massachusetts,A-10,L,62,69,,2,3,L 1,Mullins Center
+5,6,"Sat, Dec 1, 2018",7:00p,REG,@,Stony Brook,AEC,L,61,71,,2,4,L 2,Island Federal Credit Union
+6,7,"Wed, Dec 5, 2018",7:00p,REG,@,Dartmouth,Ivy,W,64,59,,3,4,W 1,Leede Arena
+7,8,"Sat, Dec 8, 2018",2:00p,REG,,Lafayette,Patriot,W,88,77,,4,4,W 2,TD Bank Sports Center
+8,9,"Sun, Dec 16, 2018",6:00p,REG,N,Drexel,CAA,L,83,92,,4,5,L 1,Mohegan Sun Arena
+9,10,"Wed, Dec 19, 2018",8:00p,REG,,Bethune-Cookman,MEAC,W,87,63,,5,5,W 1,TD Bank Sports Center
+10,11,"Sat, Dec 22, 2018",2:00p,REG,,Stony Brook,AEC,L,73,76,,5,6,L 1,TD Bank Sports Center
+11,12,"Thu, Jan 3, 2019",7:00p,REG,@,Manhattan,MAAC,W,63,59,,6,6,W 1,Draddy Gymnasium
+12,13,"Sat, Jan 5, 2019",7:00p,REG,@,Rider,MAAC,L,67,72,,6,7,L 1,Alumni Gymnasium
+13,14,"Thu, Jan 10, 2019",7:00p,REG,,Monmouth,MAAC,W,89,83,2OT,7,7,W 1,TD Bank Sports Center
+14,15,"Sun, Jan 13, 2019",2:00p,REG,,Fairfield,MAAC,W,80,78,,8,7,W 2,TD Bank Sports Center
+15,16,"Thu, Jan 17, 2019",7:00p,REG,,Canisius,MAAC,L,63,65,,8,8,L 1,TD Bank Sports Center
+16,17,"Sat, Jan 19, 2019",2:00p,REG,,Niagara,MAAC,L,72,75,,8,9,L 2,TD Bank Sports Center
+17,18,"Fri, Jan 25, 2019",7:00p,REG,@,Marist,MAAC,W,92,78,,9,9,W 1,McCann Recreation Center
+18,19,"Sun, Jan 27, 2019",2:00p,REG,,Saint Peter's,MAAC,W,77,58,,10,9,W 2,TD Bank Sports Center
+19,20,"Fri, Feb 1, 2019",7:00p,REG,@,Canisius,MAAC,L,70,75,,10,10,L 1,Koessler Athletic Center
+20,21,"Sun, Feb 3, 2019",2:00p,REG,@,Niagara,MAAC,W,84,73,,11,10,W 1,Gallagher Center
+21,22,"Fri, Feb 8, 2019",7:00p,REG,@,Iona,MAAC,W,66,65,,12,10,W 2,Hynes Athletics Center
+22,23,"Tue, Feb 12, 2019",7:00p,REG,,Rider,MAAC,W,98,88,OT,13,10,W 3,TD Bank Sports Center
+23,24,"Fri, Feb 15, 2019",8:00p,REG,,Marist,MAAC,L,61,63,,13,11,L 1,TD Bank Sports Center
+24,25,"Sun, Feb 17, 2019",2:00p,REG,@,Siena,MAAC,W,107,100,3OT,14,11,W 1,Times Union Center 
+25,26,"Tue, Feb 19, 2019",7:00p,REG,,Iona,MAAC,L,77,81,,14,12,L 1,TD Bank Sports Center
+26,27,"Sun, Feb 24, 2019",2:00p,REG,@,Monmouth,MAAC,W,68,56,,15,12,W 1,Multipurpose Activity Center
+27,28,"Fri, Mar 1, 2019",7:00p,REG,@,Saint Peter's,MAAC,W,77,60,,16,12,W 2,Yanitelli Center
+28,29,"Sun, Mar 3, 2019",2:00p,REG,,Manhattan,MAAC,L,58,62,,16,13,L 1,TD Bank Sports Center
+29,30,"Sat, Mar 9, 2019",7:00p,CTOURN,N,Monmouth,MAAC,L,92,98,,16,14,L 2,Times Union Center 
+30,31,"Mon, Mar 18, 2019",7:00p,CIT,@,NJIT,A-Sun,L,81,92,,16,15,L 3,NJIT Wellness and Events Center

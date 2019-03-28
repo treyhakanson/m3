@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:30p,REG,,Ferrum,,W,91,47,,1,0,W 1,The HTC Center
+1,2,"Fri, Nov 9, 2018",7:30p,REG,@,Campbell,Big South,W,85,75,,2,0,W 2,John W. Pope Jr. Convocation Center
+2,3,"Tue, Nov 13, 2018",8:00p,REG,@,Tulane,AAC,L,76,81,,2,1,L 1,Devlin Fieldhouse
+3,4,"Fri, Nov 16, 2018",4:30p,REG,N,Manhattan,MAAC,L,53,55,,2,2,L 2,Bank of Kentucky Center
+4,5,"Sat, Nov 17, 2018",4:30p,REG,N,North Carolina-Asheville,Big South,W,78,52,,3,2,W 1,Bank of Kentucky Center
+5,6,"Sun, Nov 18, 2018",6:30p,REG,@,Northern Kentucky,Horizon,L,83,89,,3,3,L 1,Bank of Kentucky Center
+6,7,"Tue, Nov 20, 2018",7:00p,REG,,Methodist,,W,88,57,,4,3,W 1,The HTC Center
+7,8,"Fri, Nov 30, 2018",7:00p,REG,@,South Carolina,SEC,L,79,85,,4,4,L 1,The Colonial Life Arena
+8,9,"Wed, Dec 5, 2018",7:30p,REG,,Hampton,Big South,W,75,66,,5,4,W 1,The HTC Center
+9,10,"Sun, Dec 9, 2018",2:00p,REG,@,Wofford,Southern,L,71,82,,5,5,L 1,Richardson Indoor Stadium
+10,11,"Sun, Dec 16, 2018",2:00p,REG,,North Carolina Central,MEAC,W,69,65,,6,5,W 1,The HTC Center
+11,12,"Fri, Dec 21, 2018",7:00p,REG,@,College of Charleston,CAA,L,71,73,,6,6,L 1,TD Arena
+12,13,"Thu, Jan 3, 2019",7:00p,REG,@,Troy,Sun Belt,W,88,75,,7,6,W 1,Trojan Arena
+13,14,"Sat, Jan 5, 2019",4:00p,REG,@,South Alabama,Sun Belt,L,77,84,2OT,7,7,L 1,Mitchell Center
+14,15,"Thu, Jan 10, 2019",7:00p,REG,,Texas State,Sun Belt,L,61,65,,7,8,L 2,The HTC Center
+15,16,"Sat, Jan 12, 2019",2:00p,REG,,Texas-Arlington,Sun Belt,L,58,61,,7,9,L 3,The HTC Center
+16,17,"Sat, Jan 19, 2019",2:00p,REG,,Appalachian State,Sun Belt,W,89,72,,8,9,W 1,The HTC Center
+17,18,"Thu, Jan 24, 2019",7:30p,REG,@,Little Rock,Sun Belt,W,72,71,,9,9,W 2,Jack Stephens Center
+18,19,"Sat, Jan 26, 2019",5:00p,REG,@,Arkansas State,Sun Belt,W,77,64,,10,9,W 3,Convocation Center
+19,20,"Thu, Jan 31, 2019",7:00p,REG,,Louisiana-Monroe,Sun Belt,W,92,81,,11,9,W 4,The HTC Center
+20,21,"Sat, Feb 2, 2019",2:00p,REG,,Louisiana,Sun Belt,W,96,79,,12,9,W 5,The HTC Center
+21,22,"Thu, Feb 7, 2019",8:00p,REG,@,Texas-Arlington,Sun Belt,L,54,74,,12,10,L 1,College Park Center
+22,23,"Sat, Feb 9, 2019",5:00p,REG,@,Texas State,Sun Belt,L,57,65,,12,11,L 2,Strahan Coliseum
+23,24,"Sat, Feb 16, 2019",2:00p,REG,@,Appalachian State,Sun Belt,L,79,88,,12,12,L 3,Holmes Convocation Center
+24,25,"Thu, Feb 21, 2019",7:00p,REG,,Georgia Southern,Sun Belt,L,74,79,,12,13,L 4,The HTC Center
+25,26,"Sat, Feb 23, 2019",2:00p,REG,,Georgia State,Sun Belt,W,95,82,,13,13,W 1,The HTC Center
+26,27,"Thu, Feb 28, 2019",8:00p,REG,@,Louisiana,Sun Belt,L,70,83,,13,14,L 1,Cajundome
+27,28,"Sat, Mar 2, 2019",2:00p,REG,@,Louisiana-Monroe,Sun Belt,W,97,91,,14,14,W 1,Fant-Ewing Coliseum
+28,29,"Thu, Mar 7, 2019",7:00p,REG,,South Alabama,Sun Belt,W,92,70,,15,14,W 2,The HTC Center
+29,30,"Sat, Mar 9, 2019",2:00p,REG,,Troy,Sun Belt,L,67,74,,15,15,L 1,The HTC Center
+30,31,"Thu, Mar 14, 2019",8:30p,CTOURN,N,Louisiana-Monroe,Sun Belt,L,50,80,,15,16,L 2,Kiefer Lakefront Arena
+31,32,"Wed, Mar 20, 2019",7:00p,CBI,,Howard,MEAC,W,81,72,,16,16,W 1,The HTC Center
+32,33,"Mon, Mar 25, 2019",7:00p,CBI,@,West Virginia,Big 12,W,109,91,,17,16,W 2,WVU Coliseum
+33,34,"Wed, Mar 27, 2019",8:00p,CBI,@,DePaul,Big East,L,87,92,,17,17,L 1,McGrath-Phillips Arena

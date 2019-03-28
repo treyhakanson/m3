@@ -1,0 +1,31 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,Rhode Island,A-10,L,63,97,,0,1,L 1,Ryan Center
+1,2,"Sun, Nov 11, 2018",10:00p,REG,N,Seattle,WAC,L,59,82,,0,2,L 2,ShoWare Center
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,Saint Peter's,MAAC,W,71,63,,1,2,W 1,Chace Athletic Center 
+3,4,"Sun, Nov 18, 2018",2:00p,REG,@,Navy,Patriot,L,79,83,,1,3,L 1,Alumni Hall
+4,5,"Sun, Nov 25, 2018",6:00p,REG,@,Brown,Ivy,L,60,84,,1,4,L 2,Pizzitola Sports Center
+5,6,"Wed, Nov 28, 2018",7:00p,REG,,Yale,Ivy,L,61,103,,1,5,L 3,Chace Athletic Center 
+6,7,"Sat, Dec 1, 2018",1:00p,REG,,New Hampshire,AEC,W,75,65,,2,5,W 1,Chace Athletic Center 
+7,8,"Fri, Dec 7, 2018",7:00p,REG,@,Columbia,Ivy,L,68,90,,2,6,L 1,Levien Gym
+8,9,"Wed, Dec 12, 2018",7:00p,REG,,Hartford,AEC,L,74,91,,2,7,L 2,Chace Athletic Center 
+9,10,"Fri, Dec 21, 2018",11:00a,REG,,Dartmouth,Ivy,W,68,67,,3,7,W 1,Chace Athletic Center 
+10,11,"Sat, Dec 29, 2018",8:00p,REG,@,Iowa (24),Big Ten,L,67,72,,3,8,L 1,Carver-Hawkeye Arena
+11,12,"Thu, Jan 3, 2019",7:00p,REG,,St. Francis (NY),NEC,W,76,66,,4,8,W 1,Chace Athletic Center 
+12,13,"Sat, Jan 5, 2019",4:00p,REG,,Long Island University,NEC,L,70,79,,4,9,L 1,Chace Athletic Center 
+13,14,"Thu, Jan 10, 2019",7:00p,REG,@,Mount St. Mary's,NEC,W,66,59,,5,9,W 1,Knott Arena
+14,15,"Sat, Jan 12, 2019",2:00p,REG,@,Sacred Heart,NEC,L,70,98,,5,10,L 1,William H. Pitt Center
+15,16,"Sat, Jan 19, 2019",4:00p,REG,,Robert Morris,NEC,L,65,79,,5,11,L 2,Chace Athletic Center 
+16,17,"Mon, Jan 21, 2019",5:00p,REG,,Saint Francis (PA),NEC,W,76,67,,6,11,W 1,Chace Athletic Center 
+17,18,"Thu, Jan 24, 2019",7:00p,REG,,Central Connecticut State,NEC,W,63,60,,7,11,W 2,Chace Athletic Center 
+18,19,"Sat, Jan 26, 2019",4:00p,REG,,Fairleigh Dickinson,NEC,L,63,78,,7,12,L 1,Chace Athletic Center 
+19,20,"Thu, Jan 31, 2019",7:00p,REG,@,Wagner,NEC,W,71,64,,8,12,W 1,Spiro Sports Center
+20,21,"Sat, Feb 2, 2019",3:30p,REG,@,Central Connecticut State,NEC,L,59,64,,8,13,L 1,Detrick Gymnasium
+21,22,"Thu, Feb 7, 2019",7:00p,REG,@,Robert Morris,NEC,L,59,72,,8,14,L 2,North Athletic Complex
+22,23,"Sat, Feb 9, 2019",7:00p,REG,@,Saint Francis (PA),NEC,L,75,84,,8,15,L 3,DeGol Arena
+23,24,"Thu, Feb 14, 2019",7:00p,REG,,Sacred Heart,NEC,L,104,105,,8,16,L 4,Chace Athletic Center 
+24,25,"Sat, Feb 16, 2019",4:30p,REG,@,Fairleigh Dickinson,NEC,L,84,97,,8,17,L 5,Rothman Center
+25,26,"Thu, Feb 21, 2019",7:00p,REG,,Wagner,NEC,W,67,65,,9,17,W 1,Chace Athletic Center 
+26,27,"Sat, Feb 23, 2019",4:00p,REG,,Mount St. Mary's,NEC,W,81,58,,10,17,W 2,Chace Athletic Center 
+27,28,"Thu, Feb 28, 2019",7:00p,REG,@,St. Francis (NY),NEC,L,66,74,,10,18,L 1,Pope Physical Education Center
+28,29,"Sat, Mar 2, 2019",4:30p,REG,@,Long Island University,NEC,L,65,81,,10,19,L 2,Steinberg Wellness Center
+29,30,"Wed, Mar 6, 2019",7:00p,CTOURN,@,Saint Francis (PA),NEC,L,63,67,,10,20,L 3,DeGol Arena

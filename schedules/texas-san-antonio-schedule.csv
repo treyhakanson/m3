@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",8:00p,REG,,St. Edward's,,L,76,77,,0,1,L 1,Convocation Center
+1,2,"Mon, Nov 12, 2018",8:00p,REG,,Oklahoma,Big 12,L,67,87,,0,2,L 2,Convocation Center
+2,3,"Wed, Nov 14, 2018",8:00p,REG,@,Oklahoma State,Big 12,L,60,82,,0,3,L 3,Gallagher-Iba Arena
+3,4,"Mon, Nov 19, 2018",1:30p,REG,N,UC-Irvine,Big West,L,56,65,,0,4,L 4,Germain Arena
+4,5,"Tue, Nov 20, 2018",11:00a,REG,N,South Dakota State,Summit,L,79,99,,0,5,L 5,Germain Arena
+5,6,"Wed, Nov 21, 2018",11:00a,REG,N,Florida Gulf Coast,A-Sun,W,76,65,,1,5,W 1,Germain Arena
+6,7,"Mon, Nov 26, 2018",8:00p,REG,@,Houston Baptist,Southland,W,86,82,,2,5,W 2,Frank and Lucille Sharp Gymnasium
+7,8,"Sat, Dec 1, 2018",4:00p,REG,,Texas State,Sun Belt,L,68,69,,2,6,L 1,Convocation Center
+8,9,"Sat, Dec 8, 2018",4:00p,REG,,Mid-America Christian,,W,104,74,,3,6,W 1,Convocation Center
+9,10,"Sat, Dec 15, 2018",8:00p,REG,N,Arkansas,SEC,L,67,79,,3,7,L 1,Verizon Arena
+10,11,"Mon, Dec 17, 2018",8:00p,REG,,Bethany College (KS),,W,101,77,,4,7,W 1,Convocation Center
+11,12,"Thu, Dec 20, 2018",8:30p,REG,@,Texas A&M-Corpus Christi,Southland,W,64,50,,5,7,W 2,American Bank Center
+12,13,"Sat, Dec 29, 2018",4:00p,REG,,Southeastern Oklahoma State,,W,70,67,,6,7,W 3,Convocation Center
+13,14,"Thu, Jan 3, 2019",8:00p,REG,,Texas-El Paso,CUSA,W,75,60,,7,7,W 4,Convocation Center
+14,15,"Sat, Jan 5, 2019",9:00p,REG,@,Texas-El Paso,CUSA,W,67,63,,8,7,W 5,Don Haskins Center
+15,16,"Thu, Jan 10, 2019",8:00p,REG,,Rice,CUSA,W,95,79,,9,7,W 6,Convocation Center
+16,17,"Sat, Jan 12, 2019",4:00p,REG,,North Texas,CUSA,W,76,74,,10,7,W 7,Convocation Center
+17,18,"Thu, Jan 17, 2019",7:30p,REG,@,Middle Tennessee,CUSA,L,86,89,,10,8,L 1,Murphy Athletic Center
+18,19,"Sat, Jan 19, 2019",8:00p,REG,@,Alabama-Birmingham,CUSA,L,73,83,,10,9,L 2,Bartow Arena
+19,20,"Thu, Jan 24, 2019",8:00p,REG,,Charlotte,CUSA,W,88,43,,11,9,W 1,Convocation Center
+20,21,"Sat, Jan 26, 2019",4:00p,REG,,Old Dominion,CUSA,W,74,73,,12,9,W 2,Convocation Center
+21,22,"Thu, Jan 31, 2019",8:00p,REG,@,Western Kentucky,CUSA,L,88,96,OT,12,10,L 1,E.A. Diddle Arena
+22,23,"Sat, Feb 2, 2019",7:00p,REG,@,Marshall,CUSA,W,116,106,OT,13,10,W 1,Henderson Center
+23,24,"Thu, Feb 7, 2019",8:00p,REG,,Florida International,CUSA,W,100,67,,14,10,W 2,Convocation Center
+24,25,"Sat, Feb 9, 2019",4:00p,REG,,Florida Atlantic,CUSA,W,86,74,,15,10,W 3,Convocation Center
+25,26,"Thu, Feb 14, 2019",8:00p,REG,@,Southern Mississippi,CUSA,L,71,78,,15,11,L 1,Reed Green Coliseum
+26,27,"Sat, Feb 16, 2019",3:00p,REG,@,Louisiana Tech,CUSA,L,67,72,,15,12,L 2,Thomas Assembly Center
+27,28,"Thu, Feb 28, 2019",8:00p,REG,,Old Dominion,CUSA,L,64,65,,15,13,L 3,Convocation Center
+28,29,"Sun, Mar 3, 2019",3:00p,REG,,Alabama-Birmingham,CUSA,W,76,70,,16,13,W 1,Convocation Center
+29,30,"Wed, Mar 6, 2019",7:30p,REG,@,Western Kentucky,CUSA,W,81,76,OT,17,13,W 2,E.A. Diddle Arena
+30,31,"Sat, Mar 9, 2019",3:00p,REG,@,Southern Mississippi,CUSA,L,48,81,,17,14,L 1,Reed Green Coliseum
+31,32,"Thu, Mar 14, 2019",7:30p,CTOURN,N,Alabama-Birmingham,CUSA,L,76,85,,17,15,L 2,Ford Center at The Star

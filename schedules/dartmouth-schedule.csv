@@ -1,0 +1,31 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Newbury,,W,114,39,,1,0,W 1,Leede Arena
+1,2,"Fri, Nov 9, 2018",7:00p,REG,@,Davidson,A-10,L,76,79,,1,1,L 1,Belk Arena
+2,3,"Sun, Nov 11, 2018",5:00p,REG,@,Loyola (MD),Patriot,W,82,80,,2,1,W 1,Reitz Arena
+3,4,"Tue, Nov 13, 2018",7:00p,REG,,Elms,,W,100,54,,3,1,W 2,Leede Arena
+4,5,"Wed, Nov 21, 2018",7:00p,REG,@,Buffalo (22),MAC,L,71,110,,3,2,L 1,Alumni Arena
+5,6,"Sat, Nov 24, 2018",5:00p,REG,@,San Francisco,WCC,L,65,84,,3,3,L 2,War Memorial Gymnasium
+6,7,"Thu, Nov 29, 2018",11:30a,REG,N,Marist,MAAC,L,58,76,,3,4,L 3,SSE Arena
+7,8,"Fri, Nov 30, 2018",12:00p,REG,N,Albany (NY),AEC,W,91,77,,4,4,W 1,SSE Arena
+8,9,"Wed, Dec 5, 2018",7:00p,REG,,Quinnipiac,MAAC,L,59,64,,4,5,L 1,Leede Arena
+9,10,"Sat, Dec 8, 2018",2:00p,REG,,Maine,AEC,W,78,52,,5,5,W 1,Leede Arena
+10,11,"Mon, Dec 10, 2018",12:00p,REG,,Sacred Heart,NEC,W,82,73,,6,5,W 2,Leede Arena
+11,12,"Thu, Dec 13, 2018",7:00p,REG,,Boston University,Patriot,W,78,68,,7,5,W 3,Leede Arena
+12,13,"Sat, Dec 15, 2018",3:00p,REG,@,Albany (NY),AEC,W,61,52,,8,5,W 4,SEFCU Arena
+13,14,"Fri, Dec 21, 2018",11:00a,REG,@,Bryant,NEC,L,67,68,,8,6,L 1,Chace Athletic Center 
+14,15,"Sun, Dec 30, 2018",12:00p,REG,,New Hampshire,AEC,W,76,68,,9,6,W 1,Leede Arena
+15,16,"Wed, Jan 2, 2019",7:00p,REG,@,Vermont,AEC,L,59,73,,9,7,L 1,Roy L. Patrick Gymnasium
+16,17,"Sat, Jan 12, 2019",7:00p,REG,,Harvard,Ivy,W,81,63,,10,7,W 1,Leede Arena
+17,18,"Sat, Jan 26, 2019",2:00p,REG,@,Harvard,Ivy,L,59,64,,10,8,L 1,Lavietes Pavilion
+18,19,"Fri, Feb 1, 2019",7:00p,REG,,Brown,Ivy,L,58,60,,10,9,L 2,Leede Arena
+19,20,"Sat, Feb 2, 2019",7:00p,REG,,Yale,Ivy,L,68,89,,10,10,L 3,Leede Arena
+20,21,"Fri, Feb 8, 2019",7:00p,REG,,Cornell,Ivy,L,80,83,,10,11,L 4,Leede Arena
+21,22,"Sat, Feb 9, 2019",7:00p,REG,,Columbia,Ivy,W,82,66,,11,11,W 1,Leede Arena
+22,23,"Fri, Feb 15, 2019",7:00p,REG,@,Pennsylvania,Ivy,L,79,82,OT,11,12,L 1,The Palestra
+23,24,"Sat, Feb 16, 2019",7:00p,REG,@,Princeton,Ivy,L,68,69,,11,13,L 2,Jadwin Gymnasium
+24,25,"Fri, Feb 22, 2019",7:00p,REG,@,Yale,Ivy,L,59,77,,11,14,L 3,John J. Lee Ampitheater
+25,26,"Sat, Feb 23, 2019",6:00p,REG,@,Brown,Ivy,L,65,68,,11,15,L 4,Pizzitola Sports Center
+26,27,"Fri, Mar 1, 2019",7:00p,REG,,Princeton,Ivy,L,76,77,OT,11,16,L 5,Leede Arena
+27,28,"Sat, Mar 2, 2019",7:00p,REG,,Pennsylvania,Ivy,L,51,65,,11,17,L 6,Leede Arena
+28,29,"Fri, Mar 8, 2019",7:00p,REG,@,Columbia,Ivy,L,66,70,,11,18,L 7,Levien Gym
+29,30,"Sat, Mar 9, 2019",7:00p,REG,@,Cornell,Ivy,L,51,66,,11,19,L 8,Newman Arena

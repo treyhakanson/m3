@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",7:30p,REG,@,Long Island University,NEC,L,81,83,,0,1,L 1,Steinberg Wellness Center
+1,2,"Sun, Nov 11, 2018",2:00p,REG,@,NJIT,A-Sun,L,60,63,,0,2,L 2,NJIT Wellness and Events Center
+2,3,"Fri, Nov 16, 2018",7:30p,REG,,Massachusetts-Lowell,AEC,W,82,74,,1,2,W 1,Pizzitola Sports Center
+3,4,"Sat, Nov 17, 2018",6:00p,REG,,Sacred Heart,NEC,W,82,77,,2,2,W 2,Pizzitola Sports Center
+4,5,"Sun, Nov 18, 2018",4:00p,REG,,Army,Patriot,W,86,66,,3,2,W 3,Pizzitola Sports Center
+5,6,"Wed, Nov 21, 2018",3:00p,REG,,Salve Regina,,W,96,64,,4,2,W 4,Pizzitola Sports Center
+6,7,"Sun, Nov 25, 2018",6:00p,REG,,Bryant,NEC,W,84,60,,5,2,W 5,Pizzitola Sports Center
+7,8,"Wed, Nov 28, 2018",7:00p,REG,@,Rhode Island,A-10,L,51,71,,5,3,L 1,Ryan Center
+8,9,"Sat, Dec 1, 2018",4:00p,REG,@,Navy,Patriot,W,67,50,,6,3,W 1,Alumni Hall
+9,10,"Wed, Dec 5, 2018",7:00p,REG,@,Butler,Big East,L,55,70,,6,4,L 1,Hinkle Fieldhouse
+10,11,"Sat, Dec 8, 2018",2:00p,REG,,Stony Brook,AEC,W,71,69,,7,4,W 1,Pizzitola Sports Center
+11,12,"Sat, Dec 22, 2018",1:00p,REG,@,Marist,MAAC,W,78,53,,8,4,W 2,McCann Recreation Center
+12,13,"Sat, Dec 29, 2018",8:00p,REG,@,San Diego State,MWC,W,82,61,,9,4,W 3,Viejas Arena
+13,14,"Wed, Jan 2, 2019",7:00p,REG,,Maine,AEC,W,75,67,,10,4,W 4,Pizzitola Sports Center
+14,15,"Tue, Jan 8, 2019",7:00p,REG,@,Canisius,MAAC,W,97,90,OT,11,4,W 5,Koessler Athletic Center
+15,16,"Mon, Jan 14, 2019",7:00p,REG,,Johnson & Wales (RI),,W,100,61,,12,4,W 6,Pizzitola Sports Center
+16,17,"Sat, Jan 19, 2019",3:30p,REG,,Yale,Ivy,L,67,70,,12,5,L 1,Pizzitola Sports Center
+17,18,"Fri, Jan 25, 2019",7:00p,REG,@,Yale,Ivy,L,71,79,,12,6,L 2,John J. Lee Ampitheater
+18,19,"Fri, Feb 1, 2019",7:00p,REG,@,Dartmouth,Ivy,W,60,58,,13,6,W 1,Leede Arena
+19,20,"Sat, Feb 2, 2019",7:00p,REG,@,Harvard,Ivy,L,47,68,,13,7,L 1,Lavietes Pavilion
+20,21,"Fri, Feb 8, 2019",7:00p,REG,,Pennsylvania,Ivy,L,82,92,,13,8,L 2,Pizzitola Sports Center
+21,22,"Sat, Feb 9, 2019",6:00p,REG,,Princeton,Ivy,W,78,70,,14,8,W 1,Pizzitola Sports Center
+22,23,"Fri, Feb 15, 2019",7:00p,REG,@,Cornell,Ivy,L,66,70,OT,14,9,L 1,Newman Arena
+23,24,"Sat, Feb 16, 2019",7:00p,REG,@,Columbia,Ivy,W,65,63,,15,9,W 1,Levien Gym
+24,25,"Fri, Feb 22, 2019",7:00p,REG,,Harvard,Ivy,W,88,79,,16,9,W 2,Pizzitola Sports Center
+25,26,"Sat, Feb 23, 2019",6:00p,REG,,Dartmouth,Ivy,W,68,65,,17,9,W 3,Pizzitola Sports Center
+26,27,"Fri, Mar 1, 2019",5:00p,REG,,Columbia,Ivy,L,77,80,,17,10,L 1,Pizzitola Sports Center
+27,28,"Sat, Mar 2, 2019",6:00p,REG,,Cornell,Ivy,W,75,51,,18,10,W 1,Pizzitola Sports Center
+28,29,"Fri, Mar 8, 2019",4:00p,REG,@,Princeton,Ivy,W,67,63,,19,10,W 2,Jadwin Gymnasium
+29,30,"Sat, Mar 9, 2019",6:00p,REG,@,Pennsylvania,Ivy,L,51,58,,19,11,L 1,The Palestra
+30,31,"Wed, Mar 20, 2019",7:00p,CBI,,Alabama-Birmingham,CUSA,W,83,78,,20,11,W 1,Pizzitola Sports Center
+31,32,"Mon, Mar 25, 2019",10:00p,CBI,@,Loyola Marymount,WCC,L,63,81,,20,12,L 1,Albert Gersten Pavilion

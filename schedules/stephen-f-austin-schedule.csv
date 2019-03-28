@@ -1,0 +1,31 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:30p,REG,,Texas Wesleyan,,W,83,71,,1,0,W 1,William Johnson Coliseum
+1,2,"Thu, Nov 8, 2018",7:30p,REG,,Southwest Assemblies of God,,W,68,67,,2,0,W 2,William Johnson Coliseum
+2,3,"Tue, Nov 13, 2018",7:00p,REG,@,Miami (FL),ACC,L,58,96,,2,1,L 1,BankUnited Center
+3,4,"Tue, Nov 20, 2018",8:30p,REG,,Marist,MAAC,W,64,60,,3,1,W 1,William Johnson Coliseum
+4,5,"Sun, Nov 25, 2018",5:30p,REG,,St. Edward's,,W,73,60,,4,1,W 2,William Johnson Coliseum
+5,6,"Fri, Nov 30, 2018",8:00a,REG,N,San Francisco,WCC,L,58,76,,4,2,L 1,SSE Arena
+6,7,"Sat, Dec 1, 2018",8:00a,REG,N,Milwaukee,Horizon,W,66,51,,5,2,W 1,SSE Arena
+7,8,"Fri, Dec 7, 2018",7:30p,REG,,Louisiana Tech,CUSA,L,93,96,OT,5,3,L 1,William Johnson Coliseum
+8,9,"Sat, Dec 15, 2018",3:00p,REG,@,Louisiana-Monroe,Sun Belt,L,58,74,,5,4,L 2,Fant-Ewing Coliseum
+9,10,"Tue, Dec 18, 2018",8:30p,REG,@,Baylor,Big 12,W,59,58,,6,4,W 1,Ferrell Center
+10,11,"Fri, Dec 21, 2018",7:30p,REG,,Arlington Baptist,,W,97,47,,7,4,W 2,William Johnson Coliseum
+11,12,"Sun, Dec 30, 2018",6:00p,REG,,Alabama,SEC,L,69,79,,7,5,L 1,William Johnson Coliseum
+12,13,"Wed, Jan 2, 2019",7:30p,REG,,Southeastern Louisiana,Southland,W,65,60,,8,5,W 1,William Johnson Coliseum
+13,14,"Wed, Jan 9, 2019",8:00p,REG,@,Nicholls State,Southland,L,73,78,,8,6,L 1,David Stopher Gymnasium
+14,15,"Sat, Jan 12, 2019",5:30p,REG,,Northwestern State,Southland,L,59,61,,8,7,L 2,William Johnson Coliseum
+15,16,"Wed, Jan 16, 2019",8:00p,REG,@,New Orleans,Southland,L,61,68,,8,8,L 3,Kiefer Lakefront Arena
+16,17,"Sat, Jan 19, 2019",4:30p,REG,@,Incarnate Word,Southland,W,74,71,,9,8,W 1,McDermott Center
+17,18,"Wed, Jan 23, 2019",7:30p,REG,,Abilene Christian,Southland,W,61,60,,10,8,W 2,William Johnson Coliseum
+18,19,"Wed, Jan 30, 2019",7:30p,REG,,Central Arkansas,Southland,W,105,99,OT,11,8,W 3,William Johnson Coliseum
+19,20,"Sat, Feb 2, 2019",8:00p,REG,@,Sam Houston State,Southland,L,72,94,,11,9,L 1,Johnson Coliseum
+20,21,"Wed, Feb 6, 2019",8:00p,REG,@,Houston Baptist,Southland,W,79,77,,12,9,W 1,Frank and Lucille Sharp Gymnasium
+21,22,"Sat, Feb 9, 2019",5:30p,REG,,Lamar,Southland,L,67,82,,12,10,L 1,William Johnson Coliseum
+22,23,"Wed, Feb 13, 2019",7:30p,REG,,McNeese State,Southland,W,67,57,,13,10,W 1,William Johnson Coliseum
+23,24,"Sat, Feb 16, 2019",4:30p,REG,@,Northwestern State,Southland,L,72,87,,13,11,L 1,Prather Coliseum
+24,25,"Wed, Feb 20, 2019",7:30p,REG,,Texas A&M-Corpus Christi,Southland,L,55,65,,13,12,L 2,William Johnson Coliseum
+25,26,"Sat, Feb 23, 2019",5:30p,REG,,Incarnate Word,Southland,W,81,54,,14,12,W 1,William Johnson Coliseum
+26,27,"Wed, Feb 27, 2019",8:00p,REG,@,Central Arkansas,Southland,L,74,92,,14,13,L 1,Jeff Farris Center
+27,28,"Sat, Mar 2, 2019",5:30p,REG,@,Lamar,Southland,L,79,81,,14,14,L 2,Montagne Center
+28,29,"Tue, Mar 5, 2019",8:00p,REG,@,Abilene Christian,Southland,L,58,72,,14,15,L 3,Moody Coliseum 
+29,30,"Sat, Mar 9, 2019",5:30p,REG,,Sam Houston State,Southland,L,57,68,,14,16,L 4,William Johnson Coliseum

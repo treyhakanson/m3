@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",11:00p,REG,@,Nevada (7),MWC,L,70,86,,0,1,L 1,Lawlor Events Center
+1,2,"Fri, Nov 9, 2018",10:00p,REG,,Utah Valley,WAC,W,75,65,,1,1,W 1,Marriott Center
+2,3,"Tue, Nov 13, 2018",9:00p,REG,,Northwestern State,Southland,W,82,57,,2,1,W 2,Marriott Center
+3,4,"Thu, Nov 15, 2018",9:00p,REG,,Oral Roberts,Summit,W,85,65,,3,1,W 3,Marriott Center
+4,5,"Sat, Nov 17, 2018",6:00p,REG,,Alabama A&M,SWAC,W,91,60,,4,1,W 4,Marriott Center
+5,6,"Wed, Nov 21, 2018",9:00p,REG,,Rice,CUSA,W,105,78,,5,1,W 5,Marriott Center
+6,7,"Sat, Nov 24, 2018",6:00p,REG,,Houston,AAC,L,62,76,,5,2,L 1,Marriott Center
+7,8,"Wed, Nov 28, 2018",8:00p,REG,@,Illinois State,MVC,L,89,92,OT,5,3,L 2,Redbird Arena
+8,9,"Sat, Dec 1, 2018",9:00p,REG,@,Weber State,Big Sky,L,103,113,,5,4,L 3,Dee Events Center
+9,10,"Wed, Dec 5, 2018",9:00p,REG,,Utah State,MWC,W,95,80,,6,4,W 1,Marriott Center
+10,11,"Sat, Dec 8, 2018",2:00p,REG,N,Utah,Pac-12,W,74,59,,7,4,W 2,Vivint Smart Home Arena
+11,12,"Wed, Dec 12, 2018",9:00p,REG,,Portland State,Big Sky,W,85,66,,8,4,W 3,Marriott Center
+12,13,"Sat, Dec 15, 2018",8:30p,REG,N,Nevada-Las Vegas,MWC,L,90,92,OT,8,5,L 1,T-Mobile Arena
+13,14,"Sat, Dec 22, 2018",7:00p,REG,@,San Diego State,MWC,L,81,90,,8,6,L 2,Viejas Arena
+14,15,"Sat, Dec 29, 2018",12:00p,REG,@,Mississippi State (19),SEC,L,81,103,,8,7,L 3,Humphrey Coliseum
+15,16,"Thu, Jan 3, 2019",11:00p,REG,@,Pacific,WCC,W,90,87,,9,7,W 1,A.G. Spanos Center
+16,17,"Sat, Jan 5, 2019",11:00p,REG,@,Saint Mary's (CA),WCC,L,66,88,,9,8,L 1,McKeon Pavilion
+17,18,"Thu, Jan 10, 2019",9:00p,REG,,Portland,WCC,W,79,56,,10,8,W 1,Marriott Center
+18,19,"Sat, Jan 12, 2019",9:00p,REG,,Santa Clara,WCC,W,80,74,,11,8,W 2,Marriott Center
+19,20,"Thu, Jan 17, 2019",11:00p,REG,@,Pepperdine,WCC,W,87,76,,12,8,W 3,Firestone Fieldhouse
+20,21,"Sat, Jan 19, 2019",11:00p,REG,@,San Francisco,WCC,L,63,82,,12,9,L 1,War Memorial Gymnasium
+21,22,"Thu, Jan 24, 2019",11:00p,REG,,Saint Mary's (CA),WCC,W,71,66,,13,9,W 1,Marriott Center
+22,23,"Thu, Jan 31, 2019",11:00p,REG,,Gonzaga (4),WCC,L,63,93,,13,10,L 1,Marriott Center
+23,24,"Sat, Feb 2, 2019",9:00p,REG,,Loyola Marymount,WCC,W,67,49,,14,10,W 1,Marriott Center
+24,25,"Thu, Feb 7, 2019",11:00p,REG,@,Portland,WCC,W,83,48,,15,10,W 2,Chiles Center
+25,26,"Sat, Feb 9, 2019",9:00p,REG,,Pacific,WCC,W,69,59,,16,10,W 3,Marriott Center
+26,27,"Thu, Feb 14, 2019",10:00p,REG,@,San Diego,WCC,W,88,82,OT,17,10,W 4,Jenny Craig Pavillion
+27,28,"Sat, Feb 16, 2019",4:00p,REG,@,Loyola Marymount,WCC,W,70,62,,18,10,W 5,Albert Gersten Pavilion
+28,29,"Thu, Feb 21, 2019",9:00p,REG,,San Francisco,WCC,L,71,77,,18,11,L 1,Marriott Center
+29,30,"Sat, Feb 23, 2019",10:00p,REG,@,Gonzaga (2),WCC,L,68,102,,18,12,L 2,McCarthey Athletic Center
+30,31,"Sat, Mar 2, 2019",9:00p,REG,,San Diego,WCC,W,87,73,,19,12,W 1,Marriott Center
+31,32,"Sat, Mar 9, 2019",11:59p,CTOURN,N,San Diego,WCC,L,57,80,,19,13,L 1,Orleans Arena

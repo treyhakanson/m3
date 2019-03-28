@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,@,Alabama-Birmingham,CUSA,L,67,75,,0,1,L 1,Bartow Arena
+1,2,"Fri, Nov 9, 2018",7:00p,REG,,Piedmont,,W,105,52,,1,1,W 1,Hawkins Arena
+2,3,"Tue, Nov 13, 2018",7:00p,REG,@,Georgia State,Sun Belt,L,60,62,,1,2,L 1,GSU Sports Arena
+3,4,"Fri, Nov 16, 2018",7:00p,REG,,Tennessee-Martin,OVC,W,77,60,,2,2,W 1,Hawkins Arena
+4,5,"Tue, Nov 20, 2018",7:00p,REG,,Maryland-Eastern Shore,MEAC,W,80,42,,3,2,W 2,Hawkins Arena
+5,6,"Sat, Nov 24, 2018",5:30p,REG,@,North Carolina State,ACC,L,74,78,,3,3,L 1,PNC Arena
+6,7,"Tue, Nov 27, 2018",7:00p,REG,,Brewton-Parker,,W,90,65,,4,3,W 1,Hawkins Arena
+7,8,"Sat, Dec 1, 2018",1:00p,REG,@,Citadel,Southern,L,69,79,,4,4,L 1,McAlister Field House
+8,9,"Wed, Dec 5, 2018",7:00p,REG,@,Florida Atlantic,CUSA,L,64,68,,4,5,L 2,FAU Arena
+9,10,"Sat, Dec 8, 2018",4:00p,REG,,Georgia Southern,Sun Belt,L,74,89,,4,6,L 3,Hawkins Arena
+10,11,"Tue, Dec 18, 2018",8:00p,REG,@,Florida,SEC,L,63,71,,4,7,L 4,Stephen C. O'Connell Center
+11,12,"Fri, Dec 21, 2018",7:00p,REG,,North Carolina-Wilmington,CAA,W,77,73,,5,7,W 1,Hawkins Arena
+12,13,"Sat, Dec 29, 2018",1:30p,REG,N,Harvard,Ivy,L,67,71,,5,8,L 1,Philips Arena
+13,14,"Thu, Jan 3, 2019",7:00p,REG,@,Furman,Southern,L,58,71,,5,9,L 2,Timmons Arena
+14,15,"Sat, Jan 5, 2019",7:00p,REG,@,Wofford,Southern,L,74,78,,5,10,L 3,Richardson Indoor Stadium
+15,16,"Thu, Jan 10, 2019",7:00p,REG,,Western Carolina,Southern,W,84,80,,6,10,W 1,Hawkins Arena
+16,17,"Sat, Jan 12, 2019",4:30p,REG,,East Tennessee State,Southern,L,68,72,OT,6,11,L 1,Hawkins Arena
+17,18,"Thu, Jan 17, 2019",8:00p,REG,@,Chattanooga,Southern,L,70,73,,6,12,L 2,The McKenzie Arena
+18,19,"Sat, Jan 19, 2019",3:00p,REG,@,Samford,Southern,W,93,87,,7,12,W 1,Pete Hanna Center
+19,20,"Thu, Jan 24, 2019",7:30p,REG,,Virginia Military Institute,Southern,W,88,68,,8,12,W 2,Hawkins Arena
+20,21,"Sat, Jan 26, 2019",5:00p,REG,@,North Carolina-Greensboro,Southern,L,81,88,,8,13,L 1,Greensboro Coliseum
+21,22,"Thu, Jan 31, 2019",7:00p,REG,,Wofford,Southern,L,67,76,,8,14,L 2,Hawkins Arena
+22,23,"Sat, Feb 2, 2019",4:00p,REG,,Furman,Southern,L,63,74,,8,15,L 3,Hawkins Arena
+23,24,"Sat, Feb 9, 2019",4:00p,REG,,Citadel,Southern,L,61,67,,8,16,L 4,Hawkins Arena
+24,25,"Thu, Feb 14, 2019",7:00p,REG,@,Western Carolina,Southern,W,74,65,,9,16,W 1,Ramsey Center
+25,26,"Sat, Feb 16, 2019",4:00p,REG,@,East Tennessee State,Southern,L,69,88,,9,17,L 1,Freedom Hall Civic Center
+26,27,"Thu, Feb 21, 2019",7:00p,REG,,Samford,Southern,W,65,62,,10,17,W 1,Hawkins Arena
+27,28,"Sat, Feb 23, 2019",4:00p,REG,,Chattanooga,Southern,W,74,69,,11,17,W 2,Hawkins Arena
+28,29,"Thu, Feb 28, 2019",7:00p,REG,@,Virginia Military Institute,Southern,L,71,84,,11,18,L 1,Cameron Hall
+29,30,"Sat, Mar 2, 2019",4:30p,REG,,North Carolina-Greensboro,Southern,L,47,74,,11,19,L 2,Hawkins Arena
+30,31,"Sat, Mar 9, 2019",8:30p,CTOURN,N,Furman,Southern,L,74,85,,11,20,L 3,U.S. Cellular Center

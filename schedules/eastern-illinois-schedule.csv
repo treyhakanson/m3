@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,@,Texas,Big 12,L,59,71,,0,1,L 1,Frank Erwin Center
+1,2,"Sat, Nov 10, 2018",1:00p,REG,@,IUPUI,Horizon,L,65,71,,0,2,L 2,Indiana Farmers Coliseum
+2,3,"Sat, Nov 17, 2018",8:00p,REG,,Western Illinois,Summit,W,68,66,OT,1,2,W 1,Lantz Arena
+3,4,"Fri, Nov 23, 2018",5:00p,REG,N,Gardner-Webb,Big South,W,79,78,,2,2,W 2,U.S. Cellular Center
+4,5,"Sat, Nov 24, 2018",5:00p,REG,N,Arkansas State,Sun Belt,W,90,86,OT,3,2,W 3,U.S. Cellular Center
+5,6,"Sun, Nov 25, 2018",1:00p,REG,N,North Carolina-Wilmington,CAA,L,65,82,,3,3,L 1,U.S. Cellular Center
+6,7,"Wed, Nov 28, 2018",8:00p,REG,,Purdue-Fort Wayne,Summit,L,60,104,,3,4,L 2,Lantz Arena
+7,8,"Sat, Dec 1, 2018",3:00p,REG,@,Chicago State,WAC,L,72,80,,3,5,L 3,Emil and Patricia Jones Convocation Center
+8,9,"Tue, Dec 4, 2018",8:00p,REG,,Fontbonne,,W,90,37,,4,5,W 1,Lantz Arena
+9,10,"Sat, Dec 8, 2018",8:00p,REG,@,Western Illinois,Summit,W,74,67,,5,5,W 2,Western Hall
+10,11,"Sat, Dec 15, 2018",8:00p,REG,@,Bradley,MVC,W,73,66,,6,5,W 3,Carver Arena
+11,12,"Fri, Dec 21, 2018",7:00p,REG,@,Iowa State,Big 12,L,53,101,,6,6,L 1,James H. Hilton Coliseum 
+12,13,"Sun, Dec 30, 2018",3:00p,REG,,North Alabama,A-Sun,W,81,70,,7,6,W 1,Lantz Arena
+13,14,"Thu, Jan 3, 2019",8:30p,REG,,Tennessee-Martin,OVC,W,92,87,OT,8,6,W 2,Lantz Arena
+14,15,"Sat, Jan 5, 2019",4:15p,REG,,Southern Illinois-Edwardsville,OVC,W,84,81,OT,9,6,W 3,Lantz Arena
+15,16,"Thu, Jan 10, 2019",8:15p,REG,@,Jacksonville State,OVC,L,62,69,,9,7,L 1,Pete Mathews Coliseum
+16,17,"Sat, Jan 12, 2019",8:30p,REG,@,Tennessee Tech,OVC,W,67,60,,10,7,W 1,Eblen Center
+17,18,"Thu, Jan 17, 2019",8:00p,REG,,Murray State,OVC,L,61,83,,10,8,L 1,Lantz Arena
+18,19,"Sat, Jan 19, 2019",4:15p,REG,,Austin Peay,OVC,W,85,83,,11,8,W 1,Lantz Arena
+19,20,"Thu, Jan 24, 2019",8:30p,REG,@,Tennessee-Martin,OVC,W,66,64,,12,8,W 2,Skyhawk Arena
+20,21,"Sat, Jan 26, 2019",5:30p,REG,@,Southeast Missouri State,OVC,L,59,64,,12,9,L 1,Show Me Center
+21,22,"Thu, Jan 31, 2019",8:30p,REG,,Eastern Kentucky,OVC,W,67,66,,13,9,W 1,Lantz Arena
+22,23,"Sat, Feb 2, 2019",4:15p,REG,,Morehead State,OVC,L,78,84,,13,10,L 1,Lantz Arena
+23,24,"Thu, Feb 7, 2019",8:00p,REG,@,Murray State,OVC,L,75,86,,13,11,L 2,CFSB Center
+24,25,"Sat, Feb 9, 2019",5:00p,REG,@,Austin Peay,OVC,L,86,94,,13,12,L 3,Winfield Dunn Center
+25,26,"Thu, Feb 14, 2019",6:30p,REG,@,Southern Illinois-Edwardsville,OVC,W,79,65,,14,12,W 1,Sam Vadalabene Center 
+26,27,"Sat, Feb 16, 2019",4:15p,REG,,Southeast Missouri State,OVC,L,79,88,,14,13,L 1,Lantz Arena
+27,28,"Thu, Feb 21, 2019",8:00p,REG,@,Belmont,OVC,L,58,99,,14,14,L 2,Curb Event Center
+28,29,"Sat, Feb 23, 2019",8:30p,REG,@,Tennessee State,OVC,L,60,75,,14,15,L 3,Gentry Center Complex
+29,30,"Thu, Feb 28, 2019",9:00p,REG,,Jacksonville State,OVC,L,84,89,2OT,14,16,L 4,Lantz Arena
+30,31,"Sat, Mar 2, 2019",4:15p,REG,,Tennessee Tech,OVC,L,57,63,,14,17,L 5,Lantz Arena
+31,32,"Wed, Mar 6, 2019",9:30p,CTOURN,N,Tennessee-Martin,OVC,L,71,78,,14,18,L 6,Ford Center

@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Thu, Nov 8, 2018",8:00p,REG,@,Illinois,Big Ten,L,60,99,,0,1,L 1,State Farm Center
+1,2,"Sat, Nov 10, 2018",4:00p,REG,@,Xavier,Big East,L,85,91,,0,2,L 2,Cintas Center
+2,3,"Thu, Nov 15, 2018",7:00p,REG,,Kentucky Wesleyan,,W,92,72,,1,2,W 1,Ford Center
+3,4,"Sun, Nov 18, 2018",1:00p,REG,,Texas Southern,SWAC,W,85,63,,2,2,W 2,Ford Center
+4,5,"Sat, Nov 24, 2018",2:00p,REG,@,Ball State,MAC,L,72,82,,2,3,L 1,Worthen Arena
+5,6,"Wed, Nov 28, 2018",7:00p,REG,,Wyoming,MWC,W,86,78,,3,3,W 1,Ford Center
+6,7,"Sat, Dec 1, 2018",2:00p,REG,,Albion,,W,65,49,,4,3,W 2,Ford Center
+7,8,"Tue, Dec 4, 2018",8:00p,REG,@,Arkansas State,Sun Belt,L,77,87,,4,4,L 1,Convocation Center
+8,9,"Sun, Dec 9, 2018",3:00p,REG,,Ball State,MAC,W,89,77,,5,4,W 1,Ford Center
+9,10,"Sat, Dec 15, 2018",2:00p,REG,,Jacksonville State,OVC,L,50,55,,5,5,L 1,Ford Center
+10,11,"Tue, Dec 18, 2018",8:00p,REG,@,Murray State,OVC,L,64,66,,5,6,L 2,CFSB Center
+11,12,"Sat, Dec 22, 2018",5:00p,REG,,Green Bay,Horizon,W,80,75,,6,6,W 1,Ford Center
+12,13,"Sun, Dec 30, 2018",1:00p,REG,@,Miami (OH),MAC,L,67,70,,6,7,L 1,Millett Hall
+13,14,"Wed, Jan 2, 2019",7:00p,REG,,Drake,MVC,W,82,77,2OT,7,7,W 1,Ford Center
+14,15,"Sat, Jan 5, 2019",4:00p,REG,@,Illinois State,MVC,L,46,58,,7,8,L 1,Redbird Arena
+15,16,"Tue, Jan 8, 2019",8:00p,REG,,Loyola (IL),MVC,W,67,48,,8,8,W 1,Ford Center
+16,17,"Sat, Jan 12, 2019",2:00p,REG,,Indiana State,MVC,L,66,72,OT,8,9,L 1,Ford Center
+17,18,"Wed, Jan 16, 2019",8:00p,REG,@,Missouri State,MVC,W,70,64,,9,9,W 1,JQH Arena
+18,19,"Sat, Jan 19, 2019",2:00p,REG,,Illinois State,MVC,L,70,78,,9,10,L 1,Ford Center
+19,20,"Wed, Jan 23, 2019",8:00p,REG,@,Drake,MVC,L,66,78,,9,11,L 2,Knapp Center
+20,21,"Sat, Jan 26, 2019",8:00p,REG,@,Northern Iowa,MVC,L,74,81,,9,12,L 3,McLeod Center
+21,22,"Wed, Jan 30, 2019",7:00p,REG,,Bradley,MVC,L,73,81,,9,13,L 4,Ford Center
+22,23,"Sat, Feb 2, 2019",2:00p,REG,,Valparaiso,MVC,W,64,53,,10,13,W 1,Ford Center
+23,24,"Wed, Feb 6, 2019",7:00p,REG,@,Indiana State,MVC,L,62,85,,10,14,L 1,Hulman Center
+24,25,"Sat, Feb 9, 2019",8:00p,REG,@,Southern Illinois,MVC,L,73,78,,10,15,L 2,The SIU Arena
+25,26,"Wed, Feb 13, 2019",7:00p,REG,,Missouri State,MVC,L,56,68,,10,16,L 3,Ford Center
+26,27,"Sun, Feb 17, 2019",4:00p,REG,,Northern Iowa,MVC,L,58,73,,10,17,L 4,Ford Center
+27,28,"Wed, Feb 20, 2019",7:00p,REG,@,Loyola (IL),MVC,L,58,70,,10,18,L 5,Joseph J. Gentile Center
+28,29,"Sat, Feb 23, 2019",2:00p,REG,@,Bradley,MVC,L,61,63,,10,19,L 6,Carver Arena
+29,30,"Wed, Feb 27, 2019",7:00p,REG,,Southern Illinois,MVC,L,91,98,,10,20,L 7,Ford Center
+30,31,"Sat, Mar 2, 2019",2:00p,REG,@,Valparaiso,MVC,W,65,63,,11,20,W 1,Athletics-Recreation Center
+31,32,"Thu, Mar 7, 2019",9:35p,CTOURN,N,Illinois State,MVC,L,60,65,,11,21,L 1,Scottrade Center

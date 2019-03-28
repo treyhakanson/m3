@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,,Cornell,Ivy,L,75,86,,0,1,L 1,Binghamton University Events Center
+1,2,"Fri, Nov 9, 2018",8:00p,REG,,NJIT,A-Sun,L,57,74,,0,2,L 2,Binghamton University Events Center
+2,3,"Mon, Nov 12, 2018",7:00p,REG,,Misericordia,,W,107,64,,1,2,W 1,Binghamton University Events Center
+3,4,"Fri, Nov 16, 2018",7:00p,REG,@,Northwestern,Big Ten,L,54,82,,1,3,L 1,Welsh-Ryan Arena
+4,5,"Mon, Nov 19, 2018",7:00p,REG,@,Colgate,Patriot,L,68,76,,1,4,L 2,Cotterell Court
+5,6,"Sat, Nov 24, 2018",2:00p,REG,,Sacred Heart,NEC,W,78,73,,2,4,W 1,Binghamton University Events Center
+6,7,"Wed, Nov 28, 2018",7:30p,REG,@,Army,Patriot,L,56,67,,2,5,L 1,Christl Arena
+7,8,"Sat, Dec 1, 2018",2:00p,REG,,Hartwick,,W,89,70,,3,5,W 1,Binghamton University Events Center
+8,9,"Wed, Dec 5, 2018",7:00p,REG,@,Morgan State,MEAC,L,68,74,,3,6,L 1,Hill Field House
+9,10,"Sat, Dec 8, 2018",2:30p,REG,,Loyola (MD),Patriot,L,65,83,,3,7,L 2,Binghamton University Events Center
+10,11,"Sat, Dec 15, 2018",2:00p,REG,,Youngstown State,Horizon,L,48,58,,3,8,L 3,Binghamton University Events Center
+11,12,"Tue, Dec 18, 2018",7:00p,REG,@,Notre Dame,ACC,L,56,69,,3,9,L 4,Purcell Pavilion at the Joyce Center
+12,13,"Fri, Dec 21, 2018",12:00p,REG,@,Long Island University,NEC,W,68,67,,4,9,W 1,Barclays Center
+13,14,"Sun, Dec 30, 2018",12:00p,REG,@,Michigan (2),Big Ten,L,52,74,,4,10,L 1,Crisler Arena
+14,15,"Wed, Jan 2, 2019",7:00p,REG,,Columbia,Ivy,L,63,65,,4,11,L 2,Binghamton University Events Center
+15,16,"Sat, Jan 5, 2019",2:00p,REG,,New Hampshire,AEC,W,69,58,,5,11,W 1,Binghamton University Events Center
+16,17,"Wed, Jan 9, 2019",7:00p,REG,@,Stony Brook,AEC,L,46,59,,5,12,L 1,Island Federal Credit Union
+17,18,"Wed, Jan 16, 2019",7:00p,REG,@,Maryland-Baltimore County,AEC,L,49,68,,5,13,L 2,UMBC Event Center
+18,19,"Sat, Jan 19, 2019",1:00p,REG,@,Vermont,AEC,L,50,78,,5,14,L 3,Roy L. Patrick Gymnasium
+19,20,"Wed, Jan 23, 2019",7:00p,REG,,Massachusetts-Lowell,AEC,L,79,85,,5,15,L 4,Binghamton University Events Center
+20,21,"Sat, Jan 26, 2019",1:00p,REG,,Maine,AEC,W,78,66,,6,15,W 1,Binghamton University Events Center
+21,22,"Wed, Jan 30, 2019",7:00p,REG,@,Hartford,AEC,L,60,86,,6,16,L 1,Chase Family Arena
+22,23,"Sat, Feb 2, 2019",7:00p,REG,@,Albany (NY),AEC,L,50,64,,6,17,L 2,SEFCU Arena
+23,24,"Wed, Feb 6, 2019",7:00p,REG,,Stony Brook,AEC,L,59,85,,6,18,L 3,Binghamton University Events Center
+24,25,"Sat, Feb 9, 2019",1:00p,REG,@,New Hampshire,AEC,W,68,61,,7,18,W 1,Lundholm Gymnasium
+25,26,"Wed, Feb 13, 2019",7:00p,REG,,Maryland-Baltimore County,AEC,L,50,64,,7,19,L 1,Binghamton University Events Center
+26,27,"Thu, Feb 21, 2019",7:00p,REG,@,Massachusetts-Lowell,AEC,W,81,66,,8,19,W 1,Costello Athletic Center
+27,28,"Sat, Feb 23, 2019",2:00p,REG,,Vermont,AEC,L,63,69,,8,20,L 1,Binghamton University Events Center
+28,29,"Wed, Feb 27, 2019",7:00p,REG,,Hartford,AEC,L,76,96,,8,21,L 2,Binghamton University Events Center
+29,30,"Sat, Mar 2, 2019",11:00a,REG,@,Maine,AEC,W,83,60,,9,21,W 1,Cross Insurance Center
+30,31,"Tue, Mar 5, 2019",7:00p,REG,,Albany (NY),AEC,L,58,73,,9,22,L 1,Binghamton University Events Center
+31,32,"Sat, Mar 9, 2019",7:00p,CTOURN,@,Stony Brook,AEC,W,78,72,,10,22,W 1,Island Federal Credit Union
+32,33,"Tue, Mar 12, 2019",7:00p,CTOURN,@,Vermont,AEC,L,51,84,,10,23,L 1,Roy L. Patrick Gymnasium

@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Sat, Nov 10, 2018",9:00p,REG,,Idaho State,Big Sky,L,70,72,,0,1,L 1,Taco Bell Arena
+1,2,"Fri, Nov 16, 2018",10:00p,REG,,Jackson State,SWAC,W,70,53,,1,1,W 1,Taco Bell Arena
+2,3,"Mon, Nov 19, 2018",7:30p,REG,N,Creighton,Big East,L,82,94,,1,2,L 1,John Gray Gymnasium
+3,4,"Tue, Nov 20, 2018",5:00p,REG,N,St. Bonaventure,A-10,W,72,52,,2,2,W 1,John Gray Gymnasium
+4,5,"Wed, Nov 21, 2018",1:30p,REG,N,Illinois State,MVC,L,70,73,,2,3,L 1,John Gray Gymnasium
+5,6,"Tue, Nov 27, 2018",8:00p,REG,@,Drake,MVC,L,74,83,,2,4,L 2,Knapp Center
+6,7,"Sat, Dec 1, 2018",9:00p,REG,@,Grand Canyon,WAC,L,67,69,,2,5,L 3,Grand Canyon University Arena
+7,8,"Sat, Dec 8, 2018",4:00p,REG,,Central Washington,,W,82,62,,3,5,W 1,Taco Bell Arena
+8,9,"Wed, Dec 12, 2018",9:00p,REG,,Alabama State,SWAC,W,67,57,,4,5,W 2,Taco Bell Arena
+9,10,"Sat, Dec 15, 2018",9:00p,REG,@,Oregon,Pac-12,L,54,66,,4,6,L 1,Matthew Knight Arena
+10,11,"Wed, Dec 19, 2018",10:00p,REG,@,Loyola Marymount,WCC,L,69,70,,4,7,L 2,Albert Gersten Pavilion
+11,12,"Sat, Dec 22, 2018",3:00p,REG,,Pacific,WCC,W,83,71,,5,7,W 1,Taco Bell Arena
+12,13,"Sat, Dec 29, 2018",7:30p,REG,,Oregon,Pac-12,L,50,62,,5,8,L 1,Taco Bell Arena
+13,14,"Wed, Jan 2, 2019",9:00p,REG,@,Wyoming,MWC,W,69,55,,6,8,W 1,Arena-Auditorium
+14,15,"Sat, Jan 5, 2019",10:00p,REG,,San Diego State,MWC,W,88,64,,7,8,W 2,Taco Bell Arena
+15,16,"Sat, Jan 12, 2019",3:00p,REG,@,San Jose State,MWC,W,87,64,,8,8,W 3,San Jose State Event Center
+16,17,"Tue, Jan 15, 2019",9:00p,REG,,Nevada (10),MWC,L,71,72,,8,9,L 1,Taco Bell Arena
+17,18,"Sat, Jan 19, 2019",5:30p,REG,,Fresno State,MWC,L,53,63,,8,10,L 2,Taco Bell Arena
+18,19,"Tue, Jan 22, 2019",9:00p,REG,@,Air Force,MWC,L,60,74,,8,11,L 3,Clune Arena 
+19,20,"Sat, Jan 26, 2019",4:00p,REG,,Wyoming,MWC,W,77,52,,9,11,W 1,Taco Bell Arena
+20,21,"Tue, Jan 29, 2019",9:00p,REG,@,Colorado State,MWC,W,70,68,,10,11,W 2,Moby Arena
+21,22,"Sat, Feb 2, 2019",6:00p,REG,@,Nevada (8),MWC,L,73,93,,10,12,L 1,Lawlor Events Center
+22,23,"Wed, Feb 6, 2019",11:00p,REG,,Nevada-Las Vegas,MWC,L,72,83,,10,13,L 2,Taco Bell Arena
+23,24,"Sat, Feb 9, 2019",2:00p,REG,,San Jose State,MWC,W,105,57,,11,13,W 1,Taco Bell Arena
+24,25,"Wed, Feb 13, 2019",10:30p,REG,@,Fresno State,MWC,L,63,65,,11,14,L 1,Save Mart Center
+25,26,"Sat, Feb 16, 2019",7:00p,REG,@,San Diego State,MWC,L,65,71,,11,15,L 2,Viejas Arena
+26,27,"Sat, Feb 23, 2019",4:00p,REG,,Utah State,MWC,L,71,78,OT,11,16,L 3,Taco Bell Arena
+27,28,"Wed, Feb 27, 2019",9:00p,REG,,Colorado State,MWC,L,62,76,,11,17,L 4,Taco Bell Arena
+28,29,"Sat, Mar 2, 2019",10:30p,REG,@,Nevada-Las Vegas,MWC,L,81,85,OT,11,18,L 5,Thomas & Mack Center
+29,30,"Wed, Mar 6, 2019",9:00p,REG,@,New Mexico,MWC,L,72,73,,11,19,L 6,The Pit
+30,31,"Sat, Mar 9, 2019",7:00p,REG,,Air Force,MWC,W,80,52,,12,19,W 1,Taco Bell Arena
+31,32,"Wed, Mar 13, 2019",2:00p,CTOURN,N,Colorado State,MWC,W,66,57,,13,19,W 2,Thomas & Mack Center
+32,33,"Thu, Mar 14, 2019",3:00p,CTOURN,N,Nevada (14),MWC,L,69,77,,13,20,L 1,Thomas & Mack Center

@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Sat, Nov 10, 2018",4:00p,REG,@,Charlotte,CUSA,L,64,66,,0,1,L 1,Dale F. Halton Arena
+1,2,"Wed, Nov 14, 2018",8:00p,REG,,Texas-San Antonio,CUSA,W,82,60,,1,1,W 1,Gallagher-Iba Arena
+2,3,"Sun, Nov 18, 2018",4:00p,REG,,College of Charleston,CAA,W,70,58,,2,1,W 2,Gallagher-Iba Arena
+3,4,"Thu, Nov 22, 2018",3:30p,REG,N,Memphis,AAC,W,84,64,,3,1,W 3,HP Field House
+4,5,"Fri, Nov 23, 2018",11:30a,REG,N,Villanova,Big East,L,58,77,,3,2,L 1,HP Field House
+5,6,"Sun, Nov 25, 2018",4:00p,REG,N,Louisiana State (19),SEC,W,90,77,,4,2,W 1,HP Field House
+6,7,"Fri, Nov 30, 2018",10:00p,REG,@,Minnesota,Big Ten,L,76,83,,4,3,L 1,U.S. Bank Stadium
+7,8,"Wed, Dec 5, 2018",8:00p,REG,@,Tulsa,AAC,L,71,74,,4,4,L 2,Donald W. Reynolds Center
+8,9,"Sat, Dec 8, 2018",4:00p,REG,,Houston,AAC,L,53,63,,4,5,L 3,Gallagher-Iba Arena
+9,10,"Sun, Dec 16, 2018",7:00p,REG,N,Nebraska,Big Ten,L,56,79,,4,6,L 4,Sanford Pentagon
+10,11,"Fri, Dec 21, 2018",1:00p,REG,,Central Arkansas,Southland,W,82,73,,5,6,W 1,Gallagher-Iba Arena
+11,12,"Sat, Dec 29, 2018",2:00p,REG,,Texas A&M-Corpus Christi,Southland,W,69,59,,6,6,W 2,Gallagher-Iba Arena
+12,13,"Wed, Jan 2, 2019",9:00p,REG,,Iowa State,Big 12,L,63,69,,6,7,L 1,Gallagher-Iba Arena
+13,14,"Sat, Jan 5, 2019",2:00p,REG,@,Oklahoma (23),Big 12,L,64,74,,6,8,L 2,Lloyd Noble Center
+14,15,"Tue, Jan 8, 2019",7:00p,REG,,Texas,Big 12,W,61,58,,7,8,W 1,Gallagher-Iba Arena
+15,16,"Sat, Jan 12, 2019",12:00p,REG,@,West Virginia,Big 12,W,85,77,,8,8,W 2,WVU Coliseum
+16,17,"Mon, Jan 14, 2019",9:00p,REG,,Baylor,Big 12,L,69,73,,8,9,L 1,Gallagher-Iba Arena
+17,18,"Sat, Jan 19, 2019",6:00p,REG,@,Iowa State,Big 12,L,59,72,,8,10,L 2,James H. Hilton Coliseum 
+18,19,"Wed, Jan 23, 2019",9:00p,REG,,Oklahoma,Big 12,L,61,70,,8,11,L 3,Gallagher-Iba Arena
+19,20,"Sat, Jan 26, 2019",2:00p,REG,,South Carolina,SEC,W,74,70,,9,11,W 1,Gallagher-Iba Arena
+20,21,"Sat, Feb 2, 2019",6:00p,REG,,Kansas State,Big 12,L,57,75,,9,12,L 1,Gallagher-Iba Arena
+21,22,"Wed, Feb 6, 2019",9:00p,REG,@,Texas Christian,Big 12,L,68,70,,9,13,L 2,Ed & Rae Schollmaier Arena
+22,23,"Sat, Feb 9, 2019",12:00p,REG,@,Kansas (13),Big 12,L,72,84,,9,14,L 3,Allen Fieldhouse
+23,24,"Wed, Feb 13, 2019",9:00p,REG,,Texas Tech (15),Big 12,L,50,78,,9,15,L 4,Gallagher-Iba Arena
+24,25,"Sat, Feb 16, 2019",1:00p,REG,@,Texas,Big 12,L,57,69,,9,16,L 5,Frank Erwin Center
+25,26,"Mon, Feb 18, 2019",9:00p,REG,,Texas Christian,Big 12,W,68,61,,10,16,W 1,Gallagher-Iba Arena
+26,27,"Sat, Feb 23, 2019",4:00p,REG,@,Kansas State (23),Big 12,L,46,85,,10,17,L 1,Bramlage Coliseum
+27,28,"Wed, Feb 27, 2019",7:00p,REG,@,Texas Tech (11),Big 12,L,80,84,OT,10,18,L 2,United Supermarkets Arena
+28,29,"Sat, Mar 2, 2019",12:00p,REG,,Kansas (15),Big 12,L,67,72,,10,19,L 3,Gallagher-Iba Arena
+29,30,"Wed, Mar 6, 2019",9:00p,REG,@,Baylor,Big 12,W,67,64,,11,19,W 1,Ferrell Center
+30,31,"Sat, Mar 9, 2019",4:00p,REG,,West Virginia,Big 12,W,85,77,,12,19,W 2,Gallagher-Iba Arena
+31,32,"Wed, Mar 13, 2019",7:00p,CTOURN,N,Texas Christian,Big 12,L,70,73,,12,20,L 1,Sprint Center

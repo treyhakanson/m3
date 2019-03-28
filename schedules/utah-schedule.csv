@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Thu, Nov 8, 2018",9:00p,REG,,Maine,AEC,W,75,61,,1,0,W 1,Jon M. Huntsman Center
+1,2,"Mon, Nov 12, 2018",9:00p,REG,@,Minnesota,Big Ten,L,69,78,,1,1,L 1,Williams Arena
+2,3,"Thu, Nov 15, 2018",8:00p,REG,,Mississippi Valley State,SWAC,W,98,63,,2,1,W 1,Jon M. Huntsman Center
+3,4,"Thu, Nov 22, 2018",11:30p,REG,N,Hawaii,Big West,L,79,90,,2,2,L 1,Titan Gym
+4,5,"Fri, Nov 23, 2018",9:00p,REG,N,Grand Canyon,WAC,W,75,66,,3,2,W 1,Titan Gym
+5,6,"Sun, Nov 25, 2018",2:00p,REG,N,Northwestern,Big Ten,L,57,79,,3,3,L 1,Titan Gym
+6,7,"Sat, Dec 1, 2018",5:00p,REG,,Tulsa,AAC,W,69,64,,4,3,W 1,Jon M. Huntsman Center
+7,8,"Sat, Dec 8, 2018",2:00p,REG,N,Brigham Young,WCC,L,59,74,,4,4,L 1,Vivint Smart Home Arena
+8,9,"Sat, Dec 15, 2018",5:00p,REG,@,Kentucky (19),SEC,L,61,88,,4,5,L 2,Rupp Arena
+9,10,"Mon, Dec 17, 2018",8:00p,REG,,Florida A&M,MEAC,W,93,64,,5,5,W 1,Jon M. Huntsman Center
+10,11,"Fri, Dec 21, 2018",9:00p,REG,,Northern Arizona,Big Sky,W,76,62,,6,5,W 2,Jon M. Huntsman Center
+11,12,"Sat, Dec 29, 2018",2:00p,REG,,Nevada (6),MWC,L,71,86,,6,6,L 1,Jon M. Huntsman Center
+12,13,"Thu, Jan 3, 2019",8:00p,REG,@,Arizona State,Pac-12,W,96,86,,7,6,W 1,Wells Fargo Arena
+13,14,"Sat, Jan 5, 2019",2:00p,REG,@,Arizona,Pac-12,L,81,84,OT,7,7,L 1,McKale Center
+14,15,"Thu, Jan 10, 2019",10:00p,REG,,Washington,Pac-12,L,53,69,,7,8,L 2,Jon M. Huntsman Center
+15,16,"Sat, Jan 12, 2019",8:00p,REG,,Washington State,Pac-12,W,88,70,,8,8,W 1,Jon M. Huntsman Center
+16,17,"Sun, Jan 20, 2019",6:00p,REG,,Colorado,Pac-12,W,78,69,,9,8,W 2,Jon M. Huntsman Center
+17,18,"Thu, Jan 24, 2019",9:00p,REG,@,Stanford,Pac-12,W,70,66,,10,8,W 3,Maples Pavilion
+18,19,"Sat, Jan 26, 2019",8:00p,REG,@,University of California,Pac-12,W,82,64,,11,8,W 4,Haas Pavilion
+19,20,"Thu, Jan 31, 2019",9:00p,REG,,Oregon,Pac-12,L,72,78,,11,9,L 1,Jon M. Huntsman Center
+20,21,"Sat, Feb 2, 2019",5:00p,REG,,Oregon State,Pac-12,L,72,81,,11,10,L 2,Jon M. Huntsman Center
+21,22,"Wed, Feb 6, 2019",11:00p,REG,@,Southern California,Pac-12,W,77,70,,12,10,W 1,Galen Center
+22,23,"Sat, Feb 9, 2019",5:00p,REG,@,UCLA,Pac-12,W,93,92,,13,10,W 2,Pauley Pavilion
+23,24,"Thu, Feb 14, 2019",9:00p,REG,,Arizona,Pac-12,W,83,76,,14,10,W 3,Jon M. Huntsman Center
+24,25,"Sat, Feb 16, 2019",10:00p,REG,,Arizona State,Pac-12,L,87,98,,14,11,L 1,Jon M. Huntsman Center
+25,26,"Wed, Feb 20, 2019",11:00p,REG,@,Washington,Pac-12,L,45,62,,14,12,L 2,Alaska Airlines Arena
+26,27,"Sat, Feb 23, 2019",8:00p,REG,@,Washington State,Pac-12,W,92,79,,15,12,W 1,Beasley Coliseum
+27,28,"Sat, Mar 2, 2019",6:00p,REG,@,Colorado,Pac-12,L,63,71,,15,13,L 1,Coors Events/Conference Center
+28,29,"Thu, Mar 7, 2019",10:00p,REG,,Southern California,Pac-12,W,83,74,,16,13,W 1,Jon M. Huntsman Center
+29,30,"Sat, Mar 9, 2019",7:00p,REG,,UCLA,Pac-12,W,92,81,,17,13,W 2,Jon M. Huntsman Center
+30,31,"Thu, Mar 14, 2019",11:30p,CTOURN,N,Oregon,Pac-12,L,54,66,,17,14,L 1,T-Mobile Arena

@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,Davidson,A-10,L,63,83,,0,1,L 1,Belk Arena
+1,2,"Sat, Nov 10, 2018",7:00p,REG,,Kent State,MAC,L,79,83,,0,2,L 2,Wolstein Center
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Urbana,,W,94,65,,1,2,W 1,Wolstein Center
+3,4,"Fri, Nov 16, 2018",7:00p,REG,,South Carolina State,MEAC,W,84,69,,2,2,W 2,Wolstein Center
+4,5,"Sun, Nov 18, 2018",5:00p,REG,,Samford,Southern,L,60,73,,2,3,L 1,Wolstein Center
+5,6,"Fri, Nov 23, 2018",8:00p,REG,@,Ohio State (23),Big Ten,L,62,89,,2,4,L 2,St. John Arena
+6,7,"Sun, Nov 25, 2018",5:00p,REG,,Purdue-Fort Wayne,Summit,L,79,82,,2,5,L 3,Wolstein Center
+7,8,"Wed, Nov 28, 2018",8:00p,REG,@,DePaul,Big East,L,73,83,,2,6,L 4,Wintrust Arena
+8,9,"Sat, Dec 1, 2018",2:00p,REG,@,Toledo,MAC,L,67,80,,2,7,L 5,John F. Savage Hall
+9,10,"Wed, Dec 5, 2018",7:30p,REG,,Bowling Green State,MAC,W,82,64,,3,7,W 1,Wolstein Center
+10,11,"Sun, Dec 9, 2018",1:00p,REG,,Notre Dame (CA),,W,77,56,,4,7,W 2,Wolstein Center
+11,12,"Sun, Dec 16, 2018",2:00p,REG,@,Illinois State,MVC,L,77,88,OT,4,8,L 1,Redbird Arena
+12,13,"Wed, Dec 19, 2018",7:30p,REG,,Niagara,MAAC,W,82,60,,5,8,W 1,Wolstein Center
+13,14,"Fri, Dec 28, 2018",7:00p,REG,,Oakland,Horizon,L,77,89,,5,9,L 1,Wolstein Center
+14,15,"Sun, Dec 30, 2018",7:00p,REG,,Detroit Mercy,Horizon,L,61,73,,5,10,L 2,Wolstein Center
+15,16,"Thu, Jan 3, 2019",8:00p,REG,@,Milwaukee,Horizon,L,76,83,,5,11,L 3,UW-Milwaukee Panther Arena
+16,17,"Sat, Jan 5, 2019",1:00p,REG,@,Green Bay,Horizon,L,89,90,,5,12,L 4,Resch Center
+17,18,"Thu, Jan 10, 2019",7:00p,REG,@,IUPUI,Horizon,L,74,90,,5,13,L 5,Indiana Farmers Coliseum
+18,19,"Sat, Jan 12, 2019",4:00p,REG,@,Illinois-Chicago,Horizon,L,56,73,,5,14,L 6,UIC Pavilion
+19,20,"Thu, Jan 17, 2019",7:00p,REG,,Northern Kentucky,Horizon,L,76,91,,5,15,L 7,Wolstein Center
+20,21,"Sat, Jan 19, 2019",1:00p,REG,,Wright State,Horizon,L,66,89,,5,16,L 8,Wolstein Center
+21,22,"Sat, Jan 26, 2019",7:00p,REG,,Youngstown State,Horizon,W,72,62,,6,16,W 1,Wolstein Center
+22,23,"Thu, Jan 31, 2019",7:00p,REG,@,Detroit Mercy,Horizon,L,64,78,,6,17,L 1,Calihan Hall
+23,24,"Sat, Feb 2, 2019",3:00p,REG,@,Oakland,Horizon,L,68,83,,6,18,L 2,Athletics Center O'rena
+24,25,"Thu, Feb 7, 2019",7:00p,REG,,Green Bay,Horizon,L,65,82,,6,19,L 3,Wolstein Center
+25,26,"Sat, Feb 9, 2019",3:00p,REG,,Milwaukee,Horizon,W,78,68,,7,19,W 1,Wolstein Center
+26,27,"Thu, Feb 14, 2019",7:00p,REG,,Illinois-Chicago,Horizon,L,77,81,,7,20,L 1,Wolstein Center
+27,28,"Sat, Feb 16, 2019",7:00p,REG,,IUPUI,Horizon,W,89,86,,8,20,W 1,Wolstein Center
+28,29,"Thu, Feb 21, 2019",7:00p,REG,@,Wright State,Horizon,L,61,87,,8,21,L 1,Ervin J. Nutter Center
+29,30,"Sat, Feb 23, 2019",7:00p,REG,@,Northern Kentucky,Horizon,W,83,77,,9,21,W 1,Bank of Kentucky Center
+30,31,"Sat, Mar 2, 2019",6:00p,REG,@,Youngstown State,Horizon,W,89,80,OT,10,21,W 2,Beeghly Center

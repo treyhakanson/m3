@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Randolph,,W,84,56,,1,0,W 1,Willett Hall
+1,2,"Fri, Nov 9, 2018",7:00p,REG,@,Richmond,A-10,W,63,58,,2,0,W 2,Robins Center
+2,3,"Tue, Nov 13, 2018",7:00p,REG,@,Maryland-Eastern Shore,MEAC,W,66,63,,3,0,W 3,Hytche Athletic Center
+3,4,"Fri, Nov 16, 2018",7:00p,REG,,Delaware State,MEAC,W,89,73,,4,0,W 4,Willett Hall
+4,5,"Mon, Nov 19, 2018",7:00p,REG,@,Charlotte,CUSA,L,39,42,,4,1,L 1,Dale F. Halton Arena
+5,6,"Fri, Nov 23, 2018",6:00p,REG,N,Fairfield,MAAC,W,67,65,,5,1,W 1,Connolly Center
+6,7,"Sat, Nov 24, 2018",3:00p,REG,N,Denver,Summit,L,62,64,,5,2,L 1,Connolly Center
+7,8,"Sun, Nov 25, 2018",6:00p,REG,@,Seattle,WAC,L,50,70,,5,3,L 2,KeyArena
+8,9,"Sat, Dec 1, 2018",3:00p,REG,,Virginia Military Institute,Southern,W,65,45,,6,3,W 1,Willett Hall
+9,10,"Fri, Dec 7, 2018",7:00p,REG,,Frostburg State,,W,68,65,OT,7,3,W 2,Willett Hall
+10,11,"Sun, Dec 9, 2018",1:00p,REG,@,Duquesne,A-10,L,71,80,,7,4,L 1,A.J. Palumbo Center
+11,12,"Thu, Dec 13, 2018",7:00p,REG,,Averett,,W,81,57,,8,4,W 1,Willett Hall
+12,13,"Mon, Dec 17, 2018",7:00p,REG,@,Cornell,Ivy,L,64,70,,8,5,L 1,Newman Arena
+13,14,"Fri, Dec 21, 2018",7:00p,REG,,Stetson,A-Sun,W,77,63,,9,5,W 1,Willett Hall
+14,15,"Sat, Dec 29, 2018",1:00p,REG,@,Citadel,Southern,W,110,94,,10,5,W 2,McAlister Field House
+15,16,"Sat, Jan 5, 2019",4:30p,REG,@,Radford,Big South,L,64,71,,10,6,L 1,Donald N. Dedmon Center
+16,17,"Thu, Jan 10, 2019",7:00p,REG,,North Carolina-Asheville,Big South,W,67,62,,11,6,W 1,Willett Hall
+17,18,"Sat, Jan 12, 2019",3:00p,REG,,Charleston Southern,Big South,L,91,101,,11,7,L 1,Willett Hall
+18,19,"Wed, Jan 16, 2019",7:00p,REG,@,Winthrop,Big South,W,75,61,,12,7,W 1,Winthrop Coliseum
+19,20,"Sat, Jan 19, 2019",4:00p,REG,@,Presbyterian,Big South,L,64,71,,12,8,L 1,Ross E.Templeton Center
+20,21,"Mon, Jan 21, 2019",7:00p,REG,,Radford,Big South,L,59,72,,12,9,L 2,Willett Hall
+21,22,"Thu, Jan 24, 2019",7:00p,REG,,High Point,Big South,W,55,51,,13,9,W 1,Willett Hall
+22,23,"Sat, Jan 26, 2019",4:30p,REG,@,South Carolina Upstate,Big South,L,63,80,,13,10,L 1,G.B. Hodge Center
+23,24,"Wed, Jan 30, 2019",7:00p,REG,,Hampton,Big South,L,83,96,,13,11,L 2,Willett Hall
+24,25,"Sat, Feb 2, 2019",2:00p,REG,@,Campbell,Big South,L,62,83,,13,12,L 3,John W. Pope Jr. Convocation Center
+25,26,"Thu, Feb 7, 2019",7:00p,REG,,Gardner-Webb,Big South,L,88,89,OT,13,13,L 4,Willett Hall
+26,27,"Wed, Feb 13, 2019",7:00p,REG,@,High Point,Big South,W,62,59,,14,13,W 1,Millis Center
+27,28,"Sat, Feb 16, 2019",3:00p,REG,,South Carolina Upstate,Big South,W,83,79,OT,15,13,W 2,Willett Hall
+28,29,"Thu, Feb 21, 2019",7:00p,REG,@,Hampton,Big South,L,66,86,,15,14,L 1,Hampton Convocation Center
+29,30,"Sat, Feb 23, 2019",3:00p,REG,,Campbell,Big South,L,72,74,,15,15,L 2,Willett Hall
+30,31,"Sat, Mar 2, 2019",3:00p,REG,@,Gardner-Webb,Big South,L,47,66,,15,16,L 3,Paul Porter Arena
+31,32,"Tue, Mar 5, 2019",7:00p,CTOURN,@,Hampton,Big South,L,71,77,,15,17,L 4,Hampton Convocation Center
+32,33,"Wed, Mar 20, 2019",7:00p,CBI,,Southern Mississippi,CUSA,W,90,68,,16,17,W 1,Willett Hall
+33,34,"Mon, Mar 25, 2019",8:00p,CBI,@,DePaul,Big East,L,89,97,,16,18,L 1,McGrath-Phillips Arena

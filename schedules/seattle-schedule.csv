@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,@,Stanford,Pac-12,L,74,96,,0,1,L 1,Maples Pavilion
+1,2,"Thu, Nov 8, 2018",10:00p,REG,,Puget Sound,,W,95,67,,1,1,W 1,Connolly Center
+2,3,"Sun, Nov 11, 2018",10:00p,REG,N,Bryant,NEC,W,82,59,,2,1,W 2,ShoWare Center
+3,4,"Wed, Nov 14, 2018",10:00p,REG,N,Washington State,Pac-12,W,78,69,,3,1,W 3,ShoWare Center
+4,5,"Sun, Nov 18, 2018",4:00p,REG,,Southern Utah,Big Sky,L,70,73,,3,2,L 1,Connolly Center
+5,6,"Fri, Nov 23, 2018",3:00p,REG,,Denver,Summit,W,82,63,,4,2,W 1,Connolly Center
+6,7,"Sat, Nov 24, 2018",6:00p,REG,,Fairfield,MAAC,W,83,80,,5,2,W 2,Connolly Center
+7,8,"Sun, Nov 25, 2018",6:00p,REG,,Longwood,Big South,W,70,50,,6,2,W 3,KeyArena
+8,9,"Wed, Nov 28, 2018",10:00p,REG,,Northwest University,,W,107,72,,7,2,W 4,KeyArena
+9,10,"Sat, Dec 1, 2018",8:00p,REG,,Eastern Washington,Big Sky,W,88,68,,8,2,W 5,Connolly Center
+10,11,"Thu, Dec 6, 2018",10:00p,REG,,Omaha,Summit,W,90,71,,9,2,W 6,Connolly Center
+11,12,"Sun, Dec 9, 2018",9:00p,REG,@,Washington,Pac-12,L,62,70,,9,3,L 1,Alaska Airlines Arena
+12,13,"Mon, Dec 17, 2018",10:00p,REG,@,Portland,WCC,W,67,56,,10,3,W 1,Chiles Center
+13,14,"Thu, Dec 20, 2018",10:00p,REG,,Prairie View,SWAC,W,102,64,,11,3,W 2,Connolly Center
+14,15,"Sat, Dec 29, 2018",8:00p,REG,@,University of California,Pac-12,W,82,73,,12,3,W 3,Haas Pavilion
+15,16,"Thu, Jan 3, 2019",10:00p,REG,@,Cal State Bakersfield,WAC,L,71,83,,12,4,L 1,Icardo Center
+16,17,"Sat, Jan 5, 2019",8:00p,REG,@,Grand Canyon,WAC,L,57,71,,12,5,L 2,Grand Canyon University Arena
+17,18,"Sat, Jan 12, 2019",9:00p,REG,@,Utah Valley,WAC,L,78,88,,12,6,L 3,UCCU Center
+18,19,"Thu, Jan 17, 2019",10:00p,REG,,New Mexico State,WAC,L,60,87,,12,7,L 4,Connolly Center
+19,20,"Sat, Jan 19, 2019",10:00p,REG,,Texas-Rio Grande Valley,WAC,L,62,67,,12,8,L 5,Connolly Center
+20,21,"Thu, Jan 24, 2019",8:00p,REG,@,Chicago State,WAC,W,75,47,,13,8,W 1,Emil and Patricia Jones Convocation Center
+21,22,"Sat, Jan 26, 2019",7:00p,REG,@,Missouri-Kansas City,WAC,L,54,63,,13,9,L 1,Swinney Recreation Center
+22,23,"Sat, Feb 2, 2019",10:00p,REG,,California Baptist,WAC,L,64,75,,13,10,L 2,Connolly Center
+23,24,"Thu, Feb 14, 2019",8:00p,REG,@,Texas-Rio Grande Valley,WAC,L,44,59,,13,11,L 3,UTRGV Fieldhouse
+24,25,"Sat, Feb 16, 2019",9:00p,REG,@,New Mexico State,WAC,L,53,59,,13,12,L 4,Pan American Center
+25,26,"Thu, Feb 21, 2019",10:00p,REG,,Missouri-Kansas City,WAC,W,69,64,,14,12,W 1,Connolly Center
+26,27,"Sat, Feb 23, 2019",4:00p,REG,,Chicago State,WAC,W,77,57,,15,12,W 2,Connolly Center
+27,28,"Tue, Feb 26, 2019",10:00p,REG,,Utah Valley,WAC,L,68,77,,15,13,L 1,KeyArena
+28,29,"Thu, Feb 28, 2019",10:00p,REG,@,California Baptist,WAC,W,67,65,,16,13,W 1,CBU Events Center
+29,30,"Thu, Mar 7, 2019",10:00p,REG,,Cal State Bakersfield,WAC,W,63,57,OT,17,13,W 2,Connolly Center
+30,31,"Sat, Mar 9, 2019",4:00p,REG,,Grand Canyon,WAC,W,83,76,OT,18,13,W 3,Connolly Center
+31,32,"Thu, Mar 14, 2019",11:30p,CTOURN,N,Grand Canyon,WAC,L,75,84,,18,14,L 1,Orleans Arena
+32,33,"Wed, Mar 20, 2019",10:00p,CIT,,Presbyterian,Big South,L,68,73,,18,15,L 2,Connolly Center

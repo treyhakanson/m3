@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:00p,REG,@,Denver,Summit,L,50,63,,0,1,L 1,Magness Arena
+1,2,"Thu, Nov 8, 2018",9:00p,REG,@,Utah,Pac-12,L,61,75,,0,2,L 2,Jon M. Huntsman Center
+2,3,"Sat, Nov 10, 2018",5:00p,REG,@,San Francisco,WCC,L,50,93,,0,3,L 3,War Memorial Gymnasium
+3,4,"Sat, Nov 17, 2018",2:00p,REG,@,North Carolina State,ACC,L,63,82,,0,4,L 4,PNC Arena
+4,5,"Tue, Nov 20, 2018",8:00p,REG,@,North Texas,CUSA,L,63,74,OT,0,5,L 5,UNT Coliseum
+5,6,"Sun, Nov 25, 2018",2:00p,REG,@,Quinnipiac,MAAC,L,50,58,,0,6,L 6,TD Bank Sports Center
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,Princeton,Ivy,L,59,73,,0,7,L 7,Cross Insurance Center
+7,8,"Sat, Dec 1, 2018",3:00p,REG,@,Saint Peter's,MAAC,L,59,63,OT,0,8,L 8,Yanitelli Center
+8,9,"Tue, Dec 4, 2018",7:00p,REG,,Fordham,A-10,W,75,68,2OT,1,8,W 1,Cross Insurance Center
+9,10,"Sat, Dec 8, 2018",2:00p,REG,@,Dartmouth,Ivy,L,52,78,,1,9,L 1,Leede Arena
+10,11,"Mon, Dec 10, 2018",7:00p,REG,,Maine-Machias,,W,98,43,,2,9,W 1,Cross Insurance Center
+11,12,"Sun, Dec 16, 2018",12:00p,REG,@,Duquesne,A-10,L,46,72,,2,10,L 1,A.J. Palumbo Center
+12,13,"Sat, Dec 22, 2018",1:00p,REG,,Central Connecticut State,NEC,L,90,93,2OT,2,11,L 2,Cross Insurance Center
+13,14,"Sat, Dec 29, 2018",3:00p,REG,@,Rutgers,Big Ten,L,55,70,,2,12,L 3,Louis Brown Athletic Center
+14,15,"Wed, Jan 2, 2019",7:00p,REG,@,Brown,Ivy,L,67,75,,2,13,L 4,Pizzitola Sports Center
+15,16,"Sat, Jan 5, 2019",1:00p,REG,@,Maryland-Baltimore County,AEC,L,52,61,,2,14,L 5,UMBC Event Center
+16,17,"Wed, Jan 9, 2019",7:00p,REG,,Vermont,AEC,L,49,73,,2,15,L 6,Cross Insurance Center
+17,18,"Sat, Jan 12, 2019",3:00p,REG,@,Albany (NY),AEC,W,66,62,,3,15,W 1,SEFCU Arena
+18,19,"Wed, Jan 16, 2019",7:00p,REG,,Hartford,AEC,L,76,77,,3,16,L 1,Cross Insurance Center
+19,20,"Sat, Jan 19, 2019",1:00p,REG,,Stony Brook,AEC,L,61,64,,3,17,L 2,Cross Insurance Center
+20,21,"Sat, Jan 26, 2019",1:00p,REG,@,Binghamton,AEC,L,66,78,,3,18,L 3,Binghamton University Events Center
+21,22,"Wed, Jan 30, 2019",7:00p,REG,@,Massachusetts-Lowell,AEC,W,78,59,,4,18,W 1,Costello Athletic Center
+22,23,"Sun, Feb 3, 2019",1:00p,REG,,New Hampshire,AEC,W,62,53,,5,18,W 2,Cross Insurance Center
+23,24,"Wed, Feb 6, 2019",7:00p,REG,@,Vermont,AEC,L,63,86,,5,19,L 1,Roy L. Patrick Gymnasium
+24,25,"Sun, Feb 10, 2019",1:00p,REG,,Maryland-Baltimore County,AEC,L,66,67,,5,20,L 2,Cross Insurance Center
+25,26,"Wed, Feb 13, 2019",7:00p,REG,@,Hartford,AEC,L,73,81,,5,21,L 3,Chase Family Arena
+26,27,"Sun, Feb 17, 2019",1:00p,REG,,Albany (NY),AEC,L,54,63,,5,22,L 4,Cross Insurance Center
+27,28,"Sat, Feb 23, 2019",7:00p,REG,@,Stony Brook,AEC,L,53,81,,5,23,L 5,Island Federal Credit Union
+28,29,"Wed, Feb 27, 2019",7:00p,REG,,Massachusetts-Lowell,AEC,L,61,70,,5,24,L 6,Cross Insurance Center
+29,30,"Sat, Mar 2, 2019",11:00a,REG,,Binghamton,AEC,L,60,83,,5,25,L 7,Cross Insurance Center
+30,31,"Tue, Mar 5, 2019",7:00p,REG,@,New Hampshire,AEC,L,53,60,,5,26,L 8,Lundholm Gymnasium
+31,32,"Sat, Mar 9, 2019",7:00p,CTOURN,@,Vermont,AEC,L,57,73,,5,27,L 9,Roy L. Patrick Gymnasium

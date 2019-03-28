@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,@,San Diego State,MWC,L,60,76,,0,1,L 1,Viejas Arena
+1,2,"Sat, Nov 10, 2018",4:00p,REG,@,Colorado State,MWC,L,67,92,,0,2,L 2,Moby Arena
+2,3,"Sat, Nov 17, 2018",8:00p,REG,@,Southern Illinois,MVC,L,48,78,,0,3,L 3,The SIU Arena
+3,4,"Mon, Nov 19, 2018",7:00p,REG,@,Massachusetts,A-10,L,60,92,,0,4,L 4,Mullins Center
+4,5,"Fri, Nov 23, 2018",2:00p,REG,N,California Baptist,WAC,W,115,107,3OT,1,4,W 1,Jack Stephens Center
+5,6,"Sat, Nov 24, 2018",4:30p,REG,@,Little Rock,Sun Belt,W,75,66,,2,4,W 2,Jack Stephens Center
+6,7,"Tue, Nov 27, 2018",7:00p,REG,@,Cincinnati,AAC,L,49,105,,2,5,L 1,Fifth Third Arena
+7,8,"Wed, Dec 5, 2018",7:30p,REG,@,Texas Tech (13),Big 12,L,47,65,,2,6,L 2,United Supermarkets Arena
+8,9,"Sat, Dec 8, 2018",10:00p,REG,@,UC-Santa Barbara,Big West,L,45,55,,2,7,L 3,The Thunderdome
+9,10,"Mon, Dec 10, 2018",8:30p,REG,,Champion Baptist,,W,84,51,,3,7,W 1,H.O. Clemmons Arena
+10,11,"Thu, Dec 20, 2018",8:00p,REG,@,North Texas,CUSA,L,66,77,,3,8,L 1,UNT Coliseum
+11,12,"Sat, Dec 22, 2018",2:00p,REG,@,Missouri State,MVC,L,72,93,,3,9,L 2,JQH Arena
+12,13,"Sat, Dec 29, 2018",1:00p,REG,@,Troy,Sun Belt,L,63,71,,3,10,L 3,Trojan Arena
+13,14,"Sat, Jan 5, 2019",8:30p,REG,,Mississippi Valley State,SWAC,W,64,52,,4,10,W 1,H.O. Clemmons Arena
+14,15,"Sat, Jan 12, 2019",8:30p,REG,,Alabama State,SWAC,W,82,71,,5,10,W 2,H.O. Clemmons Arena
+15,16,"Mon, Jan 14, 2019",8:30p,REG,,Alabama A&M,SWAC,W,50,49,,6,10,W 3,H.O. Clemmons Arena
+16,17,"Sat, Jan 19, 2019",6:30p,REG,@,Southern,SWAC,L,67,69,OT,6,11,L 1,F. G. Clark Activity Center
+17,18,"Mon, Jan 21, 2019",8:30p,REG,@,Alcorn State,SWAC,L,69,74,,6,12,L 2,Davey L. Whitney Complex
+18,19,"Sat, Jan 26, 2019",8:30p,REG,,Texas Southern,SWAC,W,90,86,,7,12,W 1,H.O. Clemmons Arena
+19,20,"Mon, Jan 28, 2019",8:30p,REG,,Prairie View,SWAC,L,63,79,,7,13,L 1,H.O. Clemmons Arena
+20,21,"Sat, Feb 2, 2019",6:00p,REG,@,Grambling,SWAC,L,55,79,,7,14,L 2,Assembly Center
+21,22,"Mon, Feb 4, 2019",8:30p,REG,@,Jackson State,SWAC,L,52,65,,7,15,L 3,Lee E. Williams Athletics and Assembly Center
+22,23,"Sat, Feb 9, 2019",6:00p,REG,@,Alabama State,SWAC,W,75,69,,8,15,W 1,Dunn-Oliver Acadome
+23,24,"Mon, Feb 11, 2019",8:30p,REG,@,Alabama A&M,SWAC,W,69,60,,9,15,W 2,Elmore Health Science Building 
+24,25,"Sat, Feb 16, 2019",8:30p,REG,,Southern,SWAC,W,61,45,,10,15,W 3,H.O. Clemmons Arena
+25,26,"Mon, Feb 18, 2019",7:00p,REG,,Alcorn State,SWAC,W,73,62,,11,15,W 4,H.O. Clemmons Arena
+26,27,"Sat, Feb 23, 2019",8:30p,REG,@,Texas Southern,SWAC,L,74,94,,11,16,L 1,Health & Physical Education Arena
+27,28,"Mon, Feb 25, 2019",8:30p,REG,@,Prairie View,SWAC,L,44,48,,11,17,L 2,William J. Nicks Building
+28,29,"Sat, Mar 2, 2019",8:30p,REG,,Grambling,SWAC,W,70,66,,12,17,W 1,H.O. Clemmons Arena
+29,30,"Mon, Mar 4, 2019",8:30p,REG,,Jackson State,SWAC,L,56,57,,12,18,L 1,H.O. Clemmons Arena
+30,31,"Sat, Mar 9, 2019",5:30p,REG,@,Mississippi Valley State,SWAC,W,91,57,,13,18,W 1,Harrison HPER Complex
+31,32,"Tue, Mar 12, 2019",8:30p,CTOURN,@,Grambling,SWAC,L,52,59,,13,19,L 1,Assembly Center

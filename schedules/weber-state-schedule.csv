@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,@,San Diego,WCC,L,66,83,,0,1,L 1,Jenny Craig Pavillion
+1,2,"Fri, Nov 9, 2018",9:00p,REG,,Bethesda University (CA),,W,123,53,,1,1,W 1,Dee Events Center
+2,3,"Thu, Nov 15, 2018",8:30p,REG,N,San Jose State,MWC,W,85,77,,2,1,W 2,Gateway Christian Academy
+3,4,"Fri, Nov 16, 2018",8:30p,REG,N,Central Michigan,MAC,W,78,76,,3,1,W 3,Gateway Christian Academy
+4,5,"Sun, Nov 18, 2018",8:30p,REG,N,Cal State Bakersfield,WAC,L,67,68,,3,2,L 1,Gateway Christian Academy
+5,6,"Tue, Nov 27, 2018",9:00p,REG,,Benedictine (AZ),,W,100,61,,4,2,W 1,Dee Events Center
+6,7,"Sat, Dec 1, 2018",9:00p,REG,,Brigham Young,WCC,W,113,103,,5,2,W 2,Dee Events Center
+7,8,"Wed, Dec 5, 2018",10:00p,REG,@,Fresno State,MWC,L,52,71,,5,3,L 1,Save Mart Center
+8,9,"Sat, Dec 8, 2018",4:30p,REG,N,Utah State,MWC,L,67,76,,5,4,L 2,Vivint Smart Home Arena
+9,10,"Sat, Dec 15, 2018",9:00p,REG,,Utah Valley,WAC,L,63,75,,5,5,L 3,Dee Events Center
+10,11,"Sat, Dec 22, 2018",4:00p,REG,,Delaware State,MEAC,W,83,69,,6,5,W 1,Dee Events Center
+11,12,"Sat, Dec 29, 2018",5:05p,REG,@,Eastern Washington,Big Sky,W,84,72,,7,5,W 2,Reese Court
+12,13,"Mon, Dec 31, 2018",5:00p,REG,@,Idaho,Big Sky,W,93,87,,8,5,W 3,Cowan Spectrum
+13,14,"Thu, Jan 3, 2019",9:00p,REG,,Northern Arizona,Big Sky,W,77,52,,9,5,W 4,Dee Events Center
+14,15,"Sat, Jan 5, 2019",9:00p,REG,,Southern Utah,Big Sky,L,82,90,OT,9,6,L 1,Dee Events Center
+15,16,"Sat, Jan 12, 2019",10:05p,REG,@,Portland State,Big Sky,W,95,88,OT,10,6,W 1,Pamplin Sports Center
+16,17,"Thu, Jan 17, 2019",9:00p,REG,,Idaho State,Big Sky,W,76,59,,11,6,W 2,Dee Events Center
+17,18,"Sat, Jan 19, 2019",9:00p,REG,,Northern Colorado,Big Sky,W,78,64,,12,6,W 3,Dee Events Center
+18,19,"Thu, Jan 24, 2019",9:00p,REG,@,Montana State,Big Sky,W,93,84,,13,6,W 4,Max Worthington Arena
+19,20,"Sat, Jan 26, 2019",9:00p,REG,@,Montana,Big Sky,L,68,75,,13,7,L 1,Adams Center/Dahlberg Arena
+20,21,"Thu, Jan 31, 2019",9:00p,REG,,Portland State,Big Sky,L,75,76,,13,8,L 2,Dee Events Center
+21,22,"Sat, Feb 2, 2019",9:00p,REG,,Sacramento State,Big Sky,W,75,65,,14,8,W 1,Dee Events Center
+22,23,"Thu, Feb 7, 2019",8:30p,REG,@,Southern Utah,Big Sky,L,53,65,,14,9,L 1,Centrum
+23,24,"Sat, Feb 9, 2019",4:00p,REG,@,Northern Arizona,Big Sky,W,86,71,,15,9,W 1,Walkup Skydome
+24,25,"Thu, Feb 14, 2019",9:00p,REG,,Montana,Big Sky,L,80,83,,15,10,L 1,Dee Events Center
+25,26,"Sat, Feb 16, 2019",9:00p,REG,,Montana State,Big Sky,W,94,82,,16,10,W 1,Dee Events Center
+26,27,"Thu, Feb 21, 2019",10:05p,REG,@,Sacramento State,Big Sky,L,76,78,,16,11,L 1,The Nest
+27,28,"Thu, Feb 28, 2019",9:00p,REG,@,Northern Colorado,Big Sky,L,61,85,,16,12,L 2,Bank of Colorado Arena
+28,29,"Mon, Mar 4, 2019",9:05p,REG,@,Idaho State,Big Sky,L,74,78,,16,13,L 3,Holt Arena
+29,30,"Thu, Mar 7, 2019",9:00p,REG,,Idaho,Big Sky,W,93,59,,17,13,W 1,Dee Events Center
+30,31,"Sat, Mar 9, 2019",9:00p,REG,,Eastern Washington,Big Sky,L,77,80,,17,14,L 1,Dee Events Center
+31,32,"Thu, Mar 14, 2019",4:30p,CTOURN,N,Portland State,Big Sky,W,81,71,,18,14,W 1,CenturyLink Arena
+32,33,"Fri, Mar 15, 2019",7:30p,CTOURN,N,Montana,Big Sky,L,49,78,,18,15,L 1,CenturyLink Arena

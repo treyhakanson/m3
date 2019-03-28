@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:30p,REG,,Lees-McRae,,W,91,69,,1,0,W 1,Murphy Athletic Center
+1,2,"Fri, Nov 9, 2018",12:00p,REG,,Milligan,,W,102,70,,2,0,W 2,Murphy Athletic Center
+2,3,"Mon, Nov 12, 2018",8:00p,REG,@,Belmont,OVC,L,73,92,,2,1,L 1,Curb Event Center
+3,4,"Fri, Nov 16, 2018",7:30p,REG,,Charleston Southern,Big South,W,76,73,,3,1,W 1,Murphy Athletic Center
+4,5,"Wed, Nov 21, 2018",9:30p,REG,N,Virginia (4),ACC,L,52,74,,3,2,L 1,Imperial Arena at Atlantis Resort
+5,6,"Thu, Nov 22, 2018",9:30p,REG,N,Butler,Big East,L,53,84,,3,3,L 2,Imperial Arena at Atlantis Resort
+6,7,"Fri, Nov 23, 2018",7:00p,REG,N,Stanford,Pac-12,L,54,67,,3,4,L 3,Imperial Arena at Atlantis Resort
+7,8,"Sat, Dec 1, 2018",6:00p,REG,,Lipscomb,A-Sun,L,74,84,,3,5,L 4,Murphy Athletic Center
+8,9,"Wed, Dec 5, 2018",7:30p,REG,@,Vanderbilt,SEC,L,51,79,,3,6,L 5,Memorial Gymnasium
+9,10,"Sat, Dec 8, 2018",8:00p,REG,,Murray State,OVC,L,42,64,,3,7,L 6,Murphy Athletic Center
+10,11,"Sat, Dec 15, 2018",7:00p,REG,@,Toledo,MAC,L,62,84,,3,8,L 7,John F. Savage Hall
+11,12,"Fri, Dec 21, 2018",8:00p,REG,N,Mississippi,SEC,L,56,74,,3,9,L 8,Bridgestone Arena
+12,13,"Sun, Dec 30, 2018",5:00p,REG,@,Rhode Island,A-10,L,60,72,,3,10,L 9,Ryan Center
+13,14,"Thu, Jan 3, 2019",7:30p,REG,,Florida International,CUSA,L,76,83,,3,11,L 10,Murphy Athletic Center
+14,15,"Sat, Jan 5, 2019",6:00p,REG,,Florida Atlantic,CUSA,L,56,63,,3,12,L 11,Murphy Athletic Center
+15,16,"Thu, Jan 10, 2019",8:00p,REG,@,Southern Mississippi,CUSA,L,70,77,,3,13,L 12,Reed Green Coliseum
+16,17,"Sat, Jan 12, 2019",5:00p,REG,@,Louisiana Tech,CUSA,L,56,73,,3,14,L 13,Thomas Assembly Center
+17,18,"Thu, Jan 17, 2019",7:30p,REG,,Texas-San Antonio,CUSA,W,89,86,,4,14,W 1,Murphy Athletic Center
+18,19,"Sat, Jan 19, 2019",6:00p,REG,,Texas-El Paso,CUSA,W,75,72,,5,14,W 2,Murphy Athletic Center
+19,20,"Thu, Jan 24, 2019",8:00p,REG,@,Rice,CUSA,L,68,79,,5,15,L 1,Tudor Fieldhouse
+20,21,"Sat, Jan 26, 2019",6:00p,REG,@,North Texas,CUSA,L,53,70,,5,16,L 2,UNT Coliseum
+21,22,"Wed, Jan 30, 2019",7:30p,REG,,Alabama-Birmingham,CUSA,W,71,65,,6,16,W 1,Murphy Athletic Center
+22,23,"Sat, Feb 2, 2019",8:00p,REG,@,Alabama-Birmingham,CUSA,W,79,78,,7,16,W 2,Bartow Arena
+23,24,"Thu, Feb 7, 2019",7:30p,REG,,Charlotte,CUSA,W,71,53,,8,16,W 3,Murphy Athletic Center
+24,25,"Sat, Feb 9, 2019",7:00p,REG,,Old Dominion,CUSA,L,50,55,,8,17,L 1,Murphy Athletic Center
+25,26,"Thu, Feb 14, 2019",8:00p,REG,@,Western Kentucky,CUSA,L,63,71,,8,18,L 2,E.A. Diddle Arena
+26,27,"Sat, Feb 16, 2019",2:00p,REG,@,Marshall,CUSA,L,93,98,,8,19,L 3,Henderson Center
+27,28,"Sat, Feb 23, 2019",6:00p,REG,,Charlotte,CUSA,W,86,67,,9,19,W 1,Murphy Athletic Center
+28,29,"Sun, Mar 3, 2019",3:00p,REG,@,Rice,CUSA,L,61,67,,9,20,L 1,Tudor Fieldhouse
+29,30,"Wed, Mar 6, 2019",9:00p,REG,@,Texas-El Paso,CUSA,W,69,53,,10,20,W 1,Don Haskins Center
+30,31,"Sat, Mar 9, 2019",8:30p,REG,,Texas-El Paso,CUSA,W,48,47,,11,20,W 2,Murphy Athletic Center
+31,32,"Wed, Mar 13, 2019",7:30p,CTOURN,N,Alabama-Birmingham,CUSA,L,61,70,,11,21,L 1,Ford Center

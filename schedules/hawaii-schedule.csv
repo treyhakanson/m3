@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",11:59p,REG,,Portland,WCC,W,82,64,,1,0,W 1,Stan Sheriff Center
+1,2,"Sat, Nov 10, 2018",11:59p,REG,,Humboldt State,,W,90,54,,2,0,W 2,Stan Sheriff Center
+2,3,"Sun, Nov 11, 2018",11:00p,REG,,North Texas,CUSA,L,51,68,,2,1,L 1,Stan Sheriff Center
+3,4,"Sun, Nov 18, 2018",10:00p,REG,,Northern Arizona,Big Sky,W,85,68,,3,1,W 1,Stan Sheriff Center
+4,5,"Thu, Nov 22, 2018",11:30p,REG,N,Utah,Pac-12,W,90,79,,4,1,W 2,Titan Gym
+5,6,"Fri, Nov 23, 2018",11:30p,REG,N,Seton Hall,Big East,L,54,64,,4,2,L 1,Titan Gym
+6,7,"Sun, Nov 25, 2018",4:00p,REG,N,Fresno State,MWC,L,64,79,,4,3,L 2,Titan Gym
+7,8,"Wed, Nov 28, 2018",9:00p,REG,@,UCLA,Pac-12,L,61,80,,4,4,L 3,Pauley Pavilion
+8,9,"Sat, Dec 8, 2018",11:59p,REG,,Hawaii-Hilo,,W,82,75,,5,4,W 1,Stan Sheriff Center
+9,10,"Sun, Dec 16, 2018",10:00p,REG,,Mississippi Valley State,SWAC,W,76,51,,6,4,W 2,Stan Sheriff Center
+10,11,"Sat, Dec 22, 2018",5:00p,REG,,Nevada-Las Vegas,MWC,L,59,73,,6,5,L 1,Stan Sheriff Center
+11,12,"Sun, Dec 23, 2018",7:00p,REG,,Colorado,Pac-12,W,70,62,OT,7,5,W 1,Stan Sheriff Center
+12,13,"Tue, Dec 25, 2018",3:00p,REG,N,Rhode Island,A-10,W,68,60,,8,5,W 2,Stan Sheriff Center
+13,14,"Sat, Dec 29, 2018",11:59p,REG,,Alabama A&M,SWAC,W,71,63,,9,5,W 3,Stan Sheriff Center
+14,15,"Wed, Jan 9, 2019",11:59p,REG,,Cal State Fullerton,Big West,W,79,68,,10,5,W 4,Stan Sheriff Center
+15,16,"Thu, Jan 17, 2019",10:00p,REG,@,Cal State Northridge,Big West,W,84,79,,11,5,W 5,The Matadome
+16,17,"Sat, Jan 19, 2019",8:00p,REG,@,UC-Riverside,Big West,L,71,75,,11,6,L 1,UC Riverside Student Recreation Center
+17,18,"Wed, Jan 23, 2019",11:59p,REG,,UC-Irvine,Big West,L,74,75,OT,11,7,L 2,Stan Sheriff Center
+18,19,"Sat, Jan 26, 2019",11:59p,REG,,UC-Davis,Big West,W,80,60,,12,7,W 1,Stan Sheriff Center
+19,20,"Thu, Jan 31, 2019",11:59p,REG,,Long Beach State,Big West,W,74,57,,13,7,W 2,Stan Sheriff Center
+20,21,"Sat, Feb 2, 2019",11:59p,REG,,UC-Santa Barbara,Big West,L,54,75,,13,8,L 1,Stan Sheriff Center
+21,22,"Thu, Feb 7, 2019",10:00p,REG,@,Long Beach State,Big West,W,77,70,,14,8,W 1,The Walter Pyramid
+22,23,"Sat, Feb 9, 2019",10:00p,REG,@,UC-Irvine,Big West,L,56,67,,14,9,L 1,Bren Events Center
+23,24,"Thu, Feb 14, 2019",11:59p,REG,,Cal Poly,Big West,W,75,54,,15,9,W 1,Stan Sheriff Center
+24,25,"Sun, Feb 17, 2019",1:00a,REG,,UC-Riverside,Big West,W,87,64,,16,9,W 2,Stan Sheriff Center
+25,26,"Thu, Feb 21, 2019",11:00p,REG,@,UC-Santa Barbara,Big West,L,61,79,,16,10,L 1,The Thunderdome
+26,27,"Sat, Feb 23, 2019",10:00p,REG,@,Cal Poly,Big West,L,80,88,,16,11,L 2,Robert A. Mott Gymnasium
+27,28,"Sun, Mar 3, 2019",1:00a,REG,,Cal State Northridge,Big West,L,73,84,,16,12,L 3,Stan Sheriff Center
+28,29,"Thu, Mar 7, 2019",10:00p,REG,@,UC-Davis,Big West,W,76,69,,17,12,W 1,The Pavilion
+29,30,"Sat, Mar 9, 2019",10:00p,REG,@,Cal State Fullerton,Big West,W,71,59,,18,12,W 2,Titan Gym
+30,31,"Thu, Mar 14, 2019",11:30p,CTOURN,N,Long Beach State,Big West,L,66,68,,18,13,L 1,Honda Center

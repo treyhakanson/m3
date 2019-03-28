@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",7:00p,REG,@,Oakland,Horizon,W,87,86,,1,0,W 1,Athletics Center O'rena
+1,2,"Sat, Nov 10, 2018",7:00p,REG,,Wilberforce,,W,99,58,,2,0,W 2,John F. Savage Hall
+2,3,"Wed, Nov 14, 2018",7:00p,REG,@,Wright State,Horizon,L,74,84,,2,1,L 1,Ervin J. Nutter Center
+3,4,"Mon, Nov 19, 2018",7:30p,REG,N,Florida Gulf Coast,A-Sun,W,90,62,,3,1,W 1,Germain Arena
+4,5,"Tue, Nov 20, 2018",7:30p,REG,N,Louisiana,Sun Belt,W,77,64,,4,1,W 2,Germain Arena
+5,6,"Wed, Nov 21, 2018",7:30p,REG,N,UC-Irvine,Big West,W,67,60,,5,1,W 3,Germain Arena
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,North Alabama,A-Sun,W,80,59,,6,1,W 4,John F. Savage Hall
+7,8,"Sat, Dec 1, 2018",2:00p,REG,,Cleveland State,Horizon,W,80,67,,7,1,W 5,John F. Savage Hall
+8,9,"Wed, Dec 5, 2018",7:00p,REG,,Detroit Mercy,Horizon,W,101,57,,8,1,W 6,John F. Savage Hall
+9,10,"Sat, Dec 8, 2018",2:30p,REG,@,Marshall,CUSA,W,75,74,OT,9,1,W 7,Henderson Center
+10,11,"Sat, Dec 15, 2018",7:00p,REG,,Middle Tennessee,CUSA,W,84,62,,10,1,W 8,John F. Savage Hall
+11,12,"Wed, Dec 19, 2018",7:00p,REG,,Cornell,Ivy,W,86,70,,11,1,W 9,John F. Savage Hall
+12,13,"Sat, Dec 29, 2018",2:00p,REG,,Pennsylvania,Ivy,W,77,45,,12,1,W 10,John F. Savage Hall
+13,14,"Fri, Jan 4, 2019",7:00p,REG,,Ball State,MAC,L,64,79,,12,2,L 1,John F. Savage Hall
+14,15,"Tue, Jan 8, 2019",7:00p,REG,@,Buffalo (19),MAC,L,80,110,,12,3,L 2,Alumni Arena
+15,16,"Sat, Jan 12, 2019",2:00p,REG,@,Western Michigan,MAC,W,85,77,,13,3,W 1,University Arena
+16,17,"Tue, Jan 15, 2019",7:00p,REG,,Miami (OH),MAC,W,71,59,,14,3,W 2,John F. Savage Hall
+17,18,"Fri, Jan 18, 2019",7:00p,REG,,Ohio,MAC,W,75,52,,15,3,W 3,John F. Savage Hall
+18,19,"Tue, Jan 22, 2019",7:00p,REG,@,Kent State,MAC,L,85,87,OT,15,4,L 1,Memorial Athletic & Convocation Center
+19,20,"Sat, Jan 26, 2019",7:00p,REG,,Central Michigan,MAC,W,76,72,,16,4,W 1,John F. Savage Hall
+20,21,"Tue, Jan 29, 2019",7:00p,REG,@,Miami (OH),MAC,W,66,63,,17,4,W 2,Millett Hall
+21,22,"Sat, Feb 2, 2019",3:00p,REG,@,Northern Illinois,MAC,W,69,55,,18,4,W 3,Convocation Center
+22,23,"Tue, Feb 5, 2019",7:00p,REG,,Akron,MAC,W,63,52,,19,4,W 4,John F. Savage Hall
+23,24,"Sat, Feb 9, 2019",6:00p,REG,@,Bowling Green State,MAC,W,78,71,,20,4,W 5,Stroh Center
+24,25,"Fri, Feb 15, 2019",7:00p,REG,,Buffalo (25),MAC,L,82,88,,20,5,L 1,John F. Savage Hall
+25,26,"Tue, Feb 19, 2019",7:00p,REG,@,Eastern Michigan,MAC,L,69,76,,20,6,L 2,Convocation Center
+26,27,"Sat, Feb 23, 2019",6:00p,REG,,Northern Illinois,MAC,W,57,54,,21,6,W 1,John F. Savage Hall
+27,28,"Tue, Feb 26, 2019",7:00p,REG,@,Ball State,MAC,W,80,72,,22,6,W 2,Worthen Arena
+28,29,"Sat, Mar 2, 2019",4:30p,REG,@,Central Michigan,MAC,W,80,68,,23,6,W 3,McGuirk Arena
+29,30,"Tue, Mar 5, 2019",7:00p,REG,,Western Michigan,MAC,W,76,57,,24,6,W 4,John F. Savage Hall
+30,31,"Fri, Mar 8, 2019",7:00p,REG,,Eastern Michigan,MAC,W,64,58,,25,6,W 5,John F. Savage Hall
+31,32,"Thu, Mar 14, 2019",6:30p,CTOURN,N,Northern Illinois,MAC,L,76,80,,25,7,L 1,Quicken Loans Arena
+32,33,"Wed, Mar 20, 2019",7:00p,NIT,@,Xavier,Big East,L,64,78,,25,8,L 2,Cintas Center

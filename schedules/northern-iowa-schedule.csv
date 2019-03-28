@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,,Bemidji State,,W,97,51,,1,0,W 1,McLeod Center
+1,2,"Sat, Nov 10, 2018",8:00p,REG,@,Texas-Arlington,Sun Belt,L,65,74,,1,1,L 1,College Park Center
+2,3,"Fri, Nov 16, 2018",5:30p,REG,N,Pennsylvania,Ivy,L,71,78,,1,2,L 2,Virgin Islands Sport & Fitness Center 
+3,4,"Sat, Nov 17, 2018",5:00p,REG,N,Eastern Kentucky,OVC,W,90,85,,2,2,W 1,Virgin Islands Sport & Fitness Center 
+4,5,"Mon, Nov 19, 2018",3:00p,REG,N,Old Dominion,CUSA,W,54,53,,3,2,W 2,Virgin Islands Sport & Fitness Center 
+5,6,"Fri, Nov 23, 2018",7:00p,REG,@,Old Dominion,CUSA,L,65,72,,3,3,L 1,Ted Constant Convocation Ctr.
+6,7,"Wed, Nov 28, 2018",9:00p,REG,@,Utah State,MWC,L,52,71,,3,4,L 2,Dee Glen Smith Spectrum
+7,8,"Sat, Dec 1, 2018",9:00p,REG,N,South Dakota State,Summit,L,50,82,,3,5,L 3,U.S. Bank Stadium
+8,9,"Sat, Dec 8, 2018",2:00p,REG,,Dubuque,,W,75,67,,4,5,W 1,McLeod Center
+9,10,"Sat, Dec 15, 2018",7:00p,REG,N,Iowa (22),Big Ten,L,54,77,,4,6,L 1,Wells Fargo Arena
+10,11,"Wed, Dec 19, 2018",8:30p,REG,,Grand Canyon,WAC,L,62,73,,4,7,L 2,McLeod Center
+11,12,"Sat, Dec 22, 2018",2:00p,REG,,North Dakota,Summit,W,64,62,,5,7,W 1,McLeod Center
+12,13,"Sat, Dec 29, 2018",8:00p,REG,,Stony Brook,AEC,L,63,73,,5,8,L 1,McLeod Center
+13,14,"Wed, Jan 2, 2019",8:00p,REG,@,Bradley,MVC,W,65,47,,6,8,W 1,Carver Arena
+14,15,"Sat, Jan 5, 2019",8:00p,REG,,Southern Illinois,MVC,L,51,58,,6,9,L 1,McLeod Center
+15,16,"Tue, Jan 8, 2019",8:00p,REG,@,Illinois State,MVC,L,69,70,,6,10,L 2,Redbird Arena
+16,17,"Sun, Jan 13, 2019",4:00p,REG,,Drake,MVC,W,57,54,,7,10,W 1,McLeod Center
+17,18,"Wed, Jan 16, 2019",8:00p,REG,,Indiana State,MVC,W,69,64,,8,10,W 2,McLeod Center
+18,19,"Sat, Jan 19, 2019",4:00p,REG,@,Valparaiso,MVC,L,66,75,,8,11,L 1,Athletics-Recreation Center
+19,20,"Wed, Jan 23, 2019",8:00p,REG,@,Southern Illinois,MVC,L,62,70,,8,12,L 2,The SIU Arena
+20,21,"Sat, Jan 26, 2019",8:00p,REG,,Evansville,MVC,W,81,74,,9,12,W 1,McLeod Center
+21,22,"Wed, Jan 30, 2019",7:00p,REG,@,Loyola (IL),MVC,L,60,61,,9,13,L 1,Joseph J. Gentile Center
+22,23,"Sat, Feb 2, 2019",8:00p,REG,,Missouri State,MVC,W,64,59,,10,13,W 1,McLeod Center
+23,24,"Wed, Feb 6, 2019",8:00p,REG,,Bradley,MVC,L,71,79,,10,14,L 1,McLeod Center
+24,25,"Sat, Feb 9, 2019",6:00p,REG,@,Drake,MVC,L,77,83,,10,15,L 2,Knapp Center
+25,26,"Wed, Feb 13, 2019",8:00p,REG,,Illinois State,MVC,W,77,64,,11,15,W 1,McLeod Center
+26,27,"Sun, Feb 17, 2019",4:00p,REG,@,Evansville,MVC,W,73,58,,12,15,W 2,Ford Center
+27,28,"Wed, Feb 20, 2019",8:00p,REG,@,Missouri State,MVC,W,63,43,,13,15,W 3,JQH Arena
+28,29,"Sat, Feb 23, 2019",8:00p,REG,,Valparaiso,MVC,W,64,53,,14,15,W 4,McLeod Center
+29,30,"Wed, Feb 27, 2019",8:00p,REG,,Loyola (IL),MVC,L,55,56,,14,16,L 1,McLeod Center
+30,31,"Sat, Mar 2, 2019",2:00p,REG,@,Indiana State,MVC,L,54,71,,14,17,L 2,Hulman Center
+31,32,"Fri, Mar 8, 2019",9:35p,CTOURN,N,Southern Illinois,MVC,W,61,58,,15,17,W 1,Scottrade Center
+32,33,"Sat, Mar 9, 2019",6:05p,CTOURN,N,Drake,MVC,W,60,58,,16,17,W 2,Scottrade Center
+33,34,"Sun, Mar 10, 2019",2:05p,CTOURN,N,Bradley,MVC,L,54,57,,16,18,L 1,Scottrade Center

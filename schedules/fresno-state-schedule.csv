@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,,Alaska-Anchorage,,W,91,63,,1,0,W 1,Save Mart Center
+1,2,"Thu, Nov 15, 2018",9:00p,REG,@,Texas Christian (21),Big 12,L,69,77,,1,1,L 1,Ed & Rae Schollmaier Arena
+2,3,"Thu, Nov 22, 2018",4:30p,REG,N,Northwestern,Big Ten,W,78,59,,2,1,W 1,Titan Gym
+3,4,"Fri, Nov 23, 2018",2:00p,REG,N,Miami (FL),ACC,L,76,78,,2,2,L 1,Titan Gym
+4,5,"Sun, Nov 25, 2018",4:00p,REG,N,Hawaii,Big West,W,79,64,,3,2,W 1,Titan Gym
+5,6,"Wed, Nov 28, 2018",10:00p,REG,,Pacific,WCC,W,81,78,OT,4,2,W 2,Save Mart Center
+6,7,"Sat, Dec 1, 2018",3:00p,REG,,Cal Poly,Big West,W,76,67,,5,2,W 3,Save Mart Center
+7,8,"Wed, Dec 5, 2018",10:00p,REG,,Weber State,Big Sky,W,71,52,,6,2,W 4,Save Mart Center
+8,9,"Sat, Dec 8, 2018",7:00p,REG,,Long Beach State,Big West,W,92,71,,7,2,W 5,Save Mart Center
+9,10,"Wed, Dec 19, 2018",10:00p,REG,,University of California,Pac-12,W,95,73,,8,2,W 6,Save Mart Center
+10,11,"Sat, Dec 22, 2018",7:00p,REG,,Tennessee-Martin,OVC,W,93,53,,9,2,W 7,Save Mart Center
+11,12,"Sat, Dec 29, 2018",7:00p,REG,,Utah Valley,WAC,L,60,64,,9,3,L 1,Save Mart Center
+12,13,"Wed, Jan 2, 2019",10:00p,REG,@,San Jose State,MWC,W,73,53,,10,3,W 1,San Jose State Event Center
+13,14,"Sat, Jan 5, 2019",10:00p,REG,,Colorado State,MWC,W,78,67,,11,3,W 2,Save Mart Center
+14,15,"Wed, Jan 9, 2019",9:00p,REG,@,Utah State,MWC,W,78,77,,12,3,W 3,Dee Glen Smith Spectrum
+15,16,"Sat, Jan 12, 2019",8:00p,REG,,Nevada (10),MWC,L,64,74,,12,4,L 1,Save Mart Center
+16,17,"Sat, Jan 19, 2019",5:30p,REG,@,Boise State,MWC,W,63,53,,13,4,W 1,Taco Bell Arena
+17,18,"Tue, Jan 22, 2019",11:00p,REG,,San Diego State,MWC,W,66,62,,14,4,W 2,Save Mart Center
+18,19,"Sat, Jan 26, 2019",4:00p,REG,@,Colorado State,MWC,L,65,74,,14,5,L 1,Moby Arena
+19,20,"Wed, Jan 30, 2019",9:00p,REG,@,Wyoming,MWC,W,75,62,,15,5,W 1,Arena-Auditorium
+20,21,"Sat, Feb 2, 2019",10:00p,REG,,New Mexico,MWC,W,82,70,,16,5,W 2,Save Mart Center
+21,22,"Tue, Feb 5, 2019",10:30p,REG,,Utah State,MWC,L,81,82,,16,6,L 1,Save Mart Center
+22,23,"Sat, Feb 9, 2019",5:00p,REG,@,Nevada-Las Vegas,MWC,W,83,65,,17,6,W 1,Thomas & Mack Center
+23,24,"Wed, Feb 13, 2019",10:30p,REG,,Boise State,MWC,W,65,63,,18,6,W 2,Save Mart Center
+24,25,"Sat, Feb 16, 2019",7:00p,REG,@,New Mexico,MWC,W,81,73,,19,6,W 3,The Pit
+25,26,"Wed, Feb 20, 2019",10:00p,REG,,Air Force,MWC,L,61,64,,19,7,L 1,Save Mart Center
+26,27,"Sat, Feb 23, 2019",8:00p,REG,@,Nevada (6),MWC,L,68,74,,19,8,L 2,Lawlor Events Center
+27,28,"Wed, Feb 27, 2019",10:00p,REG,,Wyoming,MWC,W,71,60,,20,8,W 1,Save Mart Center
+28,29,"Wed, Mar 6, 2019",10:00p,REG,@,San Diego State,MWC,W,76,74,,21,8,W 2,Viejas Arena
+29,30,"Sat, Mar 9, 2019",7:00p,REG,,San Jose State,MWC,W,121,81,,22,8,W 3,Save Mart Center
+30,31,"Thu, Mar 14, 2019",11:30p,CTOURN,N,Air Force,MWC,W,76,50,,23,8,W 4,Thomas & Mack Center
+31,32,"Fri, Mar 15, 2019",11:30p,CTOURN,N,Utah State,MWC,L,60,85,,23,9,L 1,Thomas & Mack Center

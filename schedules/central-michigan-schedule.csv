@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Concordia (MI),,W,98,67,,1,0,W 1,McGuirk Arena
+1,2,"Fri, Nov 9, 2018",7:00p,REG,,Chicago State,WAC,W,101,60,,2,0,W 2,McGuirk Arena
+2,3,"Thu, Nov 15, 2018",6:00p,REG,N,Cal State Bakersfield,WAC,W,67,55,,3,0,W 3,Gateway Christian Academy
+3,4,"Fri, Nov 16, 2018",8:30p,REG,N,Weber State,Big Sky,L,76,78,,3,1,L 1,Gateway Christian Academy
+4,5,"Sun, Nov 18, 2018",6:00p,REG,N,San Jose State,MWC,W,76,74,,4,1,W 1,Gateway Christian Academy
+5,6,"Sun, Nov 25, 2018",1:00p,REG,,Siena Heights,,W,103,75,,5,1,W 2,McGuirk Arena
+6,7,"Wed, Nov 28, 2018",7:30p,REG,@,Sam Houston State,Southland,W,81,65,,6,1,W 3,Johnson Coliseum
+7,8,"Fri, Nov 30, 2018",7:30p,REG,@,Texas Christian,Big 12,L,62,89,,6,2,L 1,Ed & Rae Schollmaier Arena
+8,9,"Tue, Dec 4, 2018",7:00p,REG,@,Youngstown State,Horizon,W,100,94,3OT,7,2,W 1,Beeghly Center
+9,10,"Sat, Dec 8, 2018",4:30p,REG,,Southern Utah,Big Sky,W,95,86,,8,2,W 2,McGuirk Arena
+10,11,"Wed, Dec 19, 2018",7:00p,REG,,Missouri-Kansas City,WAC,W,81,72,,9,2,W 3,McGuirk Arena
+11,12,"Sat, Dec 22, 2018",1:00p,REG,,Jackson State,SWAC,W,81,72,,10,2,W 4,McGuirk Arena
+12,13,"Sun, Dec 30, 2018",1:00p,REG,,Indiana-South Bend,,W,123,76,,11,2,W 5,McGuirk Arena
+13,14,"Sat, Jan 5, 2019",2:00p,REG,@,Miami (OH),MAC,W,84,77,,12,2,W 6,Millett Hall
+14,15,"Tue, Jan 8, 2019",7:00p,REG,,Akron,MAC,W,88,86,OT,13,2,W 7,McGuirk Arena
+15,16,"Sat, Jan 12, 2019",4:30p,REG,,Bowling Green State,MAC,L,87,97,OT,13,3,L 1,McGuirk Arena
+16,17,"Tue, Jan 15, 2019",8:00p,REG,@,Northern Illinois,MAC,W,78,69,,14,3,W 1,Convocation Center
+17,18,"Sat, Jan 19, 2019",4:30p,REG,,Ball State,MAC,L,72,83,,14,4,L 1,McGuirk Arena
+18,19,"Tue, Jan 22, 2019",7:00p,REG,@,Akron,MAC,L,67,70,,14,5,L 2,James A. Rhodes Arena
+19,20,"Sat, Jan 26, 2019",7:00p,REG,@,Toledo,MAC,L,72,76,,14,6,L 3,John F. Savage Hall
+20,21,"Tue, Jan 29, 2019",7:00p,REG,,Eastern Michigan,MAC,W,86,82,,15,6,W 1,McGuirk Arena
+21,22,"Sat, Feb 2, 2019",4:30p,REG,,Western Michigan,MAC,W,85,64,,16,6,W 2,McGuirk Arena
+22,23,"Sat, Feb 9, 2019",3:30p,REG,@,Buffalo (23),MAC,L,76,90,,16,7,L 1,Alumni Arena
+23,24,"Tue, Feb 12, 2019",7:00p,REG,@,Bowling Green State,MAC,L,72,79,,16,8,L 2,Stroh Center
+24,25,"Sat, Feb 16, 2019",4:30p,REG,,Ohio,MAC,W,87,80,,17,8,W 1,McGuirk Arena
+25,26,"Tue, Feb 19, 2019",7:00p,REG,,Kent State,MAC,W,84,74,,18,8,W 2,McGuirk Arena
+26,27,"Sat, Feb 23, 2019",2:00p,REG,@,Ball State,MAC,W,64,57,,19,8,W 3,Worthen Arena
+27,28,"Tue, Feb 26, 2019",7:00p,REG,@,Eastern Michigan,MAC,W,77,66,,20,8,W 4,Convocation Center
+28,29,"Sat, Mar 2, 2019",4:30p,REG,,Toledo,MAC,L,68,80,,20,9,L 1,McGuirk Arena
+29,30,"Tue, Mar 5, 2019",7:00p,REG,,Northern Illinois,MAC,L,86,89,,20,10,L 2,McGuirk Arena
+30,31,"Fri, Mar 8, 2019",7:00p,REG,@,Western Michigan,MAC,W,82,75,,21,10,W 1,University Arena
+31,32,"Mon, Mar 11, 2019",7:00p,CTOURN,,Western Michigan,MAC,W,81,67,,22,10,W 2,McGuirk Arena
+32,33,"Thu, Mar 14, 2019",2:30p,CTOURN,N,Kent State,MAC,W,89,81,,23,10,W 3,Quicken Loans Arena
+33,34,"Fri, Mar 15, 2019",6:30p,CTOURN,N,Buffalo (18),MAC,L,81,85,,23,11,L 1,Quicken Loans Arena
+34,35,"Wed, Mar 20, 2019",8:00p,CBI,@,DePaul,Big East,L,86,100,,23,12,L 2,McGrath-Phillips Arena

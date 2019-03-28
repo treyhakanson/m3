@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",7:00p,REG,,Webber,,W,110,84,,1,0,W 1,FIU Arena
+1,2,"Fri, Nov 9, 2018",7:00p,REG,,Johnson & Wales (FL),,W,117,47,,2,0,W 2,FIU Arena
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Milwaukee,Horizon,W,86,83,,3,0,W 3,FIU Arena
+3,4,"Fri, Nov 16, 2018",6:00p,REG,@,Fordham,A-10,L,77,83,,3,1,L 1,Rose Hill Gym
+4,5,"Sat, Nov 17, 2018",6:00p,REG,N,Columbia,Ivy,W,98,87,,4,1,W 1,Rose Hill Gym
+5,6,"Sun, Nov 18, 2018",12:00p,REG,N,Youngstown State,Horizon,W,102,93,,5,1,W 2,Rose Hill Gym
+6,7,"Fri, Nov 23, 2018",5:00p,REG,,Ave Maria,,W,104,84,,6,1,W 3,FIU Arena
+7,8,"Wed, Nov 28, 2018",7:30p,REG,@,Florida Gulf Coast,A-Sun,W,81,80,,7,1,W 4,Alico Arena
+8,9,"Sat, Dec 1, 2018",8:00p,REG,@,Arkansas,SEC,L,89,121,,7,2,L 1,Bud Walton Arena
+9,10,"Thu, Dec 13, 2018",7:00p,REG,,North Florida,A-Sun,W,102,89,,8,2,W 1,FIU Arena
+10,11,"Tue, Dec 18, 2018",7:00p,REG,,South Florida,AAC,L,73,82,,8,3,L 1,FIU Arena
+11,12,"Thu, Dec 20, 2018",7:00p,REG,,Florida Memorial,,W,108,67,,9,3,W 1,FIU Arena
+12,13,"Sun, Dec 30, 2018",2:00p,REG,@,Ohio,MAC,L,66,68,,9,4,L 1,Convocation Center
+13,14,"Thu, Jan 3, 2019",7:30p,REG,@,Middle Tennessee,CUSA,W,83,76,,10,4,W 1,Murphy Athletic Center
+14,15,"Sat, Jan 5, 2019",8:00p,REG,@,Alabama-Birmingham,CUSA,L,65,84,,10,5,L 1,Bartow Arena
+15,16,"Thu, Jan 10, 2019",7:00p,REG,,Charlotte,CUSA,W,69,66,,11,5,W 1,FIU Arena
+16,17,"Sat, Jan 12, 2019",7:00p,REG,,Old Dominion,CUSA,L,74,75,,11,6,L 1,FIU Arena
+17,18,"Thu, Jan 17, 2019",8:00p,REG,@,Western Kentucky,CUSA,W,77,76,,12,6,W 1,E.A. Diddle Arena
+18,19,"Sat, Jan 19, 2019",7:00p,REG,@,Marshall,CUSA,L,97,105,,12,7,L 1,Henderson Center
+19,20,"Wed, Jan 23, 2019",7:00p,REG,@,Florida Atlantic,CUSA,W,78,74,,13,7,W 1,FAU Arena
+20,21,"Sat, Jan 26, 2019",7:00p,REG,,Florida Atlantic,CUSA,L,72,89,,13,8,L 1,FIU Arena
+21,22,"Thu, Jan 31, 2019",7:00p,REG,,Southern Mississippi,CUSA,L,73,89,,13,9,L 2,FIU Arena
+22,23,"Sat, Feb 2, 2019",7:00p,REG,,Louisiana Tech,CUSA,W,75,69,,14,9,W 1,FIU Arena
+23,24,"Thu, Feb 7, 2019",8:00p,REG,@,Texas-San Antonio,CUSA,L,67,100,,14,10,L 1,Convocation Center
+24,25,"Sat, Feb 9, 2019",9:00p,REG,@,Texas-El Paso,CUSA,L,75,85,,14,11,L 2,Don Haskins Center
+25,26,"Thu, Feb 14, 2019",7:00p,REG,,Rice,CUSA,W,86,65,,15,11,W 1,FIU Arena
+26,27,"Sat, Feb 16, 2019",2:00p,REG,,North Texas,CUSA,W,69,59,,16,11,W 2,FIU Arena
+27,28,"Sat, Feb 23, 2019",4:00p,REG,@,Florida Atlantic,CUSA,W,79,76,,17,11,W 3,FAU Arena
+28,29,"Sun, Mar 3, 2019",12:00p,REG,,Louisiana Tech,CUSA,W,83,76,,18,11,W 4,FIU Arena
+29,30,"Wed, Mar 6, 2019",7:00p,REG,@,Marshall,CUSA,L,78,94,,18,12,L 1,Henderson Center
+30,31,"Sat, Mar 9, 2019",7:00p,REG,,North Texas,CUSA,W,73,58,,19,12,W 1,FIU Arena
+31,32,"Wed, Mar 13, 2019",9:30p,CTOURN,N,North Texas,CUSA,L,57,71,,19,13,L 1,Ford Center
+32,33,"Sat, Mar 23, 2019",7:00p,CIT,@,Texas State,Sun Belt,W,87,81,,20,13,W 1,Strahan Coliseum
+33,34,"Tue, Mar 26, 2019",8:00p,CIT,@,Green Bay,Horizon,L,68,98,,20,14,L 1,Kress Events Center

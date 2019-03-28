@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",10:00p,REG,,Prairie View,SWAC,L,64,81,,0,1,L 1,Leavey Center
+1,2,"Thu, Nov 15, 2018",10:00p,REG,,UC-Irvine,Big West,L,49,61,,0,2,L 2,Leavey Center
+2,3,"Sun, Nov 18, 2018",8:00p,REG,N,Washington,Pac-12,L,68,82,,0,3,L 3,Vancouver Convention Centre
+3,4,"Tue, Nov 20, 2018",9:00p,REG,N,Minnesota,Big Ten,L,66,80,,0,4,L 4,Vancouver Convention Centre
+4,5,"Sat, Nov 24, 2018",6:00p,REG,@,San Jose State,MWC,W,71,63,,1,4,W 1,San Jose State Event Center
+5,6,"Mon, Nov 26, 2018",9:00p,REG,@,University of California,Pac-12,L,66,78,,1,5,L 1,Haas Pavilion
+6,7,"Thu, Nov 29, 2018",10:00p,REG,,Jackson State,SWAC,W,81,70,,2,5,W 1,Leavey Center
+7,8,"Sat, Dec 1, 2018",7:00p,REG,,Northern Arizona,Big Sky,W,81,74,,3,5,W 2,Leavey Center
+8,9,"Fri, Dec 7, 2018",10:00p,REG,,Idaho State,Big Sky,L,66,68,,3,6,L 1,Leavey Center
+9,10,"Sun, Dec 9, 2018",5:00p,REG,,Sonoma State,,W,82,54,,4,6,W 1,Leavey Center
+10,11,"Thu, Dec 13, 2018",10:00p,REG,,Mississippi Valley State,SWAC,W,82,54,,5,6,W 2,Leavey Center
+11,12,"Tue, Dec 18, 2018",10:00p,REG,,Southern California,Pac-12,W,102,92,2OT,6,6,W 3,Leavey Center
+12,13,"Fri, Dec 21, 2018",10:00p,REG,,Idaho,Big Sky,W,77,56,,7,6,W 4,Leavey Center
+13,14,"Sat, Dec 29, 2018",2:00p,REG,N,Washington State,Pac-12,W,79,71,,8,6,W 5,Spokane Arena
+14,15,"Thu, Jan 3, 2019",10:00p,REG,,San Diego,WCC,W,68,56,,9,6,W 6,Leavey Center
+15,16,"Sat, Jan 5, 2019",9:00p,REG,@,Gonzaga (7),WCC,L,48,91,,9,7,L 1,McCarthey Athletic Center
+16,17,"Thu, Jan 10, 2019",11:00p,REG,,Pepperdine,WCC,W,67,64,,10,7,W 1,Leavey Center
+17,18,"Sat, Jan 12, 2019",9:00p,REG,@,Brigham Young,WCC,L,74,80,,10,8,L 1,Marriott Center
+18,19,"Thu, Jan 17, 2019",11:00p,REG,@,Saint Mary's (CA),WCC,L,55,75,,10,9,L 2,McKeon Pavilion
+19,20,"Sat, Jan 19, 2019",10:00p,REG,@,Pacific,WCC,W,69,57,,11,9,W 1,A.G. Spanos Center
+20,21,"Thu, Jan 24, 2019",11:00p,REG,,Gonzaga (4),WCC,L,39,98,,11,10,L 1,Leavey Center
+21,22,"Sat, Jan 26, 2019",9:00p,REG,,Loyola Marymount,WCC,L,61,69,,11,11,L 2,Leavey Center
+22,23,"Sat, Feb 2, 2019",9:00p,REG,,Portland,WCC,W,69,63,OT,12,11,W 1,Leavey Center
+23,24,"Thu, Feb 7, 2019",10:00p,REG,@,Pepperdine,WCC,W,79,71,,13,11,W 2,Firestone Fieldhouse
+24,25,"Sat, Feb 9, 2019",11:00p,REG,@,San Francisco,WCC,L,72,78,,13,12,L 1,War Memorial Gymnasium
+25,26,"Thu, Feb 14, 2019",11:00p,REG,,Saint Mary's (CA),WCC,L,55,66,,13,13,L 2,Leavey Center
+26,27,"Sat, Feb 16, 2019",9:00p,REG,,Pacific,WCC,W,64,59,,14,13,W 1,Leavey Center
+27,28,"Sat, Feb 23, 2019",11:00p,REG,,San Francisco,WCC,W,68,65,,15,13,W 2,Leavey Center
+28,29,"Thu, Feb 28, 2019",11:00p,REG,@,Loyola Marymount,WCC,L,70,72,,15,14,L 1,Albert Gersten Pavilion
+29,30,"Sat, Mar 2, 2019",10:00p,REG,@,Portland,WCC,W,78,62,,16,14,W 1,Chiles Center
+30,31,"Fri, Mar 8, 2019",11:00p,CTOURN,N,San Diego,WCC,L,45,62,,16,15,L 1,Orleans Arena

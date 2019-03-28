@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,,Texas-Tyler,,W,90,66,,1,0,W 1,College Park Center
+1,2,"Sat, Nov 10, 2018",8:00p,REG,,Northern Iowa,MVC,W,74,65,,2,0,W 2,College Park Center
+2,3,"Fri, Nov 16, 2018",8:00p,REG,,Texas A&M-Corpus Christi,Southland,L,67,73,,2,1,L 1,College Park Center
+3,4,"Sun, Nov 18, 2018",1:00p,REG,,UC-Davis,Big West,W,68,59,,3,1,W 1,College Park Center
+4,5,"Tue, Nov 20, 2018",7:00p,REG,@,Indiana,Big Ten,L,64,78,,3,2,L 1,Assembly Hall
+5,6,"Fri, Nov 23, 2018",8:00p,REG,@,Arkansas,SEC,L,60,78,,3,3,L 2,Bud Walton Arena
+6,7,"Tue, Nov 27, 2018",8:00p,REG,@,Tulsa,AAC,L,58,72,,3,4,L 3,Donald W. Reynolds Center
+7,8,"Sat, Dec 1, 2018",3:00p,REG,,Texas-Rio Grande Valley,WAC,L,65,76,,3,5,L 4,College Park Center
+8,9,"Tue, Dec 4, 2018",8:00p,REG,@,Missouri,SEC,L,45,65,,3,6,L 5,Mizzou Arena
+9,10,"Sat, Dec 8, 2018",6:00p,REG,@,North Texas,CUSA,L,61,63,,3,7,L 6,UNT Coliseum
+10,11,"Tue, Dec 18, 2018",9:00p,REG,@,Gonzaga (8),WCC,L,55,89,,3,8,L 7,McCarthey Athletic Center
+11,12,"Fri, Dec 21, 2018",10:00p,REG,@,Cal Poly,Big West,W,75,70,OT,4,8,W 1,Robert A. Mott Gymnasium
+12,13,"Fri, Dec 28, 2018",8:00p,REG,@,Texas,Big 12,L,56,76,,4,9,L 1,Frank Erwin Center
+13,14,"Thu, Jan 3, 2019",8:00p,REG,,Georgia State,Sun Belt,L,58,63,,4,10,L 2,College Park Center
+14,15,"Sat, Jan 5, 2019",3:00p,REG,,Georgia Southern,Sun Belt,L,64,77,,4,11,L 3,College Park Center
+15,16,"Thu, Jan 10, 2019",7:00p,REG,@,Appalachian State,Sun Belt,W,82,72,,5,11,W 1,Holmes Convocation Center
+16,17,"Sat, Jan 12, 2019",2:00p,REG,@,Coastal Carolina,Sun Belt,W,61,58,,6,11,W 2,The HTC Center
+17,18,"Thu, Jan 17, 2019",8:00p,REG,,Arkansas State,Sun Belt,W,68,59,,7,11,W 3,College Park Center
+18,19,"Sat, Jan 19, 2019",3:00p,REG,,Little Rock,Sun Belt,W,82,73,,8,11,W 4,College Park Center
+19,20,"Thu, Jan 24, 2019",7:00p,REG,@,Georgia Southern,Sun Belt,W,72,67,,9,11,W 5,Hanner Fieldhouse
+20,21,"Sat, Jan 26, 2019",1:00p,REG,@,Georgia State,Sun Belt,L,71,77,,9,12,L 1,GSU Sports Arena
+21,22,"Sat, Feb 2, 2019",5:00p,REG,@,Texas State,Sun Belt,W,84,77,2OT,10,12,W 1,Strahan Coliseum
+22,23,"Thu, Feb 7, 2019",8:00p,REG,,Coastal Carolina,Sun Belt,W,74,54,,11,12,W 2,College Park Center
+23,24,"Sat, Feb 9, 2019",3:00p,REG,,Appalachian State,Sun Belt,W,78,68,,12,12,W 3,College Park Center
+24,25,"Thu, Feb 14, 2019",7:30p,REG,@,Little Rock,Sun Belt,L,52,56,,12,13,L 1,Jack Stephens Center
+25,26,"Sat, Feb 16, 2019",5:00p,REG,@,Arkansas State,Sun Belt,L,79,83,,12,14,L 2,Convocation Center
+26,27,"Thu, Feb 21, 2019",8:00p,REG,,Louisiana,Sun Belt,L,64,76,,12,15,L 3,College Park Center
+27,28,"Sat, Feb 23, 2019",3:00p,REG,,Louisiana-Monroe,Sun Belt,W,91,86,2OT,13,15,W 1,College Park Center
+28,29,"Thu, Feb 28, 2019",8:00p,REG,@,South Alabama,Sun Belt,W,75,57,,14,15,W 2,Mitchell Center
+29,30,"Sat, Mar 2, 2019",3:00p,REG,@,Troy,Sun Belt,W,79,66,,15,15,W 3,Trojan Arena
+30,31,"Sat, Mar 9, 2019",3:00p,REG,,Texas State,Sun Belt,W,81,73,,16,15,W 4,College Park Center
+31,32,"Sat, Mar 16, 2019",6:30p,CTOURN,N,Georgia Southern,Sun Belt,W,67,58,,17,15,W 5,Kiefer Lakefront Arena
+32,33,"Sun, Mar 17, 2019",2:00p,CTOURN,N,Georgia State,Sun Belt,L,64,73,,17,16,L 1,Kiefer Lakefront Arena

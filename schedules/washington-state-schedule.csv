@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Sun, Nov 11, 2018",7:00p,REG,,Nicholls State,Southland,W,89,72,,1,0,W 1,Beasley Coliseum
+1,2,"Wed, Nov 14, 2018",10:00p,REG,N,Seattle,WAC,L,69,78,,1,1,L 1,ShoWare Center
+2,3,"Mon, Nov 19, 2018",9:00p,REG,,Cal Poly,Big West,W,84,70,,2,1,W 1,Beasley Coliseum
+3,4,"Sat, Nov 24, 2018",10:30p,REG,,Delaware State,MEAC,W,80,52,,3,1,W 2,Beasley Coliseum
+4,5,"Tue, Nov 27, 2018",11:00p,REG,,Cal State Northridge,Big West,W,103,94,,4,1,W 3,Beasley Coliseum
+5,6,"Sat, Dec 1, 2018",9:00p,REG,@,New Mexico State,WAC,L,63,69,,4,2,L 1,Pan American Center
+6,7,"Wed, Dec 5, 2018",9:00p,REG,,Idaho,Big Sky,W,90,70,,5,2,W 1,Beasley Coliseum
+7,8,"Sun, Dec 9, 2018",7:00p,REG,N,Montana State,Big Sky,L,90,95,,5,3,L 1,Toyota Center
+8,9,"Mon, Dec 17, 2018",10:00p,REG,,Rider,MAAC,W,94,80,,6,3,W 1,Beasley Coliseum
+9,10,"Wed, Dec 19, 2018",10:30p,REG,,Southern Illinois-Edwardsville,OVC,W,89,73,,7,3,W 2,Beasley Coliseum
+10,11,"Sat, Dec 22, 2018",10:00p,REG,N,San Diego,WCC,L,75,82,,7,4,L 1,Orleans Arena
+11,12,"Sun, Dec 23, 2018",10:00p,REG,N,New Mexico State,WAC,L,72,75,,7,5,L 2,Orleans Arena
+12,13,"Sat, Dec 29, 2018",2:00p,REG,N,Santa Clara,WCC,L,71,79,,7,6,L 3,Spokane Arena
+13,14,"Sat, Jan 5, 2019",10:30p,REG,@,Washington,Pac-12,L,67,85,,7,7,L 4,Alaska Airlines Arena
+14,15,"Thu, Jan 10, 2019",9:00p,REG,@,Colorado,Pac-12,L,60,92,,7,8,L 5,Coors Events/Conference Center
+15,16,"Sat, Jan 12, 2019",8:00p,REG,@,Utah,Pac-12,L,70,88,,7,9,L 6,Jon M. Huntsman Center
+16,17,"Thu, Jan 17, 2019",10:00p,REG,,University of California,Pac-12,W,82,59,,8,9,W 1,Beasley Coliseum
+17,18,"Sat, Jan 19, 2019",3:00p,REG,,Stanford,Pac-12,L,66,78,,8,10,L 1,Beasley Coliseum
+18,19,"Thu, Jan 24, 2019",11:00p,REG,@,Oregon State,Pac-12,L,77,90,,8,11,L 2,Gill Coliseum
+19,20,"Sun, Jan 27, 2019",8:00p,REG,@,Oregon,Pac-12,L,58,78,,8,12,L 3,Matthew Knight Arena
+20,21,"Wed, Jan 30, 2019",10:00p,REG,,UCLA,Pac-12,L,67,87,,8,13,L 4,Beasley Coliseum
+21,22,"Sat, Feb 2, 2019",7:00p,REG,,Southern California,Pac-12,L,84,93,,8,14,L 5,Beasley Coliseum
+22,23,"Thu, Feb 7, 2019",8:00p,REG,@,Arizona State,Pac-12,W,91,70,,9,14,W 1,Wells Fargo Arena
+23,24,"Sat, Feb 9, 2019",7:30p,REG,@,Arizona,Pac-12,W,69,55,,10,14,W 2,McKale Center
+24,25,"Sat, Feb 16, 2019",8:00p,REG,,Washington,Pac-12,L,70,72,,10,15,L 1,Beasley Coliseum
+25,26,"Wed, Feb 20, 2019",10:00p,REG,,Colorado,Pac-12,W,76,74,,11,15,W 1,Beasley Coliseum
+26,27,"Sat, Feb 23, 2019",8:00p,REG,,Utah,Pac-12,L,79,92,,11,16,L 1,Beasley Coliseum
+27,28,"Thu, Feb 28, 2019",9:00p,REG,@,Stanford,Pac-12,L,50,98,,11,17,L 2,Maples Pavilion
+28,29,"Sat, Mar 2, 2019",7:00p,REG,@,University of California,Pac-12,L,69,76,,11,18,L 3,Haas Pavilion
+29,30,"Wed, Mar 6, 2019",11:00p,REG,,Oregon,Pac-12,L,61,72,,11,19,L 4,Beasley Coliseum
+30,31,"Sat, Mar 9, 2019",3:00p,REG,,Oregon State,Pac-12,L,77,85,,11,20,L 5,Beasley Coliseum
+31,32,"Wed, Mar 13, 2019",11:30p,CTOURN,N,Oregon,Pac-12,L,51,84,,11,21,L 6,T-Mobile Arena

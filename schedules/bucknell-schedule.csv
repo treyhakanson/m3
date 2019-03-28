@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",7:00p,REG,@,St. Bonaventure,A-10,W,88,85,OT,1,0,W 1,Reilly Center
+1,2,"Sat, Nov 10, 2018",7:00p,REG,,Fairfield,MAAC,L,58,60,,1,1,L 1,Sojka Pavilion
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Canisius,MAAC,L,73,82,,1,2,L 2,Sojka Pavilion
+3,4,"Sun, Nov 25, 2018",2:00p,REG,@,Vermont,AEC,W,69,61,,2,2,W 1,Roy L. Patrick Gymnasium
+4,5,"Wed, Nov 28, 2018",7:00p,REG,,Northeastern,CAA,L,78,96,,2,3,L 1,Sojka Pavilion
+5,6,"Sat, Dec 1, 2018",2:00p,REG,,Monmouth,MAAC,W,65,43,,3,3,W 1,Sojka Pavilion
+6,7,"Tue, Dec 4, 2018",7:00p,REG,@,La Salle,A-10,W,92,79,,4,3,W 2,Tom Gola Arena
+7,8,"Sat, Dec 15, 2018",12:00p,REG,@,Ohio State (15),Big Ten,L,71,73,,4,4,L 1,Value City Arena
+8,9,"Wed, Dec 19, 2018",10:00p,REG,@,Saint Mary's (CA),WCC,L,56,85,,4,5,L 2,McKeon Pavilion
+9,10,"Sat, Dec 22, 2018",10:00p,REG,N,Rhode Island,A-10,W,84,82,,5,5,W 1,Stan Sheriff Center
+10,11,"Sun, Dec 23, 2018",10:00p,REG,N,Texas Christian,Big 12,L,65,82,,5,6,L 1,Stan Sheriff Center
+11,12,"Tue, Dec 25, 2018",6:30p,REG,N,Nevada-Las Vegas,MWC,W,97,72,,6,6,W 1,Stan Sheriff Center
+12,13,"Wed, Jan 2, 2019",7:00p,REG,@,Army,Patriot,W,64,63,,7,6,W 2,Christl Arena
+13,14,"Sat, Jan 5, 2019",1:00p,REG,@,Boston University,Patriot,L,80,87,,7,7,L 1,Case Gym
+14,15,"Wed, Jan 9, 2019",7:00p,REG,,Colgate,Patriot,W,84,81,,8,7,W 1,Sojka Pavilion
+15,16,"Sat, Jan 12, 2019",12:00p,REG,,American,Patriot,W,55,54,,9,7,W 2,Sojka Pavilion
+16,17,"Mon, Jan 14, 2019",7:00p,REG,,Holy Cross,Patriot,W,93,78,,10,7,W 3,Sojka Pavilion
+17,18,"Sat, Jan 19, 2019",12:00p,REG,@,Lehigh,Patriot,W,85,83,,11,7,W 4,Stabler Arena
+18,19,"Wed, Jan 23, 2019",7:00p,REG,,Loyola (MD),Patriot,W,71,68,,12,7,W 5,Sojka Pavilion
+19,20,"Sat, Jan 26, 2019",4:00p,REG,@,American,Patriot,L,68,76,,12,8,L 1,Bender Arena
+20,21,"Wed, Jan 30, 2019",7:00p,REG,,Navy,Patriot,W,69,57,,13,8,W 1,Sojka Pavilion
+21,22,"Sat, Feb 2, 2019",2:00p,REG,@,Lafayette,Patriot,W,94,66,,14,8,W 2,Kirby Sports Center
+22,23,"Wed, Feb 6, 2019",7:00p,REG,@,Loyola (MD),Patriot,W,84,72,,15,8,W 3,Reitz Arena
+23,24,"Sat, Feb 9, 2019",12:00p,REG,,Boston University,Patriot,W,82,76,,16,8,W 4,Sojka Pavilion
+24,25,"Mon, Feb 11, 2019",7:00p,REG,,Lehigh,Patriot,W,87,75,,17,8,W 5,Sojka Pavilion
+25,26,"Sat, Feb 16, 2019",12:05p,REG,@,Holy Cross,Patriot,L,71,72,,17,9,L 1,Hart Recreation Center
+26,27,"Tue, Feb 19, 2019",7:00p,REG,@,Colgate,Patriot,L,64,75,,17,10,L 2,Cotterell Court
+27,28,"Sun, Feb 24, 2019",2:00p,REG,,Lafayette,Patriot,W,118,76,,18,10,W 1,Sojka Pavilion
+28,29,"Wed, Feb 27, 2019",7:00p,REG,@,Navy,Patriot,L,53,64,,18,11,L 1,Alumni Hall
+29,30,"Sat, Mar 2, 2019",12:00p,REG,,Army,Patriot,W,62,61,,19,11,W 1,Sojka Pavilion
+30,31,"Thu, Mar 7, 2019",7:00p,CTOURN,,Holy Cross,Patriot,W,77,65,,20,11,W 2,Sojka Pavilion
+31,32,"Sun, Mar 10, 2019",2:00p,CTOURN,,Lehigh,Patriot,W,97,75,,21,11,W 3,Sojka Pavilion
+32,33,"Wed, Mar 13, 2019",7:30p,CTOURN,@,Colgate,Patriot,L,80,94,,21,12,L 1,Cotterell Court

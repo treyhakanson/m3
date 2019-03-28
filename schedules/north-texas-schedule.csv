@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,,Angelo State,,W,89,55,,1,0,W 1,UNT Coliseum
+1,2,"Fri, Nov 9, 2018",9:30p,REG,N,Humboldt State,,W,93,48,,2,0,W 2,Stan Sheriff Center
+2,3,"Sat, Nov 10, 2018",9:30p,REG,N,Portland,WCC,W,78,73,,3,0,W 3,Stan Sheriff Center
+3,4,"Sun, Nov 11, 2018",11:00p,REG,@,Hawaii,Big West,W,68,51,,4,0,W 4,Stan Sheriff Center
+4,5,"Wed, Nov 14, 2018",8:00p,REG,,Texas A&M-Commerce,,W,102,53,,5,0,W 5,UNT Coliseum
+5,6,"Sat, Nov 17, 2018",6:00p,REG,,Maryland-Eastern Shore,MEAC,W,68,34,,6,0,W 6,UNT Coliseum
+6,7,"Tue, Nov 20, 2018",8:00p,REG,,Maine,AEC,W,74,63,OT,7,0,W 7,UNT Coliseum
+7,8,"Sat, Nov 24, 2018",4:00p,REG,,Saint Peter's,MAAC,W,75,66,,8,0,W 8,UNT Coliseum
+8,9,"Tue, Nov 27, 2018",8:00p,REG,@,Oklahoma,Big 12,L,57,73,,8,1,L 1,Lloyd Noble Center
+9,10,"Wed, Dec 5, 2018",7:00p,REG,@,Indiana State,MVC,W,80,69,,9,1,W 1,Hulman Center
+10,11,"Sat, Dec 8, 2018",6:00p,REG,,Texas-Arlington,Sun Belt,W,63,61,,10,1,W 2,UNT Coliseum
+11,12,"Tue, Dec 18, 2018",9:00p,REG,@,New Mexico,MWC,W,74,65,,11,1,W 3,The Pit
+12,13,"Thu, Dec 20, 2018",8:00p,REG,,Arkansas-Pine Bluff,SWAC,W,77,66,,12,1,W 4,UNT Coliseum
+13,14,"Sat, Dec 29, 2018",3:00p,REG,@,Rice,CUSA,W,103,87,,13,1,W 5,Tudor Fieldhouse
+14,15,"Thu, Jan 3, 2019",8:00p,REG,,Louisiana Tech,CUSA,W,63,59,,14,1,W 6,UNT Coliseum
+15,16,"Sat, Jan 5, 2019",6:00p,REG,,Southern Mississippi,CUSA,W,65,62,,15,1,W 7,UNT Coliseum
+16,17,"Thu, Jan 10, 2019",9:00p,REG,@,Texas-El Paso,CUSA,W,58,51,,16,1,W 8,Don Haskins Center
+17,18,"Sat, Jan 12, 2019",4:00p,REG,@,Texas-San Antonio,CUSA,L,74,76,,16,2,L 1,Convocation Center
+18,19,"Sat, Jan 19, 2019",6:00p,REG,,Rice,CUSA,W,76,75,,17,2,W 1,UNT Coliseum
+19,20,"Thu, Jan 24, 2019",8:00p,REG,,Alabama-Birmingham,CUSA,L,49,52,,17,3,L 1,UNT Coliseum
+20,21,"Sat, Jan 26, 2019",6:00p,REG,,Middle Tennessee,CUSA,W,70,53,,18,3,W 1,UNT Coliseum
+21,22,"Thu, Jan 31, 2019",7:00p,REG,@,Old Dominion,CUSA,L,61,72,,18,4,L 1,Ted Constant Convocation Ctr.
+22,23,"Sat, Feb 2, 2019",4:00p,REG,@,Charlotte,CUSA,W,73,66,,19,4,W 1,Dale F. Halton Arena
+23,24,"Thu, Feb 7, 2019",8:00p,REG,,Marshall,CUSA,W,78,51,,20,4,W 2,UNT Coliseum
+24,25,"Sat, Feb 9, 2019",6:00p,REG,,Western Kentucky,CUSA,L,59,62,,20,5,L 1,UNT Coliseum
+25,26,"Thu, Feb 14, 2019",7:00p,REG,@,Florida Atlantic,CUSA,L,47,57,,20,6,L 2,FAU Arena
+26,27,"Sat, Feb 16, 2019",2:00p,REG,@,Florida International,CUSA,L,59,69,,20,7,L 3,FIU Arena
+27,28,"Sat, Feb 23, 2019",8:00p,REG,@,Louisiana Tech,CUSA,L,53,66,,20,8,L 4,Thomas Assembly Center
+28,29,"Thu, Feb 28, 2019",8:00p,REG,,Florida Atlantic,CUSA,L,54,60,,20,9,L 5,UNT Coliseum
+29,30,"Sun, Mar 3, 2019",4:00p,REG,,Marshall,CUSA,L,82,85,,20,10,L 6,UNT Coliseum
+30,31,"Sat, Mar 9, 2019",7:00p,REG,@,Florida International,CUSA,L,58,73,,20,11,L 7,FIU Arena
+31,32,"Wed, Mar 13, 2019",9:30p,CTOURN,N,Florida International,CUSA,W,71,57,,21,11,W 1,Ford Center
+32,33,"Thu, Mar 14, 2019",9:30p,CTOURN,N,Western Kentucky,CUSA,L,51,67,,21,12,L 1,Ford Center at The Star

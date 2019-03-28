@@ -1,0 +1,31 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:30p,REG,@,Vanderbilt,SEC,L,79,92,,0,1,L 1,Memorial Gymnasium
+1,2,"Sat, Nov 10, 2018",8:00p,REG,@,Southern Illinois-Edwardsville,OVC,W,94,82,,1,1,W 1,Sam Vadalabene Center 
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Pfeiffer,,W,134,99,,2,1,W 2,Winthrop Coliseum
+3,4,"Sat, Nov 17, 2018",2:30p,REG,,East Tennessee State,Southern,L,74,76,,2,2,L 1,Winthrop Coliseum
+4,5,"Wed, Nov 21, 2018",1:00p,REG,@,Kentucky (10),SEC,L,74,87,,2,3,L 2,Rupp Arena
+5,6,"Sat, Nov 24, 2018",2:00p,REG,,Warren Wilson,,W,116,76,,3,3,W 1,Winthrop Coliseum
+6,7,"Wed, Nov 28, 2018",7:00p,REG,@,Tennessee Tech,OVC,W,82,70,,4,3,W 2,Eblen Center
+7,8,"Tue, Dec 4, 2018",7:00p,REG,@,Davidson,A-10,L,81,99,,4,4,L 1,Belk Arena
+8,9,"Sun, Dec 16, 2018",2:00p,REG,,Hiwassee,,W,109,66,,5,4,W 1,Winthrop Coliseum
+9,10,"Thu, Dec 20, 2018",11:00a,REG,,Maryland-Eastern Shore,MEAC,W,88,74,,6,4,W 2,Winthrop Coliseum
+10,11,"Sat, Dec 22, 2018",4:00p,REG,@,Southern Illinois,MVC,W,79,71,,7,4,W 3,The SIU Arena
+11,12,"Sat, Dec 29, 2018",12:00p,REG,,Prairie View,SWAC,W,76,62,,8,4,W 4,Winthrop Coliseum
+12,13,"Tue, Jan 1, 2019",2:00p,REG,@,Florida State (9),ACC,L,76,87,,8,5,L 1,Donald L. Tucker Center
+13,14,"Sat, Jan 5, 2019",2:00p,REG,@,North Carolina-Asheville,Big South,W,80,65,,9,5,W 1,Kimmel Arena
+14,15,"Thu, Jan 10, 2019",7:00p,REG,@,Campbell,Big South,W,90,86,,10,5,W 2,John W. Pope Jr. Convocation Center
+15,16,"Sat, Jan 12, 2019",2:00p,REG,,High Point,Big South,W,80,63,,11,5,W 3,Winthrop Coliseum
+16,17,"Wed, Jan 16, 2019",7:00p,REG,,Longwood,Big South,L,61,75,,11,6,L 1,Winthrop Coliseum
+17,18,"Sat, Jan 19, 2019",4:30p,REG,@,South Carolina Upstate,Big South,W,82,72,,12,6,W 1,G.B. Hodge Center
+18,19,"Mon, Jan 21, 2019",2:00p,REG,,North Carolina-Asheville,Big South,W,66,45,,13,6,W 2,Winthrop Coliseum
+19,20,"Thu, Jan 24, 2019",7:00p,REG,,Gardner-Webb,Big South,W,97,88,,14,6,W 3,Winthrop Coliseum
+20,21,"Sat, Jan 26, 2019",4:00p,REG,@,Presbyterian,Big South,L,91,99,,14,7,L 1,Ross E.Templeton Center
+21,22,"Sat, Feb 2, 2019",2:00p,REG,,Radford,Big South,L,61,80,,14,8,L 2,Winthrop Coliseum
+22,23,"Thu, Feb 7, 2019",7:30p,REG,@,Charleston Southern,Big South,W,76,72,,15,8,W 1,CSU Fieldhouse
+23,24,"Sat, Feb 9, 2019",2:00p,REG,,Hampton,Big South,W,101,91,,16,8,W 2,Winthrop Coliseum
+24,25,"Wed, Feb 13, 2019",7:00p,REG,,Presbyterian,Big South,W,93,85,,17,8,W 3,Winthrop Coliseum
+25,26,"Sat, Feb 16, 2019",5:00p,REG,@,Gardner-Webb,Big South,L,60,64,,17,9,L 1,Paul Porter Arena
+26,27,"Thu, Feb 21, 2019",7:00p,REG,@,Radford,Big South,L,81,87,,17,10,L 2,Donald N. Dedmon Center
+27,28,"Sat, Feb 23, 2019",2:00p,REG,,Charleston Southern,Big South,W,80,78,2OT,18,10,W 1,Winthrop Coliseum
+28,29,"Thu, Feb 28, 2019",7:00p,REG,@,Hampton,Big South,L,75,90,,18,11,L 1,Hampton Convocation Center
+29,30,"Thu, Mar 7, 2019",2:00p,CTOURN,N,Charleston Southern,Big South,L,63,77,,18,12,L 2,John W. Pope Jr. Convocation Center

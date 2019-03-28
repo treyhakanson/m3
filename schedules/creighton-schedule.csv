@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:30p,REG,,Western Illinois,Summit,W,78,67,,1,0,W 1,CenturyLink Center
+1,2,"Sun, Nov 11, 2018",1:30p,REG,,East Tennessee State,Southern,W,75,69,,2,0,W 2,CenturyLink Center
+2,3,"Thu, Nov 15, 2018",7:00p,REG,,Ohio State,Big Ten,L,60,69,,2,1,L 1,CenturyLink Center
+3,4,"Mon, Nov 19, 2018",7:30p,REG,N,Boise State,MWC,W,94,82,,3,1,W 1,John Gray Gymnasium
+4,5,"Tue, Nov 20, 2018",7:30p,REG,N,Georgia State,Sun Belt,W,93,68,,4,1,W 2,John Gray Gymnasium
+5,6,"Wed, Nov 21, 2018",7:30p,REG,N,Clemson (16),ACC,W,87,82,,5,1,W 3,John Gray Gymnasium
+6,7,"Wed, Nov 28, 2018",8:30p,REG,,Montana,Big Sky,W,98,72,,6,1,W 4,CenturyLink Center
+7,8,"Sat, Dec 1, 2018",2:00p,REG,,Gonzaga (1),WCC,L,92,103,,6,2,L 1,CenturyLink Center
+8,9,"Sat, Dec 8, 2018",6:00p,REG,@,Nebraska (24),Big Ten,L,75,94,,6,3,L 2,Pinnacle Bank Arena
+9,10,"Fri, Dec 14, 2018",9:00p,REG,,Green Bay,Horizon,W,86,65,,7,3,W 1,CenturyLink Center
+10,11,"Tue, Dec 18, 2018",9:00p,REG,@,Oklahoma,Big 12,L,70,83,,7,4,L 1,Lloyd Noble Center
+11,12,"Thu, Dec 20, 2018",8:00p,REG,,Coe,,W,110,60,,8,4,W 1,CenturyLink Center
+12,13,"Thu, Dec 27, 2018",8:00p,REG,,Missouri-Kansas City,WAC,W,89,53,,9,4,W 2,CenturyLink Center
+13,14,"Mon, Dec 31, 2018",4:00p,REG,@,Providence,Big East,W,79,68,,10,4,W 3,Dunkin' Donuts Center
+14,15,"Sat, Jan 5, 2019",12:00p,REG,@,Butler,Big East,L,69,84,,10,5,L 1,Hinkle Fieldhouse
+15,16,"Wed, Jan 9, 2019",7:00p,REG,,Marquette (21),Big East,L,104,106,OT,10,6,L 2,CenturyLink Center
+16,17,"Sun, Jan 13, 2019",12:00p,REG,,Villanova,Big East,L,78,90,,10,7,L 3,CenturyLink Center
+17,18,"Wed, Jan 16, 2019",6:30p,REG,@,St. John's (NY),Big East,L,66,81,,10,8,L 4,Carnesecca Arena
+18,19,"Mon, Jan 21, 2019",8:30p,REG,@,Georgetown,Big East,W,91,87,,11,8,W 1,Capital One Arena
+19,20,"Fri, Jan 25, 2019",8:30p,REG,,Butler,Big East,W,75,61,,12,8,W 2,CenturyLink Center
+20,21,"Wed, Jan 30, 2019",8:30p,REG,,St. John's (NY),Big East,L,67,83,,12,9,L 1,CenturyLink Center
+21,22,"Sun, Feb 3, 2019",1:00p,REG,,Xavier,Big East,W,76,54,,13,9,W 1,CenturyLink Center
+22,23,"Wed, Feb 6, 2019",8:00p,REG,@,Villanova (14),Big East,L,59,66,OT,13,10,L 1,Finneran Pavilion
+23,24,"Sat, Feb 9, 2019",8:00p,REG,@,Seton Hall,Big East,L,58,63,,13,11,L 2,Prudential Center
+24,25,"Wed, Feb 13, 2019",8:30p,REG,@,Xavier,Big East,L,61,64,OT,13,12,L 3,Cintas Center
+25,26,"Sun, Feb 17, 2019",3:00p,REG,,Seton Hall,Big East,L,75,81,,13,13,L 4,CenturyLink Center
+26,27,"Wed, Feb 20, 2019",9:00p,REG,@,DePaul,Big East,W,79,67,,14,13,W 1,Wintrust Arena
+27,28,"Sat, Feb 23, 2019",2:30p,REG,,Georgetown,Big East,W,82,69,,15,13,W 2,CenturyLink Center
+28,29,"Sun, Mar 3, 2019",3:00p,REG,@,Marquette (10),Big East,W,66,60,,16,13,W 3,Fiserv Forum
+29,30,"Wed, Mar 6, 2019",8:00p,REG,,Providence,Big East,W,76,70,OT,17,13,W 4,CenturyLink Center
+30,31,"Sat, Mar 9, 2019",8:00p,REG,,DePaul,Big East,W,91,78,,18,13,W 5,CenturyLink Center
+31,32,"Thu, Mar 14, 2019",2:30p,CTOURN,N,Xavier,Big East,L,61,63,,18,14,L 1,Madison Square Garden (IV)
+32,33,"Tue, Mar 19, 2019",9:00p,NIT,,Loyola (IL),MVC,W,70,61,,19,14,W 1,CenturyLink Center
+33,34,"Fri, Mar 22, 2019",8:30p,NIT,,Memphis,AAC,W,79,67,,20,14,W 2,CenturyLink Center
+34,35,"Tue, Mar 26, 2019",9:00p,NIT,@,Texas Christian,Big 12,L,58,71,,20,15,L 1,Ed & Rae Schollmaier Arena

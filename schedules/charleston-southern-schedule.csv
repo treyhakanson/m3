@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:30p,REG,,Columbia International,,W,100,68,,1,0,W 1,CSU Fieldhouse
+1,2,"Fri, Nov 9, 2018",7:00p,REG,@,Florida,SEC,L,46,76,,1,1,L 1,Stephen C. O'Connell Center
+2,3,"Tue, Nov 13, 2018",7:30p,REG,,South Carolina State,MEAC,W,89,72,,2,1,W 1,CSU Fieldhouse
+3,4,"Fri, Nov 16, 2018",7:30p,REG,@,Middle Tennessee,CUSA,L,73,76,,2,2,L 1,Murphy Athletic Center
+4,5,"Mon, Nov 19, 2018",7:30p,REG,,Trinity Baptist,,W,98,49,,3,2,W 1,CSU Fieldhouse
+5,6,"Fri, Nov 23, 2018",3:30p,REG,N,Coppin State,MEAC,W,93,67,,4,2,W 2,Richardson Indoor Stadium
+6,7,"Tue, Nov 27, 2018",8:00p,REG,@,Marquette,Big East,L,55,76,,4,3,L 1,Fiserv Forum
+7,8,"Sat, Dec 1, 2018",5:30p,REG,,North Florida,A-Sun,L,70,76,,4,4,L 2,CSU Fieldhouse
+8,9,"Tue, Dec 11, 2018",7:00p,REG,@,Furman (23),Southern,L,69,77,,4,5,L 3,Timmons Arena
+9,10,"Sat, Dec 15, 2018",5:00p,REG,@,North Florida,A-Sun,L,61,68,,4,6,L 4,UNF Arena 
+10,11,"Tue, Dec 18, 2018",7:00p,REG,@,Clemson,ACC,L,51,78,,4,7,L 5,Littlejohn Coliseum
+11,12,"Fri, Dec 21, 2018",7:30p,REG,,Johnson & Wales (NC),,W,86,61,,5,7,W 1,CSU Fieldhouse
+12,13,"Sun, Dec 30, 2018",5:30p,REG,,Piedmont,,W,111,65,,6,7,W 2,CSU Fieldhouse
+13,14,"Sat, Jan 5, 2019",5:30p,REG,,High Point,Big South,L,50,51,,6,8,L 1,CSU Fieldhouse
+14,15,"Thu, Jan 10, 2019",7:00p,REG,@,Hampton,Big South,L,82,94,,6,9,L 2,Hampton Convocation Center
+15,16,"Sat, Jan 12, 2019",3:00p,REG,@,Longwood,Big South,W,101,91,,7,9,W 1,Willett Hall
+16,17,"Sat, Jan 19, 2019",5:30p,REG,,Campbell,Big South,L,72,73,,7,10,L 1,CSU Fieldhouse
+17,18,"Thu, Jan 24, 2019",7:00p,REG,@,Radford,Big South,L,78,86,,7,11,L 2,Donald N. Dedmon Center
+18,19,"Sat, Jan 26, 2019",5:30p,REG,,Gardner-Webb,Big South,W,74,60,,8,11,W 1,CSU Fieldhouse
+19,20,"Wed, Jan 30, 2019",7:30p,REG,,Presbyterian,Big South,W,85,84,,9,11,W 2,CSU Fieldhouse
+20,21,"Sat, Feb 2, 2019",4:30p,REG,@,South Carolina Upstate,Big South,W,90,71,,10,11,W 3,G.B. Hodge Center
+21,22,"Thu, Feb 7, 2019",7:30p,REG,,Winthrop,Big South,L,72,76,,10,12,L 1,CSU Fieldhouse
+22,23,"Sat, Feb 9, 2019",2:00p,REG,@,North Carolina-Asheville,Big South,W,85,75,,11,12,W 1,Kimmel Arena
+23,24,"Wed, Feb 13, 2019",7:00p,REG,@,Gardner-Webb,Big South,L,74,77,,11,13,L 1,Paul Porter Arena
+24,25,"Sat, Feb 16, 2019",5:30p,REG,,Radford,Big South,W,53,52,,12,13,W 1,CSU Fieldhouse
+25,26,"Thu, Feb 21, 2019",7:30p,REG,,South Carolina Upstate,Big South,W,92,60,,13,13,W 2,CSU Fieldhouse
+26,27,"Sat, Feb 23, 2019",2:00p,REG,@,Winthrop,Big South,L,78,80,2OT,13,14,L 1,Winthrop Coliseum
+27,28,"Wed, Feb 27, 2019",7:30p,REG,,North Carolina-Asheville,Big South,W,77,48,,14,14,W 1,CSU Fieldhouse
+28,29,"Sat, Mar 2, 2019",4:00p,REG,@,Presbyterian,Big South,W,72,65,,15,14,W 2,Ross E.Templeton Center
+29,30,"Tue, Mar 5, 2019",7:00p,CTOURN,,South Carolina Upstate,Big South,W,71,52,,16,14,W 3,CSU Fieldhouse
+30,31,"Thu, Mar 7, 2019",2:00p,CTOURN,N,Winthrop,Big South,W,77,63,,17,14,W 4,John W. Pope Jr. Convocation Center
+31,32,"Fri, Mar 8, 2019",6:00p,CTOURN,N,Radford,Big South,L,54,63,,17,15,L 1,John W. Pope Jr. Convocation Center
+32,33,"Thu, Mar 21, 2019",7:00p,CIT,,Florida Atlantic,CUSA,W,68,66,,18,15,W 1,CSU Fieldhouse
+33,34,"Tue, Mar 26, 2019",7:00p,CIT,@,Hampton,Big South,L,67,73,,18,16,L 1,Hampton Convocation Center

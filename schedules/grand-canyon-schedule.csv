@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,@,South Dakota State,Summit,L,74,79,,0,1,L 1,Frost Arena
+1,2,"Sat, Nov 10, 2018",9:00p,REG,,Delaware State,MEAC,W,89,47,,1,1,W 1,Grand Canyon University Arena
+2,3,"Mon, Nov 12, 2018",9:00p,REG,,Jacksonville,A-Sun,W,76,59,,2,1,W 2,Grand Canyon University Arena
+3,4,"Fri, Nov 16, 2018",9:00p,REG,,Arkansas State,Sun Belt,W,96,72,,3,1,W 3,Grand Canyon University Arena
+4,5,"Thu, Nov 22, 2018",9:00p,REG,N,Seton Hall,Big East,L,75,82,,3,2,L 1,Titan Gym
+5,6,"Fri, Nov 23, 2018",9:00p,REG,N,Utah,Pac-12,L,66,75,,3,3,L 2,Titan Gym
+6,7,"Sun, Nov 25, 2018",8:00p,REG,N,La Salle,A-10,W,82,70,,4,3,W 1,Titan Gym
+7,8,"Sat, Dec 1, 2018",9:00p,REG,,Boise State,MWC,W,69,67,,5,3,W 2,Grand Canyon University Arena
+8,9,"Sun, Dec 9, 2018",5:30p,REG,N,Nevada (6),MWC,L,66,74,,5,4,L 1,Talking Stick Resort Arena
+9,10,"Sat, Dec 15, 2018",6:00p,REG,@,Texas,Big 12,L,60,98,,5,5,L 2,Frank Erwin Center
+10,11,"Wed, Dec 19, 2018",8:30p,REG,@,Northern Iowa,MVC,W,73,62,,6,5,W 1,McLeod Center
+11,12,"Sat, Dec 22, 2018",9:00p,REG,,Mississippi Valley State,SWAC,W,85,64,,7,5,W 2,Grand Canyon University Arena
+12,13,"Sat, Dec 29, 2018",10:00p,REG,@,San Diego,WCC,L,58,61,,7,6,L 1,Jenny Craig Pavillion
+13,14,"Thu, Jan 3, 2019",8:00p,REG,,Utah Valley,WAC,W,71,60,,8,6,W 1,Grand Canyon University Arena
+14,15,"Sat, Jan 5, 2019",8:00p,REG,,Seattle,WAC,W,71,57,,9,6,W 2,Grand Canyon University Arena
+15,16,"Thu, Jan 10, 2019",9:00p,REG,@,New Mexico State,WAC,L,75,77,,9,7,L 1,Pan American Center
+16,17,"Sat, Jan 12, 2019",8:00p,REG,@,Texas-Rio Grande Valley,WAC,W,69,65,,10,7,W 1,UTRGV Fieldhouse
+17,18,"Thu, Jan 17, 2019",9:00p,REG,,Chicago State,WAC,W,80,46,,11,7,W 2,Grand Canyon University Arena
+18,19,"Sat, Jan 19, 2019",9:00p,REG,,Missouri-Kansas City,WAC,W,78,50,,12,7,W 3,Grand Canyon University Arena
+19,20,"Sat, Jan 26, 2019",10:00p,REG,@,California Baptist,WAC,W,90,73,,13,7,W 4,CBU Events Center
+20,21,"Sat, Feb 2, 2019",10:00p,REG,@,Cal State Bakersfield,WAC,W,72,59,,14,7,W 5,Icardo Center
+21,22,"Thu, Feb 7, 2019",9:00p,REG,,Texas-Rio Grande Valley,WAC,L,69,72,,14,8,L 1,Grand Canyon University Arena
+22,23,"Sat, Feb 9, 2019",9:00p,REG,,New Mexico State,WAC,L,64,67,,14,9,L 2,Grand Canyon University Arena
+23,24,"Thu, Feb 14, 2019",7:00p,REG,@,Missouri-Kansas City,WAC,L,75,87,OT,14,10,L 3,Swinney Recreation Center
+24,25,"Sat, Feb 16, 2019",3:05p,REG,@,Chicago State,WAC,W,90,59,,15,10,W 1,Emil and Patricia Jones Convocation Center
+25,26,"Thu, Feb 21, 2019",9:00p,REG,,California Baptist,WAC,W,91,58,,16,10,W 2,Grand Canyon University Arena
+26,27,"Wed, Feb 27, 2019",9:00p,REG,,Eastern New Mexico,,W,95,64,,17,10,W 3,Grand Canyon University Arena
+27,28,"Sat, Mar 2, 2019",9:00p,REG,,Cal State Bakersfield,WAC,W,73,69,,18,10,W 4,Grand Canyon University Arena
+28,29,"Thu, Mar 7, 2019",9:00p,REG,@,Utah Valley,WAC,L,70,82,,18,11,L 1,UCCU Center
+29,30,"Sat, Mar 9, 2019",4:00p,REG,@,Seattle,WAC,L,76,83,OT,18,12,L 2,Connolly Center
+30,31,"Thu, Mar 14, 2019",11:30p,CTOURN,N,Seattle,WAC,W,84,75,,19,12,W 1,Orleans Arena
+31,32,"Fri, Mar 15, 2019",11:30p,CTOURN,N,Utah Valley,WAC,W,78,74,,20,12,W 2,Orleans Arena
+32,33,"Sat, Mar 16, 2019",10:00p,CTOURN,N,New Mexico State,WAC,L,57,89,,20,13,L 1,Orleans Arena
+33,34,"Wed, Mar 20, 2019",7:00p,CBI,@,West Virginia,Big 12,L,63,77,,20,14,L 2,WVU Coliseum

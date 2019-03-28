@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,George Mason,A-10,W,72,71,,1,0,W 1,EagleBank Arena
+1,2,"Fri, Nov 9, 2018",8:00p,REG,,Rice,CUSA,W,92,76,,2,0,W 2,The Palestra
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Lafayette,Patriot,W,91,61,,3,0,W 3,The Palestra
+3,4,"Fri, Nov 16, 2018",5:30p,REG,N,Northern Iowa,MVC,W,78,71,,4,0,W 4,Virgin Islands Sport & Fitness Center 
+4,5,"Sun, Nov 18, 2018",7:30p,REG,N,Kansas State (12),Big 12,L,48,64,,4,1,L 1,Virgin Islands Sport & Fitness Center 
+5,6,"Mon, Nov 19, 2018",5:30p,REG,N,Oregon State,Pac-12,L,58,74,,4,2,L 2,Virgin Islands Sport & Fitness Center 
+6,7,"Sat, Nov 24, 2018",2:00p,REG,,Stockton,,W,112,63,,5,2,W 1,The Palestra
+7,8,"Tue, Nov 27, 2018",7:30p,REG,@,Delaware State,MEAC,W,76,48,,6,2,W 2,Memorial Hall
+8,9,"Tue, Dec 4, 2018",7:00p,REG,,Miami (FL),ACC,W,89,75,,7,2,W 3,The Palestra
+9,10,"Sat, Dec 8, 2018",4:00p,REG,@,La Salle,A-10,W,83,65,,8,2,W 4,Tom Gola Arena
+10,11,"Tue, Dec 11, 2018",7:00p,REG,,Villanova (17),Big East,W,78,75,,9,2,W 5,The Palestra
+11,12,"Sat, Dec 22, 2018",4:00p,REG,@,New Mexico,MWC,W,75,65,,10,2,W 6,The Pit
+12,13,"Sat, Dec 29, 2018",2:00p,REG,@,Toledo,MAC,L,45,77,,10,3,L 1,John F. Savage Hall
+13,14,"Mon, Dec 31, 2018",1:00p,REG,,Monmouth,MAAC,L,74,76,OT,10,4,L 2,The Palestra
+14,15,"Sat, Jan 5, 2019",5:00p,REG,@,Princeton,Ivy,L,65,68,OT,10,5,L 3,Jadwin Gymnasium
+15,16,"Sat, Jan 12, 2019",2:00p,REG,,Princeton,Ivy,L,53,62,,10,6,L 4,The Palestra
+16,17,"Sat, Jan 19, 2019",5:00p,REG,@,Temple,AAC,W,77,70,,11,6,W 1,Liacouras Center
+17,18,"Sat, Jan 26, 2019",7:00p,REG,,Saint Joseph's,A-10,W,78,70,,12,6,W 2,The Palestra
+18,19,"Fri, Feb 1, 2019",5:00p,REG,@,Cornell,Ivy,L,71,80,,12,7,L 1,Newman Arena
+19,20,"Sat, Feb 2, 2019",8:00p,REG,@,Columbia,Ivy,W,72,70,,13,7,W 1,Levien Gym
+20,21,"Fri, Feb 8, 2019",7:00p,REG,@,Brown,Ivy,W,92,82,,14,7,W 2,Pizzitola Sports Center
+21,22,"Sat, Feb 9, 2019",7:00p,REG,@,Yale,Ivy,L,65,78,,14,8,L 1,John J. Lee Ampitheater
+22,23,"Fri, Feb 15, 2019",7:00p,REG,,Dartmouth,Ivy,W,82,79,OT,15,8,W 1,The Palestra
+23,24,"Sat, Feb 16, 2019",7:00p,REG,,Harvard,Ivy,L,68,75,OT,15,9,L 1,The Palestra
+24,25,"Fri, Feb 22, 2019",8:00p,REG,,Columbia,Ivy,L,77,79,OT,15,10,L 2,The Palestra
+25,26,"Sat, Feb 23, 2019",7:00p,REG,,Cornell,Ivy,W,68,50,,16,10,W 1,The Palestra
+26,27,"Fri, Mar 1, 2019",7:00p,REG,@,Harvard,Ivy,L,53,59,,16,11,L 1,Lavietes Pavilion
+27,28,"Sat, Mar 2, 2019",7:00p,REG,@,Dartmouth,Ivy,W,65,51,,17,11,W 1,Leede Arena
+28,29,"Fri, Mar 8, 2019",7:00p,REG,,Yale,Ivy,W,77,66,,18,11,W 2,The Palestra
+29,30,"Sat, Mar 9, 2019",6:00p,REG,,Brown,Ivy,W,58,51,,19,11,W 3,The Palestra
+30,31,"Sat, Mar 16, 2019",12:30p,CTOURN,N,Harvard,Ivy,L,58,66,,19,12,L 1,John J. Lee Ampitheater

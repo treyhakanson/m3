@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:45p,REG,@,East Carolina,AAC,L,56,81,,0,1,L 1,Williams Arena at Minges Coliseum
+1,2,"Sat, Nov 10, 2018",9:00p,REG,@,Grand Canyon,WAC,L,47,89,,0,2,L 2,Grand Canyon University Arena
+2,3,"Tue, Nov 13, 2018",7:00p,REG,@,Loyola (MD),Patriot,L,62,91,,0,3,L 3,Reitz Arena
+3,4,"Fri, Nov 16, 2018",7:00p,REG,@,Longwood,Big South,L,73,89,,0,4,L 4,Willett Hall
+4,5,"Mon, Nov 19, 2018",7:00p,REG,,St. Elizabeth,,W,80,47,,1,4,W 1,Memorial Hall
+5,6,"Sat, Nov 24, 2018",10:30p,REG,@,Washington State,Pac-12,L,52,80,,1,5,L 1,Beasley Coliseum
+6,7,"Tue, Nov 27, 2018",7:30p,REG,,Pennsylvania,Ivy,L,48,76,,1,6,L 2,Memorial Hall
+7,8,"Sat, Dec 1, 2018",4:00p,REG,@,St. Bonaventure,A-10,L,61,90,,1,7,L 3,Reilly Center
+8,9,"Mon, Dec 3, 2018",7:30p,REG,,Cairn,,W,102,66,,2,7,W 1,Memorial Hall
+9,10,"Sat, Dec 8, 2018",5:30p,REG,,Jacksonville State,OVC,L,54,81,,2,8,L 1,Memorial Hall
+10,11,"Wed, Dec 19, 2018",7:00p,REG,@,Delaware,CAA,W,73,71,,3,8,W 1,Bob Carpenter Center
+11,12,"Sat, Dec 22, 2018",4:00p,REG,@,Weber State,Big Sky,L,69,83,,3,9,L 1,Dee Events Center
+12,13,"Sat, Dec 29, 2018",2:00p,REG,@,Ball State,MAC,L,57,116,,3,10,L 2,Worthen Arena
+13,14,"Sat, Jan 5, 2019",6:30p,REG,@,Norfolk State,MEAC,L,63,77,,3,11,L 3,Echols Memorial Hall
+14,15,"Mon, Jan 7, 2019",7:30p,REG,,Coppin State,MEAC,L,60,64,,3,12,L 4,Memorial Hall
+15,16,"Sat, Jan 12, 2019",4:00p,REG,,North Carolina A&T,MEAC,L,70,93,,3,13,L 5,Memorial Hall
+16,17,"Mon, Jan 14, 2019",7:30p,REG,,North Carolina Central,MEAC,L,70,71,,3,14,L 6,Memorial Hall
+17,18,"Sat, Jan 19, 2019",4:00p,REG,@,Bethune-Cookman,MEAC,L,49,69,,3,15,L 7,Moore Gymnasium
+18,19,"Mon, Jan 21, 2019",4:00p,REG,@,Florida A&M,MEAC,L,47,60,,3,16,L 8,Al Lawson Center
+19,20,"Sat, Jan 26, 2019",4:00p,REG,@,Howard,MEAC,L,74,80,,3,17,L 9,Burr Gymnasium
+20,21,"Sat, Feb 2, 2019",4:00p,REG,,Savannah State,MEAC,L,73,76,,3,18,L 10,Memorial Hall
+21,22,"Mon, Feb 4, 2019",7:30p,REG,,South Carolina State,MEAC,W,70,68,,4,18,W 1,Memorial Hall
+22,23,"Sat, Feb 9, 2019",4:00p,REG,@,North Carolina A&T,MEAC,L,52,82,,4,19,L 1,Ellis Corbett Sports Center
+23,24,"Mon, Feb 11, 2019",7:30p,REG,@,North Carolina Central,MEAC,L,52,87,,4,20,L 2,McLendon-McDougald Gym
+24,25,"Sat, Feb 23, 2019",4:00p,REG,,Maryland-Eastern Shore,MEAC,L,56,62,,4,21,L 3,Memorial Hall
+25,26,"Mon, Feb 25, 2019",7:30p,REG,@,Coppin State,MEAC,W,70,60,,5,21,W 1,Physical Education Complex
+26,27,"Sat, Mar 2, 2019",4:00p,REG,,Morgan State,MEAC,L,58,76,,5,22,L 1,Memorial Hall
+27,28,"Mon, Mar 4, 2019",7:30p,REG,,Norfolk State,MEAC,L,66,74,,5,23,L 2,Memorial Hall
+28,29,"Thu, Mar 7, 2019",7:30p,REG,@,Maryland-Eastern Shore,MEAC,L,64,70,,5,24,L 3,Hytche Athletic Center
+29,30,"Mon, Mar 11, 2019",6:00p,CTOURN,N,Savannah State,MEAC,W,71,67,,6,24,W 1,Norfolk Scope
+30,31,"Thu, Mar 14, 2019",6:00p,CTOURN,N,North Carolina Central,MEAC,L,57,75,,6,25,L 1,Norfolk Scope

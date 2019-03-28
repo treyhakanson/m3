@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",11:00p,REG,@,Oregon (14),Pac-12,L,57,84,,0,1,L 1,Matthew Knight Arena
+1,2,"Sat, Nov 10, 2018",10:05p,REG,,UC-Riverside,Big West,W,71,64,,1,1,W 1,Peter W. Stott Center
+2,3,"Sat, Nov 17, 2018",10:05p,REG,,Willamette,,W,125,61,,2,1,W 2,Peter W. Stott Center
+3,4,"Fri, Nov 23, 2018",7:00p,REG,N,UC-Santa Barbara,Big West,L,69,76,,2,2,L 1,CenturyLink Arena
+4,5,"Sat, Nov 24, 2018",7:00p,REG,N,Northwest Nazarene,,W,91,75,,3,2,W 1,CenturyLink Arena
+5,6,"Wed, Nov 28, 2018",10:00p,REG,@,Stanford,Pac-12,L,67,79,,3,3,L 1,Maples Pavilion
+6,7,"Sat, Dec 1, 2018",10:05p,REG,,Portland Bible College,,W,123,40,,4,3,W 1,Peter W. Stott Center
+7,8,"Wed, Dec 5, 2018",10:05p,REG,,Portland,WCC,W,87,78,,5,3,W 2,Pamplin Sports Center
+8,9,"Wed, Dec 12, 2018",9:00p,REG,@,Brigham Young,WCC,L,66,85,,5,4,L 1,Marriott Center
+9,10,"Sat, Dec 15, 2018",10:05p,REG,,Loyola Marymount,WCC,L,58,85,,5,5,L 2,Peter W. Stott Center
+10,11,"Thu, Dec 20, 2018",10:05p,REG,,Cal State Bakersfield,WAC,L,71,76,,5,6,L 3,Peter W. Stott Center
+11,12,"Mon, Dec 31, 2018",5:05p,REG,,Northern Colorado,Big Sky,L,60,73,,5,7,L 4,Peter W. Stott Center
+12,13,"Thu, Jan 3, 2019",9:00p,REG,@,Montana State,Big Sky,L,88,98,,5,8,L 5,Max Worthington Arena
+13,14,"Sat, Jan 5, 2019",9:00p,REG,@,Montana,Big Sky,W,77,74,OT,6,8,W 1,Adams Center/Dahlberg Arena
+14,15,"Sat, Jan 12, 2019",10:05p,REG,,Weber State,Big Sky,L,88,95,OT,6,9,L 1,Pamplin Sports Center
+15,16,"Thu, Jan 17, 2019",8:30p,REG,@,Southern Utah,Big Sky,L,69,83,,6,10,L 2,Centrum
+16,17,"Sat, Jan 19, 2019",4:00p,REG,@,Northern Arizona,Big Sky,L,75,82,,6,11,L 3,Walkup Skydome
+17,18,"Thu, Jan 24, 2019",10:05p,REG,,Eastern Washington,Big Sky,W,78,65,,7,11,W 1,Pamplin Sports Center
+18,19,"Sat, Jan 26, 2019",10:05p,REG,,Idaho,Big Sky,W,69,53,,8,11,W 2,Peter W. Stott Center
+19,20,"Thu, Jan 31, 2019",9:00p,REG,@,Weber State,Big Sky,W,76,75,,9,11,W 3,Dee Events Center
+20,21,"Sat, Feb 2, 2019",9:05p,REG,@,Idaho State,Big Sky,L,67,69,,9,12,L 1,Holt Arena
+21,22,"Thu, Feb 7, 2019",9:00p,REG,@,Northern Colorado,Big Sky,L,62,80,,9,13,L 2,Bank of Colorado Arena
+22,23,"Mon, Feb 11, 2019",10:35p,REG,@,Sacramento State,Big Sky,L,67,78,,9,14,L 3,The Nest
+23,24,"Thu, Feb 14, 2019",10:05p,REG,,Northern Arizona,Big Sky,W,103,94,,10,14,W 1,Peter W. Stott Center
+24,25,"Sat, Feb 16, 2019",10:05p,REG,,Southern Utah,Big Sky,W,78,69,,11,14,W 2,Peter W. Stott Center
+25,26,"Thu, Feb 21, 2019",10:05p,REG,,Idaho State,Big Sky,W,99,93,,12,14,W 3,Peter W. Stott Center
+26,27,"Sat, Feb 23, 2019",10:05p,REG,,Sacramento State,Big Sky,W,65,57,,13,14,W 4,Peter W. Stott Center
+27,28,"Thu, Feb 28, 2019",10:00p,REG,@,Idaho,Big Sky,W,67,65,,14,14,W 5,Cowan Spectrum
+28,29,"Sat, Mar 2, 2019",5:05p,REG,@,Eastern Washington,Big Sky,L,66,68,,14,15,L 1,Reese Court
+29,30,"Thu, Mar 7, 2019",10:05p,REG,,Montana,Big Sky,W,81,69,,15,15,W 1,Peter W. Stott Center
+30,31,"Sat, Mar 9, 2019",10:05p,REG,,Montana State,Big Sky,W,84,80,,16,15,W 2,Peter W. Stott Center
+31,32,"Thu, Mar 14, 2019",4:30p,CTOURN,N,Weber State,Big Sky,L,71,81,,16,16,L 1,CenturyLink Arena

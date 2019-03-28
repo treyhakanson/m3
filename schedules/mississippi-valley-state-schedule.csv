@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,@,Nebraska,Big Ten,L,37,106,,0,1,L 1,Pinnacle Bank Arena
+1,2,"Fri, Nov 9, 2018",9:00p,REG,@,Texas Tech,Big 12,L,52,84,,0,2,L 2,United Supermarkets Arena
+2,3,"Tue, Nov 13, 2018",9:00p,REG,@,Utah State,MWC,L,59,94,,0,3,L 3,Dee Glen Smith Spectrum
+3,4,"Thu, Nov 15, 2018",8:00p,REG,@,Utah,Pac-12,L,63,98,,0,4,L 4,Jon M. Huntsman Center
+4,5,"Sat, Nov 17, 2018",7:00p,REG,@,Robert Morris,NEC,L,59,68,,0,5,L 5,North Athletic Complex
+5,6,"Tue, Nov 20, 2018",7:00p,REG,,Southeastern Louisiana,Southland,W,69,59,,1,5,W 1,Harrison HPER Complex
+6,7,"Sun, Nov 25, 2018",2:00p,REG,@,Illinois,Big Ten,L,67,86,,1,6,L 1,State Farm Center
+7,8,"Wed, Nov 28, 2018",8:00p,REG,,Rust,,W,102,62,,2,6,W 1,Harrison HPER Complex
+8,9,"Sat, Dec 1, 2018",10:00p,REG,@,California Baptist,WAC,L,71,107,,2,7,L 1,CBU Events Center
+9,10,"Tue, Dec 4, 2018",8:00p,REG,,Southeast Missouri State,OVC,L,57,77,,2,8,L 2,Harrison HPER Complex
+10,11,"Tue, Dec 11, 2018",7:30p,REG,@,Louisiana Tech,CUSA,L,80,96,,2,9,L 3,Thomas Assembly Center
+11,12,"Thu, Dec 13, 2018",10:00p,REG,@,Santa Clara,WCC,L,54,82,,2,10,L 4,Leavey Center
+12,13,"Sun, Dec 16, 2018",10:00p,REG,@,Hawaii,Big West,L,51,76,,2,11,L 5,Stan Sheriff Center
+13,14,"Sat, Dec 22, 2018",9:00p,REG,@,Grand Canyon,WAC,L,64,85,,2,12,L 6,Grand Canyon University Arena
+14,15,"Sat, Jan 5, 2019",8:30p,REG,@,Arkansas-Pine Bluff,SWAC,L,52,64,,2,13,L 7,H.O. Clemmons Arena
+15,16,"Sat, Jan 12, 2019",5:30p,REG,,Alabama A&M,SWAC,W,72,63,,3,13,W 1,Harrison HPER Complex
+16,17,"Mon, Jan 14, 2019",8:30p,REG,,Alabama State,SWAC,L,79,81,OT,3,14,L 1,Harrison HPER Complex
+17,18,"Sat, Jan 19, 2019",6:30p,REG,@,Alcorn State,SWAC,L,57,63,,3,15,L 2,Davey L. Whitney Complex
+18,19,"Mon, Jan 21, 2019",8:30p,REG,@,Southern,SWAC,L,56,80,,3,16,L 3,F. G. Clark Activity Center
+19,20,"Sat, Jan 26, 2019",5:30p,REG,,Prairie View,SWAC,L,78,89,,3,17,L 4,Harrison HPER Complex
+20,21,"Mon, Jan 28, 2019",8:30p,REG,,Texas Southern,SWAC,L,62,65,,3,18,L 5,Harrison HPER Complex
+21,22,"Sat, Feb 2, 2019",5:30p,REG,@,Jackson State,SWAC,L,57,61,,3,19,L 6,Lee E. Williams Athletics and Assembly Center
+22,23,"Mon, Feb 4, 2019",9:00p,REG,@,Grambling,SWAC,L,57,79,,3,20,L 7,Assembly Center
+23,24,"Sat, Feb 9, 2019",7:00p,REG,@,Alabama A&M,SWAC,L,63,78,,3,21,L 8,Elmore Health Science Building 
+24,25,"Mon, Feb 11, 2019",8:30p,REG,@,Alabama State,SWAC,L,59,82,,3,22,L 9,Dunn-Oliver Acadome
+25,26,"Sat, Feb 16, 2019",5:30p,REG,,Alcorn State,SWAC,W,76,68,,4,22,W 1,Harrison HPER Complex
+26,27,"Mon, Feb 18, 2019",8:30p,REG,,Southern,SWAC,W,70,59,,5,22,W 2,Harrison HPER Complex
+27,28,"Sat, Feb 23, 2019",6:00p,REG,@,Prairie View,SWAC,L,63,69,,5,23,L 1,William J. Nicks Building
+28,29,"Mon, Feb 25, 2019",8:30p,REG,@,Texas Southern,SWAC,L,80,92,,5,24,L 2,Health & Physical Education Arena
+29,30,"Sat, Mar 2, 2019",5:30p,REG,,Jackson State,SWAC,W,60,57,,6,24,W 1,Harrison HPER Complex
+30,31,"Mon, Mar 4, 2019",8:30p,REG,,Grambling,SWAC,L,75,77,,6,25,L 1,Harrison HPER Complex
+31,32,"Sat, Mar 9, 2019",5:30p,REG,,Arkansas-Pine Bluff,SWAC,L,57,91,,6,26,L 2,Harrison HPER Complex

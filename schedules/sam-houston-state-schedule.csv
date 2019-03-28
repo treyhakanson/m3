@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:30p,REG,,East Texas Baptist,,W,85,64,,1,0,W 1,Johnson Coliseum
+1,2,"Thu, Nov 8, 2018",8:00p,REG,,Southwestern,,W,94,56,,2,0,W 2,Johnson Coliseum
+2,3,"Sun, Nov 11, 2018",5:00p,REG,@,Louisiana Tech,CUSA,L,69,76,,2,1,L 1,Thomas Assembly Center
+3,4,"Wed, Nov 14, 2018",7:00p,REG,@,Clemson (19),ACC,L,59,74,,2,2,L 2,Littlejohn Coliseum
+4,5,"Fri, Nov 16, 2018",7:00p,REG,@,Georgia,SEC,L,64,75,,2,3,L 3,Stegeman Coliseum
+5,6,"Mon, Nov 19, 2018",4:00p,REG,N,Jackson State,SWAC,W,75,60,,3,3,W 1,Freedom Hall Civic Center
+6,7,"Tue, Nov 20, 2018",7:00p,REG,@,East Tennessee State,Southern,L,63,77,,3,4,L 1,Freedom Hall Civic Center
+7,8,"Wed, Nov 28, 2018",7:30p,REG,,Central Michigan,MAC,L,65,81,,3,5,L 2,Johnson Coliseum
+8,9,"Sat, Dec 1, 2018",4:00p,REG,@,Little Rock,Sun Belt,L,52,79,,3,6,L 3,Jack Stephens Center
+9,10,"Sat, Dec 8, 2018",4:00p,REG,@,Colorado State,MWC,L,65,71,,3,7,L 4,Moby Arena
+10,11,"Tue, Dec 18, 2018",7:30p,REG,,Alabama State,SWAC,W,78,57,,4,7,W 1,Johnson Coliseum
+11,12,"Sat, Dec 22, 2018",4:00p,REG,@,Utah Valley,WAC,L,79,85,,4,8,L 1,UCCU Center
+12,13,"Mon, Dec 31, 2018",3:00p,REG,,Texas Lutheran,,W,84,54,,5,8,W 1,Johnson Coliseum
+13,14,"Sat, Jan 5, 2019",6:30p,REG,,Abilene Christian,Southland,W,71,68,,6,8,W 2,Johnson Coliseum
+14,15,"Wed, Jan 9, 2019",8:00p,REG,@,Central Arkansas,Southland,W,78,69,,7,8,W 3,Jeff Farris Center
+15,16,"Sat, Jan 12, 2019",6:30p,REG,,Incarnate Word,Southland,W,66,52,,8,8,W 4,Johnson Coliseum
+16,17,"Wed, Jan 16, 2019",7:30p,REG,,Texas A&M-Corpus Christi,Southland,W,72,50,,9,8,W 5,Johnson Coliseum
+17,18,"Sat, Jan 19, 2019",8:00p,REG,@,Houston Baptist,Southland,W,71,65,,10,8,W 6,Frank and Lucille Sharp Gymnasium
+18,19,"Wed, Jan 23, 2019",7:30p,REG,@,Northwestern State,Southland,W,78,64,,11,8,W 7,Prather Coliseum
+19,20,"Sat, Jan 26, 2019",6:30p,REG,,Lamar,Southland,W,69,59,,12,8,W 8,Johnson Coliseum
+20,21,"Wed, Jan 30, 2019",8:00p,REG,@,Southeastern Louisiana,Southland,W,62,52,,13,8,W 9,University Center
+21,22,"Sat, Feb 2, 2019",8:00p,REG,,Stephen F. Austin,Southland,W,94,72,,14,8,W 10,Johnson Coliseum
+22,23,"Wed, Feb 6, 2019",7:30p,REG,,McNeese State,Southland,W,77,62,,15,8,W 11,Johnson Coliseum
+23,24,"Sat, Feb 9, 2019",7:00p,REG,@,Abilene Christian,Southland,W,90,85,2OT,16,8,W 12,Moody Coliseum 
+24,25,"Wed, Feb 13, 2019",8:00p,REG,@,Texas A&M-Corpus Christi,Southland,W,70,69,,17,8,W 13,American Bank Center
+25,26,"Sat, Feb 16, 2019",5:30p,REG,@,Lamar,Southland,L,72,75,,17,9,L 1,Montagne Center
+26,27,"Wed, Feb 20, 2019",7:30p,REG,,Nicholls State,Southland,W,84,74,OT,18,9,W 1,Johnson Coliseum
+27,28,"Sat, Feb 23, 2019",8:00p,REG,,Houston Baptist,Southland,W,119,113,2OT,19,9,W 2,Johnson Coliseum
+28,29,"Wed, Feb 27, 2019",8:00p,REG,@,New Orleans,Southland,W,71,60,,20,9,W 3,Kiefer Lakefront Arena
+29,30,"Wed, Mar 6, 2019",7:30p,REG,,Central Arkansas,Southland,L,87,91,,20,10,L 1,Johnson Coliseum
+30,31,"Sat, Mar 9, 2019",5:30p,REG,@,Stephen F. Austin,Southland,W,68,57,,21,10,W 1,William Johnson Coliseum
+31,32,"Fri, Mar 15, 2019",6:00p,CTOURN,N,New Orleans,Southland,L,76,79,,21,11,L 1,Leonard E. Merrell Center
+32,33,"Wed, Mar 20, 2019",9:00p,NIT,@,Texas Christian,Big 12,L,69,82,,21,12,L 2,Ed & Rae Schollmaier Arena

@@ -1,0 +1,37 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:30p,REG,@,North Carolina A&T,MEAC,W,74,66,,1,0,W 1,Ellis Corbett Sports Center
+1,2,"Fri, Nov 9, 2018",8:00p,REG,@,Louisiana State (23),SEC,L,91,97,,1,1,L 1,Maravich Assembly Center
+2,3,"Tue, Nov 13, 2018",7:00p,REG,@,North Carolina-Wilmington,CAA,W,82,61,,2,1,W 1,Trask Coliseum
+3,4,"Fri, Nov 16, 2018",7:00p,REG,,Johnson & Wales (NC),,W,105,57,,3,1,W 2,Greensboro Coliseum
+4,5,"Mon, Nov 19, 2018",7:00p,REG,,Prairie View,SWAC,W,74,66,,4,1,W 3,Greensboro Coliseum
+5,6,"Fri, Nov 23, 2018",7:00p,REG,@,Delaware,CAA,W,84,65,,5,1,W 4,Bob Carpenter Center
+6,7,"Sat, Nov 24, 2018",5:00p,REG,N,Louisiana Tech,CUSA,W,80,73,,6,1,W 5,Bob Carpenter Center
+7,8,"Tue, Nov 27, 2018",7:00p,REG,,Greensboro,,W,111,33,,7,1,W 6,Greensboro Coliseum
+8,9,"Sat, Dec 1, 2018",1:00p,REG,@,Kentucky (10),SEC,L,61,78,,7,2,L 1,Rupp Arena
+9,10,"Fri, Dec 7, 2018",7:00p,REG,@,Elon,CAA,W,75,74,,8,2,W 1,Schar Center
+10,11,"Wed, Dec 12, 2018",7:00p,REG,,Coppin State,MEAC,W,77,54,,9,2,W 2,Greensboro Coliseum
+11,12,"Sat, Dec 15, 2018",5:00p,REG,,North Alabama,A-Sun,W,53,48,,10,2,W 3,Fleming Gymnasium
+12,13,"Tue, Dec 18, 2018",7:00p,REG,,Radford,Big South,W,65,58,,11,2,W 4,Greensboro Coliseum
+13,14,"Sat, Dec 22, 2018",3:00p,REG,@,Samford,Southern,W,83,75,,12,2,W 5,Pete Hanna Center
+14,15,"Sat, Dec 29, 2018",5:00p,REG,,Chattanooga,Southern,W,85,72,,13,2,W 6,Greensboro Coliseum
+15,16,"Sat, Jan 5, 2019",1:00p,REG,@,Virginia Military Institute,Southern,W,71,68,,14,2,W 7,Cameron Hall
+16,17,"Thu, Jan 10, 2019",7:00p,REG,,Wofford,Southern,L,43,72,,14,3,L 1,Greensboro Coliseum
+17,18,"Sat, Jan 12, 2019",5:00p,REG,,Furman,Southern,W,89,79,,15,3,W 1,Greensboro Coliseum
+18,19,"Thu, Jan 17, 2019",7:30p,REG,@,Western Carolina,Southern,W,69,60,,16,3,W 2,Ramsey Center
+19,20,"Sat, Jan 19, 2019",4:00p,REG,@,East Tennessee State,Southern,W,75,68,,17,3,W 3,Freedom Hall Civic Center
+20,21,"Thu, Jan 24, 2019",7:00p,REG,,Citadel,Southern,W,83,60,,18,3,W 4,Greensboro Coliseum
+21,22,"Sat, Jan 26, 2019",5:00p,REG,,Mercer,Southern,W,88,81,,19,3,W 5,Greensboro Coliseum
+22,23,"Thu, Jan 31, 2019",7:00p,REG,,Virginia Military Institute,Southern,W,93,66,,20,3,W 6,Greensboro Coliseum
+23,24,"Thu, Feb 7, 2019",7:00p,REG,,Samford,Southern,W,75,67,,21,3,W 7,Greensboro Coliseum
+24,25,"Sat, Feb 9, 2019",7:00p,REG,@,Chattanooga,Southern,W,78,63,,22,3,W 8,The McKenzie Arena
+25,26,"Thu, Feb 14, 2019",7:30p,REG,@,Furman,Southern,L,57,67,,22,4,L 1,Timmons Arena
+26,27,"Sat, Feb 16, 2019",7:00p,REG,@,Wofford,Southern,L,50,80,,22,5,L 2,Richardson Indoor Stadium
+27,28,"Thu, Feb 21, 2019",7:00p,REG,,Western Carolina,Southern,W,79,76,OT,23,5,W 1,Greensboro Coliseum
+28,29,"Sun, Feb 24, 2019",3:00p,REG,,East Tennessee State,Southern,W,60,59,,24,5,W 2,Greensboro Coliseum
+29,30,"Thu, Feb 28, 2019",7:00p,REG,@,Citadel,Southern,W,100,96,,25,5,W 3,McAlister Field House
+30,31,"Sat, Mar 2, 2019",4:30p,REG,@,Mercer,Southern,W,74,47,,26,5,W 4,Hawkins Arena
+31,32,"Sat, Mar 9, 2019",6:00p,CTOURN,N,Samford,Southern,W,77,70,,27,5,W 5,U.S. Cellular Center
+32,33,"Sun, Mar 10, 2019",6:30p,CTOURN,N,Furman,Southern,W,66,62,,28,5,W 6,U.S. Cellular Center
+33,34,"Mon, Mar 11, 2019",7:00p,CTOURN,N,Wofford (20),Southern,L,58,70,,28,6,L 1,U.S. Cellular Center
+34,35,"Tue, Mar 19, 2019",7:00p,NIT,,Campbell,Big South,W,84,69,,29,6,W 1,Greensboro Coliseum
+35,36,"Sat, Mar 23, 2019",2:00p,NIT,,Lipscomb,A-Sun,L,69,86,,29,7,L 1,Greensboro Coliseum

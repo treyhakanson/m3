@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Citadel,Southern,W,100,80,,1,0,W 1,Littlejohn Coliseum
+1,2,"Fri, Nov 9, 2018",7:00p,REG,,North Carolina Central,MEAC,W,71,51,,2,0,W 2,Littlejohn Coliseum
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,Sam Houston State,Southland,W,74,59,,3,0,W 3,Littlejohn Coliseum
+3,4,"Mon, Nov 19, 2018",11:00a,REG,N,Akron,MAC,W,72,69,,4,0,W 4,John Gray Gymnasium
+4,5,"Tue, Nov 20, 2018",1:30p,REG,N,Georgia,SEC,W,64,49,,5,0,W 5,John Gray Gymnasium
+5,6,"Wed, Nov 21, 2018",7:30p,REG,N,Creighton,Big East,L,82,87,,5,1,L 1,John Gray Gymnasium
+6,7,"Mon, Nov 26, 2018",7:00p,REG,,Nebraska,Big Ten,L,66,68,,5,2,L 2,Littlejohn Coliseum
+7,8,"Tue, Dec 4, 2018",7:00p,REG,,Saint Peter's,MAAC,W,65,60,,6,2,W 1,Littlejohn Coliseum
+8,9,"Sat, Dec 8, 2018",4:00p,REG,N,Mississippi State (22),SEC,L,71,82,,6,3,L 1,Prudential Center
+9,10,"Sat, Dec 15, 2018",3:00p,REG,,Radford,Big South,W,74,66,,7,3,W 1,Littlejohn Coliseum
+10,11,"Tue, Dec 18, 2018",7:00p,REG,,Charleston Southern,Big South,W,78,51,,8,3,W 2,Littlejohn Coliseum
+11,12,"Sat, Dec 22, 2018",2:00p,REG,@,South Carolina,SEC,W,78,68,,9,3,W 3,The Colonial Life Arena
+12,13,"Sun, Dec 30, 2018",3:00p,REG,,Lipscomb,A-Sun,W,84,67,,10,3,W 4,Littlejohn Coliseum
+13,14,"Sat, Jan 5, 2019",8:00p,REG,@,Duke (1),ACC,L,68,87,,10,4,L 1,Cameron Indoor Stadium
+14,15,"Wed, Jan 9, 2019",8:00p,REG,@,Syracuse,ACC,L,53,61,,10,5,L 2,Carrier Dome
+15,16,"Sat, Jan 12, 2019",12:00p,REG,,Virginia (4),ACC,L,43,63,,10,6,L 3,Littlejohn Coliseum
+16,17,"Wed, Jan 16, 2019",9:00p,REG,,Georgia Tech,ACC,W,72,60,,11,6,W 1,Littlejohn Coliseum
+17,18,"Tue, Jan 22, 2019",7:00p,REG,@,Florida State,ACC,L,68,77,,11,7,L 1,Donald L. Tucker Center
+18,19,"Sat, Jan 26, 2019",2:00p,REG,@,North Carolina State (21),ACC,L,67,69,,11,8,L 2,PNC Arena
+19,20,"Tue, Jan 29, 2019",9:00p,REG,,Pittsburgh,ACC,W,82,69,,12,8,W 1,Littlejohn Coliseum
+20,21,"Sun, Feb 3, 2019",12:00p,REG,,Wake Forest,ACC,W,64,37,,13,8,W 2,Littlejohn Coliseum
+21,22,"Wed, Feb 6, 2019",7:00p,REG,@,Georgia Tech,ACC,W,65,42,,14,8,W 3,McCamish Pavilion
+22,23,"Sat, Feb 9, 2019",12:00p,REG,,Virginia Tech (11),ACC,W,59,51,,15,8,W 4,Littlejohn Coliseum
+23,24,"Wed, Feb 13, 2019",7:00p,REG,@,Miami (FL),ACC,L,64,65,,15,9,L 1,BankUnited Center
+24,25,"Sat, Feb 16, 2019",12:00p,REG,@,Louisville (16),ACC,L,55,56,,15,10,L 2,KFC Yum! Center
+25,26,"Tue, Feb 19, 2019",9:00p,REG,,Florida State (16),ACC,L,64,77,,15,11,L 3,Littlejohn Coliseum
+26,27,"Sat, Feb 23, 2019",12:00p,REG,,Boston College,ACC,W,76,66,,16,11,W 1,Littlejohn Coliseum
+27,28,"Wed, Feb 27, 2019",7:00p,REG,@,Pittsburgh,ACC,W,62,48,,17,11,W 2,Petersen Events Center
+28,29,"Sat, Mar 2, 2019",6:00p,REG,,North Carolina (5),ACC,L,79,81,,17,12,L 1,Littlejohn Coliseum
+29,30,"Wed, Mar 6, 2019",9:00p,REG,@,Notre Dame,ACC,W,64,62,,18,12,W 1,Purcell Pavilion at the Joyce Center
+30,31,"Sat, Mar 9, 2019",12:00p,REG,,Syracuse,ACC,W,67,55,,19,12,W 2,Littlejohn Coliseum
+31,32,"Wed, Mar 13, 2019",12:00p,CTOURN,N,North Carolina State,ACC,L,58,59,,19,13,L 1,Spectrum Center
+32,33,"Tue, Mar 19, 2019",7:00p,NIT,,Wright State,Horizon,W,75,69,,20,13,W 1,Littlejohn Coliseum
+33,34,"Sun, Mar 24, 2019",2:00p,NIT,,Wichita State,AAC,L,55,63,,20,14,L 1,Littlejohn Coliseum

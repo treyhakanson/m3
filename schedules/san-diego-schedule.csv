@@ -1,0 +1,37 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,,Weber State,Big Sky,W,83,66,,1,0,W 1,Jenny Craig Pavillion
+1,2,"Fri, Nov 9, 2018",10:00p,REG,@,UC-Davis,Big West,W,76,57,,2,0,W 2,The Pavilion
+2,3,"Mon, Nov 12, 2018",11:00p,REG,@,Washington,Pac-12,L,63,66,,2,1,L 1,Alaska Airlines Arena
+3,4,"Thu, Nov 15, 2018",10:00p,REG,,San Diego Christian,,W,95,47,,3,1,W 1,Jenny Craig Pavillion
+4,5,"Tue, Nov 20, 2018",10:00p,REG,,Colorado,Pac-12,W,70,64,,4,1,W 2,Jenny Craig Pavillion
+5,6,"Sat, Nov 24, 2018",10:00p,REG,,Jackson State,SWAC,W,76,58,,5,1,W 3,Jenny Craig Pavillion
+6,7,"Wed, Nov 28, 2018",7:30p,REG,@,Mississippi,SEC,L,86,93,,5,2,L 1,The Pavilion at Ole Miss
+7,8,"Sat, Dec 1, 2018",10:00p,REG,,Long Beach State,Big West,W,74,70,,6,2,W 1,Jenny Craig Pavillion
+8,9,"Wed, Dec 5, 2018",10:00p,REG,@,San Diego State,MWC,W,73,61,,7,2,W 2,Viejas Arena
+9,10,"Sun, Dec 9, 2018",4:00p,REG,,Cal State Northridge,Big West,W,82,68,,8,2,W 3,Jenny Craig Pavillion
+10,11,"Wed, Dec 12, 2018",10:00p,REG,@,Oregon,Pac-12,L,55,65,,8,3,L 1,Matthew Knight Arena
+11,12,"Sat, Dec 15, 2018",10:00p,REG,,Northern Colorado,Big Sky,W,85,65,,9,3,W 1,Jenny Craig Pavillion
+12,13,"Sat, Dec 22, 2018",10:00p,REG,N,Washington State,Pac-12,W,82,75,,10,3,W 2,Orleans Arena
+13,14,"Sun, Dec 23, 2018",7:30p,REG,N,Drake,MVC,L,103,110,2OT,10,4,L 1,Orleans Arena
+14,15,"Sat, Dec 29, 2018",10:00p,REG,,Grand Canyon,WAC,W,61,58,,11,4,W 1,Jenny Craig Pavillion
+15,16,"Thu, Jan 3, 2019",10:00p,REG,@,Santa Clara,WCC,L,56,68,,11,5,L 1,Leavey Center
+16,17,"Sat, Jan 5, 2019",11:00p,REG,,Pacific,WCC,W,73,64,,12,5,W 1,Jenny Craig Pavillion
+17,18,"Sat, Jan 12, 2019",4:00p,REG,,Pepperdine,WCC,L,71,76,,12,6,L 1,Jenny Craig Pavillion
+18,19,"Thu, Jan 17, 2019",10:00p,REG,@,Portland,WCC,W,76,55,,13,6,W 1,Chiles Center
+19,20,"Sat, Jan 19, 2019",9:00p,REG,@,Saint Mary's (CA),WCC,L,59,76,,13,7,L 1,McKeon Pavilion
+20,21,"Thu, Jan 24, 2019",10:00p,REG,,Loyola Marymount,WCC,W,71,58,,14,7,W 1,Jenny Craig Pavillion
+21,22,"Sat, Jan 26, 2019",10:00p,REG,,San Francisco,WCC,W,67,63,,15,7,W 2,Jenny Craig Pavillion
+22,23,"Sat, Feb 2, 2019",8:00p,REG,@,Gonzaga (4),WCC,L,69,85,,15,8,L 1,McCarthey Athletic Center
+23,24,"Thu, Feb 7, 2019",10:00p,REG,@,Loyola Marymount,WCC,W,65,63,,16,8,W 1,Albert Gersten Pavilion
+24,25,"Sat, Feb 9, 2019",4:00p,REG,@,Pepperdine,WCC,L,67,70,,16,9,L 1,Firestone Fieldhouse
+25,26,"Thu, Feb 14, 2019",10:00p,REG,,Brigham Young,WCC,L,82,88,OT,16,10,L 2,Jenny Craig Pavillion
+26,27,"Sat, Feb 16, 2019",10:00p,REG,,Gonzaga (3),WCC,L,67,79,,16,11,L 3,Jenny Craig Pavillion
+27,28,"Thu, Feb 21, 2019",10:00p,REG,,Portland,WCC,W,63,52,,17,11,W 1,Jenny Craig Pavillion
+28,29,"Sat, Feb 23, 2019",9:00p,REG,,Saint Mary's (CA),WCC,L,46,66,,17,12,L 1,Jenny Craig Pavillion
+29,30,"Thu, Feb 28, 2019",10:00p,REG,@,San Francisco,WCC,W,91,90,OT,18,12,W 1,War Memorial Gymnasium
+30,31,"Sat, Mar 2, 2019",9:00p,REG,@,Brigham Young,WCC,L,73,87,,18,13,L 1,Marriott Center
+31,32,"Thu, Mar 7, 2019",11:00p,CTOURN,N,Portland,WCC,W,67,47,,19,13,W 1,Orleans Arena
+32,33,"Fri, Mar 8, 2019",11:00p,CTOURN,N,Santa Clara,WCC,W,62,45,,20,13,W 2,Orleans Arena
+33,34,"Sat, Mar 9, 2019",11:59p,CTOURN,N,Brigham Young,WCC,W,80,57,,21,13,W 3,Orleans Arena
+34,35,"Mon, Mar 11, 2019",11:30p,CTOURN,N,Saint Mary's (CA),WCC,L,62,69,,21,14,L 1,Orleans Arena
+35,36,"Tue, Mar 19, 2019",8:00p,NIT,@,Memphis,AAC,L,60,74,,21,15,L 2,FedExForum

@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Brevard,,W,99,51,,1,0,W 1,SHM Memorial Center
+1,2,"Sat, Nov 10, 2018",4:30p,REG,@,Tulsa,AAC,L,52,74,,1,1,L 1,Donald W. Reynolds Center
+2,3,"Tue, Nov 13, 2018",7:30p,REG,@,Charleston Southern,Big South,L,72,89,,1,2,L 2,CSU Fieldhouse
+3,4,"Fri, Nov 16, 2018",7:00p,REG,@,Cleveland State,Horizon,L,69,84,,1,3,L 3,Wolstein Center
+4,5,"Sun, Nov 18, 2018",2:00p,REG,@,Ohio State,Big Ten,L,61,89,,1,4,L 4,Value City Arena
+5,6,"Tue, Nov 20, 2018",7:00p,REG,@,Purdue-Fort Wayne,Summit,L,68,72,,1,5,L 5,Allen County War Memorial Coliseum
+6,7,"Sun, Nov 25, 2018",7:30p,REG,@,Samford,Southern,L,60,77,,1,6,L 6,Pete Hanna Center
+7,8,"Wed, Nov 28, 2018",7:00p,REG,@,College of Charleston,CAA,L,70,83,,1,7,L 7,TD Arena
+8,9,"Sat, Dec 1, 2018",6:00p,REG,@,Jacksonville,A-Sun,L,69,71,,1,8,L 8,Swisher Gymnasium
+9,10,"Thu, Dec 6, 2018",7:30p,REG,,Voorhees,,W,90,69,,2,8,W 1,SHM Memorial Center
+10,11,"Sun, Dec 9, 2018",1:00p,REG,@,Virginia Tech (15),ACC,L,44,81,,2,9,L 1,Cassell Coliseum
+11,12,"Tue, Dec 11, 2018",6:00p,REG,@,Liberty,A-Sun,L,55,79,,2,10,L 2,Vines Center
+12,13,"Sat, Dec 15, 2018",4:00p,REG,@,South Carolina Upstate,Big South,L,84,88,,2,11,L 3,G.B. Hodge Center
+13,14,"Thu, Dec 20, 2018",7:00p,REG,@,Miami (OH),MAC,L,55,79,,2,12,L 4,Millett Hall
+14,15,"Sat, Dec 22, 2018",2:00p,REG,@,Cincinnati,AAC,L,56,77,,2,13,L 5,Fifth Third Arena
+15,16,"Wed, Jan 2, 2019",6:00p,REG,,Presbyterian,Big South,L,70,72,,2,14,L 6,SHM Memorial Center
+16,17,"Sat, Jan 5, 2019",4:00p,REG,,North Carolina A&T,MEAC,L,77,80,OT,2,15,L 7,SHM Memorial Center
+17,18,"Sat, Jan 12, 2019",4:00p,REG,@,Morgan State,MEAC,W,72,68,,3,15,W 1,Hill Field House
+18,19,"Mon, Jan 14, 2019",7:30p,REG,@,Coppin State,MEAC,W,70,68,,4,15,W 2,Physical Education Complex
+19,20,"Sat, Jan 19, 2019",4:00p,REG,,Howard,MEAC,L,67,71,OT,4,16,L 1,SHM Memorial Center
+20,21,"Mon, Jan 21, 2019",7:30p,REG,,Norfolk State,MEAC,L,69,74,,4,17,L 2,SHM Memorial Center
+21,22,"Sat, Jan 26, 2019",6:00p,REG,@,Savannah State,MEAC,L,88,92,,4,18,L 3,Tiger Arena
+22,23,"Sat, Feb 2, 2019",4:00p,REG,@,Maryland-Eastern Shore,MEAC,L,61,63,,4,19,L 4,Hytche Athletic Center
+23,24,"Mon, Feb 4, 2019",7:30p,REG,@,Delaware State,MEAC,L,68,70,,4,20,L 5,Memorial Hall
+24,25,"Sat, Feb 9, 2019",4:00p,REG,,Morgan State,MEAC,W,85,81,,5,20,W 1,SHM Memorial Center
+25,26,"Mon, Feb 11, 2019",7:30p,REG,,Coppin State,MEAC,W,85,84,,6,20,W 2,SHM Memorial Center
+26,27,"Sat, Feb 16, 2019",4:00p,REG,,Bethune-Cookman,MEAC,L,73,98,,6,21,L 1,SHM Memorial Center
+27,28,"Mon, Feb 18, 2019",7:30p,REG,,Florida A&M,MEAC,W,57,54,,7,21,W 1,SHM Memorial Center
+28,29,"Sat, Feb 23, 2019",4:00p,REG,@,North Carolina A&T,MEAC,L,62,63,,7,22,L 1,Ellis Corbett Sports Center
+29,30,"Mon, Feb 25, 2019",7:00p,REG,@,North Carolina Central,MEAC,L,62,72,,7,23,L 2,McLendon-McDougald Gym
+30,31,"Sat, Mar 2, 2019",4:00p,REG,@,Bethune-Cookman,MEAC,L,95,98,OT,7,24,L 3,Moore Gymnasium
+31,32,"Thu, Mar 7, 2019",7:30p,REG,,Savannah State,MEAC,L,87,90,,7,25,L 4,SHM Memorial Center
+32,33,"Tue, Mar 12, 2019",6:00p,CTOURN,N,Maryland-Eastern Shore,MEAC,W,63,54,,8,25,W 1,Norfolk Scope
+33,34,"Wed, Mar 13, 2019",6:00p,CTOURN,N,Norfolk State,MEAC,L,73,78,,8,26,L 1,Norfolk Scope

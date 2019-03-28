@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",11:00p,REG,@,Southern California,Pac-12,L,62,83,,0,1,L 1,Galen Center
+1,2,"Fri, Nov 9, 2018",8:00p,REG,@,Missouri State,MVC,L,60,74,,0,2,L 2,JQH Arena
+2,3,"Wed, Nov 14, 2018",7:30p,REG,,Mt. Aloysius,,W,104,57,,1,2,W 1,North Athletic Complex
+3,4,"Sat, Nov 17, 2018",7:00p,REG,,Mississippi Valley State,SWAC,W,68,59,,2,2,W 2,North Athletic Complex
+4,5,"Mon, Nov 19, 2018",7:00p,REG,@,Stetson,A-Sun,W,81,72,,3,2,W 3,Edmunds Center
+5,6,"Fri, Nov 23, 2018",2:00p,REG,@,Purdue (24),Big Ten,L,46,84,,3,3,L 1,Mackey Arena
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,Youngstown State,Horizon,W,76,56,,4,3,W 1,North Athletic Complex
+7,8,"Sat, Dec 1, 2018",2:00p,REG,@,Drexel,CAA,L,69,82,,4,4,L 1,Daskalakis Athletic Center
+8,9,"Wed, Dec 5, 2018",7:00p,REG,@,Canisius,MAAC,L,62,68,,4,5,L 2,Koessler Athletic Center
+9,10,"Sat, Dec 8, 2018",4:00p,REG,,Siena,MAAC,L,71,74,,4,6,L 3,North Athletic Complex
+10,11,"Sat, Dec 15, 2018",3:00p,REG,@,Rider,MAAC,L,50,69,,4,7,L 4,Alumni Gymnasium
+11,12,"Fri, Dec 21, 2018",7:00p,REG,@,Louisville,ACC,L,59,73,,4,8,L 5,KFC Yum! Center
+12,13,"Sat, Dec 29, 2018",4:00p,REG,,Hood,,W,108,51,,5,8,W 1,North Athletic Complex
+13,14,"Thu, Jan 3, 2019",7:00p,REG,,Fairleigh Dickinson,NEC,W,69,62,,6,8,W 2,North Athletic Complex
+14,15,"Sat, Jan 5, 2019",5:00p,REG,,Mount St. Mary's,NEC,W,62,59,,7,8,W 3,North Athletic Complex
+15,16,"Thu, Jan 10, 2019",9:00p,REG,@,St. Francis (NY),NEC,W,52,49,,8,8,W 4,Pope Physical Education Center
+16,17,"Sat, Jan 12, 2019",4:30p,REG,@,Long Island University,NEC,L,73,80,,8,9,L 1,Steinberg Wellness Center
+17,18,"Sat, Jan 19, 2019",4:00p,REG,@,Bryant,NEC,W,79,65,,9,9,W 1,Chace Athletic Center 
+18,19,"Mon, Jan 21, 2019",3:30p,REG,@,Central Connecticut State,NEC,W,70,59,,10,9,W 2,Detrick Gymnasium
+19,20,"Thu, Jan 24, 2019",7:00p,REG,,Sacred Heart,NEC,W,72,64,,11,9,W 3,North Athletic Complex
+20,21,"Sat, Jan 26, 2019",5:00p,REG,,Wagner,NEC,W,57,51,,12,9,W 4,North Athletic Complex
+21,22,"Thu, Jan 31, 2019",7:00p,REG,,Saint Francis (PA),NEC,L,73,76,,12,10,L 1,North Athletic Complex
+22,23,"Sat, Feb 2, 2019",4:30p,REG,@,Fairleigh Dickinson,NEC,L,94,97,2OT,12,11,L 2,Rothman Center
+23,24,"Thu, Feb 7, 2019",7:00p,REG,,Bryant,NEC,W,72,59,,13,11,W 1,North Athletic Complex
+24,25,"Sat, Feb 9, 2019",4:00p,REG,,Central Connecticut State,NEC,L,68,77,,13,12,L 1,North Athletic Complex
+25,26,"Thu, Feb 14, 2019",7:00p,REG,@,Mount St. Mary's,NEC,L,62,76,,13,13,L 2,Knott Arena
+26,27,"Sat, Feb 16, 2019",7:00p,REG,@,Saint Francis (PA),NEC,L,69,72,,13,14,L 3,DeGol Arena
+27,28,"Thu, Feb 21, 2019",7:00p,REG,,Long Island University,NEC,W,62,49,,14,14,W 1,North Athletic Complex
+28,29,"Sat, Feb 23, 2019",5:00p,REG,,St. Francis (NY),NEC,W,67,62,,15,14,W 2,North Athletic Complex
+29,30,"Thu, Feb 28, 2019",6:00p,REG,@,Sacred Heart,NEC,L,63,87,,15,15,L 1,William H. Pitt Center
+30,31,"Sat, Mar 2, 2019",4:00p,REG,@,Wagner,NEC,W,69,60,,16,15,W 1,Spiro Sports Center
+31,32,"Wed, Mar 6, 2019",7:00p,CTOURN,,St. Francis (NY),NEC,W,69,65,OT,17,15,W 2,North Athletic Complex
+32,33,"Sat, Mar 9, 2019",12:00p,CTOURN,@,Fairleigh Dickinson,NEC,L,62,66,,17,16,L 1,Rothman Center
+33,34,"Tue, Mar 19, 2019",7:00p,CIT,,Cornell,Ivy,W,98,89,OT,18,16,W 1,North Athletic Complex
+34,35,"Sun, Mar 24, 2019",1:00p,CIT,,Presbyterian,Big South,L,70,77,,18,17,L 1,North Athletic Complex

@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Central Connecticut State,NEC,L,68,75,,0,1,L 1,Chase Family Arena
+1,2,"Fri, Nov 9, 2018",9:00p,REG,@,Utah State,MWC,L,73,100,,0,2,L 2,Dee Glen Smith Spectrum
+2,3,"Sun, Nov 11, 2018",5:00p,REG,@,Mississippi State (18),SEC,L,59,77,,0,3,L 3,Humphrey Coliseum
+3,4,"Thu, Nov 15, 2018",7:00p,REG,@,Quinnipiac,MAAC,W,68,54,,1,3,W 1,TD Bank Sports Center
+4,5,"Mon, Nov 19, 2018",2:00p,REG,N,Utah Valley,WAC,L,65,72,,1,4,L 1,Cox Pavilion
+5,6,"Wed, Nov 21, 2018",2:00p,REG,N,Iona,MAAC,L,75,80,,1,5,L 2,Cox Pavilion
+6,7,"Sat, Nov 24, 2018",2:00p,REG,,Western New England,,W,93,53,,2,5,W 1,Chase Family Arena
+7,8,"Tue, Nov 27, 2018",6:00p,REG,@,Sacred Heart,NEC,L,89,98,,2,6,L 1,William H. Pitt Center
+8,9,"Sat, Dec 1, 2018",2:00p,REG,,Bowling Green State,MAC,W,76,63,,3,6,W 1,Chase Family Arena
+9,10,"Wed, Dec 5, 2018",7:00p,REG,@,Duke (3),ACC,L,54,84,,3,7,L 1,Cameron Indoor Stadium
+10,11,"Wed, Dec 12, 2018",7:00p,REG,@,Bryant,NEC,W,91,74,,4,7,W 1,Chace Athletic Center 
+11,12,"Sun, Dec 16, 2018",4:30p,REG,,Oakland,Horizon,W,87,82,,5,7,W 2,Chase Family Arena
+12,13,"Sat, Dec 22, 2018",2:00p,REG,@,Wagner,NEC,L,68,77,,5,8,L 1,Spiro Sports Center
+13,14,"Sat, Dec 29, 2018",2:00p,REG,,Marist,MAAC,W,65,56,,6,8,W 1,Chase Family Arena
+14,15,"Mon, Dec 31, 2018",1:00p,REG,@,Boston College,ACC,W,79,78,OT,7,8,W 2,Silvio O. Conte Forum
+15,16,"Wed, Jan 9, 2019",7:00p,REG,,Maryland-Baltimore County,AEC,W,66,64,OT,8,8,W 3,Chase Family Arena
+16,17,"Sat, Jan 12, 2019",7:00p,REG,@,Vermont,AEC,L,62,81,,8,9,L 1,Roy L. Patrick Gymnasium
+17,18,"Wed, Jan 16, 2019",7:00p,REG,@,Maine,AEC,W,77,76,,9,9,W 1,Cross Insurance Center
+18,19,"Sat, Jan 19, 2019",2:00p,REG,,Massachusetts-Lowell,AEC,L,73,76,,9,10,L 1,Chase Family Arena
+19,20,"Wed, Jan 23, 2019",7:00p,REG,,New Hampshire,AEC,W,74,39,,10,10,W 1,Chase Family Arena
+20,21,"Sat, Jan 26, 2019",3:00p,REG,@,Albany (NY),AEC,L,77,84,,10,11,L 1,SEFCU Arena
+21,22,"Wed, Jan 30, 2019",7:00p,REG,,Binghamton,AEC,W,86,60,,11,11,W 1,Chase Family Arena
+22,23,"Sat, Feb 2, 2019",7:00p,REG,@,Stony Brook,AEC,L,77,86,,11,12,L 1,Island Federal Credit Union
+23,24,"Wed, Feb 6, 2019",7:00p,REG,@,Maryland-Baltimore County,AEC,W,70,61,,12,12,W 1,UMBC Event Center
+24,25,"Wed, Feb 13, 2019",7:00p,REG,,Maine,AEC,W,81,73,,13,12,W 2,Chase Family Arena
+25,26,"Sat, Feb 16, 2019",5:00p,REG,,Vermont,AEC,L,75,77,,13,13,L 1,Chase Family Arena
+26,27,"Thu, Feb 21, 2019",7:00p,REG,@,New Hampshire,AEC,W,70,50,,14,13,W 1,Lundholm Gymnasium
+27,28,"Sat, Feb 23, 2019",5:30p,REG,@,Massachusetts-Lowell,AEC,W,75,73,,15,13,W 2,Tsongas Center
+28,29,"Wed, Feb 27, 2019",7:00p,REG,@,Binghamton,AEC,W,96,76,,16,13,W 3,Binghamton University Events Center
+29,30,"Sat, Mar 2, 2019",5:00p,REG,,Albany (NY),AEC,W,82,80,OT,17,13,W 4,Chase Family Arena
+30,31,"Tue, Mar 5, 2019",7:00p,REG,,Stony Brook,AEC,L,63,68,,17,14,L 1,Chase Family Arena
+31,32,"Sat, Mar 9, 2019",5:00p,CTOURN,,Massachusetts-Lowell,AEC,W,78,70,,18,14,W 1,Chase Family Arena
+32,33,"Tue, Mar 12, 2019",7:00p,CTOURN,@,Maryland-Baltimore County,AEC,L,85,90,2OT,18,15,L 1,UMBC Event Center

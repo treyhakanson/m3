@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,@,Tulsa,AAC,L,56,73,,0,1,L 1,Donald W. Reynolds Center
+1,2,"Fri, Nov 9, 2018",8:00p,REG,,Blue Mountain College,,W,79,55,,1,1,W 1,Davey L. Whitney Complex
+2,3,"Fri, Nov 16, 2018",8:00p,REG,@,Vanderbilt,SEC,L,54,79,,1,2,L 1,Memorial Gymnasium
+3,4,"Sun, Nov 18, 2018",4:00p,REG,@,Kent State,MAC,L,48,79,,1,3,L 2,Memorial Athletic & Convocation Center
+4,5,"Fri, Nov 23, 2018",2:00p,REG,@,Liberty,A-Sun,L,54,76,,1,4,L 3,Vines Center
+5,6,"Sat, Nov 24, 2018",2:00p,REG,N,Savannah State,MEAC,L,75,80,,1,5,L 4,Vines Center
+6,7,"Mon, Nov 26, 2018",8:00p,REG,@,Mississippi State (25),SEC,L,65,88,,1,6,L 5,Humphrey Coliseum
+7,8,"Sat, Dec 1, 2018",12:00p,REG,,Rust,,W,103,66,,2,6,W 1,Davey L. Whitney Complex
+8,9,"Sat, Dec 8, 2018",5:30p,REG,,Champion Baptist,,W,109,45,,3,6,W 2,Davey L. Whitney Complex
+9,10,"Sun, Dec 9, 2018",4:00p,REG,,Fisk,,W,75,45,,4,6,W 3,Davey L. Whitney Complex
+10,11,"Tue, Dec 18, 2018",4:00p,REG,@,Alabama-Birmingham,CUSA,L,49,76,,4,7,L 1,Bartow Arena
+11,12,"Fri, Dec 21, 2018",7:00p,REG,@,South Florida,AAC,L,44,83,,4,8,L 2,Sun Dome
+12,13,"Sat, Jan 5, 2019",7:30p,REG,,Texas Southern,SWAC,L,70,87,,4,9,L 3,Davey L. Whitney Complex
+13,14,"Mon, Jan 7, 2019",8:30p,REG,,Prairie View,SWAC,L,54,57,,4,10,L 4,Davey L. Whitney Complex
+14,15,"Sat, Jan 12, 2019",6:00p,REG,@,Jackson State,SWAC,L,52,59,,4,11,L 5,Lee E. Williams Athletics and Assembly Center
+15,16,"Mon, Jan 14, 2019",8:30p,REG,@,Grambling,SWAC,L,42,77,,4,12,L 6,Assembly Center
+16,17,"Sat, Jan 19, 2019",6:30p,REG,,Mississippi Valley State,SWAC,W,63,57,,5,12,W 1,Davey L. Whitney Complex
+17,18,"Mon, Jan 21, 2019",8:30p,REG,,Arkansas-Pine Bluff,SWAC,W,74,69,,6,12,W 2,Davey L. Whitney Complex
+18,19,"Sat, Jan 26, 2019",6:00p,REG,@,Alabama State,SWAC,L,59,74,,6,13,L 1,Dunn-Oliver Acadome
+19,20,"Mon, Jan 28, 2019",8:30p,REG,@,Alabama A&M,SWAC,L,62,71,,6,14,L 2,Elmore Health Science Building 
+20,21,"Sat, Feb 2, 2019",6:30p,REG,,Southern,SWAC,W,76,64,,7,14,W 1,Davey L. Whitney Complex
+21,22,"Sat, Feb 9, 2019",6:30p,REG,,Jackson State,SWAC,W,66,52,,8,14,W 2,Davey L. Whitney Complex
+22,23,"Mon, Feb 11, 2019",8:30p,REG,,Grambling,SWAC,L,53,65,,8,15,L 1,Davey L. Whitney Complex
+23,24,"Sat, Feb 16, 2019",5:30p,REG,@,Mississippi Valley State,SWAC,L,68,76,,8,16,L 2,Harrison HPER Complex
+24,25,"Mon, Feb 18, 2019",7:00p,REG,@,Arkansas-Pine Bluff,SWAC,L,62,73,,8,17,L 3,H.O. Clemmons Arena
+25,26,"Sat, Feb 23, 2019",6:30p,REG,,Alabama State,SWAC,W,74,69,OT,9,17,W 1,Davey L. Whitney Complex
+26,27,"Mon, Feb 25, 2019",8:30p,REG,,Alabama A&M,SWAC,W,61,55,,10,17,W 2,Davey L. Whitney Complex
+27,28,"Sat, Mar 2, 2019",6:30p,REG,@,Southern,SWAC,L,46,61,,10,18,L 1,F. G. Clark Activity Center
+28,29,"Thu, Mar 7, 2019",8:30p,REG,@,Texas Southern,SWAC,L,72,99,,10,19,L 2,Health & Physical Education Arena
+29,30,"Sat, Mar 9, 2019",6:00p,REG,@,Prairie View,SWAC,L,64,98,,10,20,L 3,William J. Nicks Building
+30,31,"Tue, Mar 12, 2019",8:30p,CTOURN,@,Prairie View,SWAC,L,66,86,,10,21,L 4,William J. Nicks Building

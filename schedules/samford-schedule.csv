@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:30p,REG,,North Alabama,A-Sun,W,91,74,,1,0,W 1,Pete Hanna Center
+1,2,"Fri, Nov 9, 2018",7:30p,REG,,Jacksonville State,OVC,W,92,72,,2,0,W 2,Pete Hanna Center
+2,3,"Mon, Nov 12, 2018",7:30p,REG,,Kennesaw State,A-Sun,W,74,60,,3,0,W 3,Pete Hanna Center
+3,4,"Wed, Nov 14, 2018",7:30p,REG,,Miles,,W,66,57,,4,0,W 4,Pete Hanna Center
+4,5,"Sun, Nov 18, 2018",5:00p,REG,@,Cleveland State,Horizon,W,73,60,,5,0,W 5,Wolstein Center
+5,6,"Tue, Nov 20, 2018",7:00p,REG,@,Ohio State (23),Big Ten,L,50,68,,5,1,L 1,Value City Arena
+6,7,"Fri, Nov 23, 2018",7:00p,REG,@,Purdue-Fort Wayne,Summit,W,74,66,,6,1,W 1,Allen County War Memorial Coliseum
+7,8,"Sun, Nov 25, 2018",7:30p,REG,,South Carolina State,MEAC,W,77,60,,7,1,W 2,Pete Hanna Center
+8,9,"Thu, Nov 29, 2018",7:30p,REG,,Belmont,OVC,L,93,99,OT,7,2,L 1,Pete Hanna Center
+9,10,"Sun, Dec 9, 2018",5:00p,REG,@,Alabama A&M,SWAC,W,77,59,,8,2,W 1,Elmore Health Science Building 
+10,11,"Thu, Dec 13, 2018",7:30p,REG,,Morehead State,OVC,W,77,72,OT,9,2,W 2,Pete Hanna Center
+11,12,"Mon, Dec 17, 2018",7:30p,REG,,Houston Baptist,Southland,W,85,61,,10,2,W 3,Pete Hanna Center
+12,13,"Wed, Dec 19, 2018",7:00p,REG,@,Tennessee (3),SEC,L,70,83,,10,3,L 1,Thompson-Boling Arena
+13,14,"Sat, Dec 22, 2018",3:00p,REG,,North Carolina-Greensboro,Southern,L,75,83,,10,4,L 2,Pete Hanna Center
+14,15,"Sat, Dec 29, 2018",3:00p,REG,,Virginia Military Institute,Southern,W,96,68,,11,4,W 1,Pete Hanna Center
+15,16,"Thu, Jan 3, 2019",7:00p,REG,@,East Tennessee State,Southern,L,72,81,OT,11,5,L 1,Freedom Hall Civic Center
+16,17,"Sat, Jan 5, 2019",2:00p,REG,@,Western Carolina,Southern,L,69,76,,11,6,L 2,Ramsey Center
+17,18,"Sat, Jan 12, 2019",4:30p,REG,@,Chattanooga,Southern,L,75,80,,11,7,L 3,The McKenzie Arena
+18,19,"Thu, Jan 17, 2019",7:30p,REG,,Citadel,Southern,W,80,77,,12,7,W 1,Pete Hanna Center
+19,20,"Sat, Jan 19, 2019",3:00p,REG,,Mercer,Southern,L,87,93,,12,8,L 1,Pete Hanna Center
+20,21,"Thu, Jan 24, 2019",7:00p,REG,@,Wofford,Southern,L,106,107,OT,12,9,L 2,Richardson Indoor Stadium
+21,22,"Sat, Jan 26, 2019",4:30p,REG,@,Furman,Southern,W,75,73,,13,9,W 1,Timmons Arena
+22,23,"Thu, Jan 31, 2019",7:30p,REG,,East Tennessee State,Southern,L,66,74,,13,10,L 1,Pete Hanna Center
+23,24,"Sat, Feb 2, 2019",3:00p,REG,,Western Carolina,Southern,W,92,81,,14,10,W 1,Pete Hanna Center
+24,25,"Thu, Feb 7, 2019",7:00p,REG,@,North Carolina-Greensboro,Southern,L,67,75,,14,11,L 1,Greensboro Coliseum
+25,26,"Sat, Feb 9, 2019",1:00p,REG,@,Virginia Military Institute,Southern,W,84,77,OT,15,11,W 1,Cameron Hall
+26,27,"Sat, Feb 16, 2019",5:00p,REG,,Chattanooga,Southern,W,80,76,OT,16,11,W 2,Pete Hanna Center
+27,28,"Thu, Feb 21, 2019",7:00p,REG,@,Mercer,Southern,L,62,65,,16,12,L 1,Hawkins Arena
+28,29,"Sat, Feb 23, 2019",1:00p,REG,@,Citadel,Southern,L,83,87,OT,16,13,L 2,McAlister Field House
+29,30,"Thu, Feb 28, 2019",7:30p,REG,,Furman,Southern,L,81,90,,16,14,L 3,Pete Hanna Center
+30,31,"Sat, Mar 2, 2019",2:00p,REG,,Wofford (24),Southern,L,64,85,,16,15,L 4,Pete Hanna Center
+31,32,"Fri, Mar 8, 2019",7:30p,CTOURN,N,Citadel,Southern,W,100,71,,17,15,W 1,U.S. Cellular Center
+32,33,"Sat, Mar 9, 2019",6:00p,CTOURN,N,North Carolina-Greensboro,Southern,L,70,77,,17,16,L 1,U.S. Cellular Center

@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Indiana State,MVC,W,86,69,,1,0,W 1,Worthen Arena
+1,2,"Sat, Nov 10, 2018",8:00p,REG,@,Purdue (24),Big Ten,L,75,84,,1,1,L 1,Mackey Arena
+2,3,"Thu, Nov 15, 2018",11:30a,REG,N,Virginia Tech (16),ACC,L,64,73,,1,2,L 2,TD Arena
+3,4,"Fri, Nov 16, 2018",1:30p,REG,N,Alabama,SEC,L,61,79,,1,3,L 3,TD Arena
+4,5,"Sun, Nov 18, 2018",11:00a,REG,N,Appalachian State,Sun Belt,W,94,86,OT,2,3,W 1,TD Arena
+5,6,"Sat, Nov 24, 2018",2:00p,REG,,Evansville,MVC,W,82,72,,3,3,W 2,Worthen Arena
+6,7,"Tue, Nov 27, 2018",7:00p,REG,,Tiffin,,W,108,62,,4,3,W 3,Worthen Arena
+7,8,"Sat, Dec 1, 2018",1:00p,REG,@,IUPUI,Horizon,W,85,75,,5,3,W 4,Indiana Farmers Coliseum
+8,9,"Wed, Dec 5, 2018",9:00p,REG,@,Loyola (IL),MVC,W,75,69,,6,3,W 5,Joseph J. Gentile Center
+9,10,"Sun, Dec 9, 2018",3:00p,REG,@,Evansville,MVC,L,77,89,,6,4,L 1,Ford Center
+10,11,"Mon, Dec 17, 2018",8:00p,REG,@,Valparaiso,MVC,W,77,61,,7,4,W 1,Athletics-Recreation Center
+11,12,"Thu, Dec 20, 2018",7:00p,REG,,Howard,MEAC,W,98,71,,8,4,W 2,Worthen Arena
+12,13,"Sat, Dec 29, 2018",2:00p,REG,,Delaware State,MEAC,W,116,57,,9,4,W 3,Worthen Arena
+13,14,"Fri, Jan 4, 2019",7:00p,REG,@,Toledo,MAC,W,79,64,,10,4,W 4,John F. Savage Hall
+14,15,"Tue, Jan 8, 2019",7:00p,REG,,Eastern Michigan,MAC,L,82,84,2OT,10,5,L 1,Worthen Arena
+15,16,"Sat, Jan 12, 2019",12:00p,REG,,Ohio,MAC,L,52,70,,10,6,L 2,Worthen Arena
+16,17,"Tue, Jan 15, 2019",7:00p,REG,@,Bowling Green State,MAC,L,78,79,,10,7,L 3,Stroh Center
+17,18,"Sat, Jan 19, 2019",4:30p,REG,@,Central Michigan,MAC,W,83,72,,11,7,W 1,McGuirk Arena
+18,19,"Tue, Jan 22, 2019",7:00p,REG,,Miami (OH),MAC,L,65,71,,11,8,L 1,Worthen Arena
+19,20,"Sat, Jan 26, 2019",2:00p,REG,@,Ohio,MAC,L,74,78,,11,9,L 2,Convocation Center
+20,21,"Tue, Jan 29, 2019",7:00p,REG,@,Buffalo (18),MAC,L,59,83,,11,10,L 3,Alumni Arena
+21,22,"Sat, Feb 2, 2019",12:00p,REG,,Kent State,MAC,L,80,83,OT,11,11,L 4,Worthen Arena
+22,23,"Tue, Feb 5, 2019",8:00p,REG,@,Northern Illinois,MAC,W,72,71,,12,11,W 1,Convocation Center
+23,24,"Sat, Feb 9, 2019",2:00p,REG,,Western Michigan,MAC,W,79,59,,13,11,W 2,Worthen Arena
+24,25,"Sat, Feb 16, 2019",2:00p,REG,,Akron,MAC,W,57,56,,14,11,W 3,Worthen Arena
+25,26,"Tue, Feb 19, 2019",7:00p,REG,@,Miami (OH),MAC,L,66,69,,14,12,L 1,Millett Hall
+26,27,"Sat, Feb 23, 2019",2:00p,REG,,Central Michigan,MAC,L,57,64,,14,13,L 2,Worthen Arena
+27,28,"Tue, Feb 26, 2019",7:00p,REG,,Toledo,MAC,L,72,80,,14,14,L 3,Worthen Arena
+28,29,"Sat, Mar 2, 2019",4:30p,REG,@,Western Michigan,MAC,W,60,58,,15,14,W 1,University Arena
+29,30,"Tue, Mar 5, 2019",7:00p,REG,@,Eastern Michigan,MAC,L,61,68,,15,15,L 1,Convocation Center
+30,31,"Fri, Mar 8, 2019",7:00p,REG,,Northern Illinois,MAC,L,57,64,,15,16,L 2,Worthen Arena
+31,32,"Mon, Mar 11, 2019",7:00p,CTOURN,@,Eastern Michigan,MAC,W,61,43,,16,16,W 1,Convocation Center
+32,33,"Thu, Mar 14, 2019",9:00p,CTOURN,N,Bowling Green State,MAC,L,86,99,,16,17,L 1,Quicken Loans Arena

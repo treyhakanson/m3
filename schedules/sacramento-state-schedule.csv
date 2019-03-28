@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",10:05p,REG,,Simpson,,W,76,52,,1,0,W 1,The Nest
+1,2,"Tue, Nov 20, 2018",10:05p,REG,N,UC-Davis,Big West,W,58,55,,2,0,W 2,Golden 1 Center
+2,3,"Sat, Nov 24, 2018",10:05p,REG,,Cal State Fullerton,Big West,W,87,82,OT,3,0,W 3,The Nest
+3,4,"Thu, Nov 29, 2018",10:00p,REG,@,UC-Santa Barbara,Big West,L,58,75,,3,1,L 1,The Thunderdome
+4,5,"Sat, Dec 1, 2018",10:00p,REG,@,Cal State Northridge,Big West,W,88,68,,4,1,W 1,The Matadome
+5,6,"Sat, Dec 8, 2018",10:00p,REG,@,Portland,WCC,L,67,76,,4,2,L 1,Chiles Center
+6,7,"Tue, Dec 11, 2018",10:05p,REG,,Holy Names,,W,81,56,,5,2,W 1,The Nest
+7,8,"Thu, Dec 13, 2018",10:05p,REG,,Westcliff,,W,89,40,,6,2,W 2,The Nest
+8,9,"Fri, Dec 21, 2018",9:00p,REG,@,Washington,Pac-12,L,41,57,,6,3,L 1,Alaska Airlines Arena
+9,10,"Sat, Dec 29, 2018",10:05p,REG,,Northern Colorado,Big Sky,L,65,70,,6,4,L 2,The Nest
+10,11,"Thu, Jan 3, 2019",9:05p,REG,@,Montana,Big Sky,L,56,87,,6,5,L 3,Adams Center/Dahlberg Arena
+11,12,"Sat, Jan 5, 2019",4:00p,REG,@,Montana State,Big Sky,L,70,84,,6,6,L 4,Max Worthington Arena
+12,13,"Sat, Jan 12, 2019",10:05p,REG,,Idaho State,Big Sky,L,70,72,,6,7,L 5,The Nest
+13,14,"Thu, Jan 17, 2019",8:30p,REG,@,Northern Arizona,Big Sky,W,66,64,,7,7,W 1,Walkup Skydome
+14,15,"Sat, Jan 19, 2019",3:00p,REG,@,Southern Utah,Big Sky,L,71,76,,7,8,L 1,Centrum
+15,16,"Thu, Jan 24, 2019",10:05p,REG,,Idaho,Big Sky,W,69,48,,8,8,W 1,The Nest
+16,17,"Sat, Jan 26, 2019",10:05p,REG,,Eastern Washington,Big Sky,L,92,94,OT,8,9,L 1,The Nest
+17,18,"Thu, Jan 31, 2019",9:05p,REG,@,Idaho State,Big Sky,W,74,58,,9,9,W 1,Holt Arena
+18,19,"Sat, Feb 2, 2019",9:00p,REG,@,Weber State,Big Sky,L,65,75,,9,10,L 1,Dee Events Center
+19,20,"Sat, Feb 9, 2019",4:30p,REG,@,Northern Colorado,Big Sky,L,59,65,,9,11,L 2,Bank of Colorado Arena
+20,21,"Mon, Feb 11, 2019",10:35p,REG,,Portland State,Big Sky,W,78,67,,10,11,W 1,The Nest
+21,22,"Thu, Feb 14, 2019",10:05p,REG,,Southern Utah,Big Sky,W,84,73,,11,11,W 2,The Nest
+22,23,"Sat, Feb 16, 2019",10:05p,REG,,Northern Arizona,Big Sky,L,66,78,,11,12,L 1,The Nest
+23,24,"Thu, Feb 21, 2019",10:05p,REG,,Weber State,Big Sky,W,78,76,,12,12,W 1,The Nest
+24,25,"Sat, Feb 23, 2019",10:05p,REG,@,Portland State,Big Sky,L,57,65,,12,13,L 1,Peter W. Stott Center
+25,26,"Thu, Feb 28, 2019",9:05p,REG,@,Eastern Washington,Big Sky,W,59,56,,13,13,W 1,Reese Court
+26,27,"Sat, Mar 2, 2019",10:00p,REG,@,Idaho,Big Sky,L,90,94,,13,14,L 1,Cowan Spectrum
+27,28,"Thu, Mar 7, 2019",10:05p,REG,,Montana State,Big Sky,W,70,67,,14,14,W 1,The Nest
+28,29,"Sat, Mar 9, 2019",10:05p,REG,,Montana,Big Sky,L,68,86,,14,15,L 1,The Nest
+29,30,"Wed, Mar 13, 2019",11:30a,CTOURN,N,Northern Arizona,Big Sky,W,72,60,,15,15,W 1,CenturyLink Arena
+30,31,"Thu, Mar 14, 2019",2:00p,CTOURN,N,Montana,Big Sky,L,73,79,,15,16,L 1,CenturyLink Arena

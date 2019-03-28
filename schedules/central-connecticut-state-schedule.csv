@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,Hartford,AEC,W,75,68,,1,0,W 1,Chase Family Arena
+1,2,"Sat, Nov 10, 2018",6:00p,REG,@,Georgetown,Big East,L,78,85,,1,1,L 1,Capital One Arena
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Massachusetts-Lowell,AEC,W,86,74,,2,1,W 1,Detrick Gymnasium
+3,4,"Fri, Nov 16, 2018",11:30a,REG,N,Austin Peay,OVC,L,78,80,,2,2,L 1,Montego Bay Convention Centre
+4,5,"Sun, Nov 18, 2018",9:00p,REG,N,Florida A&M,MEAC,W,89,75,,3,2,W 1,Montego Bay Convention Centre
+5,6,"Wed, Nov 21, 2018",10:00p,REG,@,Loyola Marymount,WCC,L,74,76,,3,3,L 1,Albert Gersten Pavilion
+6,7,"Sun, Nov 25, 2018",4:00p,REG,,Pine Manor,,W,88,59,,4,3,W 1,Detrick Gymnasium
+7,8,"Thu, Nov 29, 2018",7:30p,REG,@,North Carolina A&T,MEAC,L,60,72,,4,4,L 1,Ellis Corbett Sports Center
+8,9,"Sat, Dec 1, 2018",5:00p,REG,@,Virginia Tech (13),ACC,L,40,94,,4,5,L 2,Cassell Coliseum
+9,10,"Sat, Dec 8, 2018",1:00p,REG,,Penn St.-Wilkes Barre,,W,79,58,,5,5,W 1,Detrick Gymnasium
+10,11,"Sun, Dec 16, 2018",2:00p,REG,@,Providence,Big East,L,63,87,,5,6,L 1,Dunkin' Donuts Center
+11,12,"Sat, Dec 22, 2018",1:00p,REG,@,Maine,AEC,W,93,90,2OT,6,6,W 1,Cross Insurance Center
+12,13,"Sat, Dec 29, 2018",8:00p,REG,@,Oregon State,Pac-12,L,59,80,,6,7,L 1,Gill Coliseum
+13,14,"Thu, Jan 3, 2019",7:00p,REG,,Wagner,NEC,L,58,80,,6,8,L 2,Detrick Gymnasium
+14,15,"Sat, Jan 5, 2019",3:30p,REG,@,Sacred Heart,NEC,L,61,73,,6,9,L 3,William H. Pitt Center
+15,16,"Thu, Jan 10, 2019",7:00p,REG,@,Fairleigh Dickinson,NEC,W,103,96,2OT,7,9,W 1,Rothman Center
+16,17,"Sat, Jan 12, 2019",4:00p,REG,@,Mount St. Mary's,NEC,W,77,68,,8,9,W 2,Knott Arena
+17,18,"Sat, Jan 19, 2019",3:30p,REG,,Saint Francis (PA),NEC,L,69,80,,8,10,L 1,Detrick Gymnasium
+18,19,"Mon, Jan 21, 2019",3:30p,REG,,Robert Morris,NEC,L,59,70,,8,11,L 2,Detrick Gymnasium
+19,20,"Thu, Jan 24, 2019",7:00p,REG,@,Bryant,NEC,L,60,63,,8,12,L 3,Chace Athletic Center 
+20,21,"Sat, Jan 26, 2019",1:00p,REG,,Long Island University,NEC,L,71,84,,8,13,L 4,Detrick Gymnasium
+21,22,"Thu, Jan 31, 2019",7:00p,REG,,St. Francis (NY),NEC,W,78,72,,9,13,W 1,Detrick Gymnasium
+22,23,"Sat, Feb 2, 2019",3:30p,REG,,Bryant,NEC,W,64,59,,10,13,W 2,Detrick Gymnasium
+23,24,"Thu, Feb 7, 2019",5:00p,REG,@,Saint Francis (PA),NEC,L,85,90,,10,14,L 1,DeGol Arena
+24,25,"Sat, Feb 9, 2019",4:00p,REG,@,Robert Morris,NEC,W,77,68,,11,14,W 1,North Athletic Complex
+25,26,"Thu, Feb 14, 2019",7:00p,REG,@,Wagner,NEC,L,57,63,,11,15,L 1,Spiro Sports Center
+26,27,"Sat, Feb 16, 2019",4:00p,REG,@,St. Francis (NY),NEC,L,79,90,,11,16,L 2,Pope Physical Education Center
+27,28,"Thu, Feb 21, 2019",7:00p,REG,,Mount St. Mary's,NEC,L,66,79,,11,17,L 3,Detrick Gymnasium
+28,29,"Sat, Feb 23, 2019",3:30p,REG,,Sacred Heart,NEC,L,66,80,,11,18,L 4,Detrick Gymnasium
+29,30,"Thu, Feb 28, 2019",7:00p,REG,@,Long Island University,NEC,L,55,84,,11,19,L 5,Steinberg Wellness Center
+30,31,"Sat, Mar 2, 2019",1:00p,REG,,Fairleigh Dickinson,NEC,L,58,70,,11,20,L 6,Detrick Gymnasium

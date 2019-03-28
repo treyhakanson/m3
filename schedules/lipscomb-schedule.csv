@@ -1,0 +1,37 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:15p,REG,,Sewanee,,W,97,53,,1,0,W 1,Allen Arena
+1,2,"Sat, Nov 10, 2018",4:00p,REG,,Tennessee State,OVC,W,86,79,,2,0,W 2,Allen Arena
+2,3,"Thu, Nov 15, 2018",7:30p,REG,,Belmont,OVC,L,83,87,,2,1,L 1,Allen Arena
+3,4,"Sat, Nov 17, 2018",7:00p,REG,@,Southern Methodist,AAC,W,79,73,,3,1,W 1,Moody Coliseum
+4,5,"Tue, Nov 20, 2018",8:00p,REG,@,Texas Christian (18),Big 12,W,73,64,,4,1,W 2,Ed & Rae Schollmaier Arena
+5,6,"Sun, Nov 25, 2018",2:05p,REG,@,Morehead State,OVC,W,87,55,,5,1,W 3,Ellis T. Johnson Arena
+6,7,"Sat, Dec 1, 2018",6:00p,REG,@,Middle Tennessee,CUSA,W,84,74,,6,1,W 4,Murphy Athletic Center
+7,8,"Tue, Dec 4, 2018",8:00p,REG,@,Belmont,OVC,L,74,76,,6,2,L 1,Curb Event Center
+8,9,"Sun, Dec 9, 2018",2:30p,REG,,Navy,Patriot,W,107,81,,7,2,W 1,Allen Arena
+9,10,"Wed, Dec 12, 2018",7:00p,REG,@,Louisville,ACC,L,68,72,,7,3,L 1,KFC Yum! Center
+10,11,"Mon, Dec 17, 2018",7:30p,REG,,Covenant,,W,119,48,,8,3,W 1,Allen Arena
+11,12,"Fri, Dec 21, 2018",8:15p,REG,,Vermont,AEC,W,91,66,,9,3,W 2,Allen Arena
+12,13,"Sun, Dec 30, 2018",3:00p,REG,@,Clemson,ACC,L,67,84,,9,4,L 1,Littlejohn Coliseum
+13,14,"Sat, Jan 5, 2019",6:00p,REG,@,Jacksonville,A-Sun,W,77,74,,10,4,W 1,Swisher Gymnasium
+14,15,"Wed, Jan 9, 2019",7:30p,REG,,North Florida,A-Sun,W,81,66,,11,4,W 2,Allen Arena
+15,16,"Sat, Jan 12, 2019",5:00p,REG,,Stetson,A-Sun,W,95,71,,12,4,W 3,Allen Arena
+16,17,"Wed, Jan 16, 2019",7:00p,REG,@,NJIT,A-Sun,W,70,52,,13,4,W 4,NJIT Wellness and Events Center
+17,18,"Mon, Jan 21, 2019",7:30p,REG,,Kennesaw State,A-Sun,W,86,57,,14,4,W 5,Allen Arena
+18,19,"Thu, Jan 24, 2019",7:30p,REG,,Florida Gulf Coast,A-Sun,W,89,81,,15,4,W 6,Allen Arena
+19,20,"Sun, Jan 27, 2019",4:00p,REG,@,Stetson,A-Sun,W,88,65,,16,4,W 7,Edmunds Center
+20,21,"Tue, Jan 29, 2019",7:00p,REG,@,Liberty,A-Sun,W,79,59,,17,4,W 8,Vines Center
+21,22,"Sat, Feb 2, 2019",5:00p,REG,,North Alabama,A-Sun,W,102,80,,18,4,W 9,Allen Arena
+22,23,"Wed, Feb 6, 2019",7:00p,REG,@,North Florida,A-Sun,W,92,55,,19,4,W 10,UNF Arena 
+23,24,"Sat, Feb 9, 2019",5:00p,REG,,Jacksonville,A-Sun,W,86,77,,20,4,W 11,Allen Arena
+24,25,"Wed, Feb 13, 2019",7:30p,REG,,Liberty,A-Sun,L,66,74,,20,5,L 1,Allen Arena
+25,26,"Sat, Feb 16, 2019",4:30p,REG,@,Kennesaw State,A-Sun,W,83,67,,21,5,W 1,KSU Convocation Center 
+26,27,"Wed, Feb 20, 2019",7:00p,REG,@,Florida Gulf Coast,A-Sun,L,61,67,,21,6,L 1,Alico Arena
+27,28,"Mon, Feb 25, 2019",7:30p,REG,,NJIT,A-Sun,W,81,77,,22,6,W 1,Allen Arena
+28,29,"Fri, Mar 1, 2019",7:00p,REG,@,North Alabama,A-Sun,W,87,75,,23,6,W 2,Flowers Hall
+29,30,"Mon, Mar 4, 2019",8:00p,CTOURN,,Kennesaw State,A-Sun,W,86,71,,24,6,W 3,Allen Arena
+30,31,"Thu, Mar 7, 2019",8:00p,CTOURN,,NJIT,A-Sun,W,78,55,,25,6,W 4,Allen Arena
+31,32,"Sun, Mar 10, 2019",3:00p,CTOURN,,Liberty,A-Sun,L,68,74,,25,7,L 1,Allen Arena
+32,33,"Tue, Mar 19, 2019",7:00p,NIT,@,Davidson,A-10,W,89,81,,26,7,W 1,Belk Arena
+33,34,"Sat, Mar 23, 2019",2:00p,NIT,@,North Carolina-Greensboro,Southern,W,86,69,,27,7,W 2,Greensboro Coliseum
+34,35,"Wed, Mar 27, 2019",9:00p,NIT,@,North Carolina State,ACC,W,94,93,,28,7,W 3,Reynolds Coliseum
+35,36,"Tue, Apr 2, 2019",7:00p,NIT,N,Wichita State,AAC,,,,,,,,

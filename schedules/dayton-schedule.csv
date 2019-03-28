@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",7:00p,REG,,North Florida,A-Sun,W,78,70,,1,0,W 1,University of Dayton Arena
+1,2,"Sat, Nov 10, 2018",7:00p,REG,,Coppin State,MEAC,W,76,46,,2,0,W 2,University of Dayton Arena
+2,3,"Fri, Nov 16, 2018",7:00p,REG,,Purdue-Fort Wayne,Summit,W,91,80,,3,0,W 3,University of Dayton Arena
+3,4,"Wed, Nov 21, 2018",7:00p,REG,N,Butler,Big East,W,69,64,,4,0,W 4,Imperial Arena at Atlantis Resort
+4,5,"Thu, Nov 22, 2018",3:30p,REG,N,Virginia (4),ACC,L,59,66,,4,1,L 1,Imperial Arena at Atlantis Resort
+5,6,"Fri, Nov 23, 2018",11:30a,REG,N,Oklahoma,Big 12,L,54,65,,4,2,L 2,Imperial Arena at Atlantis Resort
+6,7,"Fri, Nov 30, 2018",7:00p,REG,,Mississippi State (25),SEC,L,58,65,,4,3,L 3,University of Dayton Arena
+7,8,"Tue, Dec 4, 2018",7:00p,REG,,Detroit Mercy,Horizon,W,98,59,,5,3,W 1,University of Dayton Arena
+8,9,"Sat, Dec 8, 2018",8:30p,REG,@,Auburn (8),SEC,L,72,82,,5,4,L 1,Auburn Arena
+9,10,"Sun, Dec 16, 2018",3:30p,REG,N,Tulsa,AAC,L,67,72,,5,5,L 2,Mohegan Sun Arena
+10,11,"Wed, Dec 19, 2018",7:00p,REG,,Western Michigan,MAC,W,85,72,,6,5,W 1,University of Dayton Arena
+11,12,"Sat, Dec 22, 2018",2:00p,REG,,Presbyterian,Big South,W,81,69,,7,5,W 2,University of Dayton Arena
+12,13,"Sat, Dec 29, 2018",3:30p,REG,,Georgia Southern,Sun Belt,W,94,90,,8,5,W 3,University of Dayton Arena
+13,14,"Sun, Jan 6, 2019",12:00p,REG,,Richmond,A-10,W,72,48,,9,5,W 4,University of Dayton Arena
+14,15,"Wed, Jan 9, 2019",7:00p,REG,@,George Washington,A-10,W,72,66,,10,5,W 5,Charles E. Smith Center
+15,16,"Sun, Jan 13, 2019",3:30p,REG,,Massachusetts,A-10,W,72,67,,11,5,W 6,University of Dayton Arena
+16,17,"Wed, Jan 16, 2019",8:00p,REG,@,Virginia Commonwealth,A-10,L,71,76,,11,6,L 1,Stuart Siegel Center
+17,18,"Sat, Jan 19, 2019",4:30p,REG,@,St. Bonaventure,A-10,W,89,86,2OT,12,6,W 1,Reilly Center
+18,19,"Wed, Jan 23, 2019",7:00p,REG,,George Mason,A-10,L,63,67,,12,7,L 1,University of Dayton Arena
+19,20,"Sat, Jan 26, 2019",2:00p,REG,@,Fordham,A-10,W,75,52,,13,7,W 1,Rose Hill Gym
+20,21,"Tue, Jan 29, 2019",8:00p,REG,,Saint Joseph's,A-10,W,75,64,,14,7,W 2,University of Dayton Arena
+21,22,"Sat, Feb 2, 2019",2:00p,REG,,Duquesne,A-10,W,68,64,,15,7,W 3,University of Dayton Arena
+22,23,"Tue, Feb 5, 2019",9:00p,REG,@,Saint Louis,A-10,L,60,73,,15,8,L 1,Chaifetz Arena
+23,24,"Sat, Feb 9, 2019",4:00p,REG,@,Rhode Island,A-10,W,77,48,,16,8,W 1,Ryan Center
+24,25,"Sat, Feb 16, 2019",4:00p,REG,,Virginia Commonwealth,A-10,L,68,69,,16,9,L 1,University of Dayton Arena
+25,26,"Tue, Feb 19, 2019",6:00p,REG,@,Davidson,A-10,W,74,73,,17,9,W 1,Belk Arena
+26,27,"Sat, Feb 23, 2019",4:00p,REG,,Saint Louis,A-10,W,70,62,,18,9,W 2,University of Dayton Arena
+27,28,"Tue, Feb 26, 2019",7:00p,REG,@,Massachusetts,A-10,W,72,48,,19,9,W 3,Mullins Center
+28,29,"Fri, Mar 1, 2019",7:00p,REG,,Rhode Island,A-10,L,70,72,OT,19,10,L 1,University of Dayton Arena
+29,30,"Wed, Mar 6, 2019",7:00p,REG,,La Salle,A-10,W,70,39,,20,10,W 1,University of Dayton Arena
+30,31,"Sat, Mar 9, 2019",7:00p,REG,@,Duquesne,A-10,W,78,67,,21,10,W 2,A.J. Palumbo Center
+31,32,"Fri, Mar 15, 2019",8:30p,CTOURN,N,Saint Louis,A-10,L,55,64,,21,11,L 1,Barclays Center
+32,33,"Tue, Mar 19, 2019",11:00p,NIT,@,Colorado,Pac-12,L,73,78,,21,12,L 2,Coors Events/Conference Center

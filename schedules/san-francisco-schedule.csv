@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,@,UC-Davis,Big West,W,76,42,,1,0,W 1,The Pavilion
+1,2,"Sat, Nov 10, 2018",5:00p,REG,,Maine,AEC,W,93,50,,2,0,W 2,War Memorial Gymnasium
+2,3,"Mon, Nov 12, 2018",10:00p,REG,,Sonoma State,,W,88,54,,3,0,W 3,War Memorial Gymnasium
+3,4,"Sun, Nov 18, 2018",9:00p,REG,N,Long Island University,NEC,W,84,52,,4,0,W 4,Otter Sports Center
+4,5,"Wed, Nov 21, 2018",10:00p,REG,,Harvard,Ivy,W,61,57,,5,0,W 5,War Memorial Gymnasium
+5,6,"Sat, Nov 24, 2018",5:00p,REG,,Dartmouth,Ivy,W,84,65,,6,0,W 6,War Memorial Gymnasium
+6,7,"Fri, Nov 30, 2018",8:00a,REG,N,Stephen F. Austin,Southland,W,76,58,,7,0,W 7,SSE Arena
+7,8,"Sat, Dec 1, 2018",10:30a,REG,N,Buffalo (21),MAC,L,81,85,,7,1,L 1,SSE Arena
+8,9,"Wed, Dec 5, 2018",11:00p,REG,@,University of California,Pac-12,W,79,60,,8,1,W 1,Haas Pavilion
+9,10,"Thu, Dec 13, 2018",10:00p,REG,,Eastern Washington,Big Sky,W,85,63,,9,1,W 2,War Memorial Gymnasium
+10,11,"Sun, Dec 16, 2018",4:00p,REG,,Cal State Fullerton,Big West,W,68,54,,10,1,W 3,War Memorial Gymnasium
+11,12,"Wed, Dec 19, 2018",10:00p,REG,,Northern Arizona,Big Sky,W,76,60,,11,1,W 4,War Memorial Gymnasium
+12,13,"Sat, Dec 22, 2018",5:00p,REG,,Stanford,Pac-12,W,74,65,,12,1,W 5,War Memorial Gymnasium
+13,14,"Sat, Dec 29, 2018",10:00p,REG,@,UC-Santa Barbara,Big West,L,71,73,,12,2,L 1,The Thunderdome
+14,15,"Thu, Jan 3, 2019",9:00p,REG,,Saint Mary's (CA),WCC,W,76,72,,13,2,W 1,War Memorial Gymnasium
+15,16,"Sat, Jan 5, 2019",8:00p,REG,@,Pepperdine,WCC,W,72,69,,14,2,W 2,Firestone Fieldhouse
+16,17,"Sat, Jan 12, 2019",10:00p,REG,,Gonzaga (5),WCC,L,83,96,,14,3,L 1,War Memorial Gymnasium
+17,18,"Thu, Jan 17, 2019",9:00p,REG,@,Pacific,WCC,W,53,52,,15,3,W 1,A.G. Spanos Center
+18,19,"Sat, Jan 19, 2019",11:00p,REG,,Brigham Young,WCC,W,82,63,,16,3,W 2,War Memorial Gymnasium
+19,20,"Thu, Jan 24, 2019",10:00p,REG,,Portland,WCC,W,83,61,,17,3,W 3,War Memorial Gymnasium
+20,21,"Sat, Jan 26, 2019",10:00p,REG,@,San Diego,WCC,L,63,67,,17,4,L 1,Jenny Craig Pavillion
+21,22,"Sat, Feb 2, 2019",4:00p,REG,@,Saint Mary's (CA),WCC,L,80,86,,17,5,L 2,McKeon Pavilion
+22,23,"Thu, Feb 7, 2019",9:00p,REG,@,Gonzaga (4),WCC,L,62,92,,17,6,L 3,McCarthey Athletic Center
+23,24,"Sat, Feb 9, 2019",11:00p,REG,,Santa Clara,WCC,W,78,72,,18,6,W 1,War Memorial Gymnasium
+24,25,"Thu, Feb 14, 2019",10:00p,REG,,Pepperdine,WCC,W,89,77,,19,6,W 2,War Memorial Gymnasium
+25,26,"Sat, Feb 16, 2019",10:00p,REG,@,Portland,WCC,W,68,63,OT,20,6,W 3,Chiles Center
+26,27,"Thu, Feb 21, 2019",9:00p,REG,@,Brigham Young,WCC,W,77,71,,21,6,W 4,Marriott Center
+27,28,"Sat, Feb 23, 2019",11:00p,REG,@,Santa Clara,WCC,L,65,68,,21,7,L 1,Leavey Center
+28,29,"Thu, Feb 28, 2019",10:00p,REG,,San Diego,WCC,L,90,91,OT,21,8,L 2,War Memorial Gymnasium
+29,30,"Sat, Mar 2, 2019",4:00p,REG,,Loyola Marymount,WCC,L,69,74,,21,9,L 3,War Memorial Gymnasium
+30,31,"Sat, Mar 9, 2019",10:00p,CTOURN,N,Pepperdine,WCC,L,72,89,,21,10,L 4,Orleans Arena

@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,South Carolina,SEC,L,52,65,,0,1,L 1,The Colonial Life Arena
+1,2,"Sat, Nov 10, 2018",4:00p,REG,,Brevard,,W,86,43,,1,1,W 1,G.B. Hodge Center
+2,3,"Wed, Nov 14, 2018",7:00p,REG,@,Virginia Military Institute,Southern,L,72,78,,1,2,L 1,Cameron Hall
+3,4,"Wed, Nov 21, 2018",10:00p,REG,@,Portland,WCC,L,56,73,,1,3,L 2,Chiles Center
+4,5,"Fri, Nov 23, 2018",7:30p,REG,N,Texas State,Sun Belt,L,50,82,,1,4,L 3,Chiles Center
+5,6,"Sat, Nov 24, 2018",5:30p,REG,N,Cal Poly,Big West,L,74,75,OT,1,5,L 4,Chiles Center
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,Gardner-Webb,Big South,L,61,74,,1,6,L 5,G.B. Hodge Center
+7,8,"Sat, Dec 1, 2018",2:00p,REG,@,Western Michigan,MAC,W,71,66,,2,6,W 1,University Arena
+8,9,"Wed, Dec 5, 2018",7:30p,REG,@,Eastern Kentucky,OVC,L,77,79,,2,7,L 1,McBrayer Arena
+9,10,"Sat, Dec 8, 2018",4:30p,REG,,Furman (25),Southern,L,60,74,,2,8,L 2,G.B. Hodge Center
+10,11,"Sat, Dec 15, 2018",4:00p,REG,,South Carolina State,MEAC,W,88,84,,3,8,W 1,G.B. Hodge Center
+11,12,"Wed, Dec 19, 2018",11:00a,REG,,Truett-McConnell,,W,85,54,,4,8,W 2,G.B. Hodge Center
+12,13,"Sat, Dec 22, 2018",12:00p,REG,@,North Carolina State,ACC,L,71,98,,4,9,L 1,PNC Arena
+13,14,"Sat, Dec 29, 2018",4:00p,REG,,Coker,,W,89,69,,5,9,W 1,G.B. Hodge Center
+14,15,"Wed, Jan 2, 2019",7:30p,REG,@,Georgia Tech,ACC,L,63,79,,5,10,L 1,McCamish Pavilion
+15,16,"Sat, Jan 5, 2019",4:00p,REG,@,Presbyterian,Big South,L,61,64,,5,11,L 2,Ross E.Templeton Center
+16,17,"Thu, Jan 10, 2019",7:00p,REG,,Radford,Big South,L,72,79,,5,12,L 3,G.B. Hodge Center
+17,18,"Sat, Jan 12, 2019",5:00p,REG,@,Gardner-Webb,Big South,L,59,64,,5,13,L 4,Paul Porter Arena
+18,19,"Wed, Jan 16, 2019",7:00p,REG,@,High Point,Big South,L,54,71,,5,14,L 5,Millis Center
+19,20,"Sat, Jan 19, 2019",4:30p,REG,,Winthrop,Big South,L,72,82,,5,15,L 6,G.B. Hodge Center
+20,21,"Mon, Jan 21, 2019",4:00p,REG,,Presbyterian,Big South,L,59,68,,5,16,L 7,G.B. Hodge Center
+21,22,"Thu, Jan 24, 2019",7:00p,REG,@,Hampton,Big South,L,70,88,,5,17,L 8,Hampton Convocation Center
+22,23,"Sat, Jan 26, 2019",4:30p,REG,,Longwood,Big South,W,80,63,,6,17,W 1,G.B. Hodge Center
+23,24,"Wed, Jan 30, 2019",7:00p,REG,@,North Carolina-Asheville,Big South,L,62,71,,6,18,L 1,Kimmel Arena
+24,25,"Sat, Feb 2, 2019",4:30p,REG,,Charleston Southern,Big South,L,71,90,,6,19,L 2,G.B. Hodge Center
+25,26,"Sat, Feb 9, 2019",4:30p,REG,@,Campbell,Big South,L,66,82,,6,20,L 3,John W. Pope Jr. Convocation Center
+26,27,"Wed, Feb 13, 2019",7:00p,REG,,North Carolina-Asheville,Big South,L,53,57,,6,21,L 4,G.B. Hodge Center
+27,28,"Sat, Feb 16, 2019",3:00p,REG,@,Longwood,Big South,L,79,83,OT,6,22,L 5,Willett Hall
+28,29,"Thu, Feb 21, 2019",7:30p,REG,@,Charleston Southern,Big South,L,60,92,,6,23,L 6,CSU Fieldhouse
+29,30,"Wed, Feb 27, 2019",7:00p,REG,,Campbell,Big South,L,73,85,,6,24,L 7,G.B. Hodge Center
+30,31,"Sat, Mar 2, 2019",4:00p,REG,,Hampton,Big South,L,71,92,,6,25,L 8,G.B. Hodge Center
+31,32,"Tue, Mar 5, 2019",7:00p,CTOURN,@,Charleston Southern,Big South,L,52,71,,6,26,L 9,CSU Fieldhouse

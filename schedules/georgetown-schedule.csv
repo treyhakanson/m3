@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:30p,REG,,Maryland-Eastern Shore,MEAC,W,68,53,,1,0,W 1,Capital One Arena
+1,2,"Sat, Nov 10, 2018",6:00p,REG,,Central Connecticut State,NEC,W,85,78,,2,0,W 2,Capital One Arena
+2,3,"Tue, Nov 13, 2018",8:30p,REG,@,Illinois,Big Ten,W,88,80,,3,0,W 3,State Farm Center
+3,4,"Fri, Nov 16, 2018",7:00p,REG,N,Loyola Marymount,WCC,L,52,65,,3,1,L 1,Montego Bay Convention Centre
+4,5,"Sun, Nov 18, 2018",12:00p,REG,N,South Florida,AAC,W,76,73,OT,4,1,W 1,Montego Bay Convention Centre
+5,6,"Sat, Nov 24, 2018",12:00p,REG,,Campbell,Big South,W,93,85,,5,1,W 2,Capital One Arena
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,Richmond,A-10,W,90,82,,6,1,W 3,Capital One Arena
+7,8,"Mon, Dec 3, 2018",6:30p,REG,,Liberty,A-Sun,W,88,78,,7,1,W 4,Capital One Arena
+8,9,"Sat, Dec 8, 2018",3:30p,REG,@,Syracuse,ACC,L,71,72,,7,2,L 1,Carrier Dome
+9,10,"Sat, Dec 15, 2018",12:00p,REG,,Southern Methodist,AAC,L,73,81,,7,3,L 2,Capital One Arena
+10,11,"Tue, Dec 18, 2018",6:30p,REG,,Appalachian State,Sun Belt,W,83,73,,8,3,W 1,Capital One Arena
+11,12,"Sat, Dec 22, 2018",12:00p,REG,,Little Rock,Sun Belt,W,102,94,OT,9,3,W 2,Capital One Arena
+12,13,"Sat, Dec 29, 2018",12:00p,REG,,Howard,MEAC,W,102,67,,10,3,W 3,Capital One Arena
+13,14,"Wed, Jan 2, 2019",7:00p,REG,@,Butler,Big East,W,84,76,,11,3,W 4,Hinkle Fieldhouse
+14,15,"Sat, Jan 5, 2019",1:00p,REG,,St. John's (NY),Big East,L,94,97,OT,11,4,L 1,Capital One Arena
+15,16,"Wed, Jan 9, 2019",6:30p,REG,@,Xavier,Big East,L,75,81,,11,5,L 2,Cintas Center
+16,17,"Sat, Jan 12, 2019",12:00p,REG,,Providence,Big East,W,96,90,2OT,12,5,W 1,Capital One Arena
+17,18,"Tue, Jan 15, 2019",8:30p,REG,,Marquette (15),Big East,L,71,74,,12,6,L 1,Capital One Arena
+18,19,"Mon, Jan 21, 2019",8:30p,REG,,Creighton,Big East,L,87,91,,12,7,L 2,Capital One Arena
+19,20,"Sun, Jan 27, 2019",12:00p,REG,@,St. John's (NY),Big East,W,89,78,,13,7,W 1,Madison Square Garden (IV)
+20,21,"Thu, Jan 31, 2019",8:00p,REG,,Xavier,Big East,W,80,73,,14,7,W 2,Capital One Arena
+21,22,"Sun, Feb 3, 2019",12:00p,REG,@,Villanova (14),Big East,L,65,77,,14,8,L 1,Wells Fargo Center
+22,23,"Wed, Feb 6, 2019",7:30p,REG,@,Providence,Big East,W,76,67,,15,8,W 1,Dunkin' Donuts Center
+23,24,"Sat, Feb 9, 2019",12:00p,REG,,Butler,Big East,L,69,73,,15,9,L 1,Capital One Arena
+24,25,"Wed, Feb 13, 2019",8:30p,REG,@,Seton Hall,Big East,L,75,90,,15,10,L 2,Prudential Center
+25,26,"Wed, Feb 20, 2019",6:30p,REG,,Villanova (17),Big East,W,85,73,,16,10,W 1,Capital One Arena
+26,27,"Sat, Feb 23, 2019",2:30p,REG,@,Creighton,Big East,L,69,82,,16,11,L 1,CenturyLink Center
+27,28,"Wed, Feb 27, 2019",7:00p,REG,,DePaul,Big East,W,82,73,,17,11,W 1,Capital One Arena
+28,29,"Sat, Mar 2, 2019",6:30p,REG,,Seton Hall,Big East,W,77,71,2OT,18,11,W 2,Capital One Arena
+29,30,"Wed, Mar 6, 2019",8:30p,REG,@,DePaul,Big East,L,69,101,,18,12,L 1,Wintrust Arena
+30,31,"Sat, Mar 9, 2019",2:30p,REG,@,Marquette (16),Big East,W,86,84,,19,12,W 1,Fiserv Forum
+31,32,"Thu, Mar 14, 2019",9:30p,CTOURN,N,Seton Hall,Big East,L,57,73,,19,13,L 1,Madison Square Garden (IV)
+32,33,"Wed, Mar 20, 2019",7:00p,NIT,,Harvard,Ivy,L,68,71,,19,14,L 2,McDonough Gymnasium

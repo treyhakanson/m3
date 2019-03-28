@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Sat, Nov 10, 2018",2:00p,REG,,North Carolina A&T,MEAC,W,90,78,,1,0,W 1,Lawrence Joel Coliseum
+1,2,"Thu, Nov 15, 2018",11:30a,REG,N,Saint Joseph's,A-10,L,69,89,,1,1,L 1,The HTC Center
+2,3,"Fri, Nov 16, 2018",11:00a,REG,N,Cal State Fullerton,Big West,W,66,59,,2,1,W 1,The HTC Center
+3,4,"Sun, Nov 18, 2018",10:30a,REG,N,Valparaiso,MVC,W,69,63,,3,1,W 2,The HTC Center
+4,5,"Fri, Nov 23, 2018",2:00p,REG,,Houston Baptist,Southland,L,91,93,OT,3,2,L 1,Lawrence Joel Coliseum
+5,6,"Tue, Nov 27, 2018",7:00p,REG,,Western Carolina,Southern,W,71,64,,4,2,W 1,Lawrence Joel Coliseum
+6,7,"Sat, Dec 1, 2018",7:30p,REG,@,Richmond,A-10,L,74,84,,4,3,L 1,Robins Center
+7,8,"Thu, Dec 6, 2018",7:00p,REG,,Charlotte,CUSA,W,80,56,,5,3,W 1,Lawrence Joel Coliseum
+8,9,"Mon, Dec 17, 2018",7:00p,REG,,Davidson,A-10,W,67,63,,6,3,W 2,Lawrence Joel Coliseum
+9,10,"Sat, Dec 22, 2018",12:00p,REG,@,Tennessee (3),SEC,L,64,83,,6,4,L 1,Thompson-Boling Arena
+10,11,"Sat, Dec 29, 2018",2:00p,REG,,Gardner-Webb,Big South,L,69,73,,6,5,L 2,Lawrence Joel Coliseum
+11,12,"Wed, Jan 2, 2019",7:00p,REG,,Cornell,Ivy,W,83,61,,7,5,W 1,Lawrence Joel Coliseum
+12,13,"Sat, Jan 5, 2019",2:00p,REG,@,Georgia Tech,ACC,L,79,92,,7,6,L 1,McCamish Pavilion
+13,14,"Tue, Jan 8, 2019",7:00p,REG,,Duke (1),ACC,L,65,87,,7,7,L 2,Lawrence Joel Coliseum
+14,15,"Sat, Jan 12, 2019",2:00p,REG,@,Miami (FL),ACC,L,65,76,,7,8,L 3,BankUnited Center
+15,16,"Tue, Jan 15, 2019",8:00p,REG,,North Carolina State (17),ACC,W,71,67,,8,8,W 1,Lawrence Joel Coliseum
+16,17,"Sat, Jan 19, 2019",4:00p,REG,@,Virginia Tech (9),ACC,L,71,87,,8,9,L 1,Cassell Coliseum
+17,18,"Tue, Jan 22, 2019",9:00p,REG,@,Virginia (3),ACC,L,45,68,,8,10,L 2,John Paul Jones Arena
+18,19,"Sat, Jan 26, 2019",4:00p,REG,,Boston College,ACC,L,61,65,,8,11,L 3,Lawrence Joel Coliseum
+19,20,"Wed, Jan 30, 2019",8:00p,REG,,Louisville (15),ACC,L,54,82,,8,12,L 4,Lawrence Joel Coliseum
+20,21,"Sun, Feb 3, 2019",12:00p,REG,@,Clemson,ACC,L,37,64,,8,13,L 5,Littlejohn Coliseum
+21,22,"Tue, Feb 5, 2019",7:00p,REG,,Pittsburgh,ACC,W,78,76,OT,9,13,W 1,Lawrence Joel Coliseum
+22,23,"Wed, Feb 13, 2019",7:00p,REG,@,Florida State (17),ACC,L,66,88,,9,14,L 1,Donald L. Tucker Center
+23,24,"Sat, Feb 16, 2019",12:00p,REG,,North Carolina (8),ACC,L,57,95,,9,15,L 2,Lawrence Joel Coliseum
+24,25,"Tue, Feb 19, 2019",7:00p,REG,@,Notre Dame,ACC,W,75,68,,10,15,W 1,Purcell Pavilion at the Joyce Center
+25,26,"Sun, Feb 24, 2019",6:00p,REG,@,North Carolina State,ACC,L,74,94,,10,16,L 1,PNC Arena
+26,27,"Tue, Feb 26, 2019",7:00p,REG,,Miami (FL),ACC,W,76,75,,11,16,W 1,Lawrence Joel Coliseum
+27,28,"Sat, Mar 2, 2019",12:00p,REG,,Syracuse,ACC,L,54,79,,11,17,L 1,Lawrence Joel Coliseum
+28,29,"Tue, Mar 5, 2019",7:00p,REG,@,Duke (4),ACC,L,70,71,,11,18,L 2,Cameron Indoor Stadium
+29,30,"Sat, Mar 9, 2019",12:00p,REG,,Florida State (14),ACC,L,57,65,,11,19,L 3,Lawrence Joel Coliseum
+30,31,"Tue, Mar 12, 2019",12:00p,CTOURN,N,Miami (FL),ACC,L,71,79,,11,20,L 4,Spectrum Center

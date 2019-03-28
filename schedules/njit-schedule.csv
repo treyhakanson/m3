@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Colgate,Patriot,W,81,78,OT,1,0,W 1,NJIT Wellness and Events Center
+1,2,"Fri, Nov 9, 2018",8:00p,REG,@,Binghamton,AEC,W,74,57,,2,0,W 2,Binghamton University Events Center
+2,3,"Sun, Nov 11, 2018",2:00p,REG,,Brown,Ivy,W,63,60,,3,0,W 3,NJIT Wellness and Events Center
+3,4,"Wed, Nov 14, 2018",7:00p,REG,,Kean,,W,73,40,,4,0,W 4,NJIT Wellness and Events Center
+4,5,"Sat, Nov 17, 2018",4:00p,REG,,Cornell,Ivy,L,73,86,,4,1,L 1,NJIT Wellness and Events Center
+5,6,"Tue, Nov 20, 2018",7:00p,REG,@,Wagner,NEC,W,71,60,,5,1,W 1,Spiro Sports Center
+6,7,"Sat, Nov 24, 2018",2:00p,REG,@,Long Island University,NEC,W,77,70,,6,1,W 2,Steinberg Wellness Center
+7,8,"Wed, Nov 28, 2018",7:00p,REG,@,Drexel,CAA,W,70,67,,7,1,W 3,Daskalakis Athletic Center
+8,9,"Sat, Dec 1, 2018",2:00p,REG,@,Massachusetts-Lowell,AEC,L,71,94,,7,2,L 1,Tsongas Center
+9,10,"Tue, Dec 4, 2018",7:00p,REG,,Army,Patriot,W,77,72,,8,2,W 1,NJIT Wellness and Events Center
+10,11,"Sat, Dec 8, 2018",4:00p,REG,,St. Francis (NY),NEC,W,82,60,,9,2,W 2,NJIT Wellness and Events Center
+11,12,"Tue, Dec 11, 2018",8:00p,REG,@,Fordham,A-10,W,53,50,,10,2,W 3,Rose Hill Gym
+12,13,"Sat, Dec 15, 2018",7:00p,REG,@,Fairleigh Dickinson,NEC,W,90,80,,11,2,W 4,Rothman Center
+13,14,"Sat, Dec 29, 2018",4:00p,REG,@,Houston (22),AAC,L,59,80,,11,3,L 1,Hofheinz Pavilion
+14,15,"Mon, Dec 31, 2018",2:00p,REG,@,Duquesne,A-10,W,78,67,,12,3,W 1,A.J. Palumbo Center
+15,16,"Sat, Jan 5, 2019",4:00p,REG,,Kennesaw State,A-Sun,W,72,52,,13,3,W 2,NJIT Wellness and Events Center
+16,17,"Sat, Jan 12, 2019",4:30p,REG,@,North Alabama,A-Sun,L,55,61,,13,4,L 1,Flowers Hall
+17,18,"Wed, Jan 16, 2019",7:00p,REG,,Lipscomb,A-Sun,L,52,70,,13,5,L 2,NJIT Wellness and Events Center
+18,19,"Sat, Jan 19, 2019",4:00p,REG,,Jacksonville,A-Sun,W,77,74,,14,5,W 1,NJIT Wellness and Events Center
+19,20,"Mon, Jan 21, 2019",7:00p,REG,@,North Florida,A-Sun,W,76,72,,15,5,W 2,UNF Arena 
+20,21,"Thu, Jan 24, 2019",7:00p,REG,@,Stetson,A-Sun,W,82,59,,16,5,W 3,Edmunds Center
+21,22,"Sun, Jan 27, 2019",4:00p,REG,,North Alabama,A-Sun,W,76,70,OT,17,5,W 4,NJIT Wellness and Events Center
+22,23,"Wed, Jan 30, 2019",7:00p,REG,,Florida Gulf Coast,A-Sun,W,66,54,,18,5,W 5,NJIT Wellness and Events Center
+23,24,"Sat, Feb 2, 2019",7:00p,REG,@,Liberty,A-Sun,L,57,77,,18,6,L 1,Vines Center
+24,25,"Sat, Feb 9, 2019",4:30p,REG,@,Kennesaw State,A-Sun,L,62,63,,18,7,L 2,KSU Convocation Center 
+25,26,"Wed, Feb 13, 2019",7:00p,REG,@,Florida Gulf Coast,A-Sun,L,55,57,,18,8,L 3,Alico Arena
+26,27,"Sat, Feb 16, 2019",4:00p,REG,,North Florida,A-Sun,L,63,64,,18,9,L 4,NJIT Wellness and Events Center
+27,28,"Wed, Feb 20, 2019",7:00p,REG,,Stetson,A-Sun,W,82,77,,19,9,W 1,NJIT Wellness and Events Center
+28,29,"Sat, Feb 23, 2019",6:00p,REG,@,Jacksonville,A-Sun,W,77,73,,20,9,W 2,Swisher Gymnasium
+29,30,"Mon, Feb 25, 2019",7:30p,REG,@,Lipscomb,A-Sun,L,77,81,,20,10,L 1,Allen Arena
+30,31,"Fri, Mar 1, 2019",7:00p,REG,,Liberty,A-Sun,L,51,57,,20,11,L 2,NJIT Wellness and Events Center
+31,32,"Mon, Mar 4, 2019",7:00p,CTOURN,@,Florida Gulf Coast,A-Sun,W,83,78,,21,11,W 1,Alico Arena
+32,33,"Thu, Mar 7, 2019",8:00p,CTOURN,@,Lipscomb,A-Sun,L,55,78,,21,12,L 1,Allen Arena
+33,34,"Mon, Mar 18, 2019",7:00p,CIT,,Quinnipiac,MAAC,W,92,81,,22,12,W 1,NJIT Wellness and Events Center
+34,35,"Thu, Mar 28, 2019",7:00p,CIT,,Hampton,Big South,,,,,,,,

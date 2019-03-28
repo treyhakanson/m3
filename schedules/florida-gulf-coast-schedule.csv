@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,Illinois State,MVC,L,66,74,,0,1,L 1,Redbird Arena
+1,2,"Thu, Nov 8, 2018",7:00p,REG,,Southeastern,,W,81,54,,1,1,W 1,Alico Arena
+2,3,"Sun, Nov 11, 2018",6:00p,REG,@,Michigan State (10),Big Ten,L,82,106,,1,2,L 1,Breslin Events Center
+3,4,"Fri, Nov 16, 2018",8:00p,REG,,South Dakota State,Summit,W,84,78,,2,2,W 1,Alico Arena
+4,5,"Mon, Nov 19, 2018",7:30p,REG,N,Toledo,MAC,L,62,90,,2,3,L 1,Germain Arena
+5,6,"Tue, Nov 20, 2018",1:30p,REG,N,Colorado State,MWC,L,74,82,,2,4,L 2,Germain Arena
+6,7,"Wed, Nov 21, 2018",11:00a,REG,N,Texas-San Antonio,CUSA,L,65,76,,2,5,L 3,Germain Arena
+7,8,"Sun, Nov 25, 2018",3:00p,REG,@,Florida Atlantic,CUSA,L,68,85,,2,6,L 4,FAU Arena
+8,9,"Wed, Nov 28, 2018",7:30p,REG,,Florida International,CUSA,L,80,81,,2,7,L 5,Alico Arena
+9,10,"Sun, Dec 2, 2018",1:30p,REG,,Colgate,Patriot,L,56,74,,2,8,L 6,Alico Arena
+10,11,"Wed, Dec 5, 2018",8:00p,REG,@,Oral Roberts,Summit,W,96,76,,3,8,W 1,Mabee Center
+11,12,"Sun, Dec 16, 2018",7:00p,REG,@,Maryland-Baltimore County,AEC,W,76,53,,4,8,W 2,UMBC Event Center
+12,13,"Wed, Dec 19, 2018",7:30p,REG,,Keiser,,W,87,85,,5,8,W 3,Alico Arena
+13,14,"Sat, Dec 22, 2018",5:00p,REG,N,Florida,SEC,L,56,77,,5,9,L 1,BB&T Center
+14,15,"Sat, Dec 29, 2018",2:00p,REG,@,Mississippi,SEC,L,57,87,,5,10,L 2,The Pavilion at Ole Miss
+15,16,"Sat, Jan 5, 2019",7:00p,REG,,Liberty,A-Sun,L,63,81,,5,11,L 3,Alico Arena
+16,17,"Tue, Jan 8, 2019",9:00p,REG,@,North Alabama,A-Sun,L,56,61,,5,12,L 4,Flowers Hall
+17,18,"Sat, Jan 12, 2019",5:00p,REG,@,North Florida,A-Sun,L,66,87,,5,13,L 5,UNF Arena 
+18,19,"Sat, Jan 19, 2019",4:30p,REG,@,Kennesaw State,A-Sun,W,72,59,,6,13,W 1,KSU Convocation Center 
+19,20,"Mon, Jan 21, 2019",7:00p,REG,,Stetson,A-Sun,W,87,65,,7,13,W 2,Alico Arena
+20,21,"Thu, Jan 24, 2019",7:30p,REG,@,Lipscomb,A-Sun,L,81,89,,7,14,L 1,Allen Arena
+21,22,"Sun, Jan 27, 2019",5:00p,REG,,North Florida,A-Sun,W,88,80,,8,14,W 1,Alico Arena
+22,23,"Wed, Jan 30, 2019",7:00p,REG,@,NJIT,A-Sun,L,54,66,,8,15,L 1,NJIT Wellness and Events Center
+23,24,"Sat, Feb 2, 2019",7:00p,REG,,Jacksonville,A-Sun,W,73,60,,9,15,W 1,Alico Arena
+24,25,"Wed, Feb 6, 2019",7:00p,REG,,North Alabama,A-Sun,W,71,64,,10,15,W 2,Alico Arena
+25,26,"Sat, Feb 9, 2019",7:00p,REG,@,Liberty,A-Sun,L,67,74,,10,16,L 1,Vines Center
+26,27,"Wed, Feb 13, 2019",7:00p,REG,,NJIT,A-Sun,W,57,55,,11,16,W 1,Alico Arena
+27,28,"Sat, Feb 16, 2019",4:00p,REG,@,Stetson,A-Sun,L,55,67,,11,17,L 1,Edmunds Center
+28,29,"Wed, Feb 20, 2019",7:00p,REG,,Lipscomb,A-Sun,W,67,61,,12,17,W 1,Alico Arena
+29,30,"Sat, Feb 23, 2019",7:00p,REG,,Kennesaw State,A-Sun,W,78,56,,13,17,W 2,Alico Arena
+30,31,"Fri, Mar 1, 2019",7:00p,REG,@,Jacksonville,A-Sun,W,77,74,,14,17,W 3,Swisher Gymnasium
+31,32,"Mon, Mar 4, 2019",7:00p,CTOURN,,NJIT,A-Sun,L,78,83,,14,18,L 1,Alico Arena

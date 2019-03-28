@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",6:30p,REG,,Chicago State,WAC,W,104,55,,1,0,W 1,Assembly Hall
+1,2,"Fri, Nov 9, 2018",8:00p,REG,,Montana State,Big Sky,W,80,35,,2,0,W 2,Assembly Hall
+2,3,"Wed, Nov 14, 2018",8:30p,REG,,Marquette (24),Big East,W,96,73,,3,0,W 3,Assembly Hall
+3,4,"Sun, Nov 18, 2018",3:30p,REG,@,Arkansas,SEC,L,72,73,,3,1,L 1,Bud Walton Arena
+4,5,"Tue, Nov 20, 2018",7:00p,REG,,Texas-Arlington,Sun Belt,W,78,64,,4,1,W 1,Assembly Hall
+5,6,"Fri, Nov 23, 2018",7:00p,REG,,UC-Davis,Big West,W,76,62,,5,1,W 2,Assembly Hall
+6,7,"Tue, Nov 27, 2018",9:30p,REG,@,Duke (3),ACC,L,69,90,,5,2,L 1,Cameron Indoor Stadium
+7,8,"Sat, Dec 1, 2018",1:00p,REG,,Northwestern,Big Ten,W,68,66,,6,2,W 1,Assembly Hall
+8,9,"Tue, Dec 4, 2018",7:00p,REG,@,Penn State,Big Ten,W,64,62,,7,2,W 2,Bryce Jordan Center
+9,10,"Sat, Dec 8, 2018",2:30p,REG,,Louisville,ACC,W,68,67,,8,2,W 3,Assembly Hall
+10,11,"Sat, Dec 15, 2018",3:45p,REG,N,Butler,Big East,W,71,68,,9,2,W 4,Bankers Life Fieldhouse
+11,12,"Wed, Dec 19, 2018",7:00p,REG,,Central Arkansas,Southland,W,86,53,,10,2,W 5,Assembly Hall
+12,13,"Sat, Dec 22, 2018",6:00p,REG,,Jacksonville,A-Sun,W,94,64,,11,2,W 6,Assembly Hall
+13,14,"Thu, Jan 3, 2019",7:00p,REG,,Illinois,Big Ten,W,73,65,,12,2,W 7,Assembly Hall
+14,15,"Sun, Jan 6, 2019",4:30p,REG,@,Michigan (2),Big Ten,L,63,74,,12,3,L 1,Crisler Arena
+15,16,"Fri, Jan 11, 2019",7:00p,REG,@,Maryland,Big Ten,L,75,78,,12,4,L 2,Xfinity Center
+16,17,"Mon, Jan 14, 2019",6:30p,REG,,Nebraska,Big Ten,L,51,66,,12,5,L 3,Assembly Hall
+17,18,"Sat, Jan 19, 2019",2:00p,REG,@,Purdue,Big Ten,L,55,70,,12,6,L 4,Mackey Arena
+18,19,"Tue, Jan 22, 2019",9:00p,REG,@,Northwestern,Big Ten,L,66,73,,12,7,L 5,Welsh-Ryan Arena
+19,20,"Fri, Jan 25, 2019",6:30p,REG,,Michigan (5),Big Ten,L,46,69,,12,8,L 6,Assembly Hall
+20,21,"Wed, Jan 30, 2019",7:00p,REG,@,Rutgers,Big Ten,L,58,66,,12,9,L 7,Louis Brown Athletic Center
+21,22,"Sat, Feb 2, 2019",6:00p,REG,@,Michigan State (6),Big Ten,W,79,75,OT,13,9,W 1,Breslin Events Center
+22,23,"Thu, Feb 7, 2019",9:00p,REG,,Iowa (20),Big Ten,L,72,77,,13,10,L 1,Assembly Hall
+23,24,"Sun, Feb 10, 2019",1:00p,REG,,Ohio State,Big Ten,L,52,55,,13,11,L 2,Assembly Hall
+24,25,"Sat, Feb 16, 2019",2:00p,REG,@,Minnesota,Big Ten,L,63,84,,13,12,L 3,Williams Arena
+25,26,"Tue, Feb 19, 2019",7:00p,REG,,Purdue (15),Big Ten,L,46,48,,13,13,L 4,Assembly Hall
+26,27,"Fri, Feb 22, 2019",9:15p,REG,@,Iowa (21),Big Ten,L,70,76,OT,13,14,L 5,Carver-Hawkeye Arena
+27,28,"Tue, Feb 26, 2019",9:00p,REG,,Wisconsin (19),Big Ten,W,75,73,2OT,14,14,W 1,Assembly Hall
+28,29,"Sat, Mar 2, 2019",12:00p,REG,,Michigan State (6),Big Ten,W,63,62,,15,14,W 2,Assembly Hall
+29,30,"Thu, Mar 7, 2019",8:00p,REG,@,Illinois,Big Ten,W,92,74,,16,14,W 3,State Farm Center
+30,31,"Sun, Mar 10, 2019",12:00p,REG,,Rutgers,Big Ten,W,89,73,,17,14,W 4,Assembly Hall
+31,32,"Thu, Mar 14, 2019",12:30p,CTOURN,N,Ohio State,Big Ten,L,75,79,,17,15,L 1,United Center
+32,33,"Tue, Mar 19, 2019",7:00p,NIT,,Saint Francis (PA),NEC,W,89,72,,18,15,W 1,Assembly Hall
+33,34,"Sat, Mar 23, 2019",12:00p,NIT,,Arkansas,SEC,W,63,60,,19,15,W 2,Assembly Hall
+34,35,"Tue, Mar 26, 2019",7:00p,NIT,,Wichita State,AAC,L,63,73,,19,16,L 1,Assembly Hall
