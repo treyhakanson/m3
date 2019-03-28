@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",7:00p,REG,,Wilberforce,,W,97,61,,1,0,W 1,Convocation Center
+1,2,"Mon, Nov 12, 2018",7:00p,REG,,Campbell,Big South,W,81,73,,2,0,W 2,Convocation Center
+2,3,"Fri, Nov 16, 2018",4:30p,REG,N,South Florida,AAC,L,46,73,,2,1,L 1,Montego Bay Convention Centre
+3,4,"Sun, Nov 18, 2018",6:30p,REG,N,Loyola Marymount,WCC,L,56,65,,2,2,L 2,Montego Bay Convention Centre
+4,5,"Sat, Nov 24, 2018",2:00p,REG,,Austin Peay,OVC,W,85,82,OT,3,2,W 1,Convocation Center
+5,6,"Tue, Nov 27, 2018",7:00p,REG,,Iona,MAAC,W,89,65,,4,2,W 2,Convocation Center
+6,7,"Sat, Dec 1, 2018",3:30p,REG,,Marshall,CUSA,W,101,84,,5,2,W 3,Convocation Center
+7,8,"Wed, Dec 5, 2018",6:30p,REG,@,Xavier,Big East,L,61,82,,5,3,L 1,Cintas Center
+8,9,"Sat, Dec 8, 2018",3:30p,REG,,Radford,Big South,W,78,69,,6,3,W 1,Convocation Center
+9,10,"Sat, Dec 15, 2018",1:00p,REG,@,Detroit Mercy,Horizon,W,63,61,,7,3,W 2,Calihan Hall
+10,11,"Thu, Dec 20, 2018",7:00p,REG,@,Purdue,Big Ten,L,67,95,,7,4,L 1,Mackey Arena
+11,12,"Sun, Dec 30, 2018",2:00p,REG,,Florida International,CUSA,W,68,66,,8,4,W 1,Convocation Center
+12,13,"Sat, Jan 5, 2019",2:00p,REG,,Northern Illinois,MAC,L,66,72,OT,8,5,L 1,Convocation Center
+13,14,"Tue, Jan 8, 2019",7:00p,REG,@,Bowling Green State,MAC,L,63,82,,8,6,L 2,Stroh Center
+14,15,"Sat, Jan 12, 2019",12:00p,REG,@,Ball State,MAC,W,70,52,,9,6,W 1,Worthen Arena
+15,16,"Tue, Jan 15, 2019",7:00p,REG,,Kent State,MAC,L,52,66,,9,7,L 1,Convocation Center
+16,17,"Fri, Jan 18, 2019",7:00p,REG,@,Toledo,MAC,L,52,75,,9,8,L 2,John F. Savage Hall
+17,18,"Tue, Jan 22, 2019",7:00p,REG,,Western Michigan,MAC,W,81,76,,10,8,W 1,Convocation Center
+18,19,"Sat, Jan 26, 2019",2:00p,REG,,Ball State,MAC,W,78,74,,11,8,W 2,Convocation Center
+19,20,"Tue, Jan 29, 2019",6:00p,REG,@,Northern Illinois,MAC,L,60,71,,11,9,L 1,Convocation Center
+20,21,"Sat, Feb 2, 2019",3:30p,REG,,Akron,MAC,L,53,65,,11,10,L 2,Convocation Center
+21,22,"Sat, Feb 9, 2019",2:00p,REG,@,Miami (OH),MAC,L,59,79,,11,11,L 3,Millett Hall
+22,23,"Tue, Feb 12, 2019",7:00p,REG,,Eastern Michigan,MAC,L,57,66,,11,12,L 4,Convocation Center
+23,24,"Sat, Feb 16, 2019",4:30p,REG,@,Central Michigan,MAC,L,80,87,,11,13,L 5,McGuirk Arena
+24,25,"Tue, Feb 19, 2019",7:00p,REG,@,Buffalo (25),MAC,L,67,114,,11,14,L 6,Alumni Arena
+25,26,"Fri, Feb 22, 2019",6:30p,REG,,Bowling Green State,MAC,W,92,87,OT,12,14,W 1,Convocation Center
+26,27,"Tue, Feb 26, 2019",7:00p,REG,@,Kent State,MAC,L,73,78,,12,15,L 1,Memorial Athletic & Convocation Center
+27,28,"Sat, Mar 2, 2019",2:00p,REG,@,Akron,MAC,W,73,49,,13,15,W 1,James A. Rhodes Arena
+28,29,"Tue, Mar 5, 2019",7:00p,REG,,Buffalo (19),MAC,L,79,82,,13,16,L 1,Convocation Center
+29,30,"Fri, Mar 8, 2019",7:00p,REG,,Miami (OH),MAC,W,66,57,,14,16,W 1,Convocation Center
+30,31,"Mon, Mar 11, 2019",9:00p,CTOURN,@,Northern Illinois,MAC,L,61,80,,14,17,L 1,Convocation Center

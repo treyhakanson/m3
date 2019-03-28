@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",7:00p,REG,@,Eastern Kentucky,OVC,W,105,77,,1,0,W 1,McBrayer Arena
+1,2,"Sun, Nov 11, 2018",2:30p,REG,,Hofstra,CAA,W,76,72,,2,0,W 2,Henderson Center
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,Mount St. Mary's,NEC,W,98,75,,3,0,W 3,Henderson Center
+3,4,"Mon, Nov 19, 2018",7:00p,REG,,North Carolina A&T,MEAC,W,95,71,,4,0,W 4,Henderson Center
+4,5,"Fri, Nov 23, 2018",6:00p,REG,@,Maryland,Big Ten,L,67,104,,4,1,L 1,Xfinity Center
+5,6,"Wed, Nov 28, 2018",7:00p,REG,,William & Mary,CAA,W,84,64,,5,1,W 1,Henderson Center
+6,7,"Sat, Dec 1, 2018",3:30p,REG,@,Ohio,MAC,L,84,101,,5,2,L 1,Convocation Center
+7,8,"Wed, Dec 5, 2018",7:00p,REG,@,Duquesne,A-10,L,82,93,,5,3,L 2,A.J. Palumbo Center
+8,9,"Sat, Dec 8, 2018",2:30p,REG,,Toledo,MAC,L,74,75,OT,5,4,L 3,Henderson Center
+9,10,"Mon, Dec 10, 2018",7:00p,REG,,Morehead State,OVC,W,76,64,,6,4,W 1,Henderson Center
+10,11,"Sat, Dec 15, 2018",2:00p,REG,@,Akron,MAC,W,75,74,,7,4,W 2,James A. Rhodes Arena
+11,12,"Sat, Dec 22, 2018",2:00p,REG,@,Texas A&M,SEC,L,68,92,,7,5,L 1,Reed Arena
+12,13,"Mon, Dec 31, 2018",1:00p,REG,@,Virginia (4),ACC,L,64,100,,7,6,L 2,John Paul Jones Arena
+13,14,"Thu, Jan 3, 2019",7:00p,REG,@,Old Dominion,CUSA,W,70,67,,8,6,W 1,Ted Constant Convocation Ctr.
+14,15,"Sat, Jan 5, 2019",4:00p,REG,@,Charlotte,CUSA,W,85,84,,9,6,W 2,Dale F. Halton Arena
+15,16,"Sat, Jan 12, 2019",7:00p,REG,,Western Kentucky,CUSA,W,70,69,,10,6,W 3,Henderson Center
+16,17,"Thu, Jan 17, 2019",7:00p,REG,,Florida Atlantic,CUSA,W,96,84,,11,6,W 4,Henderson Center
+17,18,"Sat, Jan 19, 2019",7:00p,REG,,Florida International,CUSA,W,105,97,,12,6,W 5,Henderson Center
+18,19,"Mon, Jan 21, 2019",9:00p,REG,@,Western Kentucky,CUSA,L,59,68,,12,7,L 1,E.A. Diddle Arena
+19,20,"Thu, Jan 24, 2019",9:00p,REG,@,Louisiana Tech,CUSA,L,80,89,OT,12,8,L 2,Thomas Assembly Center
+20,21,"Sat, Jan 26, 2019",5:00p,REG,@,Southern Mississippi,CUSA,L,51,101,,12,9,L 3,Reed Green Coliseum
+21,22,"Thu, Jan 31, 2019",7:30p,REG,,Texas-El Paso,CUSA,W,91,86,,13,9,W 1,Henderson Center
+22,23,"Sat, Feb 2, 2019",7:00p,REG,,Texas-San Antonio,CUSA,L,106,116,OT,13,10,L 1,Henderson Center
+23,24,"Thu, Feb 7, 2019",8:00p,REG,@,North Texas,CUSA,L,51,78,,13,11,L 2,UNT Coliseum
+24,25,"Sat, Feb 9, 2019",8:00p,REG,@,Rice,CUSA,L,69,74,,13,12,L 3,Tudor Fieldhouse
+25,26,"Thu, Feb 14, 2019",8:00p,REG,,Alabama-Birmingham,CUSA,L,68,77,,13,13,L 4,Henderson Center
+26,27,"Sat, Feb 16, 2019",2:00p,REG,,Middle Tennessee,CUSA,W,98,93,,14,13,W 1,Henderson Center
+27,28,"Thu, Feb 28, 2019",7:30p,REG,@,Louisiana Tech,CUSA,W,90,79,,15,13,W 2,Thomas Assembly Center
+28,29,"Sun, Mar 3, 2019",4:00p,REG,@,North Texas,CUSA,W,85,82,,16,13,W 3,UNT Coliseum
+29,30,"Wed, Mar 6, 2019",7:00p,REG,,Florida International,CUSA,W,94,78,,17,13,W 4,Henderson Center
+30,31,"Sat, Mar 9, 2019",12:00p,REG,,Florida Atlantic,CUSA,W,76,61,,18,13,W 5,Henderson Center
+31,32,"Wed, Mar 13, 2019",10:00p,CTOURN,N,Rice,CUSA,W,82,65,,19,13,W 6,Ford Center
+32,33,"Thu, Mar 14, 2019",10:00p,CTOURN,N,Southern Mississippi,CUSA,L,73,82,,19,14,L 1,Ford Center at The Star
+33,34,"Tue, Mar 19, 2019",7:00p,CIT,,IUPUI,Horizon,W,78,73,,20,14,W 1,Henderson Center
+34,35,"Tue, Mar 26, 2019",7:00p,CIT,,Presbyterian,Big South,W,83,66,,21,14,W 2,Henderson Center

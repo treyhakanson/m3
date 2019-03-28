@@ -1,0 +1,31 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",7:00p,REG,@,Saint Peter's,MAAC,L,86,93,OT,0,1,L 1,Yanitelli Center
+1,2,"Sat, Nov 10, 2018",3:00p,REG,@,La Salle,A-10,W,77,76,,1,1,W 1,Tom Gola Arena
+2,3,"Tue, Nov 13, 2018",7:00p,REG,@,Pennsylvania,Ivy,L,61,91,,1,2,L 1,The Palestra
+3,4,"Sun, Nov 18, 2018",2:00p,REG,,St. Francis (NY),NEC,L,72,84,,1,3,L 2,Kirby Sports Center
+4,5,"Sun, Nov 25, 2018",3:00p,REG,@,Fairleigh Dickinson,NEC,W,80,76,,2,3,W 1,Rothman Center
+5,6,"Wed, Nov 28, 2018",7:00p,REG,,Cornell,Ivy,L,58,63,OT,2,4,L 1,Kirby Sports Center
+6,7,"Sun, Dec 2, 2018",2:00p,REG,,Sacred Heart,NEC,L,62,64,,2,5,L 2,Kirby Sports Center
+7,8,"Wed, Dec 5, 2018",6:00p,REG,@,Connecticut,AAC,L,63,90,,2,6,L 3,Harry A. Gampel Pavilion
+8,9,"Sat, Dec 8, 2018",2:00p,REG,@,Quinnipiac,MAAC,L,77,88,,2,7,L 4,TD Bank Sports Center
+9,10,"Wed, Dec 19, 2018",7:00p,REG,,Rosemont,,W,95,54,,3,7,W 1,Kirby Sports Center
+10,11,"Fri, Dec 21, 2018",7:00p,REG,,Princeton,Ivy,L,79,81,,3,8,L 1,Kirby Sports Center
+11,12,"Wed, Jan 2, 2019",7:00p,REG,@,Lehigh,Patriot,L,83,86,,3,9,L 2,Stabler Arena
+12,13,"Sat, Jan 5, 2019",1:00p,REG,@,Army,Patriot,L,69,77,,3,10,L 3,Christl Arena
+13,14,"Wed, Jan 9, 2019",7:00p,REG,,Loyola (MD),Patriot,W,85,70,,4,10,W 1,Kirby Sports Center
+14,15,"Sat, Jan 12, 2019",3:05p,REG,@,Holy Cross,Patriot,L,70,77,,4,11,L 1,Hart Recreation Center
+15,16,"Wed, Jan 16, 2019",7:00p,REG,,Navy,Patriot,L,77,85,,4,12,L 2,Kirby Sports Center
+16,17,"Sat, Jan 19, 2019",2:00p,REG,@,American,Patriot,W,84,79,OT,5,12,W 1,Bender Arena
+17,18,"Wed, Jan 23, 2019",7:00p,REG,@,Colgate,Patriot,L,47,57,,5,13,L 1,Cotterell Court
+18,19,"Sat, Jan 26, 2019",2:00p,REG,,Army,Patriot,L,63,69,,5,14,L 2,Kirby Sports Center
+19,20,"Wed, Jan 30, 2019",8:30p,REG,,Lehigh,Patriot,L,86,93,OT,5,15,L 3,Kirby Sports Center
+20,21,"Sat, Feb 2, 2019",2:00p,REG,,Bucknell,Patriot,L,66,94,,5,16,L 4,Kirby Sports Center
+21,22,"Wed, Feb 6, 2019",7:00p,REG,@,Boston University,Patriot,W,79,72,,6,16,W 1,Case Gym
+22,23,"Sun, Feb 10, 2019",12:00p,REG,,Holy Cross,Patriot,W,69,67,,7,16,W 2,Kirby Sports Center
+23,24,"Wed, Feb 13, 2019",7:00p,REG,@,Navy,Patriot,W,80,74,,8,16,W 3,Alumni Hall
+24,25,"Sun, Feb 17, 2019",2:00p,REG,@,Loyola (MD),Patriot,W,69,64,,9,16,W 4,Reitz Arena
+25,26,"Wed, Feb 20, 2019",7:00p,REG,,American,Patriot,W,70,68,,10,16,W 5,Kirby Sports Center
+26,27,"Sun, Feb 24, 2019",2:00p,REG,@,Bucknell,Patriot,L,76,118,,10,17,L 1,Sojka Pavilion
+27,28,"Wed, Feb 27, 2019",7:00p,REG,,Boston University,Patriot,L,82,84,,10,18,L 2,Kirby Sports Center
+28,29,"Sat, Mar 2, 2019",12:00p,REG,,Colgate,Patriot,L,70,76,,10,19,L 3,Kirby Sports Center
+29,30,"Tue, Mar 5, 2019",7:00p,CTOURN,,Holy Cross,Patriot,L,74,79,,10,20,L 4,Kirby Sports Center

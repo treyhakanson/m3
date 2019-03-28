@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,,Grand Canyon,WAC,W,79,74,,1,0,W 1,Frost Arena
+1,2,"Thu, Nov 8, 2018",8:00p,REG,,Alabama State,SWAC,W,78,61,,2,0,W 2,Frost Arena
+2,3,"Sat, Nov 10, 2018",5:00p,REG,,Bemidji State,,W,86,63,,3,0,W 3,Frost Arena
+3,4,"Fri, Nov 16, 2018",8:00p,REG,@,Florida Gulf Coast,A-Sun,L,78,84,,3,1,L 1,Alico Arena
+4,5,"Mon, Nov 19, 2018",11:00a,REG,N,Tulane,AAC,L,80,84,,3,2,L 2,Germain Arena
+5,6,"Tue, Nov 20, 2018",11:00a,REG,N,Texas-San Antonio,CUSA,W,99,79,,4,2,W 1,Germain Arena
+6,7,"Wed, Nov 21, 2018",1:30p,REG,N,Colorado State,MWC,W,78,65,,5,2,W 2,Germain Arena
+7,8,"Wed, Nov 28, 2018",8:00p,REG,,Missouri-Kansas City,WAC,W,75,47,,6,2,W 3,Frost Arena
+8,9,"Sat, Dec 1, 2018",9:00p,REG,N,Northern Iowa,MVC,W,82,50,,7,2,W 4,U.S. Bank Stadium
+9,10,"Tue, Dec 4, 2018",9:00p,REG,@,Memphis,AAC,L,80,88,,7,3,L 1,FedExForum
+10,11,"Fri, Dec 7, 2018",8:00p,REG,,Southern,SWAC,W,101,92,,8,3,W 1,Frost Arena
+11,12,"Tue, Dec 11, 2018",8:00p,REG,,Savannah State,MEAC,W,139,72,,9,3,W 2,Frost Arena
+12,13,"Sat, Dec 15, 2018",9:00p,REG,@,Nevada (7),MWC,L,68,72,,9,4,L 1,Lawlor Events Center
+13,14,"Tue, Dec 18, 2018",9:05p,REG,@,Eastern Washington,Big Sky,W,74,64,,10,4,W 1,Reese Court
+14,15,"Sat, Dec 22, 2018",8:00p,REG,,Montana,Big Sky,L,74,85,,10,5,L 1,Frost Arena
+15,16,"Fri, Dec 28, 2018",5:30p,REG,@,Western Illinois,Summit,W,100,58,,11,5,W 1,Western Hall
+16,17,"Thu, Jan 3, 2019",7:30p,REG,@,Purdue-Fort Wayne,Summit,L,88,104,,11,6,L 1,Allen County War Memorial Coliseum
+17,18,"Sun, Jan 6, 2019",4:30p,REG,@,South Dakota,Summit,W,79,61,,12,6,W 1,Sanford Coyote Sports Center
+18,19,"Thu, Jan 10, 2019",8:00p,REG,,Denver,Summit,W,78,66,,13,6,W 2,Frost Arena
+19,20,"Sat, Jan 12, 2019",5:15p,REG,,Oral Roberts,Summit,W,84,65,,14,6,W 3,Frost Arena
+20,21,"Wed, Jan 16, 2019",8:00p,REG,@,North Dakota,Summit,W,78,74,,15,6,W 4,Betty Engelstad Sioux Center 
+21,22,"Thu, Jan 24, 2019",8:00p,REG,,North Dakota State,Summit,W,87,69,,16,6,W 5,Frost Arena
+22,23,"Sat, Jan 26, 2019",5:15p,REG,,Omaha,Summit,W,83,73,,17,6,W 6,Frost Arena
+23,24,"Thu, Jan 31, 2019",8:00p,REG,@,Oral Roberts,Summit,W,86,80,,18,6,W 7,Mabee Center
+24,25,"Sun, Feb 3, 2019",3:00p,REG,@,Denver,Summit,W,92,82,,19,6,W 8,Magness Arena
+25,26,"Sat, Feb 9, 2019",5:15p,REG,,North Dakota,Summit,W,80,55,,20,6,W 9,Frost Arena
+26,27,"Thu, Feb 14, 2019",8:00p,REG,@,Omaha,Summit,L,84,85,,20,7,L 1,Baxter Arena
+27,28,"Sat, Feb 16, 2019",5:00p,REG,@,North Dakota State,Summit,W,78,77,,21,7,W 1,Scheels Center
+28,29,"Thu, Feb 21, 2019",8:00p,REG,,Purdue-Fort Wayne,Summit,W,92,83,,22,7,W 2,Frost Arena
+29,30,"Sat, Feb 23, 2019",5:00p,REG,,South Dakota,Summit,W,94,89,,23,7,W 3,Frost Arena
+30,31,"Sat, Mar 2, 2019",5:15p,REG,,Western Illinois,Summit,W,86,66,,24,7,W 4,Frost Arena
+31,32,"Sat, Mar 9, 2019",7:00p,CTOURN,N,Western Illinois,Summit,L,76,79,,24,8,L 1,Denny Sanford Premier Center
+32,33,"Tue, Mar 19, 2019",9:00p,NIT,@,Texas,Big 12,L,73,79,,24,9,L 2,Frank Erwin Center

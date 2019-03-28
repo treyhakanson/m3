@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",7:00p,REG,N,Texas,Big 12,L,71,73,OT,0,1,L 1,Fort Bliss
+1,2,"Mon, Nov 12, 2018",8:00p,REG,,UC-Davis,Big West,W,81,58,,1,1,W 1,Bud Walton Arena
+2,3,"Sun, Nov 18, 2018",3:30p,REG,,Indiana,Big Ten,W,73,72,,2,1,W 2,Bud Walton Arena
+3,4,"Wed, Nov 21, 2018",8:00p,REG,,Montana State,Big Sky,W,90,68,,3,1,W 3,Bud Walton Arena
+4,5,"Fri, Nov 23, 2018",8:00p,REG,,Texas-Arlington,Sun Belt,W,78,60,,4,1,W 4,Bud Walton Arena
+5,6,"Sat, Dec 1, 2018",8:00p,REG,,Florida International,CUSA,W,121,89,,5,1,W 5,Bud Walton Arena
+6,7,"Wed, Dec 5, 2018",10:00p,REG,@,Colorado State,MWC,W,98,74,,6,1,W 6,Moby Arena
+7,8,"Sat, Dec 8, 2018",3:30p,REG,,Western Kentucky,CUSA,L,77,78,,6,2,L 1,Bud Walton Arena
+8,9,"Sat, Dec 15, 2018",8:00p,REG,N,Texas-San Antonio,CUSA,W,79,67,,7,2,W 1,Verizon Arena
+9,10,"Wed, Dec 19, 2018",9:00p,REG,,Georgia Tech,ACC,L,65,69,,7,3,L 1,Bud Walton Arena
+10,11,"Sat, Dec 22, 2018",2:00p,REG,,Texas State,Sun Belt,W,73,70,,8,3,W 1,Bud Walton Arena
+11,12,"Fri, Dec 28, 2018",8:00p,REG,,Austin Peay,OVC,W,76,65,,9,3,W 2,Bud Walton Arena
+12,13,"Sat, Jan 5, 2019",6:00p,REG,@,Texas A&M,SEC,W,73,71,,10,3,W 3,Reed Arena
+13,14,"Wed, Jan 9, 2019",8:30p,REG,,Florida,SEC,L,51,57,,10,4,L 1,Bud Walton Arena
+14,15,"Sat, Jan 12, 2019",6:00p,REG,,Louisiana State,SEC,L,88,94,OT,10,5,L 2,Bud Walton Arena
+15,16,"Tue, Jan 15, 2019",7:00p,REG,@,Tennessee (3),SEC,L,87,106,,10,6,L 3,Thompson-Boling Arena
+16,17,"Sat, Jan 19, 2019",1:00p,REG,@,Mississippi (18),SEC,L,67,84,,10,7,L 4,The Pavilion at Ole Miss
+17,18,"Wed, Jan 23, 2019",9:00p,REG,,Missouri,SEC,W,72,60,,11,7,W 1,Bud Walton Arena
+18,19,"Sat, Jan 26, 2019",6:00p,REG,@,Texas Tech (14),Big 12,L,64,67,,11,8,L 1,United Supermarkets Arena
+19,20,"Tue, Jan 29, 2019",7:00p,REG,,Georgia,SEC,W,70,60,,12,8,W 1,Bud Walton Arena
+20,21,"Sat, Feb 2, 2019",6:00p,REG,@,Louisiana State (19),SEC,W,90,89,,13,8,W 2,Maravich Assembly Center
+21,22,"Tue, Feb 5, 2019",9:00p,REG,,Vanderbilt,SEC,W,69,66,,14,8,W 3,Bud Walton Arena
+22,23,"Sat, Feb 9, 2019",3:30p,REG,@,South Carolina,SEC,L,65,77,,14,9,L 1,The Colonial Life Arena
+23,24,"Tue, Feb 12, 2019",9:00p,REG,@,Missouri,SEC,L,78,79,,14,10,L 2,Mizzou Arena
+24,25,"Sat, Feb 16, 2019",8:30p,REG,,Mississippi State,SEC,L,67,77,,14,11,L 3,Bud Walton Arena
+25,26,"Wed, Feb 20, 2019",8:30p,REG,@,Auburn,SEC,L,56,79,,14,12,L 4,Auburn Arena
+26,27,"Sat, Feb 23, 2019",8:30p,REG,,Texas A&M,SEC,L,80,87,,14,13,L 5,Bud Walton Arena
+27,28,"Tue, Feb 26, 2019",9:00p,REG,@,Kentucky (4),SEC,L,66,70,,14,14,L 6,Rupp Arena
+28,29,"Sat, Mar 2, 2019",1:00p,REG,,Mississippi,SEC,W,74,73,,15,14,W 1,Bud Walton Arena
+29,30,"Wed, Mar 6, 2019",8:30p,REG,@,Vanderbilt,SEC,W,84,48,,16,14,W 2,Memorial Gymnasium
+30,31,"Sat, Mar 9, 2019",6:00p,REG,,Alabama,SEC,W,82,70,,17,14,W 3,Bud Walton Arena
+31,32,"Thu, Mar 14, 2019",1:00p,CTOURN,N,Florida,SEC,L,50,66,,17,15,L 1,Bridgestone Arena
+32,33,"Tue, Mar 19, 2019",9:00p,NIT,@,Providence,Big East,W,84,72,,18,15,W 1,Dunkin' Donuts Center
+33,34,"Sat, Mar 23, 2019",12:00p,NIT,@,Indiana,Big Ten,L,60,63,,18,16,L 1,Assembly Hall

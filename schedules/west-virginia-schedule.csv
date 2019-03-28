@@ -1,0 +1,37 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",9:00p,REG,,Buffalo,MAC,L,94,99,OT,0,1,L 1,WVU Coliseum
+1,2,"Thu, Nov 15, 2018",7:00p,REG,N,Monmouth,MAAC,W,71,53,,1,1,W 1,The HTC Center
+2,3,"Fri, Nov 16, 2018",9:00p,REG,N,Western Kentucky,CUSA,L,57,63,,1,2,L 1,The HTC Center
+3,4,"Sun, Nov 18, 2018",4:00p,REG,N,Saint Joseph's,A-10,W,97,90,,2,2,W 1,The HTC Center
+4,5,"Sat, Nov 24, 2018",2:00p,REG,,Valparaiso,MVC,W,88,76,,3,2,W 2,WVU Coliseum
+5,6,"Wed, Nov 28, 2018",6:30p,REG,,Rider,MAAC,W,92,78,,4,2,W 3,WVU Coliseum
+6,7,"Sat, Dec 1, 2018",4:00p,REG,,Youngstown State,Horizon,W,106,72,,5,2,W 4,WVU Coliseum
+7,8,"Tue, Dec 4, 2018",9:00p,REG,N,Florida,SEC,L,56,66,,5,3,L 1,Madison Square Garden (IV)
+8,9,"Sat, Dec 8, 2018",12:00p,REG,,Pittsburgh,ACC,W,69,59,,6,3,W 1,WVU Coliseum
+9,10,"Sun, Dec 16, 2018",1:00p,REG,N,Rhode Island,A-10,L,70,83,,6,4,L 1,Mohegan Sun Arena
+10,11,"Sat, Dec 22, 2018",12:00p,REG,,Jacksonville State,OVC,W,74,72,,7,4,W 1,WVU Coliseum
+11,12,"Sun, Dec 30, 2018",2:00p,REG,,Lehigh,Patriot,W,78,68,,8,4,W 2,WVU Coliseum
+12,13,"Wed, Jan 2, 2019",7:00p,REG,,Texas Tech (11),Big 12,L,59,62,,8,5,L 1,WVU Coliseum
+13,14,"Sat, Jan 5, 2019",9:00p,REG,@,Texas,Big 12,L,54,61,,8,6,L 2,Frank Erwin Center
+14,15,"Wed, Jan 9, 2019",7:00p,REG,@,Kansas State,Big 12,L,69,71,,8,7,L 3,Bramlage Coliseum
+15,16,"Sat, Jan 12, 2019",12:00p,REG,,Oklahoma State,Big 12,L,77,85,,8,8,L 4,WVU Coliseum
+16,17,"Tue, Jan 15, 2019",7:00p,REG,@,Texas Christian,Big 12,L,67,98,,8,9,L 5,Ed & Rae Schollmaier Arena
+17,18,"Sat, Jan 19, 2019",2:00p,REG,,Kansas (7),Big 12,W,65,64,,9,9,W 1,WVU Coliseum
+18,19,"Mon, Jan 21, 2019",9:00p,REG,,Baylor,Big 12,L,73,85,,9,10,L 1,WVU Coliseum
+19,20,"Sat, Jan 26, 2019",4:00p,REG,@,Tennessee (1),SEC,L,66,83,,9,11,L 2,Thompson-Boling Arena
+20,21,"Wed, Jan 30, 2019",7:00p,REG,@,Iowa State (20),Big 12,L,68,93,,9,12,L 3,James H. Hilton Coliseum 
+21,22,"Sat, Feb 2, 2019",12:00p,REG,,Oklahoma,Big 12,W,79,71,,10,12,W 1,WVU Coliseum
+22,23,"Mon, Feb 4, 2019",9:00p,REG,@,Texas Tech (18),Big 12,L,50,81,,10,13,L 1,United Supermarkets Arena
+23,24,"Sat, Feb 9, 2019",8:00p,REG,,Texas,Big 12,L,53,75,,10,14,L 2,WVU Coliseum
+24,25,"Sat, Feb 16, 2019",4:00p,REG,@,Kansas (14),Big 12,L,53,78,,10,15,L 3,Allen Fieldhouse
+25,26,"Mon, Feb 18, 2019",9:00p,REG,,Kansas State (23),Big 12,L,51,65,,10,16,L 4,WVU Coliseum
+26,27,"Sat, Feb 23, 2019",2:00p,REG,@,Baylor,Big 12,L,75,82,,10,17,L 5,Ferrell Center
+27,28,"Tue, Feb 26, 2019",7:00p,REG,,Texas Christian,Big 12,W,104,96,3OT,11,17,W 1,WVU Coliseum
+28,29,"Sat, Mar 2, 2019",2:00p,REG,@,Oklahoma,Big 12,L,80,92,,11,18,L 1,Lloyd Noble Center
+29,30,"Wed, Mar 6, 2019",7:00p,REG,,Iowa State,Big 12,W,90,75,,12,18,W 1,WVU Coliseum
+30,31,"Sat, Mar 9, 2019",4:00p,REG,@,Oklahoma State,Big 12,L,77,85,,12,19,L 1,Gallagher-Iba Arena
+31,32,"Wed, Mar 13, 2019",9:00p,CTOURN,N,Oklahoma,Big 12,W,72,71,,13,19,W 1,Sprint Center
+32,33,"Thu, Mar 14, 2019",7:00p,CTOURN,N,Texas Tech (7),Big 12,W,79,74,,14,19,W 2,Sprint Center
+33,34,"Fri, Mar 15, 2019",9:00p,CTOURN,N,Kansas (17),Big 12,L,74,88,,14,20,L 1,Sprint Center
+34,35,"Wed, Mar 20, 2019",7:00p,CBI,,Grand Canyon,WAC,W,77,63,,15,20,W 1,WVU Coliseum
+35,36,"Mon, Mar 25, 2019",7:00p,CBI,,Coastal Carolina,Sun Belt,L,91,109,,15,21,L 1,WVU Coliseum

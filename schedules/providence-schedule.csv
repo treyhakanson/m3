@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",6:30p,REG,,Siena,MAAC,W,77,67,,1,0,W 1,Dunkin' Donuts Center
+1,2,"Fri, Nov 9, 2018",6:00p,REG,N,Wichita State,AAC,L,80,83,,1,1,L 1,Alumni Hall
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Holy Cross,Patriot,W,70,61,,2,1,W 1,Dunkin' Donuts Center
+3,4,"Sat, Nov 17, 2018",2:30p,REG,N,South Carolina,SEC,W,76,67,,3,1,W 2,Mohegan Sun Arena
+4,5,"Sun, Nov 18, 2018",1:30p,REG,N,Michigan (18),Big Ten,L,47,66,,3,2,L 1,Mohegan Sun Arena
+5,6,"Sat, Nov 24, 2018",4:00p,REG,,Iona,MAAC,W,91,79,,4,2,W 1,Dunkin' Donuts Center
+6,7,"Tue, Nov 27, 2018",8:30p,REG,,Fairleigh Dickinson,NEC,W,69,59,,5,2,W 2,Dunkin' Donuts Center
+7,8,"Sat, Dec 1, 2018",5:00p,REG,,Rhode Island,A-10,W,59,50,,6,2,W 3,Dunkin' Donuts Center
+8,9,"Tue, Dec 4, 2018",7:00p,REG,@,Boston College,ACC,W,100,95,OT,7,2,W 4,Silvio O. Conte Forum
+9,10,"Fri, Dec 7, 2018",7:00p,REG,,Massachusetts,A-10,L,78,79,,7,3,L 1,Dunkin' Donuts Center
+10,11,"Sun, Dec 16, 2018",2:00p,REG,,Central Connecticut State,NEC,W,87,63,,8,3,W 1,Dunkin' Donuts Center
+11,12,"Tue, Dec 18, 2018",7:00p,REG,,Albany (NY),AEC,W,73,43,,9,3,W 2,Dunkin' Donuts Center
+12,13,"Fri, Dec 21, 2018",9:00p,REG,@,Texas,Big 12,W,71,65,,10,3,W 3,Frank Erwin Center
+13,14,"Mon, Dec 31, 2018",4:00p,REG,,Creighton,Big East,L,68,79,,10,4,L 1,Dunkin' Donuts Center
+14,15,"Sat, Jan 5, 2019",2:00p,REG,,Villanova,Big East,L,59,65,,10,5,L 2,Dunkin' Donuts Center
+15,16,"Sat, Jan 12, 2019",12:00p,REG,@,Georgetown,Big East,L,90,96,2OT,10,6,L 3,Capital One Arena
+16,17,"Tue, Jan 15, 2019",6:30p,REG,,Seton Hall,Big East,W,72,63,,11,6,W 1,Dunkin' Donuts Center
+17,18,"Sun, Jan 20, 2019",12:00p,REG,@,Marquette (15),Big East,L,68,79,,11,7,L 1,Fiserv Forum
+18,19,"Wed, Jan 23, 2019",6:30p,REG,@,Xavier,Big East,W,64,62,,12,7,W 1,Cintas Center
+19,20,"Sun, Jan 27, 2019",12:00p,REG,,DePaul,Big East,W,70,67,,13,7,W 2,Dunkin' Donuts Center
+20,21,"Wed, Jan 30, 2019",7:00p,REG,@,Seton Hall,Big East,L,63,65,,13,8,L 1,Prudential Center
+21,22,"Sat, Feb 2, 2019",2:30p,REG,@,DePaul,Big East,L,55,67,,13,9,L 2,Wintrust Arena
+22,23,"Wed, Feb 6, 2019",7:30p,REG,,Georgetown,Big East,L,67,76,,13,10,L 3,Dunkin' Donuts Center
+23,24,"Sat, Feb 9, 2019",12:00p,REG,@,St. John's (NY),Big East,W,70,56,,14,10,W 1,Madison Square Garden (IV)
+24,25,"Wed, Feb 13, 2019",6:30p,REG,@,Villanova (13),Big East,L,67,85,,14,11,L 1,Finneran Pavilion
+25,26,"Sat, Feb 16, 2019",2:00p,REG,,Xavier,Big East,L,61,75,,14,12,L 2,Dunkin' Donuts Center
+26,27,"Wed, Feb 20, 2019",8:30p,REG,,St. John's (NY),Big East,W,78,59,,15,12,W 1,Dunkin' Donuts Center
+27,28,"Sat, Feb 23, 2019",12:00p,REG,,Marquette (11),Big East,L,58,76,,15,13,L 1,Dunkin' Donuts Center
+28,29,"Tue, Feb 26, 2019",7:00p,REG,@,Butler,Big East,W,73,67,OT,16,13,W 1,Hinkle Fieldhouse
+29,30,"Wed, Mar 6, 2019",8:00p,REG,@,Creighton,Big East,L,70,76,OT,16,14,L 1,CenturyLink Center
+30,31,"Sat, Mar 9, 2019",12:00p,REG,,Butler,Big East,W,83,70,,17,14,W 1,Dunkin' Donuts Center
+31,32,"Wed, Mar 13, 2019",7:00p,CTOURN,N,Butler,Big East,W,80,57,,18,14,W 2,Madison Square Garden (IV)
+32,33,"Thu, Mar 14, 2019",12:00p,CTOURN,N,Villanova (25),Big East,L,62,73,,18,15,L 1,Madison Square Garden (IV)
+33,34,"Tue, Mar 19, 2019",9:00p,NIT,,Arkansas,SEC,L,72,84,,18,16,L 2,Dunkin' Donuts Center

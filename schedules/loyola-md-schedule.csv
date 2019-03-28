@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",6:30p,REG,@,St. John's (NY),Big East,L,55,76,,0,1,L 1,Carnesecca Arena
+1,2,"Sun, Nov 11, 2018",5:00p,REG,,Dartmouth,Ivy,L,80,82,,0,2,L 2,Reitz Arena
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Delaware State,MEAC,W,91,62,,1,2,W 1,Reitz Arena
+3,4,"Fri, Nov 16, 2018",7:00p,REG,@,Temple,AAC,L,67,81,,1,3,L 1,Liacouras Center
+4,5,"Mon, Nov 19, 2018",7:30p,REG,@,Detroit Mercy,Horizon,L,63,91,,1,4,L 2,Calihan Hall
+5,6,"Tue, Nov 20, 2018",5:00p,REG,N,Hampton,Big South,W,75,66,,2,4,W 1,Calihan Hall
+6,7,"Sun, Nov 25, 2018",6:00p,REG,@,Towson,CAA,L,69,85,,2,5,L 1,SECU Arena
+7,8,"Sat, Dec 1, 2018",1:00p,REG,,Mount St. Mary's,NEC,W,75,65,,3,5,W 1,Reitz Arena
+8,9,"Wed, Dec 5, 2018",7:00p,REG,@,Drexel,CAA,L,86,95,,3,6,L 1,Daskalakis Athletic Center
+9,10,"Sat, Dec 8, 2018",2:30p,REG,@,Binghamton,AEC,W,83,65,,4,6,W 1,Binghamton University Events Center
+10,11,"Tue, Dec 11, 2018",7:00p,REG,@,Maryland,Big Ten,L,71,94,,4,7,L 1,Xfinity Center
+11,12,"Fri, Dec 21, 2018",7:00p,REG,@,Massachusetts-Lowell,AEC,L,79,97,,4,8,L 2,Costello Athletic Center
+12,13,"Fri, Dec 28, 2018",7:00p,REG,@,North Carolina State (20),ACC,L,64,97,,4,9,L 3,PNC Arena
+13,14,"Thu, Jan 3, 2019",7:00p,REG,,Holy Cross,Patriot,L,73,80,,4,10,L 4,Reitz Arena
+14,15,"Sun, Jan 6, 2019",2:00p,REG,@,Lehigh,Patriot,L,72,89,,4,11,L 5,Stabler Arena
+15,16,"Wed, Jan 9, 2019",7:00p,REG,@,Lafayette,Patriot,L,70,85,,4,12,L 6,Kirby Sports Center
+16,17,"Sat, Jan 12, 2019",2:00p,REG,,Army,Patriot,W,66,64,,5,12,W 1,Reitz Arena
+17,18,"Wed, Jan 16, 2019",7:00p,REG,,Boston University,Patriot,W,81,73,OT,6,12,W 2,Reitz Arena
+18,19,"Sat, Jan 19, 2019",12:05p,REG,@,Holy Cross,Patriot,W,67,65,OT,7,12,W 3,Hart Recreation Center
+19,20,"Wed, Jan 23, 2019",7:00p,REG,@,Bucknell,Patriot,L,68,71,,7,13,L 1,Sojka Pavilion
+20,21,"Sat, Jan 26, 2019",12:00p,REG,,Colgate,Patriot,W,79,72,OT,8,13,W 1,Reitz Arena
+21,22,"Wed, Jan 30, 2019",7:00p,REG,,American,Patriot,L,68,74,,8,14,L 1,Reitz Arena
+22,23,"Sat, Feb 2, 2019",2:00p,REG,@,Navy,Patriot,L,68,71,,8,15,L 2,Alumni Hall
+23,24,"Wed, Feb 6, 2019",7:00p,REG,,Bucknell,Patriot,L,72,84,,8,16,L 3,Reitz Arena
+24,25,"Sat, Feb 9, 2019",2:00p,REG,@,Colgate,Patriot,L,72,75,,8,17,L 4,Cotterell Court
+25,26,"Wed, Feb 13, 2019",7:00p,REG,@,American,Patriot,W,86,84,,9,17,W 1,Bender Arena
+26,27,"Sun, Feb 17, 2019",2:00p,REG,,Lafayette,Patriot,L,64,69,,9,18,L 1,Reitz Arena
+27,28,"Thu, Feb 21, 2019",2:00p,REG,,Navy,Patriot,W,79,70,,10,18,W 1,Reitz Arena
+28,29,"Sat, Feb 23, 2019",4:30p,REG,@,Boston University,Patriot,L,65,72,,10,19,L 1,Case Gym
+29,30,"Wed, Feb 27, 2019",7:00p,REG,@,Army,Patriot,L,69,79,,10,20,L 2,Christl Arena
+30,31,"Sat, Mar 2, 2019",7:00p,REG,,Lehigh,Patriot,W,92,73,,11,20,W 1,Reitz Arena
+31,32,"Tue, Mar 5, 2019",7:00p,CTOURN,@,Boston University,Patriot,L,63,71,,11,21,L 1,Case Gym

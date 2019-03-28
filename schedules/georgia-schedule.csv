@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",8:30p,REG,,Savannah State,MEAC,W,110,76,,1,0,W 1,Stegeman Coliseum
+1,2,"Tue, Nov 13, 2018",7:00p,REG,@,Temple,AAC,L,77,81,,1,1,L 1,Liacouras Center
+2,3,"Fri, Nov 16, 2018",7:00p,REG,,Sam Houston State,Southland,W,75,64,,2,1,W 1,Stegeman Coliseum
+3,4,"Mon, Nov 19, 2018",1:30p,REG,N,Illinois State,MVC,W,80,68,,3,1,W 2,John Gray Gymnasium
+4,5,"Tue, Nov 20, 2018",1:30p,REG,N,Clemson (16),ACC,L,49,64,,3,2,L 1,John Gray Gymnasium
+5,6,"Wed, Nov 21, 2018",5:00p,REG,N,Georgia State,Sun Belt,L,67,91,,3,3,L 2,John Gray Gymnasium
+6,7,"Tue, Nov 27, 2018",7:00p,REG,,Kennesaw State,A-Sun,W,84,51,,4,3,W 1,Stegeman Coliseum
+7,8,"Mon, Dec 3, 2018",7:00p,REG,,Texas Southern,SWAC,W,92,75,,5,3,W 2,Stegeman Coliseum
+8,9,"Sat, Dec 15, 2018",6:00p,REG,,Arizona State (20),Pac-12,L,74,76,,5,4,L 1,Stegeman Coliseum
+9,10,"Tue, Dec 18, 2018",7:00p,REG,,Oakland,Horizon,W,81,69,,6,4,W 1,Stegeman Coliseum
+10,11,"Sat, Dec 22, 2018",12:00p,REG,@,Georgia Tech,ACC,W,70,59,,7,4,W 2,McCamish Pavilion
+11,12,"Sun, Dec 30, 2018",6:00p,REG,,Massachusetts,A-10,W,91,72,,8,4,W 3,Stegeman Coliseum
+12,13,"Sat, Jan 5, 2019",3:30p,REG,@,Tennessee (3),SEC,L,50,96,,8,5,L 1,Thompson-Boling Arena
+13,14,"Wed, Jan 9, 2019",6:30p,REG,,Vanderbilt,SEC,W,82,63,,9,5,W 1,Stegeman Coliseum
+14,15,"Sat, Jan 12, 2019",4:00p,REG,@,Auburn (11),SEC,L,78,93,,9,6,L 1,Auburn Arena
+15,16,"Tue, Jan 15, 2019",7:00p,REG,,Kentucky (12),SEC,L,49,69,,9,7,L 2,Stegeman Coliseum
+16,17,"Sat, Jan 19, 2019",12:00p,REG,,Florida,SEC,L,52,62,,9,8,L 3,Stegeman Coliseum
+17,18,"Wed, Jan 23, 2019",7:00p,REG,@,Louisiana State (25),SEC,L,82,92,,9,9,L 4,Maravich Assembly Center
+18,19,"Sat, Jan 26, 2019",2:00p,REG,,Texas,Big 12,W,98,88,,10,9,W 1,Stegeman Coliseum
+19,20,"Tue, Jan 29, 2019",7:00p,REG,@,Arkansas,SEC,L,60,70,,10,10,L 1,Bud Walton Arena
+20,21,"Sat, Feb 2, 2019",1:00p,REG,,South Carolina,SEC,L,80,86,,10,11,L 2,Stegeman Coliseum
+21,22,"Wed, Feb 6, 2019",9:00p,REG,@,Alabama,SEC,L,74,89,,10,12,L 3,Coleman Coliseum 
+22,23,"Sat, Feb 9, 2019",1:00p,REG,,Mississippi,SEC,L,64,80,,10,13,L 4,Stegeman Coliseum
+23,24,"Tue, Feb 12, 2019",7:00p,REG,@,Texas A&M,SEC,L,56,73,,10,14,L 5,Reed Arena
+24,25,"Sat, Feb 16, 2019",6:00p,REG,,Louisiana State (19),SEC,L,79,83,,10,15,L 6,Stegeman Coliseum
+25,26,"Wed, Feb 20, 2019",6:30p,REG,,Mississippi State,SEC,L,67,68,,10,16,L 7,Stegeman Coliseum
+26,27,"Sat, Feb 23, 2019",3:30p,REG,@,Mississippi,SEC,L,71,72,,10,17,L 8,The Pavilion at Ole Miss
+27,28,"Wed, Feb 27, 2019",9:00p,REG,,Auburn,SEC,L,75,78,,10,18,L 9,Stegeman Coliseum
+28,29,"Sat, Mar 2, 2019",8:30p,REG,@,Florida,SEC,W,61,55,,11,18,W 1,Stephen C. O'Connell Center
+29,30,"Wed, Mar 6, 2019",6:30p,REG,,Missouri,SEC,L,39,64,,11,19,L 1,Stegeman Coliseum
+30,31,"Sat, Mar 9, 2019",1:00p,REG,@,South Carolina,SEC,L,46,66,,11,20,L 2,The Colonial Life Arena
+31,32,"Wed, Mar 13, 2019",7:00p,CTOURN,N,Missouri,SEC,L,61,71,,11,21,L 3,Bridgestone Arena

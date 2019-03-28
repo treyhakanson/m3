@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",7:00p,REG,,High Point,Big South,W,79,69,,1,0,W 1,Kaplan Arena at William and Mary Hall
+1,2,"Sat, Nov 10, 2018",5:00p,REG,@,Duquesne,A-10,L,70,84,,1,1,L 1,A.J. Palumbo Center
+2,3,"Thu, Nov 15, 2018",8:00p,REG,@,Illinois-Chicago,Horizon,L,95,100,OT,1,2,L 2,UIC Pavilion
+3,4,"Sat, Nov 17, 2018",12:00p,REG,@,Notre Dame,ACC,L,64,73,,1,3,L 3,Purcell Pavilion at the Joyce Center
+4,5,"Tue, Nov 20, 2018",7:00p,REG,,Radford,Big South,L,72,81,,1,4,L 4,Kaplan Arena at William and Mary Hall
+5,6,"Sat, Nov 24, 2018",4:00p,REG,,Saint Joseph's,A-10,W,87,85,,2,4,W 1,Kaplan Arena at William and Mary Hall
+6,7,"Wed, Nov 28, 2018",7:00p,REG,@,Marshall,CUSA,L,64,84,,2,5,L 1,Henderson Center
+7,8,"Sat, Dec 1, 2018",4:00p,REG,,George Mason,A-10,L,84,87,,2,6,L 2,Kaplan Arena at William and Mary Hall
+8,9,"Wed, Dec 5, 2018",7:00p,REG,@,Old Dominion,CUSA,L,53,71,,2,7,L 3,Ted Constant Convocation Ctr.
+9,10,"Sat, Dec 8, 2018",4:00p,REG,@,Hampton,Big South,W,76,71,,3,7,W 1,Hampton Convocation Center
+10,11,"Sun, Dec 16, 2018",4:00p,REG,,Peace,,W,106,89,,4,7,W 2,Kaplan Arena at William and Mary Hall
+11,12,"Sat, Dec 22, 2018",2:00p,REG,@,Virginia (5),ACC,L,40,72,,4,8,L 1,John Paul Jones Arena
+12,13,"Fri, Dec 28, 2018",7:00p,REG,,James Madison,CAA,W,79,74,,5,8,W 1,Kaplan Arena at William and Mary Hall
+13,14,"Sun, Dec 30, 2018",4:00p,REG,,Towson,CAA,W,71,61,,6,8,W 2,Kaplan Arena at William and Mary Hall
+14,15,"Thu, Jan 3, 2019",7:00p,REG,@,Delaware,CAA,L,56,58,,6,9,L 1,Bob Carpenter Center
+15,16,"Sat, Jan 5, 2019",4:00p,REG,@,Drexel,CAA,W,84,66,,7,9,W 1,Daskalakis Athletic Center
+16,17,"Thu, Jan 10, 2019",7:00p,REG,,Hofstra,CAA,L,90,93,3OT,7,10,L 1,Kaplan Arena at William and Mary Hall
+17,18,"Sat, Jan 12, 2019",4:00p,REG,,Northeastern,CAA,L,70,90,,7,11,L 2,Kaplan Arena at William and Mary Hall
+18,19,"Sat, Jan 19, 2019",4:00p,REG,,Elon,CAA,L,71,76,,7,12,L 3,Kaplan Arena at William and Mary Hall
+19,20,"Thu, Jan 24, 2019",7:00p,REG,@,North Carolina-Wilmington,CAA,L,88,93,,7,13,L 4,Trask Coliseum
+20,21,"Sat, Jan 26, 2019",4:00p,REG,@,College of Charleston,CAA,L,59,74,,7,14,L 5,TD Arena
+21,22,"Thu, Jan 31, 2019",7:00p,REG,,Drexel,CAA,W,75,69,,8,14,W 1,Kaplan Arena at William and Mary Hall
+22,23,"Sat, Feb 2, 2019",4:00p,REG,,Delaware,CAA,W,84,63,,9,14,W 2,Kaplan Arena at William and Mary Hall
+23,24,"Thu, Feb 7, 2019",7:00p,REG,@,Northeastern,CAA,L,60,72,,9,15,L 1,Matthews Arena
+24,25,"Sat, Feb 9, 2019",4:00p,REG,@,Hofstra,CAA,L,87,93,,9,16,L 2,Mack Sports Complex
+25,26,"Sat, Feb 16, 2019",7:00p,REG,@,Elon,CAA,W,84,74,,10,16,W 1,Schar Center
+26,27,"Thu, Feb 21, 2019",7:00p,REG,,College of Charleston,CAA,W,86,84,OT,11,16,W 2,Kaplan Arena at William and Mary Hall
+27,28,"Sat, Feb 23, 2019",4:00p,REG,,North Carolina-Wilmington,CAA,W,71,63,,12,16,W 3,Kaplan Arena at William and Mary Hall
+28,29,"Thu, Feb 28, 2019",7:00p,REG,@,Towson,CAA,W,67,65,,13,16,W 4,SECU Arena
+29,30,"Sat, Mar 2, 2019",4:00p,REG,@,James Madison,CAA,W,70,66,,14,16,W 5,JMU Convocation Center
+30,31,"Sun, Mar 10, 2019",2:30p,CTOURN,N,Delaware,CAA,L,79,85,,14,17,L 1,North Charleston Coliseum

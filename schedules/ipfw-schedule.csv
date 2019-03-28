@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:00p,REG,@,UCLA (21),Pac-12,L,71,96,,0,1,L 1,Pauley Pavilion
+1,2,"Thu, Nov 8, 2018",7:00p,REG,,Earlham,,W,112,51,,1,1,W 1,Hilliard Gates Sports Center
+2,3,"Sun, Nov 11, 2018",4:00p,REG,@,Ohio State,Big Ten,L,61,107,,1,2,L 1,Value City Arena
+3,4,"Tue, Nov 13, 2018",7:00p,REG,,Manchester,,W,111,65,,2,2,W 1,Allen County War Memorial Coliseum
+4,5,"Fri, Nov 16, 2018",7:00p,REG,@,Dayton,A-10,L,80,91,,2,3,L 1,University of Dayton Arena
+5,6,"Tue, Nov 20, 2018",7:00p,REG,,South Carolina State,MEAC,W,72,68,,3,3,W 1,Allen County War Memorial Coliseum
+6,7,"Fri, Nov 23, 2018",7:00p,REG,,Samford,Southern,L,66,74,,3,4,L 1,Allen County War Memorial Coliseum
+7,8,"Sun, Nov 25, 2018",5:00p,REG,@,Cleveland State,Horizon,W,82,79,,4,4,W 1,Wolstein Center
+8,9,"Wed, Nov 28, 2018",8:00p,REG,@,Eastern Illinois,OVC,W,104,60,,5,4,W 2,Lantz Arena
+9,10,"Sat, Dec 1, 2018",2:00p,REG,,Missouri-Kansas City,WAC,L,73,90,,5,5,L 1,Allen County War Memorial Coliseum
+10,11,"Wed, Dec 5, 2018",7:00p,REG,,Akron,MAC,W,68,65,,6,5,W 1,Allen County War Memorial Coliseum
+11,12,"Sat, Dec 8, 2018",2:00p,REG,@,Miami (OH),MAC,L,79,85,,6,6,L 1,Millett Hall
+12,13,"Sat, Dec 15, 2018",5:00p,REG,@,Austin Peay,OVC,L,68,95,,6,7,L 2,Winfield Dunn Center
+13,14,"Tue, Dec 18, 2018",7:00p,REG,,IUPUI,Horizon,W,87,77,,7,7,W 1,Allen County War Memorial Coliseum
+14,15,"Thu, Dec 20, 2018",7:00p,REG,,Siena Heights,,W,106,45,,8,7,W 2,Allen County War Memorial Coliseum
+15,16,"Sat, Dec 29, 2018",1:00p,REG,@,North Dakota,Summit,W,84,73,,9,7,W 3,Betty Engelstad Sioux Center 
+16,17,"Sun, Dec 30, 2018",5:00p,REG,@,North Dakota State,Summit,W,90,87,OT,10,7,W 4,Scheels Center
+17,18,"Thu, Jan 3, 2019",7:30p,REG,,South Dakota State,Summit,W,104,88,,11,7,W 5,Allen County War Memorial Coliseum
+18,19,"Thu, Jan 10, 2019",7:00p,REG,,Oral Roberts,Summit,W,94,69,,12,7,W 6,Allen County War Memorial Coliseum
+19,20,"Sun, Jan 13, 2019",2:00p,REG,@,South Dakota,Summit,L,73,87,,12,8,L 1,Sanford Coyote Sports Center
+20,21,"Sat, Jan 19, 2019",8:00p,REG,@,Western Illinois,Summit,L,58,87,,12,9,L 2,Western Hall
+21,22,"Thu, Jan 24, 2019",7:30p,REG,,Omaha,Summit,L,79,85,OT,12,10,L 3,Hilliard Gates Sports Center
+22,23,"Sat, Jan 26, 2019",7:00p,REG,,Denver,Summit,W,91,81,,13,10,W 1,Hilliard Gates Sports Center
+23,24,"Wed, Jan 30, 2019",7:00p,REG,,South Dakota,Summit,W,102,71,,14,10,W 2,Allen County War Memorial Coliseum
+24,25,"Sat, Feb 2, 2019",8:00p,REG,@,Oral Roberts,Summit,W,82,81,,15,10,W 3,Mabee Center
+25,26,"Thu, Feb 7, 2019",7:00p,REG,,Western Illinois,Summit,W,79,64,,16,10,W 4,Allen County War Memorial Coliseum
+26,27,"Thu, Feb 14, 2019",9:00p,REG,@,Denver,Summit,W,94,81,,17,10,W 5,Magness Arena
+27,28,"Sat, Feb 16, 2019",5:30p,REG,@,Omaha,Summit,L,71,74,,17,11,L 1,Baxter Arena
+28,29,"Thu, Feb 21, 2019",8:00p,REG,@,South Dakota State,Summit,L,83,92,,17,12,L 2,Frost Arena
+29,30,"Thu, Feb 28, 2019",8:30p,REG,,North Dakota,Summit,L,82,88,,17,13,L 3,Hilliard Gates Sports Center
+30,31,"Sat, Mar 2, 2019",5:00p,REG,,North Dakota State,Summit,L,66,69,,17,14,L 4,Hilliard Gates Sports Center
+31,32,"Sun, Mar 10, 2019",9:30p,CTOURN,N,South Dakota,Summit,W,96,70,,18,14,W 1,Denny Sanford Premier Center
+32,33,"Mon, Mar 11, 2019",9:30p,CTOURN,N,Omaha,Summit,L,60,61,,18,15,L 1,Denny Sanford Premier Center

@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",11:00p,REG,N,Yale,Ivy,L,59,76,,0,1,L 1,Baoshan Sports Center
+1,2,"Tue, Nov 13, 2018",10:00p,REG,,Hampton,Big South,W,80,66,,1,1,W 1,Haas Pavilion
+2,3,"Mon, Nov 19, 2018",7:00p,REG,N,St. John's (NY),Big East,L,79,82,,1,2,L 1,Barclays Center
+3,4,"Tue, Nov 20, 2018",5:00p,REG,N,Temple,AAC,L,59,76,,1,3,L 2,Barclays Center
+4,5,"Mon, Nov 26, 2018",9:00p,REG,,Santa Clara,WCC,W,78,66,,2,3,W 1,Haas Pavilion
+5,6,"Sat, Dec 1, 2018",10:00p,REG,@,Saint Mary's (CA),WCC,L,71,84,,2,4,L 1,McKeon Pavilion
+6,7,"Wed, Dec 5, 2018",11:00p,REG,,San Francisco,WCC,L,60,79,,2,5,L 2,Haas Pavilion
+7,8,"Sat, Dec 8, 2018",10:30p,REG,,San Diego State,MWC,W,89,83,,3,5,W 1,Haas Pavilion
+8,9,"Sat, Dec 15, 2018",10:00p,REG,,Cal Poly,Big West,W,67,66,,4,5,W 2,Haas Pavilion
+9,10,"Wed, Dec 19, 2018",10:00p,REG,@,Fresno State,MWC,L,73,95,,4,6,L 1,Save Mart Center
+10,11,"Fri, Dec 21, 2018",10:00p,REG,,San Jose State,MWC,W,88,80,,5,6,W 1,Haas Pavilion
+11,12,"Sat, Dec 29, 2018",8:00p,REG,,Seattle,WAC,L,73,82,,5,7,L 1,Haas Pavilion
+12,13,"Thu, Jan 3, 2019",10:00p,REG,@,Southern California,Pac-12,L,73,82,,5,8,L 2,Galen Center
+13,14,"Sat, Jan 5, 2019",4:00p,REG,@,UCLA,Pac-12,L,83,98,,5,9,L 3,Pauley Pavilion
+14,15,"Wed, Jan 9, 2019",9:00p,REG,,Arizona State,Pac-12,L,66,80,,5,10,L 4,Haas Pavilion
+15,16,"Sat, Jan 12, 2019",10:30p,REG,,Arizona,Pac-12,L,65,87,,5,11,L 5,Haas Pavilion
+16,17,"Thu, Jan 17, 2019",10:00p,REG,@,Washington State,Pac-12,L,59,82,,5,12,L 6,Beasley Coliseum
+17,18,"Sat, Jan 19, 2019",5:00p,REG,@,Washington,Pac-12,L,52,71,,5,13,L 7,Alaska Airlines Arena
+18,19,"Thu, Jan 24, 2019",11:00p,REG,,Colorado,Pac-12,L,59,68,,5,14,L 8,Haas Pavilion
+19,20,"Sat, Jan 26, 2019",8:00p,REG,,Utah,Pac-12,L,64,82,,5,15,L 9,Haas Pavilion
+20,21,"Sun, Feb 3, 2019",4:00p,REG,,Stanford,Pac-12,L,81,84,,5,16,L 10,Haas Pavilion
+21,22,"Wed, Feb 6, 2019",9:30p,REG,@,Oregon,Pac-12,L,62,73,,5,17,L 11,Matthew Knight Arena
+22,23,"Sat, Feb 9, 2019",5:30p,REG,@,Oregon State,Pac-12,L,71,79,,5,18,L 12,Gill Coliseum
+23,24,"Wed, Feb 13, 2019",10:00p,REG,,UCLA,Pac-12,L,67,75,OT,5,19,L 13,Haas Pavilion
+24,25,"Sat, Feb 16, 2019",8:00p,REG,,Southern California,Pac-12,L,66,89,,5,20,L 14,Haas Pavilion
+25,26,"Thu, Feb 21, 2019",9:00p,REG,@,Arizona,Pac-12,L,51,76,,5,21,L 15,McKale Center
+26,27,"Sun, Feb 24, 2019",6:00p,REG,@,Arizona State,Pac-12,L,59,69,,5,22,L 16,Wells Fargo Arena
+27,28,"Thu, Feb 28, 2019",11:00p,REG,,Washington (25),Pac-12,W,76,73,,6,22,W 1,Haas Pavilion
+28,29,"Sat, Mar 2, 2019",7:00p,REG,,Washington State,Pac-12,W,76,69,,7,22,W 2,Haas Pavilion
+29,30,"Thu, Mar 7, 2019",11:00p,REG,@,Stanford,Pac-12,W,64,59,,8,22,W 3,Maples Pavilion
+30,31,"Wed, Mar 13, 2019",5:30p,CTOURN,N,Colorado,Pac-12,L,51,56,,8,23,L 1,T-Mobile Arena

@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Massachusetts-Lowell,AEC,W,83,75,,1,0,W 1,Mullins Center
+1,2,"Fri, Nov 9, 2018",7:00p,REG,,New Hampshire,AEC,W,104,75,,2,0,W 2,Mullins Center
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Harvard,Ivy,L,71,74,,2,1,L 1,Mullins Center
+3,4,"Fri, Nov 16, 2018",7:00p,REG,,Howard,MEAC,L,63,68,,2,2,L 2,Mullins Center
+4,5,"Mon, Nov 19, 2018",7:00p,REG,,Arkansas-Pine Bluff,SWAC,W,92,60,,3,2,W 1,Mullins Center
+5,6,"Thu, Nov 22, 2018",1:30p,REG,N,Southern Illinois,MVC,W,84,62,,4,2,W 2,Orleans Arena
+6,7,"Fri, Nov 23, 2018",10:00p,REG,N,Nevada (6),MWC,L,87,110,,4,3,L 1,Orleans Arena
+7,8,"Wed, Nov 28, 2018",7:00p,REG,,Quinnipiac,MAAC,W,69,62,,5,3,W 1,Mullins Center
+8,9,"Tue, Dec 4, 2018",7:00p,REG,,Holy Cross,Patriot,L,78,82,,5,4,L 1,Mullins Center
+9,10,"Fri, Dec 7, 2018",7:00p,REG,@,Providence,Big East,W,79,78,,6,4,W 1,Dunkin' Donuts Center
+10,11,"Wed, Dec 12, 2018",7:00p,REG,@,Temple,AAC,L,63,65,,6,5,L 1,Liacouras Center
+11,12,"Fri, Dec 21, 2018",3:30p,REG,,Fairleigh Dickinson,NEC,W,85,84,,7,5,W 1,Mullins Center
+12,13,"Sun, Dec 30, 2018",6:00p,REG,@,Georgia,SEC,L,72,91,,7,6,L 1,Stegeman Coliseum
+13,14,"Sat, Jan 5, 2019",1:00p,REG,,La Salle,A-10,L,60,69,,7,7,L 2,Mullins Center
+14,15,"Wed, Jan 9, 2019",9:00p,REG,@,Saint Louis,A-10,L,62,65,,7,8,L 3,Chaifetz Arena
+15,16,"Sun, Jan 13, 2019",3:30p,REG,@,Dayton,A-10,L,67,72,,7,9,L 4,University of Dayton Arena
+16,17,"Wed, Jan 16, 2019",7:00p,REG,,George Mason,A-10,L,63,68,,7,10,L 5,Mullins Center
+17,18,"Sat, Jan 19, 2019",6:30p,REG,@,Virginia Commonwealth,A-10,L,50,68,,7,11,L 6,Stuart Siegel Center
+18,19,"Wed, Jan 23, 2019",7:00p,REG,,St. Bonaventure,A-10,L,51,65,,7,12,L 7,Mullins Center
+19,20,"Sun, Jan 27, 2019",2:00p,REG,,Rhode Island,A-10,W,77,70,,8,12,W 1,Mullins Center
+20,21,"Wed, Jan 30, 2019",7:00p,REG,@,La Salle,A-10,L,51,60,,8,13,L 1,Tom Gola Arena
+21,22,"Sat, Feb 2, 2019",4:30p,REG,@,Saint Joseph's,A-10,L,62,64,,8,14,L 2,Hagan Arena
+22,23,"Wed, Feb 6, 2019",7:00p,REG,,Fordham,A-10,L,67,85,,8,15,L 3,Mullins Center
+23,24,"Sat, Feb 9, 2019",1:00p,REG,,Davidson,A-10,W,54,51,,9,15,W 1,Mullins Center
+24,25,"Wed, Feb 13, 2019",7:00p,REG,@,George Mason,A-10,L,75,80,OT,9,16,L 1,EagleBank Arena
+25,26,"Wed, Feb 20, 2019",7:00p,REG,@,George Washington,A-10,L,67,79,,9,17,L 2,Charles E. Smith Center
+26,27,"Sat, Feb 23, 2019",2:00p,REG,,Saint Joseph's,A-10,W,80,79,,10,17,W 1,Mullins Center
+27,28,"Tue, Feb 26, 2019",7:00p,REG,,Dayton,A-10,L,48,72,,10,18,L 1,Mullins Center
+28,29,"Sat, Mar 2, 2019",2:00p,REG,@,Duquesne,A-10,L,73,80,,10,19,L 2,A.J. Palumbo Center
+29,30,"Wed, Mar 6, 2019",7:00p,REG,,Richmond,A-10,W,87,79,,11,19,W 1,Mullins Center
+30,31,"Sat, Mar 9, 2019",4:00p,REG,@,Rhode Island,A-10,L,75,94,,11,20,L 1,Ryan Center
+31,32,"Wed, Mar 13, 2019",1:00p,CTOURN,N,George Washington,A-10,L,64,68,OT,11,21,L 2,Barclays Center

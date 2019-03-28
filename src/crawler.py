@@ -8,9 +8,9 @@ from constants import SCHOOLS
 import utils
 
 PIPELINE = [
-    'rosters',
-    'schedules',
-    'opponent-rosters',
+    # 'rosters',
+    # 'schedules',
+    # 'opponent-rosters',
     'boxscores'
 ]
 
@@ -112,7 +112,6 @@ def get_boxscore(school, row):
                                       id='box-score-basic-%s'
                                       % (opponent)).find('tbody')
                                       .find_all('tr', class_=''))
-
     except Exception as e:
         # Sometimes the name should not be mapped during cleaning when
         # getting boxscores; attempt to use a "gently" cleaned name

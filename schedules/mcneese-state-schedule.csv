@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",10:00p,REG,@,Saint Mary's (CA),WCC,L,65,87,,0,1,L 1,McKeon Pavilion
+1,2,"Fri, Nov 9, 2018",9:00p,REG,@,Arizona State,Pac-12,L,52,80,,0,2,L 2,Wells Fargo Arena
+2,3,"Fri, Nov 16, 2018",7:30p,REG,,Loyola (LA),,L,78,79,,0,3,L 3,H&HP Complex
+3,4,"Tue, Nov 20, 2018",7:30p,REG,,Mobile,,W,74,60,,1,3,W 1,H&HP Complex
+4,5,"Fri, Nov 23, 2018",7:30p,REG,,Mississippi College,,W,80,42,,2,3,W 2,H&HP Complex
+5,6,"Thu, Nov 29, 2018",8:00p,REG,@,Southern Methodist,AAC,L,59,91,,2,4,L 1,Moody Coliseum
+6,7,"Sat, Dec 1, 2018",4:00p,REG,@,North Carolina Central,MEAC,L,66,67,,2,5,L 2,McLendon-McDougald Gym
+7,8,"Tue, Dec 4, 2018",8:00p,REG,@,Mississippi State (22),SEC,L,77,90,,2,6,L 3,Humphrey Coliseum
+8,9,"Thu, Dec 13, 2018",7:30p,REG,,North Carolina Central,MEAC,W,77,61,,3,6,W 1,H&HP Complex
+9,10,"Sat, Dec 15, 2018",7:00p,REG,@,Missouri-Kansas City,WAC,L,67,80,,3,7,L 1,Municipal Auditorium
+10,11,"Tue, Dec 18, 2018",7:30p,REG,,Louisiana,Sun Belt,L,67,80,,3,8,L 2,H&HP Complex
+11,12,"Sat, Dec 22, 2018",8:00p,REG,@,Texas-Rio Grande Valley,WAC,L,64,68,,3,9,L 3,UTRGV Fieldhouse
+12,13,"Sun, Dec 30, 2018",5:00p,REG,,Campbellsville-Harrodsburg,,W,91,73,,4,9,W 1,H&HP Complex
+13,14,"Wed, Jan 2, 2019",8:00p,REG,@,Incarnate Word,Southland,W,88,77,,5,9,W 2,McDermott Center
+14,15,"Sat, Jan 5, 2019",4:00p,REG,@,Northwestern State,Southland,L,61,66,,5,10,L 1,Prather Coliseum
+15,16,"Wed, Jan 9, 2019",7:30p,REG,,Abilene Christian,Southland,L,72,73,,5,11,L 2,H&HP Complex
+16,17,"Sat, Jan 12, 2019",5:15p,REG,@,New Orleans,Southland,L,66,79,,5,12,L 3,Kiefer Lakefront Arena
+17,18,"Wed, Jan 16, 2019",7:30p,REG,,Nicholls State,Southland,W,86,75,,6,12,W 1,H&HP Complex
+18,19,"Sat, Jan 19, 2019",2:30p,REG,,Southeastern Louisiana,Southland,L,71,74,,6,13,L 1,H&HP Complex
+19,20,"Sat, Jan 26, 2019",4:00p,REG,,Houston Baptist,Southland,W,79,73,,7,13,W 1,H&HP Complex
+20,21,"Sat, Feb 2, 2019",4:00p,REG,,Lamar,Southland,L,75,84,,7,14,L 1,H&HP Complex
+21,22,"Wed, Feb 6, 2019",7:30p,REG,@,Sam Houston State,Southland,L,62,77,,7,15,L 2,Johnson Coliseum
+22,23,"Sat, Feb 9, 2019",4:00p,REG,,Northwestern State,Southland,L,72,74,,7,16,L 3,H&HP Complex
+23,24,"Wed, Feb 13, 2019",7:30p,REG,@,Stephen F. Austin,Southland,L,57,67,,7,17,L 4,William Johnson Coliseum
+24,25,"Sat, Feb 16, 2019",5:00p,REG,@,Southeastern Louisiana,Southland,L,52,88,,7,18,L 5,University Center
+25,26,"Wed, Feb 20, 2019",7:30p,REG,,Central Arkansas,Southland,W,83,75,OT,8,18,W 1,H&HP Complex
+26,27,"Sat, Feb 23, 2019",4:00p,REG,,New Orleans,Southland,L,51,60,,8,19,L 1,H&HP Complex
+27,28,"Wed, Feb 27, 2019",8:00p,REG,@,Nicholls State,Southland,W,84,75,,9,19,W 1,David Stopher Gymnasium
+28,29,"Sat, Mar 2, 2019",8:00p,REG,@,Houston Baptist,Southland,L,65,86,,9,20,L 1,Frank and Lucille Sharp Gymnasium
+29,30,"Wed, Mar 6, 2019",7:30p,REG,,Texas A&M-Corpus Christi,Southland,L,50,59,,9,21,L 2,H&HP Complex
+30,31,"Sat, Mar 9, 2019",5:30p,REG,@,Lamar,Southland,L,58,83,,9,22,L 3,Montagne Center

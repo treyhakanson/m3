@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",8:00p,REG,@,Iona,MAAC,L,68,72,,0,1,L 1,Hynes Athletics Center
+1,2,"Wed, Nov 14, 2018",7:30p,REG,,Boston University,Patriot,L,61,71,,0,2,L 2,SEFCU Arena
+2,3,"Sat, Nov 17, 2018",3:30p,REG,@,Canisius,MAAC,W,75,66,,1,2,W 1,Koessler Athletic Center
+3,4,"Mon, Nov 19, 2018",7:00p,REG,,SUNY-Oneonta,,W,79,62,,2,2,W 2,SEFCU Arena
+4,5,"Tue, Nov 20, 2018",7:00p,REG,,Holy Cross,Patriot,L,65,69,OT,2,3,L 1,SEFCU Arena
+5,6,"Fri, Nov 23, 2018",8:00p,REG,@,Milwaukee,Horizon,L,70,79,,2,4,L 2,UW-Milwaukee Panther Arena
+6,7,"Thu, Nov 29, 2018",2:00p,REG,N,Long Island University,NEC,L,77,80,,2,5,L 3,SSE Arena
+7,8,"Fri, Nov 30, 2018",12:00p,REG,N,Dartmouth,Ivy,L,77,91,,2,6,L 4,SSE Arena
+8,9,"Sat, Dec 8, 2018",7:00p,REG,,Monmouth,MAAC,W,82,63,,3,6,W 1,SEFCU Arena
+9,10,"Tue, Dec 11, 2018",7:00p,REG,@,Yale,Ivy,L,63,71,,3,7,L 1,John J. Lee Ampitheater
+10,11,"Sat, Dec 15, 2018",3:00p,REG,,Dartmouth,Ivy,L,52,61,,3,8,L 2,SEFCU Arena
+11,12,"Tue, Dec 18, 2018",7:00p,REG,@,Providence,Big East,L,43,73,,3,9,L 3,Dunkin' Donuts Center
+12,13,"Thu, Dec 20, 2018",7:00p,REG,,Manhattan,MAAC,W,77,67,,4,9,W 1,SEFCU Arena
+13,14,"Fri, Dec 28, 2018",7:00p,REG,@,Kent State,MAC,L,68,70,,4,10,L 1,Memorial Athletic & Convocation Center
+14,15,"Mon, Dec 31, 2018",3:30p,REG,@,Niagara,MAAC,W,79,74,,5,10,W 1,Gallagher Center
+15,16,"Sat, Jan 5, 2019",7:00p,REG,,Vermont,AEC,L,51,80,,5,11,L 1,SEFCU Arena
+16,17,"Sat, Jan 12, 2019",3:00p,REG,,Maine,AEC,L,62,66,,5,12,L 2,SEFCU Arena
+17,18,"Wed, Jan 16, 2019",7:00p,REG,@,Massachusetts-Lowell,AEC,L,72,84,,5,13,L 3,Costello Athletic Center
+18,19,"Sat, Jan 19, 2019",1:00p,REG,@,Maryland-Baltimore County,AEC,L,64,65,OT,5,14,L 4,UMBC Event Center
+19,20,"Wed, Jan 23, 2019",7:00p,REG,,Stony Brook,AEC,L,66,67,OT,5,15,L 5,SEFCU Arena
+20,21,"Sat, Jan 26, 2019",3:00p,REG,,Hartford,AEC,W,84,77,,6,15,W 1,SEFCU Arena
+21,22,"Wed, Jan 30, 2019",7:00p,REG,@,New Hampshire,AEC,W,62,42,,7,15,W 2,Lundholm Gymnasium
+22,23,"Sat, Feb 2, 2019",7:00p,REG,,Binghamton,AEC,W,64,50,,8,15,W 3,SEFCU Arena
+23,24,"Sat, Feb 9, 2019",2:00p,REG,@,Vermont,AEC,L,49,67,,8,16,L 1,Roy L. Patrick Gymnasium
+24,25,"Wed, Feb 13, 2019",7:00p,REG,,Massachusetts-Lowell,AEC,L,54,86,,8,17,L 2,SEFCU Arena
+25,26,"Sun, Feb 17, 2019",1:00p,REG,@,Maine,AEC,W,63,54,,9,17,W 1,Cross Insurance Center
+26,27,"Thu, Feb 21, 2019",7:00p,REG,@,Stony Brook,AEC,W,74,70,,10,17,W 2,Island Federal Credit Union
+27,28,"Sat, Feb 23, 2019",7:00p,REG,,Maryland-Baltimore County,AEC,W,84,75,,11,17,W 3,SEFCU Arena
+28,29,"Wed, Feb 27, 2019",7:00p,REG,,New Hampshire,AEC,L,58,62,,11,18,L 1,SEFCU Arena
+29,30,"Sat, Mar 2, 2019",5:00p,REG,@,Hartford,AEC,L,80,82,OT,11,19,L 2,Chase Family Arena
+30,31,"Tue, Mar 5, 2019",7:00p,REG,@,Binghamton,AEC,W,73,58,,12,19,W 1,Binghamton University Events Center
+31,32,"Sat, Mar 9, 2019",1:00p,CTOURN,@,Maryland-Baltimore County,AEC,L,54,62,,12,20,L 1,Retriever Activities Center

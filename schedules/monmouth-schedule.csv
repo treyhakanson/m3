@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:30p,REG,,Lehigh,Patriot,L,61,85,,0,1,L 1,Multipurpose Activity Center
+1,2,"Fri, Nov 9, 2018",7:00p,REG,@,Colgate,Patriot,L,74,87,,0,2,L 2,Cotterell Court
+2,3,"Mon, Nov 12, 2018",7:00p,REG,@,Saint Joseph's,A-10,L,63,78,,0,3,L 3,Hagan Arena
+3,4,"Thu, Nov 15, 2018",7:00p,REG,N,West Virginia,Big 12,L,53,71,,0,4,L 4,The HTC Center
+4,5,"Fri, Nov 16, 2018",6:30p,REG,N,Valparaiso,MVC,L,53,64,,0,5,L 5,The HTC Center
+5,6,"Sun, Nov 18, 2018",1:00p,REG,N,Cal State Fullerton,Big West,L,63,87,,0,6,L 6,The HTC Center
+6,7,"Sat, Nov 24, 2018",3:00p,REG,,Princeton,Ivy,L,57,60,,0,7,L 7,Multipurpose Activity Center
+7,8,"Wed, Nov 28, 2018",8:30p,REG,@,Kentucky (10),SEC,L,44,90,,0,8,L 8,Rupp Arena
+8,9,"Sat, Dec 1, 2018",2:00p,REG,@,Bucknell,Patriot,L,43,65,,0,9,L 9,Sojka Pavilion
+9,10,"Wed, Dec 5, 2018",7:00p,REG,@,Hofstra,CAA,L,73,75,,0,10,L 10,Mack Sports Complex
+10,11,"Sat, Dec 8, 2018",7:00p,REG,@,Albany (NY),AEC,L,63,82,,0,11,L 11,SEFCU Arena
+11,12,"Thu, Dec 20, 2018",7:00p,REG,,Yale,Ivy,L,58,66,,0,12,L 12,Multipurpose Activity Center
+12,13,"Mon, Dec 31, 2018",1:00p,REG,@,Pennsylvania,Ivy,W,76,74,OT,1,12,W 1,The Palestra
+13,14,"Thu, Jan 3, 2019",7:00p,REG,@,Iona,MAAC,L,84,103,,1,13,L 1,Hynes Athletics Center
+14,15,"Sat, Jan 5, 2019",2:00p,REG,,Saint Peter's,MAAC,W,61,44,,2,13,W 1,Multipurpose Activity Center
+15,16,"Thu, Jan 10, 2019",7:00p,REG,@,Quinnipiac,MAAC,L,83,89,2OT,2,14,L 1,TD Bank Sports Center
+16,17,"Sat, Jan 12, 2019",2:00p,REG,,Manhattan,MAAC,W,65,49,,3,14,W 1,Multipurpose Activity Center
+17,18,"Mon, Jan 14, 2019",7:00p,REG,@,Siena,MAAC,W,63,60,OT,4,14,W 2,Times Union Center 
+18,19,"Thu, Jan 17, 2019",7:00p,REG,,Fairfield,MAAC,W,74,57,,5,14,W 3,Multipurpose Activity Center
+19,20,"Sun, Jan 20, 2019",12:00p,REG,,Iona,MAAC,W,83,81,,6,14,W 4,Multipurpose Activity Center
+20,21,"Thu, Jan 24, 2019",7:00p,REG,@,Canisius,MAAC,L,66,80,,6,15,L 1,Koessler Athletic Center
+21,22,"Sat, Jan 26, 2019",3:00p,REG,@,Niagara,MAAC,L,48,75,,6,16,L 2,Gallagher Center
+22,23,"Thu, Jan 31, 2019",7:00p,REG,,Siena,MAAC,W,66,55,,7,16,W 1,Multipurpose Activity Center
+23,24,"Sat, Feb 2, 2019",2:00p,REG,,Rider,MAAC,W,75,71,,8,16,W 2,Multipurpose Activity Center
+24,25,"Thu, Feb 7, 2019",7:00p,REG,@,Saint Peter's,MAAC,W,53,51,,9,16,W 3,Yanitelli Center
+25,26,"Sat, Feb 9, 2019",1:00p,REG,@,Fairfield,MAAC,W,61,49,,10,16,W 4,Webster Bank Arena
+26,27,"Fri, Feb 15, 2019",7:00p,REG,@,Rider,MAAC,L,72,81,,10,17,L 1,Alumni Gymnasium
+27,28,"Sun, Feb 17, 2019",2:00p,REG,,Marist,MAAC,L,67,75,,10,18,L 2,Multipurpose Activity Center
+28,29,"Fri, Feb 22, 2019",7:00p,REG,,Canisius,MAAC,L,59,60,,10,19,L 3,Multipurpose Activity Center
+29,30,"Sun, Feb 24, 2019",2:00p,REG,,Quinnipiac,MAAC,L,56,68,,10,20,L 4,Multipurpose Activity Center
+30,31,"Fri, Mar 1, 2019",7:00p,REG,@,Manhattan,MAAC,W,62,54,,11,20,W 1,Draddy Gymnasium
+31,32,"Thu, Mar 7, 2019",9:00p,CTOURN,N,Niagara,MAAC,W,76,72,,12,20,W 2,Times Union Center 
+32,33,"Sat, Mar 9, 2019",7:00p,CTOURN,N,Quinnipiac,MAAC,W,98,92,,13,20,W 3,Times Union Center 
+33,34,"Sun, Mar 10, 2019",8:30p,CTOURN,N,Canisius,MAAC,W,73,59,,14,20,W 4,Times Union Center 
+34,35,"Mon, Mar 11, 2019",9:00p,CTOURN,N,Iona,MAAC,L,60,81,,14,21,L 1,Times Union Center 

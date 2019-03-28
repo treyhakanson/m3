@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",7:30p,REG,,North Florida,A-Sun,W,87,72,,1,0,W 1,Bryce Jordan Center
+1,2,"Mon, Nov 12, 2018",7:00p,REG,,Jacksonville State,OVC,W,76,61,,2,0,W 2,Bryce Jordan Center
+2,3,"Thu, Nov 15, 2018",9:00p,REG,@,DePaul,Big East,L,70,72,OT,2,1,L 1,Wintrust Arena
+3,4,"Tue, Nov 20, 2018",8:30p,REG,N,Wright State,Horizon,W,77,59,,3,1,W 1,Hard Rock Hotel Riviera Maya
+4,5,"Wed, Nov 21, 2018",8:30p,REG,N,Bradley,MVC,L,56,59,,3,2,L 1,Hard Rock Hotel Riviera Maya
+5,6,"Tue, Nov 27, 2018",7:00p,REG,,Virginia Tech (13),ACC,W,63,62,,4,2,W 1,Bryce Jordan Center
+6,7,"Sat, Dec 1, 2018",5:00p,REG,@,Maryland (24),Big Ten,L,59,66,,4,3,L 1,Xfinity Center
+7,8,"Tue, Dec 4, 2018",7:00p,REG,,Indiana,Big Ten,L,62,64,,4,4,L 2,Bryce Jordan Center
+8,9,"Sat, Dec 8, 2018",2:00p,REG,,Colgate,Patriot,W,76,65,,5,4,W 1,Bryce Jordan Center
+9,10,"Sat, Dec 15, 2018",2:00p,REG,N,North Carolina State,ACC,L,78,89,,5,5,L 1,Boardwalk Hall
+10,11,"Wed, Dec 19, 2018",7:00p,REG,N,Duquesne,A-10,W,73,67,,6,5,W 1,CONSOL Energy Center
+11,12,"Fri, Dec 21, 2018",9:00p,REG,@,Alabama,SEC,L,64,73,,6,6,L 1,Coleman Coliseum 
+12,13,"Sat, Dec 29, 2018",1:00p,REG,,Maryland-Baltimore County,AEC,W,74,52,,7,6,W 1,Bryce Jordan Center
+13,14,"Thu, Jan 3, 2019",7:00p,REG,@,Michigan (2),Big Ten,L,55,68,,7,7,L 1,Crisler Arena
+14,15,"Sun, Jan 6, 2019",7:30p,REG,,Wisconsin (22),Big Ten,L,52,71,,7,8,L 2,Bryce Jordan Center
+15,16,"Thu, Jan 10, 2019",9:00p,REG,@,Nebraska,Big Ten,L,64,70,,7,9,L 3,Pinnacle Bank Arena
+16,17,"Sun, Jan 13, 2019",4:30p,REG,,Michigan State (6),Big Ten,L,56,71,,7,10,L 4,Bryce Jordan Center
+17,18,"Wed, Jan 16, 2019",7:00p,REG,,Iowa (23),Big Ten,L,82,89,,7,11,L 5,Bryce Jordan Center
+18,19,"Sat, Jan 19, 2019",8:30p,REG,@,Minnesota,Big Ten,L,64,65,,7,12,L 6,Williams Arena
+19,20,"Sat, Jan 26, 2019",4:30p,REG,,Rutgers,Big Ten,L,60,64,,7,13,L 7,Bryce Jordan Center
+20,21,"Thu, Jan 31, 2019",7:00p,REG,,Purdue (17),Big Ten,L,90,99,OT,7,14,L 8,Bryce Jordan Center
+21,22,"Mon, Feb 4, 2019",8:00p,REG,@,Northwestern,Big Ten,W,59,52,,8,14,W 1,Welsh-Ryan Arena
+22,23,"Thu, Feb 7, 2019",7:00p,REG,@,Ohio State,Big Ten,L,70,74,,8,15,L 1,Value City Arena
+23,24,"Tue, Feb 12, 2019",8:30p,REG,,Michigan (6),Big Ten,W,75,69,,9,15,W 1,Bryce Jordan Center
+24,25,"Sat, Feb 16, 2019",4:00p,REG,@,Purdue (12),Big Ten,L,64,76,,9,16,L 1,Mackey Arena
+25,26,"Tue, Feb 19, 2019",7:00p,REG,,Nebraska,Big Ten,W,95,71,,10,16,W 1,Bryce Jordan Center
+26,27,"Sat, Feb 23, 2019",12:00p,REG,@,Illinois,Big Ten,W,83,76,,11,16,W 2,State Farm Center
+27,28,"Wed, Feb 27, 2019",6:30p,REG,,Maryland (17),Big Ten,W,78,61,,12,16,W 3,Bryce Jordan Center
+28,29,"Sat, Mar 2, 2019",1:00p,REG,@,Wisconsin (19),Big Ten,L,57,61,,12,17,L 1,Kohl Center
+29,30,"Wed, Mar 6, 2019",7:00p,REG,@,Rutgers,Big Ten,W,66,65,,13,17,W 1,Louis Brown Athletic Center
+30,31,"Sun, Mar 10, 2019",12:00p,REG,,Illinois,Big Ten,W,72,56,,14,17,W 2,Bryce Jordan Center
+31,32,"Thu, Mar 14, 2019",7:00p,CTOURN,N,Minnesota,Big Ten,L,72,77,OT,14,18,L 1,United Center

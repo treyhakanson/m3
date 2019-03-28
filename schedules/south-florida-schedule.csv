@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Alabama A&M,SWAC,W,80,63,,1,0,W 1,Sun Dome
+1,2,"Mon, Nov 12, 2018",7:00p,REG,,Austin Peay,OVC,W,74,70,OT,2,0,W 2,Sun Dome
+2,3,"Fri, Nov 16, 2018",4:30p,REG,N,Ohio,MAC,W,73,46,,3,0,W 3,Montego Bay Convention Centre
+3,4,"Sun, Nov 18, 2018",12:00p,REG,N,Georgetown,Big East,L,73,76,OT,3,1,L 1,Montego Bay Convention Centre
+4,5,"Wed, Nov 21, 2018",7:00p,REG,,Florida A&M,MEAC,W,69,59,,4,1,W 1,Sun Dome
+5,6,"Sat, Nov 24, 2018",2:00p,REG,,Citadel,Southern,L,81,84,,4,2,L 1,Sun Dome
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,Stetson,A-Sun,W,75,71,,5,2,W 1,Sun Dome
+7,8,"Fri, Nov 30, 2018",8:30p,REG,,Colgate,Patriot,W,73,63,,6,2,W 2,Sun Dome
+8,9,"Sat, Dec 15, 2018",1:00p,REG,,Appalachian State,Sun Belt,W,76,69,,7,2,W 3,Sun Dome
+9,10,"Tue, Dec 18, 2018",7:00p,REG,@,Florida International,CUSA,W,82,73,,8,2,W 4,FIU Arena
+10,11,"Fri, Dec 21, 2018",7:00p,REG,,Alcorn State,SWAC,W,83,44,,9,2,W 5,Sun Dome
+11,12,"Sat, Dec 29, 2018",1:00p,REG,,Fairleigh Dickinson,NEC,W,60,54,,10,2,W 6,Sun Dome
+12,13,"Wed, Jan 2, 2019",8:30p,REG,,Connecticut,AAC,W,76,68,,11,2,W 7,Sun Dome
+13,14,"Sat, Jan 5, 2019",6:00p,REG,@,Tulsa,AAC,L,75,78,,11,3,L 1,Donald W. Reynolds Center
+14,15,"Wed, Jan 9, 2019",7:00p,REG,,Tulane,AAC,W,66,48,,12,3,W 1,Sun Dome
+15,16,"Sat, Jan 12, 2019",2:00p,REG,@,Temple,AAC,L,80,82,OT,12,4,L 1,Liacouras Center
+16,17,"Tue, Jan 15, 2019",7:00p,REG,@,Cincinnati,AAC,L,74,82,,12,5,L 2,Fifth Third Arena
+17,18,"Sat, Jan 19, 2019",8:00p,REG,,Houston (21),AAC,L,60,69,,12,6,L 3,Sun Dome
+18,19,"Tue, Jan 22, 2019",8:00p,REG,,Wichita State,AAC,W,54,41,,13,6,W 1,Sun Dome
+19,20,"Sat, Jan 26, 2019",4:00p,REG,@,East Carolina,AAC,W,77,57,,14,6,W 2,Williams Arena at Minges Coliseum
+20,21,"Sat, Feb 2, 2019",12:00p,REG,,Memphis,AAC,W,84,78,,15,6,W 3,Sun Dome
+21,22,"Thu, Feb 7, 2019",9:00p,REG,@,Southern Methodist,AAC,W,67,66,,16,6,W 4,Moody Coliseum
+22,23,"Sun, Feb 10, 2019",5:30p,REG,,East Carolina,AAC,W,72,68,OT,17,6,W 5,Sun Dome
+23,24,"Wed, Feb 13, 2019",7:00p,REG,@,Central Florida,AAC,L,65,78,,17,7,L 1,CFE Arena
+24,25,"Sat, Feb 16, 2019",6:00p,REG,,Temple,AAC,L,69,70,OT,17,8,L 2,Sun Dome
+25,26,"Tue, Feb 19, 2019",7:00p,REG,,Florida College,,W,95,54,,18,8,W 1,Sun Dome
+26,27,"Sat, Feb 23, 2019",6:00p,REG,@,Houston (9),AAC,L,59,71,,18,9,L 1,Hofheinz Pavilion
+27,28,"Wed, Feb 27, 2019",7:00p,REG,,Central Florida,AAC,L,63,75,,18,10,L 2,Sun Dome
+28,29,"Sun, Mar 3, 2019",12:00p,REG,@,Connecticut,AAC,L,58,60,,18,11,L 3,Harry A. Gampel Pavilion
+29,30,"Wed, Mar 6, 2019",8:00p,REG,@,Tulane,AAC,W,75,70,,19,11,W 1,Devlin Fieldhouse
+30,31,"Sun, Mar 10, 2019",4:00p,REG,,Southern Methodist,AAC,L,71,77,,19,12,L 1,Sun Dome
+31,32,"Thu, Mar 14, 2019",1:00p,CTOURN,N,Connecticut,AAC,L,73,80,,19,13,L 2,FedExForum
+32,33,"Wed, Mar 20, 2019",7:00p,CBI,,Stony Brook,AEC,W,82,79,OT,20,13,W 1,Sun Dome
+33,34,"Mon, Mar 25, 2019",7:00p,CBI,,Utah Valley,WAC,W,66,57,,21,13,W 2,Sun Dome
+34,35,"Thu, Mar 28, 2019",7:00p,CBI,,Loyola Marymount,WCC,,,,,,,,

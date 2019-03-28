@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:30p,REG,@,Xavier,Big East,L,69,82,,0,1,L 1,Cintas Center
+1,2,"Sat, Nov 10, 2018",1:00p,REG,,Eastern Illinois,OVC,W,71,65,,1,1,W 1,Indiana Farmers Coliseum
+2,3,"Wed, Nov 14, 2018",7:00p,REG,@,Boston College,ACC,W,76,69,,2,1,W 2,Silvio O. Conte Forum
+3,4,"Fri, Nov 16, 2018",7:00p,REG,@,Richmond,A-10,L,70,78,,2,2,L 1,Robins Center
+4,5,"Fri, Nov 23, 2018",7:00p,REG,N,St. Francis (NY),NEC,W,68,48,,3,2,W 1,Gallagher Center
+5,6,"Sat, Nov 24, 2018",4:00p,REG,N,Grambling,SWAC,W,80,69,,4,2,W 2,Gallagher Center
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,Bradley,MVC,W,85,73,,5,2,W 3,Indiana Farmers Coliseum
+7,8,"Sat, Dec 1, 2018",1:00p,REG,,Ball State,MAC,L,75,85,,5,3,L 1,Indiana Farmers Coliseum
+8,9,"Thu, Dec 6, 2018",7:00p,REG,,Indiana-Kokomo,,W,95,64,,6,3,W 1,Indiana Farmers Coliseum
+9,10,"Wed, Dec 12, 2018",7:00p,REG,,Indiana-Northwest,,W,116,79,,7,3,W 2,Indiana Farmers Coliseum
+10,11,"Sat, Dec 15, 2018",1:00p,REG,,Western Illinois,Summit,W,82,68,,8,3,W 3,Indiana Farmers Coliseum
+11,12,"Tue, Dec 18, 2018",7:00p,REG,@,Purdue-Fort Wayne,Summit,L,77,87,,8,4,L 1,Allen County War Memorial Coliseum
+12,13,"Fri, Dec 21, 2018",5:35p,REG,@,Morehead State,OVC,L,70,74,,8,5,L 2,Ellis T. Johnson Arena
+13,14,"Fri, Dec 28, 2018",7:00p,REG,@,Northern Kentucky,Horizon,L,77,92,,8,6,L 3,Bank of Kentucky Center
+14,15,"Sun, Dec 30, 2018",3:00p,REG,@,Wright State,Horizon,L,64,72,,8,7,L 4,Ervin J. Nutter Center
+15,16,"Fri, Jan 4, 2019",7:00p,REG,@,Illinois-Chicago,Horizon,W,66,64,,9,7,W 1,UIC Pavilion
+16,17,"Thu, Jan 10, 2019",7:00p,REG,,Cleveland State,Horizon,W,90,74,,10,7,W 2,Indiana Farmers Coliseum
+17,18,"Sat, Jan 12, 2019",1:00p,REG,,Youngstown State,Horizon,L,76,82,,10,8,L 1,Indiana Farmers Coliseum
+18,19,"Thu, Jan 17, 2019",8:00p,REG,@,Green Bay,Horizon,W,76,70,,11,8,W 1,Resch Center
+19,20,"Sat, Jan 19, 2019",7:00p,REG,@,Milwaukee,Horizon,L,57,64,,11,9,L 1,UW-Milwaukee Panther Arena
+20,21,"Thu, Jan 24, 2019",11:00a,REG,,Oakland,Horizon,W,73,71,,12,9,W 1,Indiana Farmers Coliseum
+21,22,"Sat, Jan 26, 2019",1:00p,REG,,Detroit Mercy,Horizon,W,80,65,,13,9,W 2,Indiana Farmers Coliseum
+22,23,"Fri, Feb 1, 2019",7:00p,REG,,Northern Kentucky,Horizon,W,83,77,,14,9,W 3,Indiana Farmers Coliseum
+23,24,"Sun, Feb 3, 2019",1:00p,REG,,Wright State,Horizon,L,74,79,,14,10,L 1,Indiana Farmers Coliseum
+24,25,"Sat, Feb 9, 2019",1:00p,REG,,Illinois-Chicago,Horizon,L,75,76,,14,11,L 2,Indiana Farmers Coliseum
+25,26,"Thu, Feb 14, 2019",7:00p,REG,@,Youngstown State,Horizon,L,73,75,,14,12,L 3,Beeghly Center
+26,27,"Sat, Feb 16, 2019",7:00p,REG,@,Cleveland State,Horizon,L,86,89,,14,13,L 4,Wolstein Center
+27,28,"Fri, Feb 22, 2019",7:00p,REG,,Milwaukee,Horizon,W,67,60,,15,13,W 1,Indiana Farmers Coliseum
+28,29,"Sun, Feb 24, 2019",1:00p,REG,,Green Bay,Horizon,W,79,68,,16,13,W 2,Indiana Farmers Coliseum
+29,30,"Thu, Feb 28, 2019",8:00p,REG,@,Detroit Mercy,Horizon,L,85,87,,16,14,L 1,Calihan Hall
+30,31,"Sat, Mar 2, 2019",4:00p,REG,@,Oakland,Horizon,L,63,74,,16,15,L 2,Athletics Center O'rena
+31,32,"Tue, Mar 5, 2019",8:00p,CTOURN,@,Wright State,Horizon,L,56,71,,16,16,L 3,Ervin J. Nutter Center
+32,33,"Tue, Mar 19, 2019",7:00p,CIT,@,Marshall,CUSA,L,73,78,,16,17,L 4,Henderson Center

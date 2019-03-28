@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",7:30p,REG,,Mount St. Mary's,NEC,W,79,61,,1,0,W 1,Mack Sports Complex
+1,2,"Sun, Nov 11, 2018",2:30p,REG,@,Marshall,CUSA,L,72,76,,1,1,L 1,Henderson Center
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,North Carolina A&T,MEAC,W,92,72,,2,1,W 1,Mack Sports Complex
+3,4,"Fri, Nov 16, 2018",7:00p,REG,@,Maryland,Big Ten,L,69,80,,2,2,L 1,Xfinity Center
+4,5,"Wed, Nov 21, 2018",7:00p,REG,,Cal State Fullerton,Big West,W,80,71,,3,2,W 1,Mack Sports Complex
+5,6,"Sat, Nov 24, 2018",7:00p,REG,@,Virginia Commonwealth,A-10,L,67,69,OT,3,3,L 1,Stuart Siegel Center
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,Siena,MAAC,W,94,86,,4,3,W 1,Mack Sports Complex
+7,8,"Sat, Dec 1, 2018",2:00p,REG,@,Kennesaw State,A-Sun,W,78,52,,5,3,W 2,KSU Convocation Center 
+8,9,"Wed, Dec 5, 2018",7:00p,REG,,Monmouth,MAAC,W,75,73,,6,3,W 3,Mack Sports Complex
+9,10,"Sat, Dec 8, 2018",4:00p,REG,,Rider,MAAC,W,89,73,,7,3,W 4,Mack Sports Complex
+10,11,"Mon, Dec 10, 2018",7:00p,REG,@,Manhattan,MAAC,W,80,50,,8,3,W 5,Draddy Gymnasium
+11,12,"Wed, Dec 19, 2018",7:00p,REG,@,Stony Brook,AEC,W,71,64,,9,3,W 6,Island Federal Credit Union
+12,13,"Sat, Dec 22, 2018",1:00p,REG,,Rosemont,,W,107,54,,10,3,W 7,Mack Sports Complex
+13,14,"Fri, Dec 28, 2018",7:00p,REG,,Delaware,CAA,W,91,46,,11,3,W 8,Mack Sports Complex
+14,15,"Sun, Dec 30, 2018",4:00p,REG,,Drexel,CAA,W,89,75,,12,3,W 9,Mack Sports Complex
+15,16,"Sat, Jan 5, 2019",4:00p,REG,,Northeastern,CAA,W,75,72,,13,3,W 10,Mack Sports Complex
+16,17,"Thu, Jan 10, 2019",7:00p,REG,@,William & Mary,CAA,W,93,90,3OT,14,3,W 11,Kaplan Arena at William and Mary Hall
+17,18,"Sat, Jan 12, 2019",7:00p,REG,@,Elon,CAA,W,74,71,,15,3,W 12,Schar Center
+18,19,"Thu, Jan 17, 2019",7:00p,REG,,North Carolina-Wilmington,CAA,W,87,72,,16,3,W 13,Mack Sports Complex
+19,20,"Sat, Jan 19, 2019",4:00p,REG,,College of Charleston,CAA,W,86,72,,17,3,W 14,Mack Sports Complex
+20,21,"Thu, Jan 24, 2019",7:00p,REG,@,James Madison,CAA,W,85,68,,18,3,W 15,JMU Convocation Center
+21,22,"Sat, Jan 26, 2019",2:00p,REG,@,Towson,CAA,W,84,61,,19,3,W 16,SECU Arena
+22,23,"Sat, Feb 2, 2019",4:30p,REG,@,Northeastern,CAA,L,61,75,,19,4,L 1,Matthews Arena
+23,24,"Thu, Feb 7, 2019",7:00p,REG,,Elon,CAA,W,102,61,,20,4,W 1,Mack Sports Complex
+24,25,"Sat, Feb 9, 2019",4:00p,REG,,William & Mary,CAA,W,93,87,,21,4,W 2,Mack Sports Complex
+25,26,"Thu, Feb 14, 2019",7:00p,REG,@,College of Charleston,CAA,W,99,95,,22,4,W 3,TD Arena
+26,27,"Sat, Feb 16, 2019",7:00p,REG,@,North Carolina-Wilmington,CAA,L,79,87,,22,5,L 1,Trask Coliseum
+27,28,"Thu, Feb 21, 2019",7:00p,REG,,Towson,CAA,W,91,82,2OT,23,5,W 1,Mack Sports Complex
+28,29,"Sat, Feb 23, 2019",4:00p,REG,,James Madison,CAA,L,99,104,OT,23,6,L 1,Mack Sports Complex
+29,30,"Thu, Feb 28, 2019",7:00p,REG,@,Drexel,CAA,W,80,77,,24,6,W 1,Daskalakis Athletic Center
+30,31,"Sat, Mar 2, 2019",4:00p,REG,@,Delaware,CAA,W,92,70,,25,6,W 2,Bob Carpenter Center
+31,32,"Sun, Mar 10, 2019",12:00p,CTOURN,N,James Madison,CAA,W,76,67,,26,6,W 3,North Charleston Coliseum
+32,33,"Mon, Mar 11, 2019",6:00p,CTOURN,N,Delaware,CAA,W,78,74,OT,27,6,W 4,North Charleston Coliseum
+33,34,"Tue, Mar 12, 2019",7:00p,CTOURN,N,Northeastern,CAA,L,74,82,,27,7,L 1,North Charleston Coliseum
+34,35,"Tue, Mar 19, 2019",7:00p,NIT,@,North Carolina State,ACC,L,78,84,,27,8,L 2,James T. Valvano Arena

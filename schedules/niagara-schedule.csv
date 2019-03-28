@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Mon, Nov 12, 2018",7:00p,REG,,St. Bonaventure,A-10,W,80,72,,1,0,W 1,Gallagher Center
+1,2,"Wed, Nov 14, 2018",8:00p,REG,@,Loyola (IL),MVC,L,62,75,,1,1,L 1,Joseph J. Gentile Center
+2,3,"Fri, Nov 16, 2018",9:00p,REG,@,Wyoming,MWC,W,72,67,,2,1,W 1,Arena-Auditorium
+3,4,"Fri, Nov 23, 2018",4:00p,REG,,Grambling,SWAC,L,68,74,,2,2,L 1,Gallagher Center
+4,5,"Sat, Nov 24, 2018",7:00p,REG,,St. Francis (NY),NEC,L,63,75,,2,3,L 2,Gallagher Center
+5,6,"Fri, Nov 30, 2018",7:00p,REG,@,Saint Francis (PA),NEC,L,75,79,,2,4,L 3,DeGol Arena
+6,7,"Mon, Dec 3, 2018",7:00p,REG,@,Pittsburgh,ACC,W,71,70,,3,4,W 1,Petersen Events Center
+7,8,"Sun, Dec 9, 2018",12:30p,REG,,New Hampshire,AEC,W,71,67,,4,4,W 2,Gallagher Center
+8,9,"Sun, Dec 16, 2018",2:00p,REG,,Cornell,Ivy,W,77,74,,5,4,W 3,Gallagher Center
+9,10,"Wed, Dec 19, 2018",7:30p,REG,@,Cleveland State,Horizon,L,60,82,,5,5,L 1,Wolstein Center
+10,11,"Sat, Dec 22, 2018",1:00p,REG,@,Army,Patriot,W,78,66,,6,5,W 1,Christl Arena
+11,12,"Sat, Dec 29, 2018",3:00p,REG,,Norfolk State,MEAC,W,83,75,,7,5,W 2,Gallagher Center
+12,13,"Mon, Dec 31, 2018",3:30p,REG,,Albany (NY),AEC,L,74,79,,7,6,L 1,Gallagher Center
+13,14,"Sat, Jan 5, 2019",7:00p,REG,@,Manhattan,MAAC,L,80,90,,7,7,L 2,Draddy Gymnasium
+14,15,"Mon, Jan 7, 2019",7:00p,REG,@,Fairfield,MAAC,L,59,77,,7,8,L 3,George Bisacca Court at Alumni Hall
+15,16,"Fri, Jan 11, 2019",7:00p,REG,,Iona,MAAC,W,95,90,,8,8,W 1,Gallagher Center
+16,17,"Sun, Jan 13, 2019",2:00p,REG,,Rider,MAAC,L,84,104,,8,9,L 1,Gallagher Center
+17,18,"Thu, Jan 17, 2019",7:00p,REG,@,Siena,MAAC,L,57,66,,8,10,L 2,Times Union Center 
+18,19,"Sat, Jan 19, 2019",2:00p,REG,@,Quinnipiac,MAAC,W,75,72,,9,10,W 1,TD Bank Sports Center
+19,20,"Tue, Jan 22, 2019",8:00p,REG,,Saint Peter's,MAAC,L,72,74,,9,11,L 1,Gallagher Center
+20,21,"Sat, Jan 26, 2019",3:00p,REG,,Monmouth,MAAC,W,75,48,,10,11,W 1,Gallagher Center
+21,22,"Wed, Jan 30, 2019",7:00p,REG,,Canisius,MAAC,W,78,70,,11,11,W 2,Gallagher Center
+22,23,"Sun, Feb 3, 2019",2:00p,REG,,Quinnipiac,MAAC,L,73,84,,11,12,L 1,Gallagher Center
+23,24,"Fri, Feb 8, 2019",7:00p,REG,@,Marist,MAAC,L,58,79,,11,13,L 2,McCann Recreation Center
+24,25,"Sun, Feb 10, 2019",1:00p,REG,@,Iona,MAAC,L,76,79,,11,14,L 3,Hynes Athletics Center
+25,26,"Fri, Feb 15, 2019",7:00p,REG,,Manhattan,MAAC,L,60,64,,11,15,L 4,Gallagher Center
+26,27,"Sun, Feb 17, 2019",2:00p,REG,,Fairfield,MAAC,W,78,73,,12,15,W 1,Gallagher Center
+27,28,"Fri, Feb 22, 2019",7:00p,REG,@,Rider,MAAC,L,81,97,,12,16,L 1,Alumni Gymnasium
+28,29,"Sun, Feb 24, 2019",2:00p,REG,@,Saint Peter's,MAAC,L,60,78,,12,17,L 2,Yanitelli Center
+29,30,"Wed, Feb 27, 2019",7:30p,REG,@,Canisius,MAAC,W,86,84,,13,17,W 1,Koessler Athletic Center
+30,31,"Sun, Mar 3, 2019",2:00p,REG,,Siena,MAAC,L,65,72,OT,13,18,L 1,Gallagher Center
+31,32,"Thu, Mar 7, 2019",9:00p,CTOURN,N,Monmouth,MAAC,L,72,76,,13,19,L 2,Times Union Center 

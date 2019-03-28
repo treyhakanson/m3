@@ -1,0 +1,36 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",7:00p,REG,,Western Carolina,Southern,W,96,73,,1,0,W 1,Ervin J. Nutter Center
+1,2,"Sat, Nov 10, 2018",8:00p,REG,@,Murray State,OVC,L,54,73,,1,1,L 1,CFSB Center
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,Toledo,MAC,W,84,74,,2,1,W 1,Ervin J. Nutter Center
+3,4,"Sat, Nov 17, 2018",3:00p,REG,,North Florida,A-Sun,W,89,72,,3,1,W 2,Ervin J. Nutter Center
+4,5,"Tue, Nov 20, 2018",8:30p,REG,N,Penn State,Big Ten,L,59,77,,3,2,L 1,Hard Rock Hotel Riviera Maya
+5,6,"Wed, Nov 21, 2018",6:00p,REG,N,Southern Methodist,AAC,L,76,77,,3,3,L 2,Hard Rock Hotel Riviera Maya
+6,7,"Tue, Nov 27, 2018",7:00p,REG,,Cedarville,,W,58,39,,4,3,W 1,Ervin J. Nutter Center
+7,8,"Sat, Dec 1, 2018",2:00p,REG,@,Indiana State,MVC,L,63,69,,4,4,L 1,Hulman Center
+8,9,"Wed, Dec 5, 2018",7:00p,REG,,Miami (OH),MAC,L,62,65,,4,5,L 2,Ervin J. Nutter Center
+9,10,"Sat, Dec 8, 2018",4:00p,REG,@,Kent State,MAC,L,76,83,,4,6,L 3,Memorial Athletic & Convocation Center
+10,11,"Thu, Dec 13, 2018",7:00p,REG,,Northwestern Ohio,,W,91,52,,5,6,W 1,Ervin J. Nutter Center
+11,12,"Tue, Dec 18, 2018",7:00p,REG,,Morehead State,OVC,W,78,67,,6,6,W 2,Ervin J. Nutter Center
+12,13,"Sat, Dec 22, 2018",7:00p,REG,N,Mississippi State (17),SEC,L,63,67,,6,7,L 1,Mississippi Coliseum
+13,14,"Fri, Dec 28, 2018",7:00p,REG,,Illinois-Chicago,Horizon,L,72,75,OT,6,8,L 2,Ervin J. Nutter Center
+14,15,"Sun, Dec 30, 2018",3:00p,REG,,IUPUI,Horizon,W,72,64,,7,8,W 1,Ervin J. Nutter Center
+15,16,"Thu, Jan 3, 2019",7:00p,REG,@,Detroit Mercy,Horizon,L,58,79,,7,9,L 1,Calihan Hall
+16,17,"Sat, Jan 5, 2019",3:00p,REG,@,Oakland,Horizon,W,89,73,,8,9,W 1,Athletics Center O'rena
+17,18,"Fri, Jan 11, 2019",7:00p,REG,@,Northern Kentucky,Horizon,L,64,68,,8,10,L 1,Bank of Kentucky Center
+18,19,"Thu, Jan 17, 2019",7:00p,REG,@,Youngstown State,Horizon,W,80,74,,9,10,W 1,Beeghly Center
+19,20,"Sat, Jan 19, 2019",1:00p,REG,@,Cleveland State,Horizon,W,89,66,,10,10,W 2,Wolstein Center
+20,21,"Thu, Jan 24, 2019",7:00p,REG,,Milwaukee,Horizon,W,56,54,,11,10,W 3,Ervin J. Nutter Center
+21,22,"Sat, Jan 26, 2019",7:00p,REG,,Green Bay,Horizon,W,87,75,,12,10,W 4,Ervin J. Nutter Center
+22,23,"Fri, Feb 1, 2019",9:00p,REG,@,Illinois-Chicago,Horizon,L,53,67,,12,11,L 1,UIC Pavilion
+23,24,"Sun, Feb 3, 2019",1:00p,REG,@,IUPUI,Horizon,W,79,74,,13,11,W 1,Indiana Farmers Coliseum
+24,25,"Thu, Feb 7, 2019",7:00p,REG,,Oakland,Horizon,W,76,62,,14,11,W 2,Ervin J. Nutter Center
+25,26,"Sat, Feb 9, 2019",7:00p,REG,,Detroit Mercy,Horizon,W,83,60,,15,11,W 3,Ervin J. Nutter Center
+26,27,"Fri, Feb 15, 2019",9:00p,REG,,Northern Kentucky,Horizon,W,81,77,,16,11,W 4,Ervin J. Nutter Center
+27,28,"Thu, Feb 21, 2019",7:00p,REG,,Cleveland State,Horizon,W,87,61,,17,11,W 5,Ervin J. Nutter Center
+28,29,"Sat, Feb 23, 2019",3:00p,REG,,Youngstown State,Horizon,W,82,54,,18,11,W 6,Ervin J. Nutter Center
+29,30,"Thu, Feb 28, 2019",8:00p,REG,@,Green Bay,Horizon,L,67,70,,18,12,L 1,Resch Center
+30,31,"Sat, Mar 2, 2019",7:00p,REG,@,Milwaukee,Horizon,W,65,62,,19,12,W 1,UW-Milwaukee Panther Arena
+31,32,"Tue, Mar 5, 2019",8:00p,CTOURN,,IUPUI,Horizon,W,71,56,,20,12,W 2,Ervin J. Nutter Center
+32,33,"Mon, Mar 11, 2019",7:00p,CTOURN,N,Green Bay,Horizon,W,66,54,,21,12,W 3,Little Caesars Arena
+33,34,"Tue, Mar 12, 2019",7:00p,CTOURN,N,Northern Kentucky,Horizon,L,66,77,,21,13,L 1,Little Caesars Arena
+34,35,"Tue, Mar 19, 2019",7:00p,NIT,@,Clemson,ACC,L,69,75,,21,14,L 2,Littlejohn Coliseum

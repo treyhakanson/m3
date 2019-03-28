@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,Ball State,MAC,L,69,86,,0,1,L 1,Worthen Arena
+1,2,"Fri, Nov 9, 2018",4:30p,REG,@,Green Bay,Horizon,W,78,74,,1,1,W 1,Kress Events Center
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,McKendree,,W,80,63,,2,1,W 2,Hulman Center
+3,4,"Sat, Nov 24, 2018",2:00p,REG,,Western Kentucky,CUSA,W,63,54,,3,1,W 3,Hulman Center
+4,5,"Wed, Nov 28, 2018",10:00p,REG,@,San Jose State,MWC,W,86,57,,4,1,W 4,San Jose State Event Center
+5,6,"Sat, Dec 1, 2018",2:00p,REG,,Wright State,Horizon,W,69,63,,5,1,W 5,Hulman Center
+6,7,"Wed, Dec 5, 2018",7:00p,REG,,North Texas,CUSA,L,69,80,,5,2,L 1,Hulman Center
+7,8,"Sat, Dec 8, 2018",1:00p,REG,,Truman State,,W,77,69,,6,2,W 1,Hulman Center
+8,9,"Sun, Dec 16, 2018",5:00p,REG,@,Texas Christian,Big 12,L,70,90,,6,3,L 1,Ed & Rae Schollmaier Arena
+9,10,"Sat, Dec 22, 2018",3:00p,REG,N,Colorado,Pac-12,W,72,67,,7,3,W 1,Stan Sheriff Center
+10,11,"Sun, Dec 23, 2018",4:30p,REG,N,Nevada-Las Vegas,MWC,W,84,79,,8,3,W 2,Stan Sheriff Center
+11,12,"Tue, Dec 25, 2018",9:00p,REG,N,Texas Christian,Big 12,L,69,83,,8,4,L 1,Stan Sheriff Center
+12,13,"Wed, Jan 2, 2019",9:00p,REG,@,Loyola (IL),MVC,L,44,79,,8,5,L 2,Joseph J. Gentile Center
+13,14,"Sat, Jan 5, 2019",2:00p,REG,,Bradley,MVC,W,65,60,,9,5,W 1,Hulman Center
+14,15,"Tue, Jan 8, 2019",7:00p,REG,,Missouri State,MVC,L,57,72,,9,6,L 1,Hulman Center
+15,16,"Sat, Jan 12, 2019",2:00p,REG,@,Evansville,MVC,W,72,66,OT,10,6,W 1,Ford Center
+16,17,"Wed, Jan 16, 2019",8:00p,REG,@,Northern Iowa,MVC,L,64,69,,10,7,L 1,McLeod Center
+17,18,"Sat, Jan 19, 2019",2:00p,REG,,Loyola (IL),MVC,L,67,75,,10,8,L 2,Hulman Center
+18,19,"Wed, Jan 23, 2019",7:00p,REG,,Valparaiso,MVC,W,70,53,,11,8,W 1,Hulman Center
+19,20,"Sun, Jan 27, 2019",2:00p,REG,@,Illinois State,MVC,L,62,76,,11,9,L 1,Redbird Arena
+20,21,"Wed, Jan 30, 2019",9:00p,REG,@,Southern Illinois,MVC,L,73,88,,11,10,L 2,The SIU Arena
+21,22,"Sat, Feb 2, 2019",2:00p,REG,,Drake,MVC,L,62,68,,11,11,L 3,Hulman Center
+22,23,"Wed, Feb 6, 2019",7:00p,REG,,Evansville,MVC,W,85,62,,12,11,W 1,Hulman Center
+23,24,"Sat, Feb 9, 2019",8:00p,REG,@,Bradley,MVC,L,67,96,,12,12,L 1,Carver Arena
+24,25,"Wed, Feb 13, 2019",8:00p,REG,@,Valparaiso,MVC,W,87,82,OT,13,12,W 1,Athletics-Recreation Center
+25,26,"Sat, Feb 16, 2019",12:00p,REG,,Southern Illinois,MVC,L,57,79,,13,13,L 1,Hulman Center
+26,27,"Wed, Feb 20, 2019",7:00p,REG,,Illinois State,MVC,W,73,50,,14,13,W 1,Hulman Center
+27,28,"Sat, Feb 23, 2019",2:00p,REG,@,Missouri State,MVC,L,61,67,,14,14,L 1,JQH Arena
+28,29,"Wed, Feb 27, 2019",8:00p,REG,@,Drake,MVC,L,68,80,,14,15,L 2,Knapp Center
+29,30,"Sat, Mar 2, 2019",2:00p,REG,,Northern Iowa,MVC,W,71,54,,15,15,W 1,Hulman Center
+30,31,"Thu, Mar 7, 2019",7:05p,CTOURN,N,Valparaiso,MVC,L,55,77,,15,16,L 1,Scottrade Center

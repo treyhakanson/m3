@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",7:30p,REG,@,DePaul,Big East,L,58,80,,0,1,L 1,Wintrust Arena
+1,2,"Sat, Nov 10, 2018",4:00p,REG,@,Marquette,Big East,L,59,92,,0,2,L 2,Fiserv Forum
+2,3,"Tue, Nov 13, 2018",7:00p,REG,,Trinity Baptist,,W,104,44,,1,2,W 1,Moore Gymnasium
+3,4,"Thu, Nov 15, 2018",7:00p,REG,,Johnson University,,W,97,47,,2,2,W 2,Moore Gymnasium
+4,5,"Sat, Nov 17, 2018",2:00p,REG,@,Miami (FL),ACC,L,70,78,,2,3,L 1,BankUnited Center
+5,6,"Tue, Nov 20, 2018",7:00p,REG,,Omaha,Summit,L,56,76,,2,4,L 2,Moore Gymnasium
+6,7,"Mon, Nov 26, 2018",7:00p,REG,,Stetson,A-Sun,W,84,74,,3,4,W 1,Moore Gymnasium
+7,8,"Sat, Dec 1, 2018",4:00p,REG,,Florida Atlantic,CUSA,W,72,70,,4,4,W 2,Moore Gymnasium
+8,9,"Tue, Dec 4, 2018",10:00p,REG,@,Saint Mary's (CA),WCC,L,61,93,,4,5,L 1,McKeon Pavilion
+9,10,"Thu, Dec 6, 2018",10:00p,REG,@,San Jose State,MWC,L,65,67,,4,6,L 2,San Jose State Event Center
+10,11,"Sat, Dec 8, 2018",10:00p,REG,@,Cal Poly,Big West,L,78,80,OT,4,7,L 3,Robert A. Mott Gymnasium
+11,12,"Sat, Dec 15, 2018",6:00p,REG,,Jacksonville,A-Sun,L,71,79,,4,8,L 4,Moore Gymnasium
+12,13,"Wed, Dec 19, 2018",8:00p,REG,@,Quinnipiac,MAAC,L,63,87,,4,9,L 5,TD Bank Sports Center
+13,14,"Fri, Dec 21, 2018",7:00p,REG,@,Boston University,Patriot,W,74,66,,5,9,W 1,Case Gym
+14,15,"Sat, Jan 5, 2019",4:00p,REG,@,North Carolina Central,MEAC,L,59,68,,5,10,L 1,McLendon-McDougald Gym
+15,16,"Sat, Jan 12, 2019",4:00p,REG,@,Howard,MEAC,W,71,63,,6,10,W 1,Burr Gymnasium
+16,17,"Mon, Jan 14, 2019",8:00p,REG,@,Norfolk State,MEAC,L,68,75,,6,11,L 1,Echols Memorial Hall
+17,18,"Sat, Jan 19, 2019",4:00p,REG,,Delaware State,MEAC,W,69,49,,7,11,W 1,Moore Gymnasium
+18,19,"Mon, Jan 21, 2019",4:00p,REG,,Maryland-Eastern Shore,MEAC,W,89,68,,8,11,W 2,Moore Gymnasium
+19,20,"Sat, Jan 26, 2019",4:00p,REG,@,Morgan State,MEAC,L,71,77,,8,12,L 1,Hill Field House
+20,21,"Mon, Jan 28, 2019",7:30p,REG,@,Coppin State,MEAC,L,91,95,,8,13,L 2,Physical Education Complex
+21,22,"Sat, Feb 2, 2019",4:00p,REG,,North Carolina Central,MEAC,W,74,64,,9,13,W 1,Moore Gymnasium
+22,23,"Mon, Feb 4, 2019",7:30p,REG,,North Carolina A&T,MEAC,W,69,53,,10,13,W 2,Moore Gymnasium
+23,24,"Sat, Feb 9, 2019",4:00p,REG,,Norfolk State,MEAC,W,84,76,,11,13,W 3,Moore Gymnasium
+24,25,"Mon, Feb 11, 2019",7:30p,REG,,Howard,MEAC,L,73,79,,11,14,L 1,Moore Gymnasium
+25,26,"Sat, Feb 16, 2019",4:00p,REG,@,South Carolina State,MEAC,W,98,73,,12,14,W 1,SHM Memorial Center
+26,27,"Mon, Feb 18, 2019",7:30p,REG,@,Savannah State,MEAC,L,70,79,,12,15,L 1,Tiger Arena
+27,28,"Sat, Feb 23, 2019",4:00p,REG,,Florida A&M,MEAC,W,67,54,,13,15,W 1,Moore Gymnasium
+28,29,"Sat, Mar 2, 2019",4:00p,REG,,South Carolina State,MEAC,W,98,95,OT,14,15,W 2,Moore Gymnasium
+29,30,"Thu, Mar 7, 2019",7:30p,REG,,Florida A&M,MEAC,L,56,64,,14,16,L 1,Moore Gymnasium
+30,31,"Thu, Mar 14, 2019",8:00p,CTOURN,N,Howard,MEAC,L,71,80,,14,17,L 2,Norfolk Scope

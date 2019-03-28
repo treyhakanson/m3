@@ -1,0 +1,38 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:30p,REG,@,Baylor,Big 12,W,72,69,,1,0,W 1,Ferrell Center
+1,2,"Sat, Nov 10, 2018",10:00p,REG,@,Gonzaga (3),WCC,L,67,104,,1,1,L 1,McCarthey Athletic Center
+2,3,"Mon, Nov 12, 2018",8:00p,REG,@,Iowa State,Big 12,L,73,85,,1,2,L 2,James H. Hilton Coliseum 
+3,4,"Wed, Nov 14, 2018",10:00p,REG,@,San Diego State,MWC,L,64,103,,1,3,L 3,Viejas Arena
+4,5,"Sun, Nov 18, 2018",1:00p,REG,@,Evansville,MVC,L,63,85,,1,4,L 4,Ford Center
+5,6,"Mon, Nov 26, 2018",11:00p,REG,@,Oregon (18),Pac-12,W,89,84,,2,4,W 1,Matthew Knight Arena
+6,7,"Thu, Nov 29, 2018",8:30p,REG,,Huston-Tillotson,,W,81,76,,3,4,W 2,Health & Physical Education Arena
+7,8,"Sat, Dec 1, 2018",9:30p,REG,@,Arizona State,Pac-12,L,71,83,,3,5,L 1,Wells Fargo Arena
+8,9,"Mon, Dec 3, 2018",7:00p,REG,@,Georgia,SEC,L,75,92,,3,6,L 2,Stegeman Coliseum
+9,10,"Sat, Dec 8, 2018",8:30p,REG,,Concordia (TX),,W,107,70,,4,6,W 1,Health & Physical Education Arena
+10,11,"Mon, Dec 17, 2018",8:00p,REG,@,Tulane,AAC,L,70,77,,4,7,L 1,Devlin Fieldhouse
+11,12,"Wed, Dec 19, 2018",8:00p,REG,@,Lamar,Southland,L,72,80,,4,8,L 2,Montagne Center
+12,13,"Sat, Dec 29, 2018",3:30p,REG,@,Texas A&M,SEC,W,88,73,,5,8,W 1,Reed Arena
+13,14,"Sat, Jan 5, 2019",7:30p,REG,@,Alcorn State,SWAC,W,87,70,,6,8,W 2,Davey L. Whitney Complex
+14,15,"Mon, Jan 7, 2019",8:30p,REG,@,Southern,SWAC,W,77,67,,7,8,W 3,F. G. Clark Activity Center
+15,16,"Sat, Jan 12, 2019",6:00p,REG,@,Prairie View,SWAC,L,73,79,,7,9,L 1,William J. Nicks Building
+16,17,"Sat, Jan 19, 2019",8:30p,REG,,Grambling,SWAC,L,87,88,OT,7,10,L 2,Health & Physical Education Arena
+17,18,"Mon, Jan 21, 2019",7:00p,REG,,Jackson State,SWAC,W,75,65,,8,10,W 1,Health & Physical Education Arena
+18,19,"Sat, Jan 26, 2019",8:30p,REG,@,Arkansas-Pine Bluff,SWAC,L,86,90,,8,11,L 1,H.O. Clemmons Arena
+19,20,"Mon, Jan 28, 2019",8:30p,REG,@,Mississippi Valley State,SWAC,W,65,62,,9,11,W 1,Harrison HPER Complex
+20,21,"Sat, Feb 2, 2019",8:30p,REG,,Alabama State,SWAC,W,83,59,,10,11,W 2,Health & Physical Education Arena
+21,22,"Mon, Feb 4, 2019",8:30p,REG,,Alabama A&M,SWAC,W,84,74,,11,11,W 3,Health & Physical Education Arena
+22,23,"Sat, Feb 9, 2019",8:30p,REG,,Prairie View,SWAC,W,95,90,,12,11,W 4,Health & Physical Education Arena
+23,24,"Sat, Feb 16, 2019",6:00p,REG,@,Grambling,SWAC,W,86,85,,13,11,W 5,Assembly Center
+24,25,"Mon, Feb 18, 2019",8:30p,REG,@,Jackson State,SWAC,W,77,65,,14,11,W 6,Lee E. Williams Athletics and Assembly Center
+25,26,"Sat, Feb 23, 2019",8:30p,REG,,Arkansas-Pine Bluff,SWAC,W,94,74,,15,11,W 7,Health & Physical Education Arena
+26,27,"Mon, Feb 25, 2019",8:30p,REG,,Mississippi Valley State,SWAC,W,92,80,,16,11,W 8,Health & Physical Education Arena
+27,28,"Sat, Mar 2, 2019",6:00p,REG,@,Alabama State,SWAC,W,78,68,,17,11,W 9,Dunn-Oliver Acadome
+28,29,"Mon, Mar 4, 2019",8:30p,REG,@,Alabama A&M,SWAC,W,66,61,,18,11,W 10,Elmore Health Science Building 
+29,30,"Thu, Mar 7, 2019",8:30p,REG,,Alcorn State,SWAC,W,99,72,,19,11,W 11,Health & Physical Education Arena
+30,31,"Sat, Mar 9, 2019",8:30p,REG,,Southern,SWAC,L,77,87,,19,12,L 1,Health & Physical Education Arena
+31,32,"Tue, Mar 12, 2019",8:30p,CTOURN,,Southern,SWAC,W,80,70,,20,12,W 1,Health & Physical Education Arena
+32,33,"Fri, Mar 15, 2019",9:30p,CTOURN,N,Alabama State,SWAC,W,80,66,,21,12,W 2,Bill Harris Arena
+33,34,"Sat, Mar 16, 2019",6:00p,CTOURN,N,Prairie View,SWAC,L,86,92,,21,13,L 1,Bill Harris Arena
+34,35,"Wed, Mar 20, 2019",8:00p,CIT,@,New Orleans,Southland,W,95,89,OT,22,13,W 1,Kiefer Lakefront Arena
+35,36,"Mon, Mar 25, 2019",8:00p,CIT,@,Texas-Rio Grande Valley,WAC,W,94,85,,23,13,W 2,UTRGV Fieldhouse
+36,37,"Thu, Mar 28, 2019",8:00p,CIT,@,Louisiana-Monroe,Sun Belt,,,,,,,,

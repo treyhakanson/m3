@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Youngstown State,Horizon,W,69,53,,1,0,W 1,Petersen Events Center
+1,2,"Fri, Nov 9, 2018",7:00p,REG,,Virginia Military Institute,Southern,W,94,55,,2,0,W 2,Petersen Events Center
+2,3,"Mon, Nov 12, 2018",7:00p,REG,,Troy,Sun Belt,W,84,75,,3,0,W 3,Petersen Events Center
+3,4,"Thu, Nov 15, 2018",7:00p,REG,,Central Arkansas,Southland,W,97,71,,4,0,W 4,Petersen Events Center
+4,5,"Sat, Nov 17, 2018",12:00p,REG,,North Alabama,A-Sun,W,71,66,,5,0,W 5,Petersen Events Center
+5,6,"Wed, Nov 21, 2018",12:00p,REG,N,Saint Louis,A-10,W,75,73,,6,0,W 6,Barclays Center
+6,7,"Tue, Nov 27, 2018",9:00p,REG,@,Iowa (14),Big Ten,L,68,69,,6,1,L 1,Carver-Hawkeye Arena
+7,8,"Fri, Nov 30, 2018",7:00p,REG,N,Duquesne,A-10,W,74,53,,7,1,W 1,CONSOL Energy Center
+8,9,"Mon, Dec 3, 2018",7:00p,REG,,Niagara,MAAC,L,70,71,,7,2,L 1,Petersen Events Center
+9,10,"Sat, Dec 8, 2018",12:00p,REG,@,West Virginia,Big 12,L,59,69,,7,3,L 2,WVU Coliseum
+10,11,"Sat, Dec 15, 2018",2:00p,REG,,Maryland-Eastern Shore,MEAC,W,78,43,,8,3,W 1,Petersen Events Center
+11,12,"Thu, Dec 20, 2018",7:00p,REG,,New Orleans,Southland,W,99,57,,9,3,W 2,Petersen Events Center
+12,13,"Sat, Dec 29, 2018",4:00p,REG,,Colgate,Patriot,W,68,54,,10,3,W 3,Petersen Events Center
+13,14,"Sat, Jan 5, 2019",12:00p,REG,,North Carolina (15),ACC,L,60,85,,10,4,L 1,Petersen Events Center
+14,15,"Wed, Jan 9, 2019",8:00p,REG,,Louisville,ACC,W,89,86,OT,11,4,W 1,Petersen Events Center
+15,16,"Sat, Jan 12, 2019",12:00p,REG,@,North Carolina State (15),ACC,L,80,86,,11,5,L 1,PNC Arena
+16,17,"Mon, Jan 14, 2019",7:00p,REG,,Florida State (11),ACC,W,75,62,,12,5,W 1,Petersen Events Center
+17,18,"Sat, Jan 19, 2019",2:00p,REG,@,Syracuse,ACC,L,63,74,,12,6,L 1,Carrier Dome
+18,19,"Tue, Jan 22, 2019",9:00p,REG,,Duke (2),ACC,L,64,79,,12,7,L 2,Petersen Events Center
+19,20,"Sat, Jan 26, 2019",2:00p,REG,@,Louisville (23),ACC,L,51,66,,12,8,L 3,KFC Yum! Center
+20,21,"Tue, Jan 29, 2019",9:00p,REG,@,Clemson,ACC,L,69,82,,12,9,L 4,Littlejohn Coliseum
+21,22,"Sat, Feb 2, 2019",6:00p,REG,,Syracuse,ACC,L,56,65,,12,10,L 5,Petersen Events Center
+22,23,"Tue, Feb 5, 2019",7:00p,REG,@,Wake Forest,ACC,L,76,78,OT,12,11,L 6,Lawrence Joel Coliseum
+23,24,"Sat, Feb 9, 2019",2:00p,REG,,North Carolina State,ACC,L,76,79,,12,12,L 7,Petersen Events Center
+24,25,"Tue, Feb 12, 2019",7:00p,REG,@,Boston College,ACC,L,57,66,,12,13,L 8,Silvio O. Conte Forum
+25,26,"Sat, Feb 16, 2019",4:30p,REG,,Virginia Tech (22),ACC,L,64,70,,12,14,L 9,Petersen Events Center
+26,27,"Wed, Feb 20, 2019",9:00p,REG,@,Georgia Tech,ACC,L,65,73,,12,15,L 10,McCamish Pavilion
+27,28,"Wed, Feb 27, 2019",7:00p,REG,,Clemson,ACC,L,48,62,,12,16,L 11,Petersen Events Center
+28,29,"Sat, Mar 2, 2019",2:00p,REG,@,Virginia (2),ACC,L,49,73,,12,17,L 12,John Paul Jones Arena
+29,30,"Tue, Mar 5, 2019",8:00p,REG,@,Miami (FL),ACC,L,63,76,,12,18,L 13,BankUnited Center
+30,31,"Sat, Mar 9, 2019",12:00p,REG,,Notre Dame,ACC,W,56,53,,13,18,W 1,Petersen Events Center
+31,32,"Tue, Mar 12, 2019",7:00p,CTOURN,N,Boston College,ACC,W,80,70,,14,18,W 2,Spectrum Center
+32,33,"Wed, Mar 13, 2019",9:00p,CTOURN,N,Syracuse,ACC,L,59,73,,14,19,L 1,Spectrum Center

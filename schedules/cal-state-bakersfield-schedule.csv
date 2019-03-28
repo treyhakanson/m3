@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",9:00p,REG,@,Texas Christian (20),Big 12,L,61,66,,0,1,L 1,Ed & Rae Schollmaier Arena
+1,2,"Fri, Nov 9, 2018",2:00p,REG,,Antelope Valley,,W,111,75,,1,1,W 1,Icardo Center
+2,3,"Thu, Nov 15, 2018",6:00p,REG,N,Central Michigan,MAC,L,55,67,,1,2,L 1,Gateway Christian Academy
+3,4,"Sat, Nov 17, 2018",6:00p,REG,N,San Jose State,MWC,W,73,72,,2,2,W 1,Gateway Christian Academy
+4,5,"Sun, Nov 18, 2018",8:30p,REG,N,Weber State,Big Sky,W,68,67,,3,2,W 2,Gateway Christian Academy
+5,6,"Sun, Nov 25, 2018",7:00p,REG,@,Southern California,Pac-12,L,75,90,,3,3,L 1,Galen Center
+6,7,"Sat, Dec 1, 2018",4:30p,REG,@,South Dakota,Summit,L,56,68,,3,4,L 2,Sanford Coyote Sports Center
+7,8,"Tue, Dec 4, 2018",10:00p,REG,,UC-Merced,,W,67,53,,4,4,W 1,Icardo Center
+8,9,"Sat, Dec 8, 2018",10:00p,REG,@,Idaho,Big Sky,W,73,67,,5,4,W 2,Memorial Gym
+9,10,"Thu, Dec 13, 2018",10:00p,REG,,Lamar,Southland,W,86,65,,6,4,W 3,Icardo Center
+10,11,"Tue, Dec 18, 2018",10:00p,REG,,Cal Poly,Big West,W,74,61,,7,4,W 4,Icardo Center
+11,12,"Thu, Dec 20, 2018",10:05p,REG,@,Portland State,Big Sky,W,76,71,,8,4,W 5,Peter W. Stott Center
+12,13,"Mon, Dec 31, 2018",9:00p,REG,@,Gonzaga (7),WCC,L,54,89,,8,5,L 1,McCarthey Athletic Center
+13,14,"Thu, Jan 3, 2019",10:00p,REG,,Seattle,WAC,W,83,71,,9,5,W 1,Icardo Center
+14,15,"Sat, Jan 5, 2019",10:00p,REG,,Utah Valley,WAC,W,73,71,,10,5,W 2,Icardo Center
+15,16,"Thu, Jan 10, 2019",8:00p,REG,@,Texas-Rio Grande Valley,WAC,W,75,69,,11,5,W 3,UTRGV Fieldhouse
+16,17,"Sat, Jan 12, 2019",6:00p,REG,@,New Mexico State,WAC,L,62,73,,11,6,L 1,Pan American Center
+17,18,"Thu, Jan 17, 2019",10:00p,REG,,Missouri-Kansas City,WAC,W,74,73,,12,6,W 1,Icardo Center
+18,19,"Sat, Jan 19, 2019",10:00p,REG,,Chicago State,WAC,W,86,73,,13,6,W 2,Icardo Center
+19,20,"Thu, Jan 24, 2019",10:00p,REG,@,California Baptist,WAC,W,88,84,,14,6,W 3,CBU Events Center
+20,21,"Tue, Jan 29, 2019",10:00p,REG,,UC-Santa Cruz,,W,81,54,,15,6,W 4,Icardo Center
+21,22,"Sat, Feb 2, 2019",10:00p,REG,,Grand Canyon,WAC,L,59,72,,15,7,L 1,Icardo Center
+22,23,"Thu, Feb 7, 2019",10:00p,REG,,New Mexico State,WAC,L,70,71,OT,15,8,L 2,Icardo Center
+23,24,"Sat, Feb 9, 2019",10:00p,REG,,Texas-Rio Grande Valley,WAC,L,74,79,OT,15,9,L 3,Icardo Center
+24,25,"Thu, Feb 14, 2019",8:05p,REG,@,Chicago State,WAC,W,75,62,,16,9,W 1,Emil and Patricia Jones Convocation Center
+25,26,"Sat, Feb 16, 2019",7:00p,REG,@,Missouri-Kansas City,WAC,L,67,75,,16,10,L 1,Swinney Recreation Center
+26,27,"Sat, Feb 23, 2019",10:00p,REG,,California Baptist,WAC,L,58,72,,16,11,L 2,Icardo Center
+27,28,"Sat, Mar 2, 2019",9:00p,REG,@,Grand Canyon,WAC,L,69,73,,16,12,L 3,Grand Canyon University Arena
+28,29,"Thu, Mar 7, 2019",10:00p,REG,@,Seattle,WAC,L,57,63,OT,16,13,L 4,Connolly Center
+29,30,"Sat, Mar 9, 2019",9:00p,REG,@,Utah Valley,WAC,L,61,76,,16,14,L 5,UCCU Center
+30,31,"Thu, Mar 14, 2019",5:30p,CTOURN,N,Texas-Rio Grande Valley,WAC,L,70,85,,16,15,L 6,Orleans Arena
+31,32,"Thu, Mar 21, 2019",10:00p,CIT,@,Cal State Fullerton,Big West,W,66,58,,17,15,W 1,Titan Gym
+32,33,"Mon, Mar 25, 2019",8:30p,CIT,@,Southern Utah,Big Sky,W,70,67,,18,15,W 2,Centrum
+33,34,"Fri, Mar 29, 2019",7:00p,CIT,@,Green Bay,Horizon,,,,,,,,

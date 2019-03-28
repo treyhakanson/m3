@@ -1,0 +1,37 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,,Mississippi Valley State,SWAC,W,106,37,,1,0,W 1,Pinnacle Bank Arena
+1,2,"Sun, Nov 11, 2018",4:00p,REG,,Southeastern Louisiana,Southland,W,87,35,,2,0,W 2,Pinnacle Bank Arena
+2,3,"Wed, Nov 14, 2018",7:30p,REG,,Seton Hall,Big East,W,80,57,,3,0,W 3,Pinnacle Bank Arena
+3,4,"Mon, Nov 19, 2018",7:00p,REG,N,Missouri State,MVC,W,85,62,,4,0,W 4,Sprint Center
+4,5,"Tue, Nov 20, 2018",9:30p,REG,N,Texas Tech,Big 12,L,52,70,,4,1,L 1,Sprint Center
+5,6,"Sat, Nov 24, 2018",2:00p,REG,,Western Illinois,Summit,W,73,49,,5,1,W 1,Pinnacle Bank Arena
+6,7,"Mon, Nov 26, 2018",7:00p,REG,@,Clemson,ACC,W,68,66,,6,1,W 2,Littlejohn Coliseum
+7,8,"Sun, Dec 2, 2018",5:00p,REG,,Illinois,Big Ten,W,75,60,,7,1,W 3,Pinnacle Bank Arena
+8,9,"Wed, Dec 5, 2018",9:00p,REG,@,Minnesota,Big Ten,L,78,85,,7,2,L 1,Williams Arena
+9,10,"Sat, Dec 8, 2018",6:00p,REG,,Creighton,Big East,W,94,75,,8,2,W 1,Pinnacle Bank Arena
+10,11,"Sun, Dec 16, 2018",7:00p,REG,N,Oklahoma State,Big 12,W,79,56,,9,2,W 2,Sanford Pentagon
+11,12,"Sat, Dec 22, 2018",2:00p,REG,,Cal State Fullerton,Big West,W,86,62,,10,2,W 3,Pinnacle Bank Arena
+12,13,"Sat, Dec 29, 2018",2:00p,REG,,Southwest Minnesota State,,W,79,38,,11,2,W 4,Pinnacle Bank Arena
+13,14,"Wed, Jan 2, 2019",6:30p,REG,@,Maryland,Big Ten,L,72,74,,11,3,L 1,Xfinity Center
+14,15,"Sun, Jan 6, 2019",5:30p,REG,@,Iowa (25),Big Ten,L,84,93,,11,4,L 2,Carver-Hawkeye Arena
+15,16,"Thu, Jan 10, 2019",9:00p,REG,,Penn State,Big Ten,W,70,64,,12,4,W 1,Pinnacle Bank Arena
+16,17,"Mon, Jan 14, 2019",6:30p,REG,@,Indiana (25),Big Ten,W,66,51,,13,4,W 2,Assembly Hall
+17,18,"Thu, Jan 17, 2019",8:00p,REG,,Michigan State (6),Big Ten,L,64,70,,13,5,L 1,Pinnacle Bank Arena
+18,19,"Mon, Jan 21, 2019",8:00p,REG,@,Rutgers,Big Ten,L,69,76,,13,6,L 2,Louis Brown Athletic Center
+19,20,"Sat, Jan 26, 2019",12:00p,REG,,Ohio State,Big Ten,L,60,70,,13,7,L 3,Pinnacle Bank Arena
+20,21,"Tue, Jan 29, 2019",8:00p,REG,,Wisconsin (24),Big Ten,L,51,62,,13,8,L 4,Pinnacle Bank Arena
+21,22,"Sat, Feb 2, 2019",2:15p,REG,@,Illinois,Big Ten,L,64,71,,13,9,L 5,State Farm Center
+22,23,"Wed, Feb 6, 2019",7:00p,REG,,Maryland (24),Big Ten,L,45,60,,13,10,L 6,Pinnacle Bank Arena
+23,24,"Sat, Feb 9, 2019",8:30p,REG,@,Purdue (15),Big Ten,L,62,81,,13,11,L 7,Mackey Arena
+24,25,"Wed, Feb 13, 2019",9:00p,REG,,Minnesota,Big Ten,W,62,61,,14,11,W 1,Pinnacle Bank Arena
+25,26,"Sat, Feb 16, 2019",8:30p,REG,,Northwestern,Big Ten,W,59,50,,15,11,W 2,Pinnacle Bank Arena
+26,27,"Tue, Feb 19, 2019",7:00p,REG,@,Penn State,Big Ten,L,71,95,,15,12,L 1,Bryce Jordan Center
+27,28,"Sat, Feb 23, 2019",2:00p,REG,,Purdue (15),Big Ten,L,72,75,,15,13,L 2,Pinnacle Bank Arena
+28,29,"Thu, Feb 28, 2019",7:00p,REG,@,Michigan (9),Big Ten,L,53,82,,15,14,L 3,Crisler Arena
+29,30,"Tue, Mar 5, 2019",7:00p,REG,@,Michigan State (9),Big Ten,L,76,91,,15,15,L 4,Breslin Events Center
+30,31,"Sun, Mar 10, 2019",2:00p,REG,,Iowa,Big Ten,W,93,91,OT,16,15,W 1,Pinnacle Bank Arena
+31,32,"Wed, Mar 13, 2019",6:30p,CTOURN,N,Rutgers,Big Ten,W,68,61,,17,15,W 2,United Center
+32,33,"Thu, Mar 14, 2019",2:55p,CTOURN,N,Maryland (21),Big Ten,W,69,61,,18,15,W 3,United Center
+33,34,"Fri, Mar 15, 2019",2:55p,CTOURN,N,Wisconsin (19),Big Ten,L,62,66,,18,16,L 1,United Center
+34,35,"Wed, Mar 20, 2019",9:00p,NIT,,Butler,Big East,W,80,76,,19,16,W 1,Pinnacle Bank Arena
+35,36,"Sun, Mar 24, 2019",9:30p,NIT,@,Texas Christian,Big 12,L,72,88,,19,17,L 1,Ed & Rae Schollmaier Arena

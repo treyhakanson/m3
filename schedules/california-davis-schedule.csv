@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,,San Francisco,WCC,L,42,76,,0,1,L 1,The Pavilion
+1,2,"Fri, Nov 9, 2018",10:00p,REG,,San Diego,WCC,L,57,76,,0,2,L 2,The Pavilion
+2,3,"Mon, Nov 12, 2018",8:00p,REG,@,Arkansas,SEC,L,58,81,,0,3,L 3,Bud Walton Arena
+3,4,"Sat, Nov 17, 2018",3:00p,REG,N,Texas A&M-Corpus Christi,Southland,W,57,54,OT,1,3,W 1,College Park Center
+4,5,"Sun, Nov 18, 2018",1:00p,REG,@,Texas-Arlington,Sun Belt,L,59,68,,1,4,L 1,College Park Center
+5,6,"Tue, Nov 20, 2018",10:05p,REG,N,Sacramento State,Big Sky,L,55,58,,1,5,L 2,Golden 1 Center
+6,7,"Fri, Nov 23, 2018",7:00p,REG,@,Indiana,Big Ten,L,62,76,,1,6,L 3,Assembly Hall
+7,8,"Thu, Nov 29, 2018",10:00p,REG,,Northern Arizona,Big Sky,W,73,57,,2,6,W 1,The Pavilion
+8,9,"Wed, Dec 5, 2018",8:00p,REG,@,Northern Illinois,MAC,L,62,71,,2,7,L 1,Convocation Center
+9,10,"Sun, Dec 16, 2018",5:00p,REG,,William Jessup,,W,83,65,,3,7,W 1,The Pavilion
+10,11,"Sat, Dec 22, 2018",7:00p,REG,@,Arizona,Pac-12,L,68,70,,3,8,L 1,McKale Center
+11,12,"Fri, Dec 28, 2018",10:00p,REG,@,Loyola Marymount,WCC,L,59,77,,3,9,L 2,Albert Gersten Pavilion
+12,13,"Sun, Dec 30, 2018",9:00p,REG,@,Southern California,Pac-12,L,55,73,,3,10,L 3,Galen Center
+13,14,"Sat, Jan 5, 2019",8:00p,REG,,Holy Names,,W,90,60,,4,10,W 1,The Pavilion
+14,15,"Thu, Jan 10, 2019",10:00p,REG,@,UC-Irvine,Big West,L,69,71,OT,4,11,L 1,Bren Events Center
+15,16,"Sat, Jan 12, 2019",7:00p,REG,@,Long Beach State,Big West,L,77,82,,4,12,L 2,The Walter Pyramid
+16,17,"Thu, Jan 17, 2019",10:00p,REG,,UC-Santa Barbara,Big West,L,58,69,,4,13,L 3,The Pavilion
+17,18,"Sat, Jan 19, 2019",8:00p,REG,,Cal Poly,Big West,W,75,63,,5,13,W 1,The Pavilion
+18,19,"Sat, Jan 26, 2019",11:59p,REG,@,Hawaii,Big West,L,60,80,,5,14,L 1,Stan Sheriff Center
+19,20,"Sat, Feb 2, 2019",9:00p,REG,@,UC-Riverside,Big West,W,84,71,,6,14,W 1,UC Riverside Student Recreation Center
+20,21,"Thu, Feb 7, 2019",10:00p,REG,@,Cal Poly,Big West,W,63,53,,7,14,W 2,Robert A. Mott Gymnasium
+21,22,"Sat, Feb 9, 2019",11:59p,REG,@,UC-Santa Barbara,Big West,W,61,57,,8,14,W 3,The Thunderdome
+22,23,"Wed, Feb 13, 2019",10:00p,REG,,Cal State Northridge,Big West,W,76,59,,9,14,W 4,The Pavilion
+23,24,"Sat, Feb 16, 2019",10:00p,REG,,Long Beach State,Big West,W,77,73,,10,14,W 5,The Pavilion
+24,25,"Thu, Feb 21, 2019",10:30p,REG,@,Cal State Fullerton,Big West,L,58,62,,10,15,L 1,Titan Gym
+25,26,"Sat, Feb 23, 2019",10:00p,REG,@,Cal State Northridge,Big West,L,76,81,OT,10,16,L 2,The Matadome
+26,27,"Thu, Feb 28, 2019",11:00p,REG,,UC-Irvine,Big West,L,48,64,,10,17,L 3,The Pavilion
+27,28,"Sat, Mar 2, 2019",10:00p,REG,,Cal State Fullerton,Big West,W,66,59,,11,17,W 1,The Pavilion
+28,29,"Thu, Mar 7, 2019",10:00p,REG,,Hawaii,Big West,L,69,76,,11,18,L 1,The Pavilion
+29,30,"Sat, Mar 9, 2019",8:00p,REG,,UC-Riverside,Big West,L,70,71,,11,19,L 2,The Pavilion
+30,31,"Thu, Mar 14, 2019",5:30p,CTOURN,N,Cal State Fullerton,Big West,L,71,75,OT,11,20,L 3,Honda Center

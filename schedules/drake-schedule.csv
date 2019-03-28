@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Thu, Nov 8, 2018",8:00p,REG,,Buena Vista,,W,98,52,,1,0,W 1,Knapp Center
+1,2,"Tue, Nov 13, 2018",8:00p,REG,@,Colorado,Pac-12,L,71,100,,1,1,L 1,Coors Events/Conference Center
+2,3,"Sat, Nov 17, 2018",3:00p,REG,,Texas State,Sun Belt,W,75,69,,2,1,W 1,Knapp Center
+3,4,"Wed, Nov 21, 2018",7:00p,REG,@,Missouri-Kansas City,WAC,W,66,63,,3,1,W 2,Municipal Auditorium
+4,5,"Tue, Nov 27, 2018",8:00p,REG,,Boise State,MWC,W,83,74,,4,1,W 3,Knapp Center
+5,6,"Sat, Dec 1, 2018",6:30p,REG,N,North Dakota State,Summit,W,95,88,,5,1,W 4,U.S. Bank Stadium
+6,7,"Thu, Dec 6, 2018",8:00p,REG,@,Milwaukee,Horizon,W,75,61,,6,1,W 5,UW-Milwaukee Panther Arena
+7,8,"Sat, Dec 15, 2018",4:30p,REG,N,Iowa State,Big 12,L,68,77,,6,2,L 1,Wells Fargo Arena
+8,9,"Mon, Dec 17, 2018",8:00p,REG,,Southern Illinois-Edwardsville,OVC,W,79,66,,7,2,W 1,Knapp Center
+9,10,"Wed, Dec 19, 2018",8:00p,REG,,Rider,MAAC,W,76,58,,8,2,W 2,Knapp Center
+10,11,"Sat, Dec 22, 2018",7:30p,REG,N,New Mexico State,WAC,W,66,63,,9,2,W 3,Orleans Arena
+11,12,"Sun, Dec 23, 2018",7:30p,REG,N,San Diego,WCC,W,110,103,2OT,10,2,W 4,Orleans Arena
+12,13,"Sat, Dec 29, 2018",3:00p,REG,,McKendree,,W,98,70,,11,2,W 5,Knapp Center
+13,14,"Wed, Jan 2, 2019",7:00p,REG,@,Evansville,MVC,L,77,82,2OT,11,3,L 1,Ford Center
+14,15,"Sat, Jan 5, 2019",3:00p,REG,,Loyola (IL),MVC,L,74,85,,11,4,L 2,Knapp Center
+15,16,"Tue, Jan 8, 2019",8:00p,REG,,Southern Illinois,MVC,W,82,70,,12,4,W 1,Knapp Center
+16,17,"Sun, Jan 13, 2019",4:00p,REG,@,Northern Iowa,MVC,L,54,57,,12,5,L 1,McLeod Center
+17,18,"Wed, Jan 16, 2019",8:00p,REG,@,Bradley,MVC,W,69,52,,13,5,W 1,Carver Arena
+18,19,"Sun, Jan 20, 2019",4:00p,REG,,Missouri State,MVC,W,74,63,,14,5,W 2,Knapp Center
+19,20,"Wed, Jan 23, 2019",8:00p,REG,,Evansville,MVC,W,78,66,,15,5,W 3,Knapp Center
+20,21,"Sat, Jan 26, 2019",8:00p,REG,@,Valparaiso,MVC,W,70,59,,16,5,W 4,Athletics-Recreation Center
+21,22,"Wed, Jan 30, 2019",8:00p,REG,,Illinois State,MVC,L,55,69,,16,6,L 1,Knapp Center
+22,23,"Sat, Feb 2, 2019",2:00p,REG,@,Indiana State,MVC,W,68,62,,17,6,W 1,Hulman Center
+23,24,"Tue, Feb 5, 2019",7:00p,REG,@,Loyola (IL),MVC,L,64,86,,17,7,L 1,Joseph J. Gentile Center
+24,25,"Sat, Feb 9, 2019",6:00p,REG,,Northern Iowa,MVC,W,83,77,,18,7,W 1,Knapp Center
+25,26,"Tue, Feb 12, 2019",8:00p,REG,@,Southern Illinois,MVC,W,72,69,,19,7,W 2,The SIU Arena
+26,27,"Sat, Feb 16, 2019",3:00p,REG,,Valparaiso,MVC,W,84,79,,20,7,W 3,Knapp Center
+27,28,"Tue, Feb 19, 2019",8:00p,REG,,Bradley,MVC,W,77,68,,21,7,W 4,Knapp Center
+28,29,"Sun, Feb 24, 2019",2:00p,REG,@,Illinois State,MVC,L,60,67,,21,8,L 1,Redbird Arena
+29,30,"Wed, Feb 27, 2019",8:00p,REG,,Indiana State,MVC,W,80,68,,22,8,W 1,Knapp Center
+30,31,"Sat, Mar 2, 2019",4:00p,REG,@,Missouri State,MVC,W,73,62,,23,8,W 2,JQH Arena
+31,32,"Fri, Mar 8, 2019",7:00p,CTOURN,N,Illinois State,MVC,W,78,62,,24,8,W 3,Scottrade Center
+32,33,"Sat, Mar 9, 2019",6:05p,CTOURN,N,Northern Iowa,MVC,L,58,60,,24,9,L 1,Scottrade Center
+33,34,"Fri, Mar 22, 2019",8:30p,CIT,@,Southern Utah,Big Sky,L,73,80,OT,24,10,L 2,Centrum

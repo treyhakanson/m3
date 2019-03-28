@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:30p,REG,@,Creighton,Big East,L,67,78,,0,1,L 1,CenturyLink Center
+1,2,"Sat, Nov 10, 2018",3:00p,REG,,North Park,,W,84,56,,1,1,W 1,Western Hall
+2,3,"Wed, Nov 14, 2018",8:00p,REG,,Dominican (IL),,W,95,56,,2,1,W 2,Western Hall
+3,4,"Sat, Nov 17, 2018",8:00p,REG,@,Eastern Illinois,OVC,L,66,68,OT,2,2,L 1,Lantz Arena
+4,5,"Wed, Nov 21, 2018",4:30p,REG,@,Tennessee-Martin,OVC,L,90,92,,2,3,L 2,Skyhawk Arena
+5,6,"Sat, Nov 24, 2018",2:00p,REG,@,Nebraska,Big Ten,L,49,73,,2,4,L 3,Pinnacle Bank Arena
+6,7,"Wed, Nov 28, 2018",8:00p,REG,,Southern Illinois-Edwardsville,OVC,W,83,58,,3,4,W 1,Western Hall
+7,8,"Sat, Dec 1, 2018",7:30p,REG,@,Southeast Missouri State,OVC,W,70,63,,4,4,W 2,Show Me Center
+8,9,"Wed, Dec 5, 2018",7:00p,REG,@,Stetson,A-Sun,L,64,68,,4,5,L 1,Edmunds Center
+9,10,"Sat, Dec 8, 2018",8:00p,REG,,Eastern Illinois,OVC,L,67,74,,4,6,L 2,Western Hall
+10,11,"Sat, Dec 15, 2018",1:00p,REG,@,IUPUI,Horizon,L,68,82,,4,7,L 3,Indiana Farmers Coliseum
+11,12,"Mon, Dec 17, 2018",9:00p,REG,@,Northern Illinois,MAC,L,76,91,,4,8,L 4,Convocation Center
+12,13,"Thu, Dec 20, 2018",3:00p,REG,,Chicago State,WAC,W,81,52,,5,8,W 1,Western Hall
+13,14,"Fri, Dec 28, 2018",5:30p,REG,,South Dakota State,Summit,L,58,100,,5,9,L 1,Western Hall
+14,15,"Sun, Dec 30, 2018",5:30p,REG,,Denver,Summit,W,78,60,,6,9,W 1,Western Hall
+15,16,"Sat, Jan 5, 2019",8:00p,REG,@,Oral Roberts,Summit,L,63,82,,6,10,L 1,Mabee Center
+16,17,"Thu, Jan 10, 2019",8:00p,REG,@,North Dakota State,Summit,L,69,85,,6,11,L 2,Betty Engelstad Sioux Center 
+17,18,"Sat, Jan 12, 2019",3:00p,REG,@,North Dakota,Summit,L,65,71,,6,12,L 3,Betty Engelstad Sioux Center 
+18,19,"Thu, Jan 17, 2019",8:00p,REG,,Omaha,Summit,L,71,80,,6,13,L 4,Western Hall
+19,20,"Sat, Jan 19, 2019",8:00p,REG,,Purdue-Fort Wayne,Summit,W,87,58,,7,13,W 1,Western Hall
+20,21,"Sat, Jan 26, 2019",4:30p,REG,@,South Dakota,Summit,W,65,59,,8,13,W 2,Sanford Coyote Sports Center
+21,22,"Fri, Feb 1, 2019",5:30p,REG,,North Dakota,Summit,L,73,74,,8,14,L 1,Western Hall
+22,23,"Sat, Feb 2, 2019",8:00p,REG,,North Dakota State,Summit,L,76,78,,8,15,L 2,Western Hall
+23,24,"Thu, Feb 7, 2019",7:00p,REG,@,Purdue-Fort Wayne,Summit,L,64,79,,8,16,L 3,Allen County War Memorial Coliseum
+24,25,"Sat, Feb 16, 2019",3:00p,REG,,South Dakota,Summit,L,67,80,,8,17,L 4,Western Hall
+25,26,"Wed, Feb 20, 2019",8:00p,REG,@,Omaha,Summit,L,63,77,,8,18,L 5,Baxter Arena
+26,27,"Sat, Feb 23, 2019",8:00p,REG,,Oral Roberts,Summit,W,75,66,,9,18,W 1,Western Hall
+27,28,"Thu, Feb 28, 2019",9:00p,REG,@,Denver,Summit,L,46,74,,9,19,L 1,Magness Arena
+28,29,"Sat, Mar 2, 2019",5:15p,REG,@,South Dakota State,Summit,L,66,86,,9,20,L 2,Frost Arena
+29,30,"Sat, Mar 9, 2019",7:00p,CTOURN,N,South Dakota State,Summit,W,79,76,,10,20,W 1,Denny Sanford Premier Center
+30,31,"Mon, Mar 11, 2019",7:00p,CTOURN,N,North Dakota State,Summit,L,73,76,,10,21,L 1,Denny Sanford Premier Center

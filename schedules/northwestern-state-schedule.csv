@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:00p,REG,,Centenary (LA),,W,102,62,,1,0,W 1,Prather Coliseum
+1,2,"Thu, Nov 8, 2018",8:00p,REG,@,Southern Methodist,AAC,L,58,69,,1,1,L 1,Moody Coliseum
+2,3,"Tue, Nov 13, 2018",9:00p,REG,@,Brigham Young,WCC,L,57,82,,1,2,L 2,Marriott Center
+3,4,"Sat, Nov 17, 2018",3:00p,REG,@,Rice,CUSA,L,74,102,,1,3,L 3,Tudor Fieldhouse
+4,5,"Mon, Nov 19, 2018",8:00p,REG,@,Houston,AAC,L,55,82,,1,4,L 4,Health & Physical Education Arena
+5,6,"Fri, Nov 23, 2018",7:30p,REG,,Alabama A&M,SWAC,W,70,66,OT,2,4,W 1,Prather Coliseum
+6,7,"Tue, Nov 27, 2018",7:30p,REG,,Louisiana-Monroe,Sun Belt,L,52,80,,2,5,L 1,Prather Coliseum
+7,8,"Sat, Dec 1, 2018",9:00p,REG,@,Texas-El Paso,CUSA,L,47,77,,2,6,L 2,Don Haskins Center
+8,9,"Mon, Dec 3, 2018",8:00p,REG,@,Texas A&M,SEC,L,59,80,,2,7,L 3,Reed Arena
+9,10,"Wed, Dec 12, 2018",7:30p,REG,@,Texas Tech (11),Big 12,L,44,79,,2,8,L 4,United Supermarkets Arena
+10,11,"Sat, Dec 15, 2018",8:30p,REG,,Southern,SWAC,W,69,66,,3,8,W 1,Gold Dome
+11,12,"Tue, Dec 18, 2018",7:30p,REG,,Louisiana College,,W,84,64,,4,8,W 2,Prather Coliseum
+12,13,"Sun, Dec 30, 2018",5:00p,REG,,Champion Baptist,,W,86,65,,5,8,W 3,Prather Coliseum
+13,14,"Wed, Jan 2, 2019",7:30p,REG,,Nicholls State,Southland,L,72,78,,5,9,L 1,Prather Coliseum
+14,15,"Sat, Jan 5, 2019",4:00p,REG,,McNeese State,Southland,W,66,61,,6,9,W 1,Prather Coliseum
+15,16,"Wed, Jan 9, 2019",7:30p,REG,,Texas A&M-Corpus Christi,Southland,L,61,62,,6,10,L 1,Prather Coliseum
+16,17,"Sat, Jan 12, 2019",5:30p,REG,@,Stephen F. Austin,Southland,W,61,59,,7,10,W 1,William Johnson Coliseum
+17,18,"Sat, Jan 19, 2019",7:00p,REG,@,Abilene Christian,Southland,L,69,78,,7,11,L 1,Moody Coliseum 
+18,19,"Wed, Jan 23, 2019",7:30p,REG,,Sam Houston State,Southland,L,64,78,,7,12,L 2,Prather Coliseum
+19,20,"Sat, Jan 26, 2019",4:00p,REG,,Southeastern Louisiana,Southland,L,53,69,,7,13,L 3,Prather Coliseum
+20,21,"Wed, Jan 30, 2019",8:00p,REG,@,New Orleans,Southland,L,64,72,,7,14,L 4,Kiefer Lakefront Arena
+21,22,"Sat, Feb 2, 2019",5:00p,REG,@,Central Arkansas,Southland,W,80,75,,8,14,W 1,Jeff Farris Center
+22,23,"Wed, Feb 6, 2019",7:30p,REG,,New Orleans,Southland,L,73,81,OT,8,15,L 1,Prather Coliseum
+23,24,"Sat, Feb 9, 2019",4:00p,REG,@,McNeese State,Southland,W,74,72,,9,15,W 1,H&HP Complex
+24,25,"Wed, Feb 13, 2019",8:00p,REG,@,Lamar,Southland,L,70,75,,9,16,L 1,Montagne Center
+25,26,"Sat, Feb 16, 2019",4:30p,REG,,Stephen F. Austin,Southland,W,87,72,,10,16,W 1,Prather Coliseum
+26,27,"Wed, Feb 20, 2019",8:00p,REG,@,Houston Baptist,Southland,L,54,92,,10,17,L 1,Frank and Lucille Sharp Gymnasium
+27,28,"Wed, Feb 27, 2019",7:30p,REG,,Incarnate Word,Southland,W,68,60,,11,17,W 1,Prather Coliseum
+28,29,"Sat, Mar 2, 2019",5:00p,REG,@,Southeastern Louisiana,Southland,L,55,69,,11,18,L 1,University Center
+29,30,"Wed, Mar 6, 2019",8:00p,REG,@,Nicholls State,Southland,L,60,83,,11,19,L 2,David Stopher Gymnasium
+30,31,"Sat, Mar 9, 2019",4:00p,REG,,Central Arkansas,Southland,L,63,70,,11,20,L 3,Prather Coliseum

@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Detroit Mercy,Horizon,W,89,76,,1,0,W 1,University Arena
+1,2,"Sat, Nov 10, 2018",4:00p,REG,@,Mississippi,SEC,L,64,90,,1,1,L 1,The Pavilion at Ole Miss
+2,3,"Tue, Nov 13, 2018",7:00p,REG,@,Oakland,Horizon,W,85,77,OT,2,1,W 1,Athletics Center O'rena
+3,4,"Sat, Nov 17, 2018",2:00p,REG,,Aquinas,,W,99,52,,3,1,W 2,University Arena
+4,5,"Mon, Nov 19, 2018",7:00p,REG,@,Cincinnati,AAC,L,52,78,,3,2,L 1,Fifth Third Arena
+5,6,"Fri, Nov 23, 2018",12:00p,REG,N,Southern,SWAC,W,85,70,,4,2,W 1,The Arena
+6,7,"Sat, Nov 24, 2018",1:30p,REG,N,Nicholls State,Southland,L,61,62,OT,4,3,L 1,The Arena
+7,8,"Sat, Dec 1, 2018",2:00p,REG,,South Carolina Upstate,Big South,L,66,71,,4,4,L 2,University Arena
+8,9,"Sat, Dec 8, 2018",2:00p,REG,@,Youngstown State,Horizon,W,88,77,,5,4,W 1,Beeghly Center
+9,10,"Sat, Dec 15, 2018",2:00p,REG,@,Michigan (5),Big Ten,L,62,70,,5,5,L 1,Crisler Arena
+10,11,"Wed, Dec 19, 2018",7:00p,REG,@,Dayton,A-10,L,72,85,,5,6,L 2,University of Dayton Arena
+11,12,"Sat, Dec 22, 2018",3:00p,REG,,Milwaukee,Horizon,L,66,67,,5,7,L 3,University Arena
+12,13,"Sun, Dec 30, 2018",4:00p,REG,,UC-Riverside,Big West,W,73,64,,6,7,W 1,University Arena
+13,14,"Sat, Jan 5, 2019",2:00p,REG,@,Akron,MAC,L,48,56,,6,8,L 1,James A. Rhodes Arena
+14,15,"Tue, Jan 8, 2019",7:00p,REG,@,Kent State,MAC,L,73,88,,6,9,L 2,Memorial Athletic & Convocation Center
+15,16,"Sat, Jan 12, 2019",2:00p,REG,,Toledo,MAC,L,77,85,,6,10,L 3,University Arena
+16,17,"Tue, Jan 15, 2019",7:00p,REG,,Buffalo (16),MAC,L,79,88,,6,11,L 4,University Arena
+17,18,"Sat, Jan 19, 2019",2:30p,REG,@,Bowling Green State,MAC,L,48,79,,6,12,L 5,Stroh Center
+18,19,"Tue, Jan 22, 2019",7:00p,REG,@,Ohio,MAC,L,76,81,,6,13,L 6,Convocation Center
+19,20,"Sat, Jan 26, 2019",2:00p,REG,,Eastern Michigan,MAC,L,67,93,,6,14,L 7,University Arena
+20,21,"Sat, Feb 2, 2019",4:30p,REG,@,Central Michigan,MAC,L,64,85,,6,15,L 8,McGuirk Arena
+21,22,"Tue, Feb 5, 2019",7:00p,REG,,Bowling Green State,MAC,L,72,85,,6,16,L 9,University Arena
+22,23,"Sat, Feb 9, 2019",2:00p,REG,@,Ball State,MAC,L,59,79,,6,17,L 10,Worthen Arena
+23,24,"Tue, Feb 12, 2019",7:00p,REG,,Northern Illinois,MAC,W,76,74,,7,17,W 1,University Arena
+24,25,"Thu, Feb 14, 2019",5:00p,REG,,Kent State,MAC,L,63,82,,7,18,L 1,University Arena
+25,26,"Sat, Feb 16, 2019",2:00p,REG,,Miami (OH),MAC,W,84,79,OT,8,18,W 1,University Arena
+26,27,"Sat, Feb 23, 2019",2:00p,REG,@,Eastern Michigan,MAC,L,76,77,OT,8,19,L 1,Convocation Center
+27,28,"Tue, Feb 26, 2019",8:00p,REG,@,Northern Illinois,MAC,L,65,70,,8,20,L 2,Convocation Center
+28,29,"Sat, Mar 2, 2019",4:30p,REG,,Ball State,MAC,L,58,60,,8,21,L 3,University Arena
+29,30,"Tue, Mar 5, 2019",7:00p,REG,@,Toledo,MAC,L,57,76,,8,22,L 4,John F. Savage Hall
+30,31,"Fri, Mar 8, 2019",7:00p,REG,,Central Michigan,MAC,L,75,82,,8,23,L 5,University Arena
+31,32,"Mon, Mar 11, 2019",7:00p,CTOURN,@,Central Michigan,MAC,L,67,81,,8,24,L 6,McGuirk Arena

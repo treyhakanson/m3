@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:00p,REG,@,Auburn (11),SEC,L,58,101,,0,1,L 1,Auburn Arena
+1,2,"Sun, Nov 11, 2018",5:00p,REG,,Huntingdon,,W,106,76,,1,1,W 1,Mitchell Center
+2,3,"Fri, Nov 16, 2018",8:00p,REG,,Chattanooga,Southern,W,73,54,,2,1,W 2,Mitchell Center
+3,4,"Sat, Nov 17, 2018",8:00p,REG,,Jacksonville,A-Sun,L,48,71,,2,2,L 1,Mitchell Center
+4,5,"Mon, Nov 19, 2018",8:00p,REG,,Southeast Missouri State,OVC,W,79,58,,3,2,W 1,Mitchell Center
+5,6,"Fri, Nov 23, 2018",7:30p,REG,@,Texas A&M,SEC,L,62,74,,3,3,L 1,Reed Arena
+6,7,"Wed, Nov 28, 2018",8:00p,REG,@,Southern Mississippi,CUSA,L,67,71,,3,4,L 2,Reed Green Coliseum
+7,8,"Sat, Dec 1, 2018",8:00p,REG,,Florida A&M,MEAC,W,66,57,,4,4,W 1,Mitchell Center
+8,9,"Wed, Dec 5, 2018",8:00p,REG,@,New Orleans,Southland,L,60,71,,4,5,L 1,Kiefer Lakefront Arena
+9,10,"Sat, Dec 8, 2018",4:00p,REG,,Tulane,AAC,W,81,60,,5,5,W 1,Mitchell Center
+10,11,"Wed, Dec 19, 2018",8:00p,REG,,Alabama A&M,SWAC,W,79,67,,6,5,W 2,Mitchell Center
+11,12,"Thu, Dec 20, 2018",8:00p,REG,,Mobile,,W,86,47,,7,5,W 3,Mitchell Center
+12,13,"Sat, Dec 29, 2018",4:00p,REG,,Richmond,A-10,L,82,91,,7,6,L 1,Mitchell Center
+13,14,"Thu, Jan 3, 2019",8:00p,REG,,Appalachian State,Sun Belt,W,79,73,,8,6,W 1,Mitchell Center
+14,15,"Sat, Jan 5, 2019",4:00p,REG,,Coastal Carolina,Sun Belt,W,84,77,2OT,9,6,W 2,Mitchell Center
+15,16,"Thu, Jan 10, 2019",8:00p,REG,@,Arkansas State,Sun Belt,L,65,66,,9,7,L 1,Convocation Center
+16,17,"Sat, Jan 12, 2019",4:00p,REG,@,Little Rock,Sun Belt,L,62,91,,9,8,L 2,Jack Stephens Center
+17,18,"Thu, Jan 17, 2019",8:00p,REG,,Georgia State,Sun Belt,L,66,69,,9,9,L 3,Mitchell Center
+18,19,"Sat, Jan 19, 2019",4:00p,REG,,Georgia Southern,Sun Belt,L,86,88,OT,9,10,L 4,Mitchell Center
+19,20,"Thu, Jan 24, 2019",8:00p,REG,@,Louisiana,Sun Belt,L,84,88,,9,11,L 5,Cajundome
+20,21,"Sat, Jan 26, 2019",3:00p,REG,@,Louisiana-Monroe,Sun Belt,W,78,72,,10,11,W 1,Fant-Ewing Coliseum
+21,22,"Sat, Feb 2, 2019",6:00p,REG,,Troy,Sun Belt,W,81,75,,11,11,W 2,Mitchell Center
+22,23,"Thu, Feb 7, 2019",8:00p,REG,,Arkansas State,Sun Belt,W,70,62,,12,11,W 3,Mitchell Center
+23,24,"Sat, Feb 9, 2019",4:00p,REG,,Little Rock,Sun Belt,L,68,73,,12,12,L 1,Mitchell Center
+24,25,"Wed, Feb 13, 2019",7:00p,REG,@,Georgia Southern,Sun Belt,L,65,75,,12,13,L 2,Hanner Fieldhouse
+25,26,"Fri, Feb 15, 2019",7:00p,REG,@,Georgia State,Sun Belt,L,81,90,,12,14,L 3,GSU Sports Arena
+26,27,"Sat, Feb 23, 2019",5:15p,REG,@,Troy,Sun Belt,W,68,52,,13,14,W 1,Trojan Arena
+27,28,"Thu, Feb 28, 2019",8:00p,REG,,Texas-Arlington,Sun Belt,L,57,75,,13,15,L 1,Mitchell Center
+28,29,"Sat, Mar 2, 2019",8:00p,REG,,Texas State,Sun Belt,W,77,63,,14,15,W 1,Mitchell Center
+29,30,"Thu, Mar 7, 2019",7:00p,REG,@,Coastal Carolina,Sun Belt,L,70,92,,14,16,L 1,The HTC Center
+30,31,"Sat, Mar 9, 2019",2:00p,REG,@,Appalachian State,Sun Belt,W,78,71,,15,16,W 1,Holmes Convocation Center
+31,32,"Tue, Mar 12, 2019",8:00p,CTOURN,,Arkansas State,Sun Belt,W,75,67,,16,16,W 2,Mitchell Center
+32,33,"Thu, Mar 14, 2019",6:00p,CTOURN,N,Louisiana,Sun Belt,W,70,69,,17,16,W 3,Kiefer Lakefront Arena
+33,34,"Fri, Mar 15, 2019",6:00p,CTOURN,N,Texas State,Sun Belt,L,67,79,,17,17,L 1,Kiefer Lakefront Arena

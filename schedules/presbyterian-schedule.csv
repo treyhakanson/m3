@@ -1,0 +1,37 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,College of Charleston,CAA,L,73,85,,0,1,L 1,TD Arena
+1,2,"Sat, Nov 10, 2018",7:00p,REG,@,Tennessee Tech,OVC,W,80,65,,1,1,W 1,Eblen Center
+2,3,"Mon, Nov 12, 2018",7:00p,REG,,Welch,,W,109,57,,2,1,W 2,Ross E.Templeton Center
+3,4,"Thu, Nov 15, 2018",1:00p,REG,,Boyce,,W,102,49,,3,1,W 3,Ross E.Templeton Center
+4,5,"Sat, Nov 17, 2018",1:00p,REG,@,Marquette (24),Big East,L,55,74,,3,2,L 1,Fiserv Forum
+5,6,"Mon, Nov 19, 2018",11:00p,REG,@,UCLA (17),Pac-12,L,65,80,,3,3,L 2,Pauley Pavilion
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,St. Francis (NY),NEC,L,86,90,,3,4,L 3,Ross E.Templeton Center
+7,8,"Sat, Dec 1, 2018",4:00p,REG,@,North Carolina A&T,MEAC,W,75,70,,4,4,W 1,Ellis Corbett Sports Center
+8,9,"Tue, Dec 4, 2018",7:00p,REG,,Jacksonville,A-Sun,L,88,94,,4,5,L 1,Ross E.Templeton Center
+9,10,"Wed, Dec 12, 2018",7:30p,REG,,Virginia Military Institute,Southern,W,103,70,,5,5,W 1,Ross E.Templeton Center
+10,11,"Sat, Dec 15, 2018",2:00p,REG,,Trinity Baptist,,W,87,44,,6,5,W 2,Ross E.Templeton Center
+11,12,"Tue, Dec 18, 2018",8:30p,REG,@,Butler,Big East,L,67,76,,6,6,L 1,Hinkle Fieldhouse
+12,13,"Sat, Dec 22, 2018",2:00p,REG,@,Dayton,A-10,L,69,81,,6,7,L 2,University of Dayton Arena
+13,14,"Sun, Dec 30, 2018",2:00p,REG,@,Jacksonville,A-Sun,W,72,67,,7,7,W 1,Swisher Gymnasium
+14,15,"Wed, Jan 2, 2019",6:00p,REG,@,South Carolina State,MEAC,W,72,70,,8,7,W 2,SHM Memorial Center
+15,16,"Sat, Jan 5, 2019",4:00p,REG,,South Carolina Upstate,Big South,W,64,61,,9,7,W 3,Ross E.Templeton Center
+16,17,"Thu, Jan 10, 2019",7:00p,REG,@,High Point,Big South,L,58,74,,9,8,L 1,Millis Center
+17,18,"Sat, Jan 12, 2019",4:30p,REG,@,Radford,Big South,L,77,79,,9,9,L 2,Donald N. Dedmon Center
+18,19,"Wed, Jan 16, 2019",7:00p,REG,,Hampton,Big South,W,85,70,,10,9,W 1,Ross E.Templeton Center
+19,20,"Sat, Jan 19, 2019",4:00p,REG,,Longwood,Big South,W,71,64,,11,9,W 2,Ross E.Templeton Center
+20,21,"Mon, Jan 21, 2019",4:00p,REG,@,South Carolina Upstate,Big South,W,68,59,,12,9,W 3,G.B. Hodge Center
+21,22,"Thu, Jan 24, 2019",7:00p,REG,@,Campbell,Big South,L,73,77,,12,10,L 1,John W. Pope Jr. Convocation Center
+22,23,"Sat, Jan 26, 2019",4:00p,REG,,Winthrop,Big South,W,99,91,,13,10,W 1,Ross E.Templeton Center
+23,24,"Wed, Jan 30, 2019",7:30p,REG,@,Charleston Southern,Big South,L,84,85,,13,11,L 1,CSU Fieldhouse
+24,25,"Thu, Feb 7, 2019",7:00p,REG,,North Carolina-Asheville,Big South,W,67,44,,14,11,W 1,Ross E.Templeton Center
+25,26,"Sat, Feb 9, 2019",4:30p,REG,,Gardner-Webb,Big South,W,103,101,OT,15,11,W 2,Ross E.Templeton Center
+26,27,"Wed, Feb 13, 2019",7:00p,REG,@,Winthrop,Big South,L,85,93,,15,12,L 1,Winthrop Coliseum
+27,28,"Sat, Feb 16, 2019",4:30p,REG,,Campbell,Big South,W,76,71,,16,12,W 1,Ross E.Templeton Center
+28,29,"Sat, Feb 23, 2019",4:30p,REG,@,North Carolina-Asheville,Big South,W,71,55,,17,12,W 2,Kimmel Arena
+29,30,"Wed, Feb 27, 2019",7:00p,REG,@,Gardner-Webb,Big South,L,70,78,,17,13,L 1,Paul Porter Arena
+30,31,"Sat, Mar 2, 2019",4:00p,REG,,Charleston Southern,Big South,L,65,72,,17,14,L 2,Ross E.Templeton Center
+31,32,"Tue, Mar 5, 2019",7:00p,CTOURN,,North Carolina-Asheville,Big South,W,106,59,,18,14,W 1,Ross E.Templeton Center
+32,33,"Thu, Mar 7, 2019",12:00p,CTOURN,N,Radford,Big South,L,76,84,,18,15,L 1,John W. Pope Jr. Convocation Center
+33,34,"Wed, Mar 20, 2019",10:00p,CIT,@,Seattle,WAC,W,73,68,,19,15,W 1,Connolly Center
+34,35,"Sun, Mar 24, 2019",1:00p,CIT,@,Robert Morris,NEC,W,77,70,,20,15,W 2,North Athletic Complex
+35,36,"Tue, Mar 26, 2019",7:00p,CIT,@,Marshall,CUSA,L,66,83,,20,16,L 1,Henderson Center

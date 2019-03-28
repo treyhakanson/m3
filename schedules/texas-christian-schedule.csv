@@ -1,0 +1,38 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",9:00p,REG,,Cal State Bakersfield,WAC,W,66,61,,1,0,W 1,Ed & Rae Schollmaier Arena
+1,2,"Sun, Nov 11, 2018",5:00p,REG,,Oral Roberts,Summit,W,79,62,,2,0,W 2,Ed & Rae Schollmaier Arena
+2,3,"Thu, Nov 15, 2018",9:00p,REG,,Fresno State,MWC,W,77,69,,3,0,W 3,Ed & Rae Schollmaier Arena
+3,4,"Tue, Nov 20, 2018",8:00p,REG,,Lipscomb,A-Sun,L,64,73,,3,1,L 1,Ed & Rae Schollmaier Arena
+4,5,"Mon, Nov 26, 2018",8:00p,REG,,Eastern Michigan,MAC,W,87,69,,4,1,W 1,Ed & Rae Schollmaier Arena
+5,6,"Fri, Nov 30, 2018",7:30p,REG,,Central Michigan,MAC,W,89,62,,5,1,W 2,Ed & Rae Schollmaier Arena
+6,7,"Wed, Dec 5, 2018",10:00p,REG,@,Southern Methodist,AAC,W,67,59,,6,1,W 3,Moody Coliseum
+7,8,"Fri, Dec 7, 2018",9:30p,REG,N,Southern California,Pac-12,W,96,61,,7,1,W 4,Staples Center
+8,9,"Sun, Dec 16, 2018",5:00p,REG,,Indiana State,MVC,W,90,70,,8,1,W 5,Ed & Rae Schollmaier Arena
+9,10,"Sun, Dec 23, 2018",12:30a,REG,N,Charlotte,CUSA,W,82,57,,9,1,W 6,Stan Sheriff Center
+10,11,"Sun, Dec 23, 2018",10:00p,REG,N,Bucknell,Patriot,W,82,65,,10,1,W 7,Stan Sheriff Center
+11,12,"Tue, Dec 25, 2018",9:00p,REG,N,Indiana State,MVC,W,83,69,,11,1,W 8,Stan Sheriff Center
+12,13,"Sat, Jan 5, 2019",4:00p,REG,,Baylor,Big 12,W,85,81,,12,1,W 9,Ed & Rae Schollmaier Arena
+13,14,"Wed, Jan 9, 2019",9:00p,REG,@,Kansas (7),Big 12,L,68,77,,12,2,L 1,Allen Fieldhouse
+14,15,"Sat, Jan 12, 2019",2:00p,REG,@,Oklahoma (23),Big 12,L,74,76,,12,3,L 2,Lloyd Noble Center
+15,16,"Tue, Jan 15, 2019",7:00p,REG,,West Virginia,Big 12,W,98,67,,13,3,W 1,Ed & Rae Schollmaier Arena
+16,17,"Sat, Jan 19, 2019",4:00p,REG,@,Kansas State,Big 12,L,55,65,,13,4,L 1,Bramlage Coliseum
+17,18,"Wed, Jan 23, 2019",7:00p,REG,,Texas,Big 12,W,65,61,,14,4,W 1,Ed & Rae Schollmaier Arena
+18,19,"Sat, Jan 26, 2019",12:00p,REG,,Florida,SEC,W,55,50,,15,4,W 2,Ed & Rae Schollmaier Arena
+19,20,"Mon, Jan 28, 2019",9:00p,REG,@,Texas Tech (16),Big 12,L,65,84,,15,5,L 1,United Supermarkets Arena
+20,21,"Sat, Feb 2, 2019",8:00p,REG,@,Baylor,Big 12,L,64,90,,15,6,L 2,Ferrell Center
+21,22,"Wed, Feb 6, 2019",9:00p,REG,,Oklahoma State,Big 12,W,70,68,,16,6,W 1,Ed & Rae Schollmaier Arena
+22,23,"Sat, Feb 9, 2019",2:00p,REG,@,Iowa State (17),Big 12,W,92,83,,17,6,W 2,James H. Hilton Coliseum 
+23,24,"Mon, Feb 11, 2019",9:00p,REG,,Kansas (14),Big 12,L,77,82,OT,17,7,L 1,Ed & Rae Schollmaier Arena
+24,25,"Sat, Feb 16, 2019",12:00p,REG,,Oklahoma,Big 12,L,62,71,,17,8,L 2,Ed & Rae Schollmaier Arena
+25,26,"Mon, Feb 18, 2019",9:00p,REG,@,Oklahoma State,Big 12,L,61,68,,17,9,L 3,Gallagher-Iba Arena
+26,27,"Sat, Feb 23, 2019",2:00p,REG,,Iowa State (19),Big 12,W,75,72,,18,9,W 1,Ed & Rae Schollmaier Arena
+27,28,"Tue, Feb 26, 2019",7:00p,REG,@,West Virginia,Big 12,L,96,104,3OT,18,10,L 1,WVU Coliseum
+28,29,"Sat, Mar 2, 2019",4:00p,REG,,Texas Tech (11),Big 12,L,66,81,,18,11,L 2,Ed & Rae Schollmaier Arena
+29,30,"Mon, Mar 4, 2019",9:00p,REG,,Kansas State (18),Big 12,L,52,64,,18,12,L 3,Ed & Rae Schollmaier Arena
+30,31,"Sat, Mar 9, 2019",12:00p,REG,@,Texas,Big 12,W,69,56,,19,12,W 1,Frank Erwin Center
+31,32,"Wed, Mar 13, 2019",7:00p,CTOURN,N,Oklahoma State,Big 12,W,73,70,,20,12,W 2,Sprint Center
+32,33,"Thu, Mar 14, 2019",2:30p,CTOURN,N,Kansas State (15),Big 12,L,61,70,,20,13,L 1,Sprint Center
+33,34,"Wed, Mar 20, 2019",9:00p,NIT,,Sam Houston State,Southland,W,82,69,,21,13,W 1,Ed & Rae Schollmaier Arena
+34,35,"Sun, Mar 24, 2019",9:30p,NIT,,Nebraska,Big Ten,W,88,72,,22,13,W 2,Ed & Rae Schollmaier Arena
+35,36,"Tue, Mar 26, 2019",9:00p,NIT,,Creighton,Big East,W,71,58,,23,13,W 3,Ed & Rae Schollmaier Arena
+36,37,"Tue, Apr 2, 2019",9:00p,NIT,N,Texas,Big 12,,,,,,,,

@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",10:00p,REG,,Life Pacific,,W,89,72,,1,0,W 1,San Jose State Event Center
+1,2,"Sat, Nov 10, 2018",9:00p,REG,,Southern Utah,Big Sky,L,59,66,,1,1,L 1,San Jose State Event Center
+2,3,"Thu, Nov 15, 2018",8:30p,REG,N,Weber State,Big Sky,L,77,85,,1,2,L 2,Gateway Christian Academy
+3,4,"Sat, Nov 17, 2018",6:00p,REG,N,Cal State Bakersfield,WAC,L,72,73,,1,3,L 3,Gateway Christian Academy
+4,5,"Sun, Nov 18, 2018",6:00p,REG,N,Central Michigan,MAC,L,74,76,,1,4,L 4,Gateway Christian Academy
+5,6,"Sat, Nov 24, 2018",6:00p,REG,,Santa Clara,WCC,L,63,71,,1,5,L 5,San Jose State Event Center
+6,7,"Wed, Nov 28, 2018",10:00p,REG,,Indiana State,MVC,L,57,86,,1,6,L 6,San Jose State Event Center
+7,8,"Thu, Dec 6, 2018",10:00p,REG,,Bethune-Cookman,MEAC,W,67,65,,2,6,W 1,San Jose State Event Center
+8,9,"Sat, Dec 15, 2018",10:00p,REG,,Northern Arizona,Big Sky,W,79,74,,3,6,W 2,San Jose State Event Center
+9,10,"Tue, Dec 18, 2018",10:00p,REG,@,Stanford,Pac-12,L,73,78,,3,7,L 1,Maples Pavilion
+10,11,"Fri, Dec 21, 2018",10:00p,REG,@,University of California,Pac-12,L,80,88,,3,8,L 2,Haas Pavilion
+11,12,"Sat, Dec 29, 2018",8:00p,REG,@,Saint Mary's (CA),WCC,L,45,75,,3,9,L 3,McKeon Pavilion
+12,13,"Wed, Jan 2, 2019",10:00p,REG,,Fresno State,MWC,L,53,73,,3,10,L 4,San Jose State Event Center
+13,14,"Wed, Jan 9, 2019",11:00p,REG,@,Nevada (10),MWC,L,53,92,,3,11,L 5,Lawlor Events Center
+14,15,"Sat, Jan 12, 2019",3:00p,REG,,Boise State,MWC,L,64,87,,3,12,L 6,San Jose State Event Center
+15,16,"Wed, Jan 16, 2019",10:00p,REG,,Utah State,MWC,L,63,81,,3,13,L 7,San Jose State Event Center
+16,17,"Sat, Jan 19, 2019",7:30p,REG,@,Nevada-Las Vegas,MWC,L,56,94,,3,14,L 8,Thomas & Mack Center
+17,18,"Wed, Jan 23, 2019",9:00p,REG,@,Wyoming,MWC,L,46,59,,3,15,L 9,Arena-Auditorium
+18,19,"Sat, Jan 26, 2019",9:00p,REG,,Air Force,MWC,L,71,73,2OT,3,16,L 10,San Jose State Event Center
+19,20,"Wed, Jan 30, 2019",9:00p,REG,@,Utah State,MWC,L,73,103,,3,17,L 11,Dee Glen Smith Spectrum
+20,21,"Sat, Feb 2, 2019",9:00p,REG,,San Diego State,MWC,L,56,67,,3,18,L 12,San Jose State Event Center
+21,22,"Sat, Feb 9, 2019",2:00p,REG,@,Boise State,MWC,L,57,105,,3,19,L 13,Taco Bell Arena
+22,23,"Wed, Feb 13, 2019",9:00p,REG,@,New Mexico,MWC,L,60,92,,3,20,L 14,The Pit
+23,24,"Sat, Feb 16, 2019",5:00p,REG,,Nevada-Las Vegas,MWC,L,64,71,,3,21,L 15,San Jose State Event Center
+24,25,"Wed, Feb 20, 2019",10:00p,REG,,Colorado State,MWC,L,70,91,,3,22,L 16,San Jose State Event Center
+25,26,"Sat, Feb 23, 2019",4:00p,REG,@,Air Force,MWC,L,68,82,,3,23,L 17,Clune Arena 
+26,27,"Tue, Feb 26, 2019",10:00p,REG,,New Mexico,MWC,W,89,82,,4,23,W 1,San Jose State Event Center
+27,28,"Sat, Mar 2, 2019",10:00p,REG,@,San Diego State,MWC,L,56,84,,4,24,L 1,Viejas Arena
+28,29,"Wed, Mar 6, 2019",10:00p,REG,,Wyoming,MWC,L,71,81,,4,25,L 2,San Jose State Event Center
+29,30,"Sat, Mar 9, 2019",7:00p,REG,@,Fresno State,MWC,L,81,121,,4,26,L 3,Save Mart Center
+30,31,"Wed, Mar 13, 2019",7:00p,CTOURN,N,Air Force,MWC,L,56,87,,4,27,L 4,Thomas & Mack Center

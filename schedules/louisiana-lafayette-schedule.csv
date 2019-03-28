@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:15p,REG,,UVI,,W,121,80,,1,0,W 1,Cajundome
+1,2,"Fri, Nov 9, 2018",7:00p,REG,@,Tennessee (6),SEC,L,65,87,,1,1,L 1,Thompson-Boling Arena
+2,3,"Fri, Nov 16, 2018",8:00p,REG,@,Kansas (2),Big 12,L,76,89,,1,2,L 2,Allen Fieldhouse
+3,4,"Mon, Nov 19, 2018",5:00p,REG,N,Colorado State,MWC,W,91,73,,2,2,W 1,Germain Arena
+4,5,"Tue, Nov 20, 2018",7:30p,REG,N,Toledo,MAC,L,64,77,,2,3,L 1,Germain Arena
+5,6,"Wed, Nov 21, 2018",5:00p,REG,N,Tulane,AAC,W,68,61,,3,3,W 1,Germain Arena
+6,7,"Wed, Nov 28, 2018",8:00p,REG,@,New Orleans,Southland,W,77,73,OT,4,3,W 2,Kiefer Lakefront Arena
+7,8,"Sat, Dec 1, 2018",8:00p,REG,,Southern,SWAC,W,88,78,,5,3,W 3,Cajundome
+8,9,"Wed, Dec 5, 2018",8:00p,REG,,Loyola (LA),,W,97,84,,6,3,W 4,Cajundome
+9,10,"Tue, Dec 11, 2018",8:00p,REG,,Prairie View,SWAC,W,122,90,,7,3,W 5,Cajundome
+10,11,"Sat, Dec 15, 2018",8:00p,REG,,Louisiana Tech,CUSA,L,62,83,,7,4,L 1,Cajundome
+11,12,"Tue, Dec 18, 2018",7:30p,REG,@,McNeese State,Southland,W,80,67,,8,4,W 1,H&HP Complex
+12,13,"Sat, Dec 29, 2018",5:00p,REG,@,Southeastern Louisiana,Southland,W,73,72,,9,4,W 2,University Center
+13,14,"Thu, Jan 3, 2019",8:00p,REG,,Arkansas State,Sun Belt,L,83,94,,9,5,L 1,Cajundome
+14,15,"Sat, Jan 5, 2019",8:00p,REG,,Little Rock,Sun Belt,W,75,61,,10,5,W 1,Cajundome
+15,16,"Thu, Jan 10, 2019",7:00p,REG,@,Georgia State,Sun Belt,L,76,89,,10,6,L 1,GSU Sports Arena
+16,17,"Sat, Jan 12, 2019",5:00p,REG,@,Georgia Southern,Sun Belt,W,87,85,,11,6,W 1,Hanner Fieldhouse
+17,18,"Sat, Jan 19, 2019",3:00p,REG,@,Louisiana-Monroe,Sun Belt,L,95,99,,11,7,L 1,Fant-Ewing Coliseum
+18,19,"Thu, Jan 24, 2019",8:00p,REG,,South Alabama,Sun Belt,W,88,84,,12,7,W 1,Cajundome
+19,20,"Sat, Jan 26, 2019",8:00p,REG,,Troy,Sun Belt,W,86,81,,13,7,W 2,Cajundome
+20,21,"Thu, Jan 31, 2019",7:00p,REG,@,Appalachian State,Sun Belt,L,77,104,,13,8,L 1,Holmes Convocation Center
+21,22,"Sat, Feb 2, 2019",2:00p,REG,@,Coastal Carolina,Sun Belt,L,79,96,,13,9,L 2,The HTC Center
+22,23,"Wed, Feb 6, 2019",8:00p,REG,,Georgia Southern,Sun Belt,L,86,103,,13,10,L 3,Cajundome
+23,24,"Fri, Feb 8, 2019",9:00p,REG,,Georgia State,Sun Belt,W,76,72,,14,10,W 1,Cajundome
+24,25,"Sat, Feb 16, 2019",8:00p,REG,,Louisiana-Monroe,Sun Belt,W,83,76,,15,10,W 2,Cajundome
+25,26,"Thu, Feb 21, 2019",8:00p,REG,@,Texas-Arlington,Sun Belt,W,76,64,,16,10,W 3,College Park Center
+26,27,"Sat, Feb 23, 2019",5:00p,REG,@,Texas State,Sun Belt,L,62,64,,16,11,L 1,Strahan Coliseum
+27,28,"Thu, Feb 28, 2019",8:00p,REG,,Coastal Carolina,Sun Belt,W,83,70,,17,11,W 1,Cajundome
+28,29,"Sun, Mar 3, 2019",2:30p,REG,,Appalachian State,Sun Belt,L,80,90,,17,12,L 1,Cajundome
+29,30,"Thu, Mar 7, 2019",7:30p,REG,@,Little Rock,Sun Belt,W,77,72,,18,12,W 1,Jack Stephens Center
+30,31,"Sat, Mar 9, 2019",5:00p,REG,@,Arkansas State,Sun Belt,W,90,87,OT,19,12,W 2,Convocation Center
+31,32,"Thu, Mar 14, 2019",6:00p,CTOURN,N,South Alabama,Sun Belt,L,69,70,,19,13,L 1,Kiefer Lakefront Arena

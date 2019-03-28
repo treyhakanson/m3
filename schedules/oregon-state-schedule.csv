@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:00p,REG,,UC-Riverside,Big West,W,72,59,,1,0,W 1,Gill Coliseum
+1,2,"Sat, Nov 10, 2018",3:00p,REG,,Wyoming,MWC,W,83,64,,2,0,W 2,Gill Coliseum
+2,3,"Fri, Nov 16, 2018",1:00p,REG,N,Old Dominion,CUSA,W,61,56,,3,0,W 3,Virgin Islands Sport & Fitness Center 
+3,4,"Sun, Nov 18, 2018",5:30p,REG,N,Missouri,SEC,L,63,69,,3,1,L 1,Virgin Islands Sport & Fitness Center 
+4,5,"Mon, Nov 19, 2018",5:30p,REG,N,Pennsylvania,Ivy,W,74,58,,4,1,W 1,Virgin Islands Sport & Fitness Center 
+5,6,"Sun, Nov 25, 2018",5:00p,REG,@,Long Beach State,Big West,W,75,72,,5,1,W 2,The Walter Pyramid
+6,7,"Sat, Dec 1, 2018",7:00p,REG,,Missouri State,MVC,W,101,77,,6,1,W 3,Gill Coliseum
+7,8,"Sun, Dec 9, 2018",3:30p,REG,@,Saint Louis,A-10,L,61,65,,6,2,L 1,Chaifetz Arena
+8,9,"Sat, Dec 15, 2018",11:00p,REG,N,Texas A&M,SEC,L,64,67,,6,3,L 2,Moda Center
+9,10,"Mon, Dec 17, 2018",10:00p,REG,,Pepperdine,WCC,W,82,67,,7,3,W 1,Gill Coliseum
+10,11,"Fri, Dec 21, 2018",3:00p,REG,,Kent State,MAC,L,63,66,,7,4,L 1,Gill Coliseum
+11,12,"Sat, Dec 29, 2018",8:00p,REG,,Central Connecticut State,NEC,W,80,59,,8,4,W 1,Gill Coliseum
+12,13,"Sat, Jan 5, 2019",8:00p,REG,@,Oregon,Pac-12,W,77,72,,9,4,W 2,Matthew Knight Arena
+13,14,"Thu, Jan 10, 2019",11:00p,REG,,Southern California,Pac-12,W,79,74,OT,10,4,W 3,Gill Coliseum
+14,15,"Sun, Jan 13, 2019",10:00p,REG,,UCLA,Pac-12,W,79,66,,11,4,W 4,Gill Coliseum
+15,16,"Thu, Jan 17, 2019",10:00p,REG,@,Arizona State,Pac-12,L,67,70,,11,5,L 1,Wells Fargo Arena
+16,17,"Sat, Jan 19, 2019",7:00p,REG,@,Arizona,Pac-12,L,71,82,,11,6,L 2,McKale Center
+17,18,"Thu, Jan 24, 2019",11:00p,REG,,Washington State,Pac-12,W,90,77,,12,6,W 1,Gill Coliseum
+18,19,"Sat, Jan 26, 2019",4:00p,REG,,Washington,Pac-12,L,69,79,,12,7,L 1,Gill Coliseum
+19,20,"Thu, Jan 31, 2019",9:00p,REG,@,Colorado,Pac-12,W,76,74,,13,7,W 1,Coors Events/Conference Center
+20,21,"Sat, Feb 2, 2019",5:00p,REG,@,Utah,Pac-12,W,81,72,,14,7,W 2,Jon M. Huntsman Center
+21,22,"Thu, Feb 7, 2019",10:00p,REG,,Stanford,Pac-12,L,60,83,,14,8,L 1,Gill Coliseum
+22,23,"Sat, Feb 9, 2019",5:30p,REG,,University of California,Pac-12,W,79,71,,15,8,W 1,Gill Coliseum
+23,24,"Sat, Feb 16, 2019",10:30p,REG,,Oregon,Pac-12,W,72,57,,16,8,W 2,Gill Coliseum
+24,25,"Thu, Feb 21, 2019",11:00p,REG,@,UCLA,Pac-12,L,67,68,,16,9,L 1,Pauley Pavilion
+25,26,"Sat, Feb 23, 2019",6:00p,REG,@,Southern California,Pac-12,W,67,62,,17,9,W 1,Galen Center
+26,27,"Thu, Feb 28, 2019",9:00p,REG,,Arizona,Pac-12,L,72,74,,17,10,L 1,Gill Coliseum
+27,28,"Sun, Mar 3, 2019",8:00p,REG,,Arizona State,Pac-12,L,71,74,,17,11,L 2,Gill Coliseum
+28,29,"Wed, Mar 6, 2019",10:00p,REG,@,Washington,Pac-12,L,76,81,OT,17,12,L 3,Alaska Airlines Arena
+29,30,"Sat, Mar 9, 2019",3:00p,REG,@,Washington State,Pac-12,W,85,77,,18,12,W 1,Beasley Coliseum
+30,31,"Thu, Mar 14, 2019",5:30p,CTOURN,N,Colorado,Pac-12,L,58,73,,18,13,L 1,T-Mobile Arena

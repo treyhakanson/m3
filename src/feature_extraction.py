@@ -1,4 +1,6 @@
 import os
+from pathlib import Path
+from argparse import ArgumentParser
 import pandas as pd
 from constants import SCHOOLS
 from utils import (
@@ -48,9 +50,18 @@ def update_feature_matrix(fdf, bdf_joined):
 		fdf.loc[pos_key] = fdf.loc[pos_key].add(df)
 
 
+def create_parser():
+	parser = ArgumentParser()
+	parser.add_argument("--schools", type=Path)
+	return parser
+
+
 def main(schools):
 	for school in schools:
 		print('Creating feature vector for %s...' % school)
+		fpath = Path('../feature-vectors/%s.csv' % school)
+		if fpath.exists():
+			continue
 		fdf = initialize_feature_matrix()
 		rdf = load_roster(roster_file_path(school))
 		sdf = load_schedule(schedule_file_path(school))
@@ -61,8 +72,15 @@ def main(schools):
 			bdf_joined = join_roster_and_boxscore(rdf, bdf)
 			update_feature_matrix(fdf, bdf_joined)
 		fdf = fdf / sdf.shape[0]
-		fdf.to_csv('../feature-vectors/%s.csv' % school)
+		fdf.to_csv(fpath)
 
 
 if __name__ == '__main__':
-	main(SCHOOLS)
+	parser = create_parser()
+	args = parser.parse_args()
+	if args.schools:
+		with args.schools.open(mode="r") as f:
+			schools = [line.strip() for line in f]
+	else:
+		schools = SCHOOLS
+	main(schools)

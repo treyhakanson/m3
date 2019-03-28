@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,George Washington,A-10,W,77,74,OT,1,0,W 1,Charles E. Smith Center
+1,2,"Fri, Nov 9, 2018",7:00p,REG,@,South Carolina,SEC,W,83,81,,2,0,W 2,The Colonial Life Arena
+2,3,"Fri, Nov 16, 2018",6:00p,REG,N,Holy Cross,Patriot,L,70,84,,2,1,L 1,Mohegan Sun Arena
+3,4,"Sat, Nov 17, 2018",8:30p,REG,N,Norfolk State,MEAC,W,72,65,,3,1,W 1,Mohegan Sun Arena
+4,5,"Wed, Nov 21, 2018",6:00p,REG,,Molloy,,W,97,61,,4,1,W 2,Island Federal Credit Union
+5,6,"Sat, Nov 24, 2018",2:00p,REG,@,Rhode Island,A-10,W,68,58,,5,1,W 3,Ryan Center
+6,7,"Tue, Nov 27, 2018",7:00p,REG,@,Norfolk State,MEAC,W,79,73,,6,1,W 4,Echols Memorial Hall
+7,8,"Sat, Dec 1, 2018",7:00p,REG,,Quinnipiac,MAAC,W,71,61,,7,1,W 5,Island Federal Credit Union
+8,9,"Wed, Dec 5, 2018",7:00p,REG,@,Manhattan,MAAC,W,69,62,,8,1,W 6,Draddy Gymnasium
+9,10,"Sat, Dec 8, 2018",2:00p,REG,@,Brown,Ivy,L,69,71,,8,2,L 1,Pizzitola Sports Center
+10,11,"Wed, Dec 12, 2018",7:00p,REG,,Long Island University,NEC,W,83,79,,9,2,W 1,Island Federal Credit Union
+11,12,"Sun, Dec 16, 2018",2:00p,REG,,Delaware,CAA,W,74,68,,10,2,W 2,Island Federal Credit Union
+12,13,"Wed, Dec 19, 2018",7:00p,REG,,Hofstra,CAA,L,64,71,,10,3,L 1,Island Federal Credit Union
+13,14,"Sat, Dec 22, 2018",2:00p,REG,@,Quinnipiac,MAAC,W,76,73,,11,3,W 1,TD Bank Sports Center
+14,15,"Sat, Dec 29, 2018",8:00p,REG,@,Northern Iowa,MVC,W,73,63,,12,3,W 2,McLeod Center
+15,16,"Sat, Jan 5, 2019",1:00p,REG,@,Massachusetts-Lowell,AEC,W,75,63,,13,3,W 3,Costello Athletic Center
+16,17,"Wed, Jan 9, 2019",7:00p,REG,,Binghamton,AEC,W,59,46,,14,3,W 4,Island Federal Credit Union
+17,18,"Sat, Jan 12, 2019",7:00p,REG,,New Hampshire,AEC,W,62,44,,15,3,W 5,Island Federal Credit Union
+18,19,"Sat, Jan 19, 2019",1:00p,REG,@,Maine,AEC,W,64,61,,16,3,W 6,Cross Insurance Center
+19,20,"Wed, Jan 23, 2019",7:00p,REG,@,Albany (NY),AEC,W,67,66,OT,17,3,W 7,SEFCU Arena
+20,21,"Sat, Jan 26, 2019",7:00p,REG,,Vermont,AEC,L,52,73,,17,4,L 1,Island Federal Credit Union
+21,22,"Wed, Jan 30, 2019",7:00p,REG,@,Maryland-Baltimore County,AEC,L,49,57,,17,5,L 2,UMBC Event Center
+22,23,"Sat, Feb 2, 2019",7:00p,REG,,Hartford,AEC,W,86,77,,18,5,W 1,Island Federal Credit Union
+23,24,"Wed, Feb 6, 2019",7:00p,REG,@,Binghamton,AEC,W,85,59,,19,5,W 2,Binghamton University Events Center
+24,25,"Sat, Feb 9, 2019",7:00p,REG,,Massachusetts-Lowell,AEC,W,76,65,,20,5,W 3,Island Federal Credit Union
+25,26,"Sat, Feb 16, 2019",1:00p,REG,@,New Hampshire,AEC,W,66,64,,21,5,W 4,Lundholm Gymnasium
+26,27,"Thu, Feb 21, 2019",7:00p,REG,,Albany (NY),AEC,L,70,74,,21,6,L 1,Island Federal Credit Union
+27,28,"Sat, Feb 23, 2019",7:00p,REG,,Maine,AEC,W,81,53,,22,6,W 1,Island Federal Credit Union
+28,29,"Wed, Feb 27, 2019",7:00p,REG,,Maryland-Baltimore County,AEC,W,78,63,,23,6,W 2,Island Federal Credit Union
+29,30,"Sat, Mar 2, 2019",7:00p,REG,@,Vermont,AEC,L,50,56,,23,7,L 1,Roy L. Patrick Gymnasium
+30,31,"Tue, Mar 5, 2019",7:00p,REG,@,Hartford,AEC,W,68,63,,24,7,W 1,Chase Family Arena
+31,32,"Sat, Mar 9, 2019",7:00p,CTOURN,,Binghamton,AEC,L,72,78,,24,8,L 1,Island Federal Credit Union
+32,33,"Wed, Mar 20, 2019",7:00p,CBI,@,South Florida,AAC,L,79,82,OT,24,9,L 2,Sun Dome

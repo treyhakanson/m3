@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Johnson & Wales,,W,90,65,,1,0,W 1,Clune Arena 
+1,2,"Fri, Nov 9, 2018",8:00p,REG,@,Texas State,Sun Belt,L,57,67,,1,1,L 1,Strahan Coliseum
+2,3,"Fri, Nov 16, 2018",3:30p,REG,N,Maryland-Baltimore County,AEC,L,72,77,2OT,1,2,L 2,Gateway Christian Academy
+3,4,"Sun, Nov 18, 2018",3:30p,REG,N,South Dakota,Summit,W,65,62,,2,2,W 1,Gateway Christian Academy
+4,5,"Mon, Nov 19, 2018",6:00p,REG,N,High Point,Big South,L,62,69,,2,3,L 1,Gateway Christian Academy
+5,6,"Sat, Nov 24, 2018",6:00p,REG,,Colorado,Pac-12,L,56,93,,2,4,L 2,Clune Arena 
+6,7,"Wed, Nov 28, 2018",9:15p,REG,,Missouri State,MVC,W,88,69,,3,4,W 1,Clune Arena 
+7,8,"Sat, Dec 1, 2018",10:00p,REG,@,Pacific,WCC,L,69,82,,3,5,L 1,A.G. Spanos Center
+8,9,"Wed, Dec 5, 2018",9:00p,REG,,Denver,Summit,W,73,65,,4,5,W 1,Clune Arena 
+9,10,"Sat, Dec 8, 2018",4:00p,REG,,Army,Patriot,L,61,66,,4,6,L 1,Clune Arena 
+10,11,"Sat, Dec 22, 2018",4:00p,REG,@,Michigan (4),Big Ten,L,50,71,,4,7,L 2,Crisler Arena
+11,12,"Fri, Dec 28, 2018",8:00p,REG,,UC-Riverside,Big West,W,72,60,,5,7,W 1,Clune Arena 
+12,13,"Wed, Jan 2, 2019",9:00p,REG,,New Mexico,MWC,L,58,65,,5,8,L 1,Clune Arena 
+13,14,"Sat, Jan 5, 2019",9:00p,REG,@,Utah State,MWC,L,62,79,,5,9,L 2,Dee Glen Smith Spectrum
+14,15,"Tue, Jan 8, 2019",9:00p,REG,@,Colorado State,MWC,L,64,87,,5,10,L 3,Moby Arena
+15,16,"Sat, Jan 12, 2019",4:00p,REG,,San Diego State,MWC,W,62,48,,6,10,W 1,Clune Arena 
+16,17,"Wed, Jan 16, 2019",11:00p,REG,,Nevada-Las Vegas,MWC,W,106,88,,7,10,W 2,Clune Arena 
+17,18,"Sat, Jan 19, 2019",10:00p,REG,@,Nevada (10),MWC,L,52,67,,7,11,L 1,Lawlor Events Center
+18,19,"Tue, Jan 22, 2019",9:00p,REG,,Boise State,MWC,W,74,60,,8,11,W 1,Clune Arena 
+19,20,"Sat, Jan 26, 2019",9:00p,REG,@,San Jose State,MWC,W,73,71,2OT,9,11,W 2,San Jose State Event Center
+20,21,"Wed, Jan 30, 2019",10:00p,REG,@,San Diego State,MWC,L,51,66,,9,12,L 1,Viejas Arena
+21,22,"Sat, Feb 2, 2019",4:00p,REG,,Colorado State,MWC,L,53,85,,9,13,L 2,Clune Arena 
+22,23,"Wed, Feb 6, 2019",9:00p,REG,,Wyoming,MWC,W,81,76,,10,13,W 1,Clune Arena 
+23,24,"Tue, Feb 12, 2019",10:30p,REG,@,Nevada-Las Vegas,MWC,L,72,77,,10,14,L 1,Thomas & Mack Center
+24,25,"Sat, Feb 16, 2019",4:00p,REG,,Utah State,MWC,L,62,76,,10,15,L 2,Clune Arena 
+25,26,"Wed, Feb 20, 2019",10:00p,REG,@,Fresno State,MWC,W,64,61,,11,15,W 1,Save Mart Center
+26,27,"Sat, Feb 23, 2019",4:00p,REG,,San Jose State,MWC,W,82,68,,12,15,W 2,Clune Arena 
+27,28,"Sat, Mar 2, 2019",6:00p,REG,@,Wyoming,MWC,W,80,72,,13,15,W 3,Arena-Auditorium
+28,29,"Tue, Mar 5, 2019",11:00p,REG,,Nevada (17),MWC,L,79,90,,13,16,L 1,Clune Arena 
+29,30,"Sat, Mar 9, 2019",7:00p,REG,@,Boise State,MWC,L,52,80,,13,17,L 2,Taco Bell Arena
+30,31,"Wed, Mar 13, 2019",7:00p,CTOURN,N,San Jose State,MWC,W,87,56,,14,17,W 1,Thomas & Mack Center
+31,32,"Thu, Mar 14, 2019",11:30p,CTOURN,N,Fresno State,MWC,L,50,76,,14,18,L 1,Thomas & Mack Center

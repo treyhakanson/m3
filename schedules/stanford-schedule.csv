@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",10:00p,REG,,Seattle,WAC,W,96,74,,1,0,W 1,Maples Pavilion
+1,2,"Fri, Nov 9, 2018",7:00p,REG,@,North Carolina-Wilmington,CAA,W,72,59,,2,0,W 2,Trask Coliseum
+2,3,"Mon, Nov 12, 2018",7:00p,REG,@,North Carolina (7),ACC,L,72,90,,2,1,L 1,Dean Smith Center
+3,4,"Wed, Nov 21, 2018",2:30p,REG,N,Wisconsin (25),Big Ten,L,46,62,,2,2,L 2,Imperial Arena at Atlantis Resort
+4,5,"Thu, Nov 22, 2018",7:00p,REG,N,Florida,SEC,L,49,72,,2,3,L 3,Imperial Arena at Atlantis Resort
+5,6,"Fri, Nov 23, 2018",7:00p,REG,N,Middle Tennessee,CUSA,W,67,54,,3,3,W 1,Imperial Arena at Atlantis Resort
+6,7,"Wed, Nov 28, 2018",10:00p,REG,,Portland State,Big Sky,W,79,67,,4,3,W 2,Maples Pavilion
+7,8,"Sat, Dec 1, 2018",5:30p,REG,@,Kansas (2),Big 12,L,84,90,OT,4,4,L 1,Allen Fieldhouse
+8,9,"Sat, Dec 15, 2018",7:00p,REG,,Eastern Washington,Big Sky,W,78,62,,5,4,W 1,Maples Pavilion
+9,10,"Tue, Dec 18, 2018",10:00p,REG,,San Jose State,MWC,W,78,73,,6,4,W 2,Maples Pavilion
+10,11,"Sat, Dec 22, 2018",5:00p,REG,@,San Francisco,WCC,L,65,74,,6,5,L 1,War Memorial Gymnasium
+11,12,"Sat, Dec 29, 2018",10:30p,REG,,Long Beach State,Big West,W,93,86,,7,5,W 1,Maples Pavilion
+12,13,"Thu, Jan 3, 2019",11:00p,REG,@,UCLA,Pac-12,L,70,92,,7,6,L 1,Pauley Pavilion
+13,14,"Sun, Jan 6, 2019",8:00p,REG,@,Southern California,Pac-12,L,66,77,,7,7,L 2,Galen Center
+14,15,"Wed, Jan 9, 2019",11:00p,REG,,Arizona,Pac-12,L,70,75,,7,8,L 3,Maples Pavilion
+15,16,"Sat, Jan 12, 2019",6:00p,REG,,Arizona State,Pac-12,W,85,71,,8,8,W 1,Maples Pavilion
+16,17,"Thu, Jan 17, 2019",9:00p,REG,@,Washington,Pac-12,L,64,80,,8,9,L 1,Alaska Airlines Arena
+17,18,"Sat, Jan 19, 2019",3:00p,REG,@,Washington State,Pac-12,W,78,66,,9,9,W 1,Beasley Coliseum
+18,19,"Thu, Jan 24, 2019",9:00p,REG,,Utah,Pac-12,L,66,70,,9,10,L 1,Maples Pavilion
+19,20,"Sat, Jan 26, 2019",8:00p,REG,,Colorado,Pac-12,W,75,62,,10,10,W 1,Maples Pavilion
+20,21,"Sun, Feb 3, 2019",4:00p,REG,@,University of California,Pac-12,W,84,81,,11,10,W 2,Haas Pavilion
+21,22,"Thu, Feb 7, 2019",10:00p,REG,@,Oregon State,Pac-12,W,83,60,,12,10,W 3,Gill Coliseum
+22,23,"Sun, Feb 10, 2019",8:00p,REG,@,Oregon,Pac-12,L,46,69,,12,11,L 1,Matthew Knight Arena
+23,24,"Wed, Feb 13, 2019",11:00p,REG,,Southern California,Pac-12,W,79,76,,13,11,W 1,Maples Pavilion
+24,25,"Sat, Feb 16, 2019",10:00p,REG,,UCLA,Pac-12,W,104,80,,14,11,W 2,Maples Pavilion
+25,26,"Wed, Feb 20, 2019",9:00p,REG,@,Arizona State,Pac-12,L,62,80,,14,12,L 1,Wells Fargo Arena
+26,27,"Sun, Feb 24, 2019",8:00p,REG,@,Arizona,Pac-12,L,54,70,,14,13,L 2,McKale Center
+27,28,"Thu, Feb 28, 2019",9:00p,REG,,Washington State,Pac-12,W,98,50,,15,13,W 1,Maples Pavilion
+28,29,"Sun, Mar 3, 2019",4:00p,REG,,Washington (25),Pac-12,L,61,62,,15,14,L 1,Maples Pavilion
+29,30,"Thu, Mar 7, 2019",11:00p,REG,,University of California,Pac-12,L,59,64,,15,15,L 2,Maples Pavilion
+30,31,"Wed, Mar 13, 2019",9:00p,CTOURN,N,UCLA,Pac-12,L,72,79,,15,16,L 3,T-Mobile Arena

@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Tiffin,,W,91,52,,1,0,W 1,Stroh Center
+1,2,"Fri, Nov 9, 2018",6:30p,REG,@,St. John's (NY),Big East,L,80,84,,1,1,L 1,Carnesecca Arena
+2,3,"Mon, Nov 12, 2018",7:00p,REG,@,Virginia Commonwealth,A-10,L,61,72,,1,2,L 2,Stuart Siegel Center
+3,4,"Thu, Nov 15, 2018",7:00p,REG,,North Carolina Central,MEAC,W,75,60,,2,2,W 1,Stroh Center
+4,5,"Mon, Nov 19, 2018",5:00p,REG,N,Hampton,Big South,W,81,79,,3,2,W 2,Calihan Hall
+5,6,"Tue, Nov 20, 2018",7:30p,REG,N,Detroit Mercy,Horizon,L,67,82,,3,3,L 1,Calihan Hall
+6,7,"Sun, Nov 25, 2018",3:00p,REG,,Drexel,CAA,W,81,71,,4,3,W 1,Stroh Center
+7,8,"Sat, Dec 1, 2018",2:00p,REG,@,Hartford,AEC,L,63,76,,4,4,L 1,Chase Family Arena
+8,9,"Wed, Dec 5, 2018",7:30p,REG,@,Cleveland State,Horizon,L,64,82,,4,5,L 2,Wolstein Center
+9,10,"Sat, Dec 8, 2018",6:00p,REG,,Green Bay,Horizon,W,97,68,,5,5,W 1,Stroh Center
+10,11,"Sun, Dec 16, 2018",4:00p,REG,,Findlay,,W,82,57,,6,5,W 2,Stroh Center
+11,12,"Fri, Dec 21, 2018",1:00p,REG,,Western Carolina,Southern,W,73,52,,7,5,W 3,Stroh Center
+12,13,"Sun, Dec 30, 2018",2:30p,REG,,Tennessee-Martin,OVC,W,94,80,,8,5,W 4,Stroh Center
+13,14,"Sat, Jan 5, 2019",7:00p,REG,@,Kent State,MAC,W,86,64,,9,5,W 5,Reed Arena
+14,15,"Tue, Jan 8, 2019",7:00p,REG,,Ohio,MAC,W,82,63,,10,5,W 6,Stroh Center
+15,16,"Sat, Jan 12, 2019",4:30p,REG,@,Central Michigan,MAC,W,97,87,OT,11,5,W 7,McGuirk Arena
+16,17,"Tue, Jan 15, 2019",7:00p,REG,,Ball State,MAC,W,79,78,,12,5,W 8,Stroh Center
+17,18,"Sat, Jan 19, 2019",2:30p,REG,,Western Michigan,MAC,W,79,48,,13,5,W 9,Stroh Center
+18,19,"Tue, Jan 22, 2019",7:00p,REG,@,Eastern Michigan,MAC,W,80,67,,14,5,W 10,Convocation Center
+19,20,"Sat, Jan 26, 2019",3:30p,REG,@,Miami (OH),MAC,L,53,67,,14,6,L 1,Millett Hall
+20,21,"Fri, Feb 1, 2019",8:00p,REG,,Buffalo (18),MAC,W,92,88,,15,6,W 1,Stroh Center
+21,22,"Tue, Feb 5, 2019",7:00p,REG,@,Western Michigan,MAC,W,85,72,,16,6,W 2,University Arena
+22,23,"Sat, Feb 9, 2019",6:00p,REG,,Toledo,MAC,L,71,78,,16,7,L 1,Stroh Center
+23,24,"Tue, Feb 12, 2019",7:00p,REG,,Central Michigan,MAC,W,79,72,,17,7,W 1,Stroh Center
+24,25,"Sat, Feb 16, 2019",4:30p,REG,@,Northern Illinois,MAC,W,87,67,,18,7,W 2,Convocation Center
+25,26,"Tue, Feb 19, 2019",7:00p,REG,,Akron,MAC,W,73,69,,19,7,W 3,Stroh Center
+26,27,"Fri, Feb 22, 2019",6:30p,REG,@,Ohio,MAC,L,87,92,OT,19,8,L 1,Convocation Center
+27,28,"Tue, Feb 26, 2019",7:00p,REG,,Miami (OH),MAC,L,69,82,,19,9,L 2,Stroh Center
+28,29,"Fri, Mar 1, 2019",6:00p,REG,,Kent State,MAC,W,77,72,,20,9,W 1,Stroh Center
+29,30,"Tue, Mar 5, 2019",7:00p,REG,@,Akron,MAC,L,67,91,,20,10,L 1,James A. Rhodes Arena
+30,31,"Fri, Mar 8, 2019",6:00p,REG,@,Buffalo (19),MAC,L,73,84,,20,11,L 2,Alumni Arena
+31,32,"Thu, Mar 14, 2019",9:00p,CTOURN,N,Ball State,MAC,W,99,86,,21,11,W 1,Quicken Loans Arena
+32,33,"Fri, Mar 15, 2019",9:00p,CTOURN,N,Northern Illinois,MAC,W,71,67,,22,11,W 2,Quicken Loans Arena
+33,34,"Sat, Mar 16, 2019",7:30p,CTOURN,N,Buffalo (18),MAC,L,73,87,,22,12,L 1,Quicken Loans Arena

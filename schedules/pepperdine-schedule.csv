@@ -1,0 +1,35 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",10:00p,REG,,Cal State Dominguez Hills,,W,100,66,,1,0,W 1,Firestone Fieldhouse
+1,2,"Tue, Nov 13, 2018",9:00p,REG,@,Northern Colorado,Big Sky,L,80,88,,1,1,L 1,Bank of Colorado Arena
+2,3,"Fri, Nov 16, 2018",8:00p,REG,N,Towson,CAA,W,74,65,,2,1,W 1,Kendal Isaacs Gymnasium
+3,4,"Sat, Nov 17, 2018",8:00p,REG,N,Georgia Southern,Sun Belt,L,78,88,,2,2,L 1,Kendal Isaacs Gymnasium
+4,5,"Sun, Nov 18, 2018",5:00p,REG,N,Miami (OH),MAC,W,86,80,,3,2,W 1,Kendal Isaacs Gymnasium
+5,6,"Mon, Nov 26, 2018",10:00p,REG,,Idaho State,Big Sky,W,97,82,,4,2,W 2,Firestone Fieldhouse
+6,7,"Sat, Dec 1, 2018",8:00p,REG,,Abilene Christian,Southland,W,77,62,,5,2,W 3,Firestone Fieldhouse
+7,8,"Mon, Dec 3, 2018",10:00p,REG,,Cal State Northridge,Big West,L,83,90,,5,3,L 1,Firestone Fieldhouse
+8,9,"Thu, Dec 6, 2018",10:00p,REG,@,UC-Riverside,Big West,L,71,75,,5,4,L 2,UC Riverside Student Recreation Center
+9,10,"Sat, Dec 8, 2018",10:00p,REG,,Jackson State,SWAC,W,69,66,,6,4,W 1,Firestone Fieldhouse
+10,11,"Sat, Dec 15, 2018",3:00p,REG,@,Southern Utah,Big Sky,L,69,78,OT,6,5,L 1,Centrum
+11,12,"Mon, Dec 17, 2018",10:00p,REG,@,Oregon State,Pac-12,L,67,82,,6,6,L 2,Gill Coliseum
+12,13,"Thu, Dec 20, 2018",10:00p,REG,@,Long Beach State,Big West,L,66,67,,6,7,L 3,The Walter Pyramid
+13,14,"Mon, Dec 31, 2018",6:00p,REG,,Alabama A&M,SWAC,W,100,64,,7,7,W 1,Firestone Fieldhouse
+14,15,"Thu, Jan 3, 2019",10:00p,REG,,Loyola Marymount,WCC,W,77,62,,8,7,W 2,Firestone Fieldhouse
+15,16,"Sat, Jan 5, 2019",8:00p,REG,,San Francisco,WCC,L,69,72,,8,8,L 1,Firestone Fieldhouse
+16,17,"Thu, Jan 10, 2019",11:00p,REG,@,Santa Clara,WCC,L,64,67,,8,9,L 2,Leavey Center
+17,18,"Sat, Jan 12, 2019",4:00p,REG,@,San Diego,WCC,W,76,71,,9,9,W 1,Jenny Craig Pavillion
+18,19,"Thu, Jan 17, 2019",11:00p,REG,,Brigham Young,WCC,L,76,87,,9,10,L 1,Firestone Fieldhouse
+19,20,"Sat, Jan 19, 2019",4:00p,REG,@,Loyola Marymount,WCC,L,70,74,,9,11,L 2,Albert Gersten Pavilion
+20,21,"Sat, Jan 26, 2019",8:00p,REG,,Saint Mary's (CA),WCC,W,84,77,OT,10,11,W 1,Firestone Fieldhouse
+21,22,"Thu, Jan 31, 2019",10:00p,REG,@,Portland,WCC,W,83,58,,11,11,W 2,Chiles Center
+22,23,"Sat, Feb 2, 2019",10:00p,REG,@,Pacific,WCC,L,59,66,,11,12,L 1,A.G. Spanos Center
+23,24,"Thu, Feb 7, 2019",10:00p,REG,,Santa Clara,WCC,L,71,79,,11,13,L 2,Firestone Fieldhouse
+24,25,"Sat, Feb 9, 2019",4:00p,REG,,San Diego,WCC,W,70,67,,12,13,W 1,Firestone Fieldhouse
+25,26,"Thu, Feb 14, 2019",10:00p,REG,@,San Francisco,WCC,L,77,89,,12,14,L 1,War Memorial Gymnasium
+26,27,"Sat, Feb 16, 2019",11:00p,REG,@,Saint Mary's (CA),WCC,L,65,72,,12,15,L 2,McKeon Pavilion
+27,28,"Thu, Feb 21, 2019",9:00p,REG,@,Gonzaga (2),WCC,L,64,92,,12,16,L 3,McCarthey Athletic Center
+28,29,"Sat, Feb 23, 2019",8:00p,REG,,Portland,WCC,W,86,80,,13,16,W 1,Firestone Fieldhouse
+29,30,"Sat, Mar 2, 2019",8:00p,REG,,Pacific,WCC,L,72,73,,13,17,L 1,Firestone Fieldhouse
+30,31,"Thu, Mar 7, 2019",9:00p,CTOURN,N,Pacific,WCC,W,61,53,,14,17,W 1,Orleans Arena
+31,32,"Fri, Mar 8, 2019",9:00p,CTOURN,N,Loyola Marymount,WCC,W,68,65,,15,17,W 2,Orleans Arena
+32,33,"Sat, Mar 9, 2019",10:00p,CTOURN,N,San Francisco,WCC,W,89,72,,16,17,W 3,Orleans Arena
+33,34,"Mon, Mar 11, 2019",9:00p,CTOURN,N,Gonzaga (1),WCC,L,74,100,,16,18,L 1,Orleans Arena

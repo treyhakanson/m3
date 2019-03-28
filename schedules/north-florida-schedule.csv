@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Wed, Nov 7, 2018",7:00p,REG,@,Dayton,A-10,L,70,78,,0,1,L 1,University of Dayton Arena
+1,2,"Fri, Nov 9, 2018",7:30p,REG,@,Penn State,Big Ten,L,72,87,,0,2,L 2,Bryce Jordan Center
+2,3,"Wed, Nov 14, 2018",7:00p,REG,,Edward Waters,,W,95,83,,1,2,W 1,UNF Arena 
+3,4,"Sat, Nov 17, 2018",3:00p,REG,@,Wright State,Horizon,L,72,89,,1,3,L 1,Ervin J. Nutter Center
+4,5,"Tue, Nov 20, 2018",3:00p,REG,N,Southern Mississippi,CUSA,W,64,48,,2,3,W 1,Hard Rock Hotel Riviera Maya
+5,6,"Wed, Nov 21, 2018",3:00p,REG,N,Jacksonville State,OVC,L,78,83,,2,4,L 1,Hard Rock Hotel Riviera Maya
+6,7,"Tue, Nov 27, 2018",7:00p,REG,@,Florida,SEC,L,66,98,,2,5,L 2,Stephen C. O'Connell Center
+7,8,"Thu, Nov 29, 2018",8:00p,REG,,Florida A&M,MEAC,W,81,62,,3,5,W 1,UNF Arena 
+8,9,"Sat, Dec 1, 2018",5:30p,REG,@,Charleston Southern,Big South,W,76,70,,4,5,W 2,CSU Fieldhouse
+9,10,"Tue, Dec 11, 2018",9:00p,REG,@,Minnesota,Big Ten,L,71,80,,4,6,L 1,Williams Arena
+10,11,"Thu, Dec 13, 2018",7:00p,REG,@,Florida International,CUSA,L,89,102,,4,7,L 2,FIU Arena
+11,12,"Sat, Dec 15, 2018",5:00p,REG,,Charleston Southern,Big South,W,68,61,,5,7,W 1,UNF Arena 
+12,13,"Wed, Dec 19, 2018",7:00p,REG,@,Florida State (11),ACC,L,81,95,,5,8,L 1,Donald L. Tucker Center
+13,14,"Sat, Dec 29, 2018",5:00p,REG,@,Auburn (12),SEC,L,49,95,,5,9,L 2,Auburn Arena
+14,15,"Wed, Jan 2, 2019",7:00p,REG,,Florida National University,,W,104,76,,6,9,W 1,UNF Arena 
+15,16,"Sat, Jan 5, 2019",5:00p,REG,,North Alabama,A-Sun,W,96,67,,7,9,W 2,UNF Arena 
+16,17,"Wed, Jan 9, 2019",7:30p,REG,@,Lipscomb,A-Sun,L,66,81,,7,10,L 1,Allen Arena
+17,18,"Sat, Jan 12, 2019",5:00p,REG,,Florida Gulf Coast,A-Sun,W,87,66,,8,10,W 1,UNF Arena 
+18,19,"Wed, Jan 16, 2019",7:00p,REG,@,Stetson,A-Sun,W,87,77,,9,10,W 2,Edmunds Center
+19,20,"Sat, Jan 19, 2019",7:00p,REG,@,Liberty,A-Sun,L,64,70,,9,11,L 1,Vines Center
+20,21,"Mon, Jan 21, 2019",7:00p,REG,,NJIT,A-Sun,L,72,76,,9,12,L 2,UNF Arena 
+21,22,"Thu, Jan 24, 2019",7:00p,REG,,Jacksonville,A-Sun,L,81,86,,9,13,L 3,UNF Arena 
+22,23,"Sun, Jan 27, 2019",5:00p,REG,@,Florida Gulf Coast,A-Sun,L,80,88,,9,14,L 4,Alico Arena
+23,24,"Wed, Jan 30, 2019",7:00p,REG,@,Kennesaw State,A-Sun,L,64,81,,9,15,L 5,KSU Convocation Center 
+24,25,"Wed, Feb 6, 2019",7:00p,REG,,Lipscomb,A-Sun,L,55,92,,9,16,L 6,UNF Arena 
+25,26,"Sat, Feb 9, 2019",4:00p,REG,@,North Alabama,A-Sun,W,82,73,,10,16,W 1,Flowers Hall
+26,27,"Wed, Feb 13, 2019",7:00p,REG,,Kennesaw State,A-Sun,W,80,57,,11,16,W 2,UNF Arena 
+27,28,"Sat, Feb 16, 2019",4:00p,REG,@,NJIT,A-Sun,W,64,63,,12,16,W 3,NJIT Wellness and Events Center
+28,29,"Wed, Feb 20, 2019",7:00p,REG,@,Jacksonville,A-Sun,W,80,73,OT,13,16,W 4,Swisher Gymnasium
+29,30,"Sat, Feb 23, 2019",5:00p,REG,,Liberty,A-Sun,W,75,70,,14,16,W 5,UNF Arena 
+30,31,"Tue, Feb 26, 2019",7:00p,REG,,Stetson,A-Sun,W,77,67,,15,16,W 6,UNF Arena 
+31,32,"Mon, Mar 4, 2019",7:00p,CTOURN,,North Alabama,A-Sun,W,76,66,,16,16,W 7,UNF Arena 
+32,33,"Thu, Mar 7, 2019",7:00p,CTOURN,@,Liberty,A-Sun,L,63,71,,16,17,L 1,Vines Center

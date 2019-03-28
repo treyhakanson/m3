@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,Boston College,ACC,L,53,73,,0,1,L 1,Silvio O. Conte Forum
+1,2,"Sat, Nov 10, 2018",7:00p,REG,,North Dakota,Summit,L,60,63,,0,2,L 2,UW-Milwaukee Panther Arena
+2,3,"Tue, Nov 13, 2018",7:00p,REG,@,Florida International,CUSA,L,83,86,,0,3,L 3,FIU Arena
+3,4,"Fri, Nov 16, 2018",7:00p,REG,@,Cincinnati,AAC,L,63,74,,0,4,L 4,Fifth Third Arena
+4,5,"Tue, Nov 20, 2018",8:00p,REG,,Long Island University,NEC,W,92,87,OT,1,4,W 1,UW-Milwaukee Panther Arena
+5,6,"Fri, Nov 23, 2018",8:00p,REG,,Albany (NY),AEC,W,79,70,,2,4,W 2,UW-Milwaukee Panther Arena
+6,7,"Fri, Nov 30, 2018",5:30a,REG,N,Buffalo (21),MAC,L,77,96,,2,5,L 1,SSE Arena
+7,8,"Sat, Dec 1, 2018",8:00a,REG,N,Stephen F. Austin,Southland,L,51,66,,2,6,L 2,SSE Arena
+8,9,"Thu, Dec 6, 2018",8:00p,REG,,Drake,MVC,L,61,75,,2,7,L 3,UW-Milwaukee Panther Arena
+9,10,"Sun, Dec 9, 2018",4:00p,REG,@,North Dakota,Summit,L,72,83,,2,8,L 4,Betty Engelstad Sioux Center 
+10,11,"Thu, Dec 13, 2018",7:00p,REG,@,Missouri-Kansas City,WAC,W,69,66,,3,8,W 1,Municipal Auditorium
+11,12,"Sun, Dec 16, 2018",5:00p,REG,,Wisconsin Lutheran,,W,87,64,,4,8,W 2,UW-Milwaukee Panther Arena
+12,13,"Sat, Dec 22, 2018",3:00p,REG,@,Western Michigan,MAC,W,67,66,,5,8,W 3,University Arena
+13,14,"Sat, Dec 29, 2018",8:00p,REG,,Green Bay,Horizon,L,82,92,,5,9,L 1,UW-Milwaukee Panther Arena
+14,15,"Thu, Jan 3, 2019",8:00p,REG,,Cleveland State,Horizon,W,83,76,,6,9,W 1,UW-Milwaukee Panther Arena
+15,16,"Sat, Jan 5, 2019",5:00p,REG,,Youngstown State,Horizon,L,51,76,,6,10,L 1,UW-Milwaukee Panther Arena
+16,17,"Thu, Jan 10, 2019",7:00p,REG,@,Oakland,Horizon,W,67,64,,7,10,W 1,Athletics Center O'rena
+17,18,"Sat, Jan 12, 2019",1:00p,REG,@,Detroit Mercy,Horizon,L,84,93,,7,11,L 1,Calihan Hall
+18,19,"Thu, Jan 17, 2019",8:00p,REG,,Illinois-Chicago,Horizon,W,81,69,,8,11,W 1,UW-Milwaukee Panther Arena
+19,20,"Sat, Jan 19, 2019",7:00p,REG,,IUPUI,Horizon,W,64,57,,9,11,W 2,UW-Milwaukee Panther Arena
+20,21,"Thu, Jan 24, 2019",7:00p,REG,@,Wright State,Horizon,L,54,56,,9,12,L 1,Ervin J. Nutter Center
+21,22,"Sat, Jan 26, 2019",7:00p,REG,@,Northern Kentucky,Horizon,L,60,73,,9,13,L 2,Bank of Kentucky Center
+22,23,"Fri, Feb 1, 2019",8:00p,REG,@,Green Bay,Horizon,L,74,90,,9,14,L 3,Kress Events Center
+23,24,"Thu, Feb 7, 2019",7:00p,REG,@,Youngstown State,Horizon,L,71,72,,9,15,L 4,Beeghly Center
+24,25,"Sat, Feb 9, 2019",3:00p,REG,@,Cleveland State,Horizon,L,68,78,,9,16,L 5,Wolstein Center
+25,26,"Thu, Feb 14, 2019",8:00p,REG,,Detroit Mercy,Horizon,L,84,90,,9,17,L 6,UW-Milwaukee Panther Arena
+26,27,"Sat, Feb 16, 2019",7:00p,REG,,Oakland,Horizon,L,73,89,,9,18,L 7,UW-Milwaukee Panther Arena
+27,28,"Fri, Feb 22, 2019",7:00p,REG,@,IUPUI,Horizon,L,60,67,,9,19,L 8,Indiana Farmers Coliseum
+28,29,"Sun, Feb 24, 2019",4:12p,REG,@,Illinois-Chicago,Horizon,L,59,74,,9,20,L 9,UIC Pavilion
+29,30,"Thu, Feb 28, 2019",8:00p,REG,,Northern Kentucky,Horizon,L,55,65,,9,21,L 10,UW-Milwaukee Panther Arena
+30,31,"Sat, Mar 2, 2019",7:00p,REG,,Wright State,Horizon,L,62,65,,9,22,L 11,UW-Milwaukee Panther Arena

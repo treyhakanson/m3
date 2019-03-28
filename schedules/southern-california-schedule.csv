@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",11:00p,REG,,Robert Morris,NEC,W,83,62,,1,0,W 1,Galen Center
+1,2,"Sun, Nov 11, 2018",9:00p,REG,,Vanderbilt,SEC,L,78,82,,1,1,L 1,Galen Center
+2,3,"Wed, Nov 14, 2018",10:00p,REG,,Stetson,A-Sun,W,95,59,,2,1,W 1,Galen Center
+3,4,"Mon, Nov 19, 2018",9:30p,REG,N,Texas Tech,Big 12,L,63,78,,2,2,L 1,Sprint Center
+4,5,"Tue, Nov 20, 2018",7:00p,REG,N,Missouri State,MVC,W,99,80,,3,2,W 1,Sprint Center
+5,6,"Sun, Nov 25, 2018",7:00p,REG,,Cal State Bakersfield,WAC,W,90,75,,4,2,W 2,Galen Center
+6,7,"Wed, Nov 28, 2018",11:00p,REG,,Long Beach State,Big West,W,75,65,,5,2,W 3,Galen Center
+7,8,"Sat, Dec 1, 2018",4:30p,REG,,Nevada (5),MWC,L,61,73,,5,3,L 1,Galen Center
+8,9,"Fri, Dec 7, 2018",9:30p,REG,N,Texas Christian,Big 12,L,61,96,,5,4,L 2,Staples Center
+9,10,"Sat, Dec 15, 2018",9:00p,REG,@,Oklahoma,Big 12,L,70,81,,5,5,L 3,
+10,11,"Tue, Dec 18, 2018",10:00p,REG,@,Santa Clara,WCC,L,92,102,2OT,5,6,L 4,Leavey Center
+11,12,"Fri, Dec 21, 2018",11:00p,REG,,Southern Utah,Big Sky,W,91,49,,6,6,W 1,Galen Center
+12,13,"Sun, Dec 30, 2018",9:00p,REG,,UC-Davis,Big West,W,73,55,,7,6,W 2,Galen Center
+13,14,"Thu, Jan 3, 2019",10:00p,REG,,University of California,Pac-12,W,82,73,,8,6,W 3,Galen Center
+14,15,"Sun, Jan 6, 2019",8:00p,REG,,Stanford,Pac-12,W,77,66,,9,6,W 4,Galen Center
+15,16,"Thu, Jan 10, 2019",11:00p,REG,@,Oregon State,Pac-12,L,74,79,OT,9,7,L 1,Gill Coliseum
+16,17,"Sun, Jan 13, 2019",8:00p,REG,@,Oregon,Pac-12,L,60,81,,9,8,L 2,Matthew Knight Arena
+17,18,"Sat, Jan 19, 2019",4:00p,REG,,UCLA,Pac-12,W,80,67,,10,8,W 1,Galen Center
+18,19,"Thu, Jan 24, 2019",9:00p,REG,,Arizona,Pac-12,W,80,57,,11,8,W 2,Galen Center
+19,20,"Sat, Jan 26, 2019",8:00p,REG,,Arizona State,Pac-12,W,69,67,,12,8,W 3,Galen Center
+20,21,"Wed, Jan 30, 2019",11:00p,REG,@,Washington,Pac-12,L,62,75,,12,9,L 1,Alaska Airlines Arena
+21,22,"Sat, Feb 2, 2019",7:00p,REG,@,Washington State,Pac-12,W,93,84,,13,9,W 1,Beasley Coliseum
+22,23,"Wed, Feb 6, 2019",11:00p,REG,,Utah,Pac-12,L,70,77,,13,10,L 1,Galen Center
+23,24,"Sat, Feb 9, 2019",10:00p,REG,,Colorado,Pac-12,L,65,69,,13,11,L 2,Galen Center
+24,25,"Wed, Feb 13, 2019",11:00p,REG,@,Stanford,Pac-12,L,76,79,,13,12,L 3,Maples Pavilion
+25,26,"Sat, Feb 16, 2019",8:00p,REG,@,University of California,Pac-12,W,89,66,,14,12,W 1,Haas Pavilion
+26,27,"Thu, Feb 21, 2019",9:00p,REG,,Oregon,Pac-12,W,66,49,,15,12,W 2,Galen Center
+27,28,"Sat, Feb 23, 2019",6:00p,REG,,Oregon State,Pac-12,L,62,67,,15,13,L 1,Galen Center
+28,29,"Thu, Feb 28, 2019",9:00p,REG,@,UCLA,Pac-12,L,88,93,OT,15,14,L 2,Pauley Pavilion
+29,30,"Thu, Mar 7, 2019",10:00p,REG,@,Utah,Pac-12,L,74,83,,15,15,L 3,Jon M. Huntsman Center
+30,31,"Sat, Mar 9, 2019",5:00p,REG,@,Colorado,Pac-12,L,67,78,,15,16,L 4,Coors Events/Conference Center
+31,32,"Wed, Mar 13, 2019",3:00p,CTOURN,N,Arizona,Pac-12,W,78,65,,16,16,W 1,T-Mobile Arena
+32,33,"Thu, Mar 14, 2019",3:00p,CTOURN,N,Washington,Pac-12,L,75,78,,16,17,L 1,T-Mobile Arena

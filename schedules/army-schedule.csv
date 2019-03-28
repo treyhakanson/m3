@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,,Marist,MAAC,W,73,69,,1,0,W 1,Christl Arena
+1,2,"Sun, Nov 11, 2018",1:00p,REG,@,Duke (4),ACC,L,72,94,,1,1,L 1,Cameron Indoor Stadium
+2,3,"Fri, Nov 16, 2018",5:00p,REG,N,Sacred Heart,NEC,L,78,79,,1,2,L 2,Pizzitola Sports Center
+3,4,"Sat, Nov 17, 2018",3:30p,REG,N,Massachusetts-Lowell,AEC,L,85,92,,1,3,L 3,Pizzitola Sports Center
+4,5,"Sun, Nov 18, 2018",4:00p,REG,@,Brown,Ivy,L,66,86,,1,4,L 4,Pizzitola Sports Center
+5,6,"Wed, Nov 21, 2018",7:30p,REG,,SUNY-Maritime,,W,91,40,,2,4,W 1,Christl Arena
+6,7,"Sat, Nov 24, 2018",2:00p,REG,@,Miami (OH),MAC,L,55,85,,2,5,L 1,Millett Hall
+7,8,"Wed, Nov 28, 2018",7:30p,REG,,Binghamton,AEC,W,67,56,,3,5,W 1,Christl Arena
+8,9,"Sat, Dec 1, 2018",1:00p,REG,,Fairfield,MAAC,W,63,60,,4,5,W 2,Christl Arena
+9,10,"Tue, Dec 4, 2018",7:00p,REG,@,NJIT,A-Sun,L,72,77,,4,6,L 1,NJIT Wellness and Events Center
+10,11,"Sat, Dec 8, 2018",4:00p,REG,@,Air Force,MWC,W,66,61,,5,6,W 1,Clune Arena 
+11,12,"Wed, Dec 12, 2018",7:00p,REG,@,Fairleigh Dickinson,NEC,L,84,93,,5,7,L 1,Rothman Center
+12,13,"Sat, Dec 22, 2018",1:00p,REG,,Niagara,MAAC,L,66,78,,5,8,L 2,Christl Arena
+13,14,"Wed, Jan 2, 2019",7:00p,REG,,Bucknell,Patriot,L,63,64,,5,9,L 3,Christl Arena
+14,15,"Sat, Jan 5, 2019",1:00p,REG,,Lafayette,Patriot,W,77,69,,6,9,W 1,Christl Arena
+15,16,"Wed, Jan 9, 2019",7:00p,REG,@,Boston University,Patriot,W,86,82,,7,9,W 2,Case Gym
+16,17,"Sat, Jan 12, 2019",2:00p,REG,@,Loyola (MD),Patriot,L,64,66,,7,10,L 1,Reitz Arena
+17,18,"Wed, Jan 16, 2019",7:00p,REG,,Colgate,Patriot,W,91,81,,8,10,W 1,Christl Arena
+18,19,"Sat, Jan 19, 2019",2:30p,REG,,Navy,Patriot,W,72,61,,9,10,W 2,Christl Arena
+19,20,"Wed, Jan 23, 2019",7:00p,REG,,Holy Cross,Patriot,W,76,57,,10,10,W 3,Christl Arena
+20,21,"Sat, Jan 26, 2019",2:00p,REG,@,Lafayette,Patriot,W,69,63,,11,10,W 4,Kirby Sports Center
+21,22,"Wed, Jan 30, 2019",7:00p,REG,@,Colgate,Patriot,L,56,76,,11,11,L 1,Cotterell Court
+22,23,"Sat, Feb 2, 2019",1:00p,REG,,Lehigh,Patriot,L,70,75,,11,12,L 2,Christl Arena
+23,24,"Wed, Feb 6, 2019",7:05p,REG,@,Holy Cross,Patriot,L,42,56,,11,13,L 3,Hart Recreation Center
+24,25,"Sat, Feb 9, 2019",2:00p,REG,@,American,Patriot,L,68,71,,11,14,L 4,Bender Arena
+25,26,"Wed, Feb 13, 2019",11:00a,REG,,Boston University,Patriot,W,71,61,,12,14,W 1,Christl Arena
+26,27,"Sat, Feb 16, 2019",2:30p,REG,@,Navy,Patriot,L,68,79,,12,15,L 1,Alumni Hall
+27,28,"Wed, Feb 20, 2019",7:00p,REG,@,Lehigh,Patriot,L,81,91,,12,16,L 2,Stabler Arena
+28,29,"Sun, Feb 24, 2019",1:00p,REG,,American,Patriot,L,66,77,,12,17,L 3,Christl Arena
+29,30,"Wed, Feb 27, 2019",7:00p,REG,,Loyola (MD),Patriot,W,79,69,,13,17,W 1,Christl Arena
+30,31,"Sat, Mar 2, 2019",12:00p,REG,@,Bucknell,Patriot,L,61,62,,13,18,L 1,Sojka Pavilion
+31,32,"Thu, Mar 7, 2019",7:00p,CTOURN,@,Lehigh,Patriot,L,70,75,,13,19,L 2,Stabler Arena

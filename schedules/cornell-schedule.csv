@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,@,Binghamton,AEC,W,86,75,,1,0,W 1,Binghamton University Events Center
+1,2,"Thu, Nov 8, 2018",7:00p,REG,,SUNY-Canton,,W,86,44,,2,0,W 2,Newman Arena
+2,3,"Sun, Nov 11, 2018",1:00p,REG,,Colgate,Patriot,L,57,73,,2,1,L 1,Newman Arena
+3,4,"Thu, Nov 15, 2018",7:00p,REG,,Delaware,CAA,L,56,73,,2,2,L 2,Newman Arena
+4,5,"Sat, Nov 17, 2018",4:00p,REG,@,NJIT,A-Sun,W,86,73,,3,2,W 1,NJIT Wellness and Events Center
+5,6,"Tue, Nov 20, 2018",7:00p,REG,@,Connecticut,AAC,L,74,91,,3,3,L 1,XL Center
+6,7,"Wed, Nov 28, 2018",7:00p,REG,@,Lafayette,Patriot,W,63,58,OT,4,3,W 1,Kirby Sports Center
+7,8,"Sat, Dec 1, 2018",8:00p,REG,@,Syracuse,ACC,L,55,63,,4,4,L 1,Carrier Dome
+8,9,"Sun, Dec 16, 2018",2:00p,REG,@,Niagara,MAAC,L,74,77,,4,5,L 2,Gallagher Center
+9,10,"Mon, Dec 17, 2018",7:00p,REG,,Longwood,Big South,W,70,64,,5,5,W 1,Newman Arena
+10,11,"Wed, Dec 19, 2018",7:00p,REG,@,Toledo,MAC,L,70,86,,5,6,L 1,John F. Savage Hall
+11,12,"Sat, Dec 22, 2018",8:00p,REG,@,Southern Methodist,AAC,L,53,81,,5,7,L 2,Moody Coliseum
+12,13,"Sun, Dec 30, 2018",1:00p,REG,,Navy,Patriot,W,61,50,,6,7,W 1,Newman Arena
+13,14,"Wed, Jan 2, 2019",7:00p,REG,@,Wake Forest,ACC,L,61,83,,6,8,L 1,Lawrence Joel Coliseum
+14,15,"Fri, Jan 4, 2019",7:00p,REG,,Johnson & Wales (RI),,W,76,61,,7,8,W 1,Newman Arena
+15,16,"Wed, Jan 9, 2019",7:00p,REG,@,Towson,CAA,W,86,74,,8,8,W 2,SECU Arena
+16,17,"Sat, Jan 19, 2019",1:30p,REG,,Columbia,Ivy,W,60,59,,9,8,W 3,Newman Arena
+17,18,"Sat, Jan 26, 2019",7:00p,REG,@,Columbia,Ivy,L,70,73,,9,9,L 1,Levien Gym
+18,19,"Fri, Feb 1, 2019",5:00p,REG,,Pennsylvania,Ivy,W,80,71,,10,9,W 1,Newman Arena
+19,20,"Sat, Feb 2, 2019",7:30p,REG,,Princeton,Ivy,L,61,70,OT,10,10,L 1,Newman Arena
+20,21,"Fri, Feb 8, 2019",7:00p,REG,@,Dartmouth,Ivy,W,83,80,,11,10,W 1,Leede Arena
+21,22,"Sat, Feb 9, 2019",7:00p,REG,@,Harvard,Ivy,W,67,61,,12,10,W 2,Lavietes Pavilion
+22,23,"Fri, Feb 15, 2019",7:00p,REG,,Brown,Ivy,W,70,66,OT,13,10,W 3,Newman Arena
+23,24,"Sat, Feb 16, 2019",7:00p,REG,,Yale,Ivy,L,92,98,,13,11,L 1,Newman Arena
+24,25,"Fri, Feb 22, 2019",8:00p,REG,@,Princeton,Ivy,L,59,68,,13,12,L 2,Jadwin Gymnasium
+25,26,"Sat, Feb 23, 2019",7:00p,REG,@,Pennsylvania,Ivy,L,50,68,,13,13,L 3,The Palestra
+26,27,"Fri, Mar 1, 2019",7:00p,REG,@,Yale,Ivy,L,65,88,,13,14,L 4,John J. Lee Ampitheater
+27,28,"Sat, Mar 2, 2019",6:00p,REG,@,Brown,Ivy,L,51,75,,13,15,L 5,Pizzitola Sports Center
+28,29,"Fri, Mar 8, 2019",7:00p,REG,,Harvard,Ivy,W,72,59,,14,15,W 1,Newman Arena
+29,30,"Sat, Mar 9, 2019",7:00p,REG,,Dartmouth,Ivy,W,66,51,,15,15,W 2,Newman Arena
+30,31,"Tue, Mar 19, 2019",7:00p,CIT,@,Robert Morris,NEC,L,89,98,OT,15,16,L 1,North Athletic Complex

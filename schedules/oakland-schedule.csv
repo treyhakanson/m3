@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Fri, Nov 9, 2018",7:00p,REG,,Toledo,MAC,L,86,87,,0,1,L 1,Athletics Center O'rena
+1,2,"Tue, Nov 13, 2018",7:00p,REG,,Western Michigan,MAC,L,77,85,OT,0,2,L 2,Athletics Center O'rena
+2,3,"Fri, Nov 16, 2018",10:00p,REG,@,Nevada-Las Vegas,MWC,L,61,74,,0,3,L 3,Thomas & Mack Center
+3,4,"Mon, Nov 19, 2018",7:00p,REG,,Defiance,,W,91,47,,1,3,W 1,Athletics Center O'rena
+4,5,"Fri, Nov 23, 2018",2:30p,REG,,James Madison,CAA,W,77,69,,2,3,W 2,Athletics Center O'rena
+5,6,"Sat, Nov 24, 2018",2:30p,REG,,Oral Roberts,Summit,W,87,76,,3,3,W 3,Athletics Center O'rena
+6,7,"Sun, Nov 25, 2018",3:00p,REG,,Northern Illinois,MAC,L,72,92,,3,4,L 1,Athletics Center O'rena
+7,8,"Sat, Dec 1, 2018",12:00p,REG,@,Xavier,Big East,L,63,73,,3,5,L 2,Cintas Center
+8,9,"Thu, Dec 6, 2018",7:00p,REG,@,Fairfield,MAAC,W,87,86,,4,5,W 1,George Bisacca Court at Alumni Hall
+9,10,"Sat, Dec 8, 2018",4:00p,REG,@,Northeastern,CAA,L,83,92,,4,6,L 1,Matthews Arena
+10,11,"Sun, Dec 16, 2018",4:30p,REG,@,Hartford,AEC,L,82,87,,4,7,L 2,Chase Family Arena
+11,12,"Tue, Dec 18, 2018",7:00p,REG,@,Georgia,SEC,L,69,81,,4,8,L 3,Stegeman Coliseum
+12,13,"Fri, Dec 21, 2018",7:00p,REG,@,Michigan State (10),Big Ten,L,69,99,,4,9,L 4,Breslin Events Center
+13,14,"Fri, Dec 28, 2018",7:00p,REG,@,Cleveland State,Horizon,W,89,77,,5,9,W 1,Wolstein Center
+14,15,"Sun, Dec 30, 2018",2:00p,REG,@,Youngstown State,Horizon,W,76,74,,6,9,W 2,Beeghly Center
+15,16,"Thu, Jan 3, 2019",7:00p,REG,,Northern Kentucky,Horizon,W,76,74,,7,9,W 3,Athletics Center O'rena
+16,17,"Sat, Jan 5, 2019",3:00p,REG,,Wright State,Horizon,L,73,89,,7,10,L 1,Athletics Center O'rena
+17,18,"Thu, Jan 10, 2019",7:00p,REG,,Milwaukee,Horizon,L,64,67,,7,11,L 2,Athletics Center O'rena
+18,19,"Sat, Jan 12, 2019",3:00p,REG,,Green Bay,Horizon,W,90,78,,8,11,W 1,Athletics Center O'rena
+19,20,"Sat, Jan 19, 2019",2:00p,REG,@,Detroit Mercy,Horizon,W,79,73,,9,11,W 2,Calihan Hall
+20,21,"Thu, Jan 24, 2019",11:00a,REG,@,IUPUI,Horizon,L,71,73,,9,12,L 1,Indiana Farmers Coliseum
+21,22,"Sat, Jan 26, 2019",4:00p,REG,@,Illinois-Chicago,Horizon,W,80,67,,10,12,W 1,UIC Pavilion
+22,23,"Thu, Jan 31, 2019",7:00p,REG,,Youngstown State,Horizon,L,74,75,,10,13,L 1,Athletics Center O'rena
+23,24,"Sat, Feb 2, 2019",3:00p,REG,,Cleveland State,Horizon,W,83,68,,11,13,W 1,Athletics Center O'rena
+24,25,"Thu, Feb 7, 2019",7:00p,REG,@,Wright State,Horizon,L,62,76,,11,14,L 1,Ervin J. Nutter Center
+25,26,"Sat, Feb 9, 2019",7:00p,REG,@,Northern Kentucky,Horizon,L,64,79,,11,15,L 2,Bank of Kentucky Center
+26,27,"Thu, Feb 14, 2019",8:00p,REG,@,Green Bay,Horizon,L,54,66,,11,16,L 3,Resch Center
+27,28,"Sat, Feb 16, 2019",7:00p,REG,@,Milwaukee,Horizon,W,89,73,,12,16,W 1,UW-Milwaukee Panther Arena
+28,29,"Sat, Feb 23, 2019",3:00p,REG,,Detroit Mercy,Horizon,W,95,75,,13,16,W 2,Athletics Center O'rena
+29,30,"Thu, Feb 28, 2019",7:00p,REG,,Illinois-Chicago,Horizon,W,86,72,,14,16,W 3,Athletics Center O'rena
+30,31,"Sat, Mar 2, 2019",4:00p,REG,,IUPUI,Horizon,W,74,63,,15,16,W 4,Athletics Center O'rena
+31,32,"Wed, Mar 6, 2019",7:00p,CTOURN,,Youngstown State,Horizon,W,88,84,,16,16,W 5,Athletics Center O'rena
+32,33,"Mon, Mar 11, 2019",9:00p,CTOURN,N,Northern Kentucky,Horizon,L,63,64,,16,17,L 1,Little Caesars Arena

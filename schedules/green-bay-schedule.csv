@@ -1,0 +1,37 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",12:30p,REG,,Wisconsin Lutheran,,W,110,54,,1,0,W 1,Kress Events Center
+1,2,"Fri, Nov 9, 2018",4:30p,REG,,Indiana State,MVC,L,74,78,,1,1,L 1,Kress Events Center
+2,3,"Sun, Nov 11, 2018",3:00p,REG,@,Iowa,Big Ten,L,82,93,,1,2,L 2,Carver-Hawkeye Arena
+3,4,"Fri, Nov 16, 2018",7:45p,REG,@,Eastern Washington,Big Sky,W,82,78,OT,2,2,W 1,Reese Court
+4,5,"Sat, Nov 17, 2018",4:05p,REG,N,Morehead State,OVC,W,87,70,,3,2,W 2,Reese Court
+5,6,"Tue, Nov 20, 2018",10:00p,REG,@,Oregon (21),Pac-12,L,72,83,,3,3,L 1,Matthew Knight Arena
+6,7,"Wed, Nov 28, 2018",8:00p,REG,,Northern Illinois,MAC,W,85,83,,4,3,W 1,Resch Center
+7,8,"Sat, Dec 1, 2018",2:00p,REG,,Belmont,OVC,W,100,92,,5,3,W 2,Resch Center
+8,9,"Sat, Dec 8, 2018",6:00p,REG,@,Bowling Green State,MAC,L,68,97,,5,4,L 1,Stroh Center
+9,10,"Tue, Dec 11, 2018",8:00p,REG,,Wisconsin-Stout,,W,112,46,,6,4,W 1,Kress Events Center
+10,11,"Fri, Dec 14, 2018",9:00p,REG,@,Creighton,Big East,L,65,86,,6,5,L 1,CenturyLink Center
+11,12,"Sun, Dec 16, 2018",5:00p,REG,@,Michigan State (9),Big Ten,L,83,104,,6,6,L 2,Breslin Events Center
+12,13,"Sat, Dec 22, 2018",5:00p,REG,@,Evansville,MVC,L,75,80,,6,7,L 3,Ford Center
+13,14,"Sat, Dec 29, 2018",8:00p,REG,@,Milwaukee,Horizon,W,92,82,,7,7,W 1,UW-Milwaukee Panther Arena
+14,15,"Thu, Jan 3, 2019",8:00p,REG,,Youngstown State,Horizon,W,99,93,OT,8,7,W 2,Resch Center
+15,16,"Sat, Jan 5, 2019",1:00p,REG,,Cleveland State,Horizon,W,90,89,,9,7,W 3,Resch Center
+16,17,"Thu, Jan 10, 2019",7:00p,REG,@,Detroit Mercy,Horizon,L,83,101,,9,8,L 1,Calihan Hall
+17,18,"Sat, Jan 12, 2019",3:00p,REG,@,Oakland,Horizon,L,78,90,,9,9,L 2,Athletics Center O'rena
+18,19,"Thu, Jan 17, 2019",8:00p,REG,,IUPUI,Horizon,L,70,76,,9,10,L 3,Resch Center
+19,20,"Sat, Jan 19, 2019",1:00p,REG,,Illinois-Chicago,Horizon,W,90,85,,10,10,W 1,Resch Center
+20,21,"Thu, Jan 24, 2019",7:00p,REG,@,Northern Kentucky,Horizon,L,65,87,,10,11,L 1,Bank of Kentucky Center
+21,22,"Sat, Jan 26, 2019",7:00p,REG,@,Wright State,Horizon,L,75,87,,10,12,L 2,Ervin J. Nutter Center
+22,23,"Fri, Feb 1, 2019",8:00p,REG,,Milwaukee,Horizon,W,90,74,,11,12,W 1,Kress Events Center
+23,24,"Thu, Feb 7, 2019",7:00p,REG,@,Cleveland State,Horizon,W,82,65,,12,12,W 2,Wolstein Center
+24,25,"Sat, Feb 9, 2019",6:00p,REG,@,Youngstown State,Horizon,L,77,96,,12,13,L 1,Beeghly Center
+25,26,"Thu, Feb 14, 2019",8:00p,REG,,Oakland,Horizon,W,66,54,,13,13,W 1,Resch Center
+26,27,"Sat, Feb 16, 2019",1:00p,REG,,Detroit Mercy,Horizon,W,82,73,,14,13,W 2,Resch Center
+27,28,"Fri, Feb 22, 2019",9:00p,REG,@,Illinois-Chicago,Horizon,W,63,62,,15,13,W 3,UIC Pavilion
+28,29,"Sun, Feb 24, 2019",1:00p,REG,@,IUPUI,Horizon,L,68,79,,15,14,L 1,Indiana Farmers Coliseum
+29,30,"Thu, Feb 28, 2019",8:00p,REG,,Wright State,Horizon,W,70,67,,16,14,W 1,Resch Center
+30,31,"Sat, Mar 2, 2019",1:00p,REG,,Northern Kentucky,Horizon,L,82,86,,16,15,L 1,Resch Center
+31,32,"Tue, Mar 5, 2019",8:00p,CTOURN,,Illinois-Chicago,Horizon,W,82,77,,17,15,W 1,Resch Center
+32,33,"Mon, Mar 11, 2019",7:00p,CTOURN,N,Wright State,Horizon,L,54,66,,17,16,L 1,Little Caesars Arena
+33,34,"Wed, Mar 20, 2019",7:00p,CIT,@,East Tennessee State,Southern,W,102,94,,18,16,W 1,Freedom Hall Civic Center
+34,35,"Tue, Mar 26, 2019",8:00p,CIT,,Florida International,CUSA,W,98,68,,19,16,W 2,Kress Events Center
+35,36,"Fri, Mar 29, 2019",7:00p,CIT,,Cal State Bakersfield,WAC,,,,,,,,

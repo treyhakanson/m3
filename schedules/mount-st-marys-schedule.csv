@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",7:00p,REG,@,North Carolina State,ACC,L,55,105,,0,1,L 1,PNC Arena
+1,2,"Fri, Nov 9, 2018",7:30p,REG,@,Hofstra,CAA,L,61,79,,0,2,L 2,Mack Sports Complex
+2,3,"Wed, Nov 14, 2018",7:00p,REG,@,Marshall,CUSA,L,75,98,,0,3,L 3,Henderson Center
+3,4,"Sun, Nov 18, 2018",4:00p,REG,@,Maryland,Big Ten,L,77,92,,0,4,L 4,Xfinity Center
+4,5,"Wed, Nov 21, 2018",5:00p,REG,,North Carolina A&T,MEAC,L,60,74,,0,5,L 5,Knott Arena
+5,6,"Sun, Nov 25, 2018",1:00p,REG,@,Morgan State,MEAC,L,68,78,,0,6,L 6,Hill Field House
+6,7,"Sat, Dec 1, 2018",1:00p,REG,@,Loyola (MD),Patriot,L,65,75,,0,7,L 7,Reitz Arena
+7,8,"Wed, Dec 5, 2018",6:30p,REG,@,St. John's (NY),Big East,L,71,85,,0,8,L 8,Carnesecca Arena
+8,9,"Sat, Dec 8, 2018",4:00p,REG,,Lehigh,Patriot,L,78,85,,0,9,L 9,Knott Arena
+9,10,"Sat, Dec 15, 2018",4:00p,REG,,Wilson,,W,74,59,,1,9,W 1,Knott Arena
+10,11,"Tue, Dec 18, 2018",7:00p,REG,@,American,Patriot,W,56,55,,2,9,W 2,Bender Arena
+11,12,"Sat, Dec 22, 2018",4:00p,REG,,St. Mary's (MD),,W,83,44,,3,9,W 3,Knott Arena
+12,13,"Sun, Dec 30, 2018",4:00p,REG,@,Minnesota,Big Ten,L,53,71,,3,10,L 1,Williams Arena
+13,14,"Thu, Jan 3, 2019",7:00p,REG,@,Saint Francis (PA),NEC,L,69,80,,3,11,L 2,DeGol Arena
+14,15,"Sat, Jan 5, 2019",5:00p,REG,@,Robert Morris,NEC,L,59,62,,3,12,L 3,North Athletic Complex
+15,16,"Thu, Jan 10, 2019",7:00p,REG,,Bryant,NEC,L,59,66,,3,13,L 4,Knott Arena
+16,17,"Sat, Jan 12, 2019",4:00p,REG,,Central Connecticut State,NEC,L,68,77,,3,14,L 5,Knott Arena
+17,18,"Sat, Jan 19, 2019",4:00p,REG,@,Wagner,NEC,W,70,56,,4,14,W 1,Spiro Sports Center
+18,19,"Mon, Jan 21, 2019",2:00p,REG,@,Fairleigh Dickinson,NEC,L,69,87,,4,15,L 1,Rothman Center
+19,20,"Thu, Jan 24, 2019",7:00p,REG,,Long Island University,NEC,W,74,72,,5,15,W 1,Knott Arena
+20,21,"Sat, Jan 26, 2019",5:00p,REG,,St. Francis (NY),NEC,L,67,74,,5,16,L 1,Knott Arena
+21,22,"Thu, Jan 31, 2019",7:00p,REG,,Sacred Heart,NEC,L,79,87,,5,17,L 2,Knott Arena
+22,23,"Sat, Feb 2, 2019",4:00p,REG,,Saint Francis (PA),NEC,L,63,72,,5,18,L 3,Knott Arena
+23,24,"Thu, Feb 7, 2019",7:00p,REG,@,Long Island University,NEC,L,62,77,,5,19,L 4,Barclays Center
+24,25,"Sat, Feb 9, 2019",3:00p,REG,@,Sacred Heart,NEC,W,76,73,,6,19,W 1,William H. Pitt Center
+25,26,"Thu, Feb 14, 2019",7:00p,REG,,Robert Morris,NEC,W,76,62,,7,19,W 2,Knott Arena
+26,27,"Sat, Feb 16, 2019",4:00p,REG,,Wagner,NEC,L,56,58,,7,20,L 1,Knott Arena
+27,28,"Thu, Feb 21, 2019",7:00p,REG,@,Central Connecticut State,NEC,W,79,66,,8,20,W 1,Detrick Gymnasium
+28,29,"Sat, Feb 23, 2019",4:00p,REG,@,Bryant,NEC,L,58,81,,8,21,L 1,Chace Athletic Center 
+29,30,"Thu, Feb 28, 2019",7:00p,REG,,Fairleigh Dickinson,NEC,L,59,65,,8,22,L 2,Knott Arena
+30,31,"Sat, Mar 2, 2019",4:00p,REG,@,St. Francis (NY),NEC,W,73,71,,9,22,W 1,Pope Physical Education Center

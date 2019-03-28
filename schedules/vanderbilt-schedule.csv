@@ -1,0 +1,33 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",9:30p,REG,,Winthrop,Big South,W,92,79,,1,0,W 1,Memorial Gymnasium
+1,2,"Sun, Nov 11, 2018",9:00p,REG,@,Southern California,Pac-12,W,82,78,,2,0,W 2,Galen Center
+2,3,"Fri, Nov 16, 2018",8:00p,REG,,Alcorn State,SWAC,W,79,54,,3,0,W 3,Memorial Gymnasium
+3,4,"Mon, Nov 19, 2018",8:00p,REG,,Liberty,A-Sun,W,79,70,,4,0,W 4,Memorial Gymnasium
+4,5,"Fri, Nov 23, 2018",5:00p,REG,,Kent State,MAC,L,75,77,,4,1,L 1,Memorial Gymnasium
+5,6,"Tue, Nov 27, 2018",8:00p,REG,,Savannah State,MEAC,W,120,85,,5,1,W 1,Memorial Gymnasium
+6,7,"Sat, Dec 1, 2018",5:00p,REG,N,North Carolina State,ACC,L,65,80,,5,2,L 1,American Airlines Arena
+7,8,"Wed, Dec 5, 2018",7:30p,REG,,Middle Tennessee,CUSA,W,79,51,,6,2,W 1,Memorial Gymnasium
+8,9,"Mon, Dec 17, 2018",7:00p,REG,,Arizona State (18),Pac-12,W,81,65,,7,2,W 2,Memorial Gymnasium
+9,10,"Sat, Dec 22, 2018",7:00p,REG,N,Kansas State,Big 12,L,58,69,,7,3,L 1,Sprint Center
+10,11,"Sat, Dec 29, 2018",1:30p,REG,,Tennessee State,OVC,W,95,76,,8,3,W 1,Memorial Gymnasium
+11,12,"Mon, Dec 31, 2018",2:00p,REG,,North Carolina-Asheville,Big South,W,90,59,,9,3,W 2,Memorial Gymnasium
+12,13,"Sat, Jan 5, 2019",8:30p,REG,,Mississippi,SEC,L,71,81,,9,4,L 1,Memorial Gymnasium
+13,14,"Wed, Jan 9, 2019",6:30p,REG,@,Georgia,SEC,L,63,82,,9,5,L 2,Stegeman Coliseum
+14,15,"Sat, Jan 12, 2019",8:30p,REG,@,Kentucky (18),SEC,L,47,56,,9,6,L 3,Rupp Arena
+15,16,"Wed, Jan 16, 2019",7:00p,REG,,South Carolina,SEC,L,71,74,,9,7,L 4,Memorial Gymnasium
+16,17,"Sat, Jan 19, 2019",8:30p,REG,,Mississippi State (24),SEC,L,55,71,,9,8,L 5,Memorial Gymnasium
+17,18,"Wed, Jan 23, 2019",7:00p,REG,,Tennessee (1),SEC,L,83,88,OT,9,9,L 6,Memorial Gymnasium
+18,19,"Sat, Jan 26, 2019",4:00p,REG,@,Oklahoma,Big 12,L,55,86,,9,10,L 7,Lloyd Noble Center
+19,20,"Tue, Jan 29, 2019",9:00p,REG,,Kentucky (7),SEC,L,52,87,,9,11,L 8,Memorial Gymnasium
+20,21,"Sat, Feb 2, 2019",8:30p,REG,@,Missouri,SEC,L,67,77,,9,12,L 9,Mizzou Arena
+21,22,"Tue, Feb 5, 2019",9:00p,REG,@,Arkansas,SEC,L,66,69,,9,13,L 10,Bud Walton Arena
+22,23,"Sat, Feb 9, 2019",8:30p,REG,,Alabama,SEC,L,67,77,,9,14,L 11,Memorial Gymnasium
+23,24,"Wed, Feb 13, 2019",9:00p,REG,@,Florida,SEC,L,57,66,,9,15,L 12,Stephen C. O'Connell Center
+24,25,"Sat, Feb 16, 2019",12:00p,REG,,Auburn,SEC,L,53,64,,9,16,L 13,Memorial Gymnasium
+25,26,"Tue, Feb 19, 2019",7:00p,REG,@,Tennessee (5),SEC,L,46,58,,9,17,L 14,Thompson-Boling Arena
+26,27,"Sat, Feb 23, 2019",6:00p,REG,@,Alabama,SEC,L,61,68,,9,18,L 15,Coleman Coliseum 
+27,28,"Wed, Feb 27, 2019",9:00p,REG,,Florida,SEC,L,55,71,,9,19,L 16,Memorial Gymnasium
+28,29,"Sat, Mar 2, 2019",6:00p,REG,@,Texas A&M,SEC,L,57,64,,9,20,L 17,Reed Arena
+29,30,"Wed, Mar 6, 2019",8:30p,REG,,Arkansas,SEC,L,48,84,,9,21,L 18,Memorial Gymnasium
+30,31,"Sat, Mar 9, 2019",8:30p,REG,@,Louisiana State (10),SEC,L,59,80,,9,22,L 19,Maravich Assembly Center
+31,32,"Wed, Mar 13, 2019",9:00p,CTOURN,N,Texas A&M,SEC,L,52,69,,9,23,L 20,Bridgestone Arena

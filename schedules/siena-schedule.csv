@@ -1,0 +1,34 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",6:30p,REG,@,Providence,Big East,L,67,77,,0,1,L 1,Dunkin' Donuts Center
+1,2,"Thu, Nov 8, 2018",7:00p,REG,@,George Washington,A-10,W,69,61,,1,1,W 1,Charles E. Smith Center
+2,3,"Fri, Nov 16, 2018",8:30p,REG,N,Norfolk State,MEAC,W,61,58,,2,1,W 2,Mohegan Sun Arena
+3,4,"Sun, Nov 18, 2018",11:00a,REG,N,Holy Cross,Patriot,L,45,57,,2,2,L 1,Mohegan Sun Arena
+4,5,"Wed, Nov 21, 2018",6:00p,REG,,Lehigh,Patriot,L,69,80,,2,3,L 2,Times Union Center 
+5,6,"Sat, Nov 24, 2018",2:00p,REG,,Colgate,Patriot,L,79,84,,2,4,L 3,Times Union Center 
+6,7,"Wed, Nov 28, 2018",7:00p,REG,@,Hofstra,CAA,L,86,94,,2,5,L 4,Mack Sports Complex
+7,8,"Sat, Dec 1, 2018",3:00p,REG,,Harvard,Ivy,W,67,64,,3,5,W 1,Times Union Center 
+8,9,"Wed, Dec 5, 2018",7:00p,REG,@,St. Bonaventure,A-10,L,40,82,,3,6,L 1,Reilly Center
+9,10,"Sat, Dec 8, 2018",4:00p,REG,@,Robert Morris,NEC,W,74,71,,4,6,W 1,North Athletic Complex
+10,11,"Tue, Dec 18, 2018",7:00p,REG,,College of Charleston,CAA,L,58,83,,4,7,L 1,Times Union Center 
+11,12,"Sat, Dec 22, 2018",12:00p,REG,@,Holy Cross,Patriot,L,57,60,,4,8,L 2,Hart Recreation Center
+12,13,"Sat, Dec 29, 2018",2:00p,REG,,Cal Poly,Big West,W,75,54,,5,8,W 1,Times Union Center 
+13,14,"Thu, Jan 3, 2019",4:00p,REG,@,Saint Peter's,MAAC,L,60,65,,5,9,L 1,Yanitelli Center
+14,15,"Sat, Jan 5, 2019",7:00p,REG,,Canisius,MAAC,L,66,70,,5,10,L 2,Times Union Center 
+15,16,"Fri, Jan 11, 2019",7:00p,REG,@,Marist,MAAC,W,71,66,,6,10,W 1,McCann Recreation Center
+16,17,"Mon, Jan 14, 2019",7:00p,REG,,Monmouth,MAAC,L,60,63,OT,6,11,L 1,Times Union Center 
+17,18,"Thu, Jan 17, 2019",7:00p,REG,,Niagara,MAAC,W,66,57,,7,11,W 1,Times Union Center 
+18,19,"Thu, Jan 24, 2019",7:00p,REG,@,Fairfield,MAAC,W,57,48,,8,11,W 2,Webster Bank Arena
+19,20,"Sat, Jan 26, 2019",7:00p,REG,,Manhattan,MAAC,W,53,40,,9,11,W 3,Times Union Center 
+20,21,"Thu, Jan 31, 2019",7:00p,REG,@,Monmouth,MAAC,L,55,66,,9,12,L 1,Multipurpose Activity Center
+21,22,"Sat, Feb 2, 2019",1:00p,REG,@,Iona,MAAC,W,56,54,,10,12,W 1,Hynes Athletics Center
+22,23,"Mon, Feb 4, 2019",7:00p,REG,,Fairfield,MAAC,W,61,50,,11,12,W 2,Times Union Center 
+23,24,"Fri, Feb 8, 2019",7:00p,REG,@,Manhattan,MAAC,W,51,49,,12,12,W 3,Draddy Gymnasium
+24,25,"Sun, Feb 10, 2019",2:00p,REG,@,Rider,MAAC,W,59,57,,13,12,W 4,Alumni Gymnasium
+25,26,"Wed, Feb 13, 2019",7:00p,REG,,Iona,MAAC,L,52,57,,13,13,L 1,Times Union Center 
+26,27,"Sun, Feb 17, 2019",2:00p,REG,,Quinnipiac,MAAC,L,100,107,3OT,13,14,L 2,Times Union Center 
+27,28,"Tue, Feb 19, 2019",7:00p,REG,,Saint Peter's,MAAC,W,72,62,,14,14,W 1,Times Union Center 
+28,29,"Sun, Feb 24, 2019",2:00p,REG,,Marist,MAAC,W,67,55,,15,14,W 2,Times Union Center 
+29,30,"Fri, Mar 1, 2019",9:00p,REG,@,Canisius,MAAC,L,62,68,,15,15,L 1,Koessler Athletic Center
+30,31,"Sun, Mar 3, 2019",2:00p,REG,@,Niagara,MAAC,W,72,65,OT,16,15,W 1,Gallagher Center
+31,32,"Sat, Mar 9, 2019",9:30p,CTOURN,N,Rider,MAAC,W,87,81,,17,15,W 2,Times Union Center 
+32,33,"Sun, Mar 10, 2019",6:00p,CTOURN,N,Iona,MAAC,L,57,73,,17,16,L 1,Times Union Center 

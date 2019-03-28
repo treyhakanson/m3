@@ -1,0 +1,32 @@
+,Game,Date,Time,Type,Home/Away,Opponent,Conference,Outcome,Team Points,Opponent Points,OT,Opponent Wins,Opponent Losses,Streak,Arena
+0,1,"Tue, Nov 6, 2018",8:00p,REG,@,Memphis,AAC,L,61,76,,0,1,L 1,FedExForum
+1,2,"Sat, Nov 10, 2018",7:00p,REG,,Presbyterian,Big South,L,65,80,,0,2,L 2,Eblen Center
+2,3,"Tue, Nov 13, 2018",7:00p,REG,@,Savannah State,MEAC,L,83,97,,0,3,L 3,Tiger Arena
+3,4,"Fri, Nov 16, 2018",7:00p,REG,@,North Carolina (7),ACC,L,58,108,,0,4,L 4,Dean Smith Center
+4,5,"Sun, Nov 18, 2018",6:00p,REG,@,Michigan State (11),Big Ten,L,33,101,,0,5,L 5,Breslin Events Center
+5,6,"Fri, Nov 23, 2018",7:00p,REG,,Louisiana-Monroe,Sun Belt,W,79,73,,1,5,W 1,Eblen Center
+6,7,"Wed, Nov 28, 2018",7:00p,REG,,Winthrop,Big South,L,70,82,,1,6,L 1,Eblen Center
+7,8,"Sat, Dec 1, 2018",2:00p,REG,@,Chattanooga,Southern,L,60,71,,1,7,L 2,The McKenzie Arena
+8,9,"Thu, Dec 6, 2018",7:00p,REG,,Warren Wilson,,W,118,60,,2,7,W 1,Eblen Center
+9,10,"Sun, Dec 9, 2018",3:00p,REG,,Hiwassee,,W,97,60,,3,7,W 2,Eblen Center
+10,11,"Sat, Dec 15, 2018",4:00p,REG,@,Kennesaw State,A-Sun,L,68,73,,3,8,L 1,KSU Convocation Center 
+11,12,"Thu, Dec 20, 2018",7:00p,REG,,Savannah State,MEAC,W,91,80,,4,8,W 1,Eblen Center
+12,13,"Sat, Dec 29, 2018",1:00p,REG,@,Tennessee (3),SEC,L,53,96,,4,9,L 1,Thompson-Boling Arena
+13,14,"Thu, Jan 3, 2019",8:30p,REG,@,Tennessee State,OVC,W,66,64,,5,9,W 1,Gentry Center Complex
+14,15,"Sat, Jan 5, 2019",6:00p,REG,@,Belmont,OVC,L,67,79,,5,10,L 1,Curb Event Center
+15,16,"Thu, Jan 10, 2019",8:30p,REG,,Southern Illinois-Edwardsville,OVC,W,78,69,OT,6,10,W 1,Eblen Center
+16,17,"Sat, Jan 12, 2019",8:30p,REG,,Eastern Illinois,OVC,L,60,67,,6,11,L 1,Eblen Center
+17,18,"Thu, Jan 17, 2019",7:00p,REG,,Tennessee State,OVC,L,62,79,,6,12,L 2,Eblen Center
+18,19,"Sat, Jan 19, 2019",8:00p,REG,@,Jacksonville State,OVC,L,48,65,,6,13,L 3,Pete Mathews Coliseum
+19,20,"Thu, Jan 24, 2019",7:35p,REG,@,Morehead State,OVC,L,61,67,,6,14,L 4,Ellis T. Johnson Arena
+20,21,"Sat, Jan 26, 2019",7:00p,REG,@,Eastern Kentucky,OVC,W,91,85,,7,14,W 1,Davis-Reid Alumni Gym
+21,22,"Thu, Jan 31, 2019",7:00p,REG,,Austin Peay,OVC,L,66,77,,7,15,L 1,Eblen Center
+22,23,"Sat, Feb 2, 2019",8:30p,REG,,Murray State,OVC,L,63,67,,7,16,L 2,Eblen Center
+23,24,"Thu, Feb 7, 2019",8:45p,REG,@,Southeast Missouri State,OVC,L,66,71,OT,7,17,L 3,Show Me Center
+24,25,"Sat, Feb 9, 2019",4:30p,REG,@,Tennessee-Martin,OVC,L,58,77,,7,18,L 4,Skyhawk Arena
+25,26,"Thu, Feb 14, 2019",8:30p,REG,,Jacksonville State,OVC,L,57,67,,7,19,L 5,Eblen Center
+26,27,"Sat, Feb 16, 2019",8:30p,REG,,Belmont,OVC,L,65,93,,7,20,L 6,Eblen Center
+27,28,"Thu, Feb 21, 2019",8:30p,REG,,Eastern Kentucky,OVC,L,66,67,,7,21,L 7,Eblen Center
+28,29,"Sat, Feb 23, 2019",8:30p,REG,,Morehead State,OVC,L,63,66,,7,22,L 8,Eblen Center
+29,30,"Thu, Feb 28, 2019",8:30p,REG,@,Southern Illinois-Edwardsville,OVC,L,68,76,,7,23,L 9,Sam Vadalabene Center 
+30,31,"Sat, Mar 2, 2019",4:15p,REG,@,Eastern Illinois,OVC,W,63,57,,8,23,W 1,Lantz Arena
