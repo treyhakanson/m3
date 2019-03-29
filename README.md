@@ -92,6 +92,18 @@ Lines in this file should be formatted as a CSV with the following structure:
 | virginia      | california-irvine |
 | ohio-state    | arizona           |
 
+## Models
+
+Machine learning models to predict and evaluate March Madness tournament matchups can be found in `m3.models`.
+
+To run these models, use `python3 -m m3.models.evaluate [model]`, where model is `all` or one of the available models. Predictions will be sent to the `output` folder as well.
+
+Available models:
+- `model`: base model to be extended, picks random winner
+- `perceptron`
+
+Currently, only the first two rounds are available to evaluated, since those are the only games that have happened.
+
 ## Results
 
 ### 2018

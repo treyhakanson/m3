@@ -14,6 +14,7 @@ class MMPerceptron(Model):
 			self.training_data = json.loads(f.read())
 		self.models = { team: Perceptron(random_state=0, max_iter=10) for team in self.training_data.keys()}
 		self.feature_vectors = data_wrangling.import_feature_vectors()
+		self.model_name = "perceptron"
 
 	def train(self):
 		for team, model in self.models.items():

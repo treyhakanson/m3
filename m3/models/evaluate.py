@@ -1,15 +1,20 @@
+import sys
+
 from .model import Model
 from .perceptron import MMPerceptron
 
 if __name__ == '__main__':
-    print('======Base Model======')
-    model = Model()
-    model.train()
-    model.test()
+    model_choice = 'all' if len(sys.argv) < 2 else sys.argv[1].lower()
 
-    print()
+    if (model_choice == 'all' or model_choice == 'model'):
+        print('======Base Model======')
+        model = Model()
+        model.train()
+        model.test()
+        print()
 
-    print('======Perceptron======')
-    perceptron = MMPerceptron()
-    perceptron.train()
-    perceptron.test()
+    if (model_choice == 'all' or model_choice == 'perceptron'):
+        print('======Perceptron======')
+        perceptron = MMPerceptron()
+        perceptron.train()
+        perceptron.test()

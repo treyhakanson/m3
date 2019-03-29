@@ -118,10 +118,7 @@ class Model:
         Export predictions to output folder.
         '''
         for region in predictions:
-            if (random):
-                file_name = "./output/" + region + "-prediction-r.csv"
-            else:
-                file_name = "./output/" + region + "-predictions.csv"
+            file_name = "./output/{}-{}-predictions.csv".format(self.model_name, region)
 
             if not os.path.exists("./output"):
                 os.makedirs("./output")
@@ -141,7 +138,7 @@ class Model:
             http://fantasy.espn.com/tournament-challenge-bracket/2019/en/story?pageName=tcmen\howtoplay
         - PERCENT: float rerpresenting % winners guessed correctly (0 to 1)
 
-        rounds is the number of rounds to assess (1 to 6), using 2 since that's all we have now.
+        rounds is the number of rounds to assess (1 to 6), defaulting to 2 since that's all the data we have.
         '''
         expected = {
             "east": pd.read_csv('./results/east-results.csv'),
