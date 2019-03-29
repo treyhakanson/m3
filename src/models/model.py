@@ -22,8 +22,8 @@ class Model:
         return 0.5
 
     def test(self):
-        results = _generate_march_madness_results()
-        _evaluate_march_madness_results(results)
+        results = self._generate_march_madness_results(random=True, rounds=6)
+        self._evaluate_march_madness_results(results, rounds=2)
 
     def _generate_march_madness_results(self, random=False, rounds=6):
         '''
@@ -66,18 +66,18 @@ class Model:
                         matchup = predictions[region][i]
                         next_matchup = predictions[region][i+1]
                         if (round-1 == matchup["Round"] == next_matchup["Round"]):
-                            team = matchup["Predicted Winning Team"]
-                            opponent = next_matchup["Predicted Winning Team"]
+                            team = matchup["Predicted Winning School"]
+                            opponent = next_matchup["Predicted Winning School"]
                             self._add_prediction(predictions, region, round, team, opponent, random)
                         elif (matchup["Round"] >= round):
                             break
 
 
         if (rounds >= 5):
-            east_winner = predictions["east"][-1]["Predicted Winning Team"]
-            west_winner = predictions["west"][-1]["Predicted Winning Team"]
-            south_winner = predictions["south"][-1]["Predicted Winning Team"]
-            midwest_winner = predictions["midwest"][-1]["Predicted Winning Team"]
+            east_winner = predictions["east"][-1]["Predicted Winning School"]
+            west_winner = predictions["west"][-1]["Predicted Winning School"]
+            south_winner = predictions["south"][-1]["Predicted Winning School"]
+            midwest_winner = predictions["midwest"][-1]["Predicted Winning School"]
 
             east_west_winner = self._add_prediction(predictions, "final-four", 5, east_winner, west_winner, random)
             south_midwest_winner = self._add_prediction(predictions, "final-four", 5, south_winner, midwest_winner, random)
@@ -85,12 +85,8 @@ class Model:
             if (rounds >= 6):
                 self._add_prediction(predictions, "final-four", 6, east_west_winner, south_midwest_winner, random)
 
-        if __name__ == '__main__':
-            import pprint
-            pp = pprint.PrettyPrinter(indent=3)
-            pp.pprint(predictions)
-
         self._export_predictions(predictions, random)
+        return predictions
 
 
     def _add_prediction(self, predictions, region, round, team_name, opponent_name, random):
@@ -109,7 +105,7 @@ class Model:
             "Round": round,
             "School 1 Name": team_name,
             "School 2 Name": opponent_name,
-            "Predicted Winning Team": winning_team
+            "Predicted Winning School": winning_team
         }))
 
         return winning_team
@@ -120,11 +116,9 @@ class Model:
         '''
         for region in predictions:
             if (random):
-                file_name = "../../output/" + region + "-randomized-predictions.csv"
+                file_name = "../../output/" + region + "-prediction-r.csv"
             else:
                 file_name = "../../output/" + region + "-predictions.csv"
-
-            #pd.DataFrame.from_dict(predictions[region], orient="index").to_csv(file_name)
 
             if not os.path.exists("../../output"):
                 os.makedirs("../../output")
@@ -139,16 +133,61 @@ class Model:
         Given March Madness prediction vector, evaluate it against the true results,
         printing matchups and final accuracy.
 
-        Rounds is the number of rounds to assess, using 2 since that's all we have now.
+        Scoring methods are
+        - ESPN: 10*round*correct_winner_choice
+            http://fantasy.espn.com/tournament-challenge-bracket/2019/en/story?pageName=tcmen\howtoplay
+        - PERCENT: float rerpresenting % winners guessed correctly (0 to 1)
+
+        rounds is the number of rounds to assess (1 to 6), using 2 since that's all we have now.
         '''
         expected = {
             "east": pd.read_csv('../../results/east-results.csv'),
             "midwest": pd.read_csv('../../results/midwest-results.csv'),
             "south": pd.read_csv('../../results/south-results.csv'),
-            "west": pd.read_csv('../../results/west-results.csv')
+            "west": pd.read_csv('../../results/west-results.csv'),
+            "final-four": pd.read_csv('../../results/final-four-results.csv')
         }
+        if (rounds < 5):
+            del expected["final-four"]
+
+        espn_score = 0
+        total_correct = 0
+        total_games = 0
+
+        print("{:<1} {:<22} {:<22} {:<22} {:<8}".format("", "Team 1", "Team 2", "Predicted Winner", "Correct"))
+
+        for region in expected:
+            i = 0
+            print("---" + region + "---")
+            for matchup in results[region]:
+                round = matchup["Round"]
+                if (round <= rounds):
+                    team = matchup["School 1 Name"]
+                    opponent = matchup["School 2 Name"]
+
+                    predicted = matchup["Predicted Winning School"]
+                    winner = expected[region].iloc[i,:]["Winning School"]
+                    correct = winner == predicted
+                    total_games += 1
+
+                    if (correct):
+                        total_correct += 1
+                        espn_score += 10 * (2 ** (round - 1))
+
+                    correct_string = 'Y' if correct else ''
+                    print("{:<1} {:<22} {:<22} {:<22} {:^8}".format(round, team, opponent, predicted, correct_string))
+
+                else:
+                    break
+                i += 1
+
+        print("--- Final result ---")
+        print("ESPN Score: {}".format(espn_score))
+        print("Correct: {} / {} - {:.4f}".format(total_correct, total_games, total_correct / total_games))
+
         return 1
 
 if __name__ == '__main__':
     model = Model()
-    model._generate_march_madness_results(random=True)
+    model.train()
+    model.test()
