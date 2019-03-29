@@ -3,7 +3,7 @@ from pathlib import Path
 from argparse import ArgumentParser
 import pandas as pd
 from constants import SCHOOLS
-from utils import (
+from .utils import (
 	load_roster,
 	load_schedule,
 	load_boxscore,
@@ -59,7 +59,7 @@ def create_parser():
 def main(schools):
 	for school in schools:
 		print('Creating feature vector for %s...' % school)
-		fpath = Path('../feature-vectors/%s.csv' % school)
+		fpath = Path('./feature-vectors/%s.csv' % school)
 		if fpath.exists():
 			continue
 		fdf = initialize_feature_matrix()

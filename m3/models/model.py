@@ -40,10 +40,10 @@ class Model:
         Generates output in output folder in root.
         '''
         matchups = {
-            "east": pd.read_csv('../../matchups/east-matchups.round1.csv'),
-            "west": pd.read_csv('../../matchups/west-matchups.round1.csv'),
-            "south": pd.read_csv('../../matchups/south-matchups.round1.csv'),
-            "midwest": pd.read_csv('../../matchups/midwest-matchups.round1.csv')
+            "east": pd.read_csv('./matchups/east-matchups.round1.csv'),
+            "west": pd.read_csv('./matchups/west-matchups.round1.csv'),
+            "south": pd.read_csv('./matchups/south-matchups.round1.csv'),
+            "midwest": pd.read_csv('./matchups/midwest-matchups.round1.csv')
         }
 
         predictions = {
@@ -119,12 +119,12 @@ class Model:
         '''
         for region in predictions:
             if (random):
-                file_name = "../../output/" + region + "-prediction-r.csv"
+                file_name = "./output/" + region + "-prediction-r.csv"
             else:
-                file_name = "../../output/" + region + "-predictions.csv"
+                file_name = "./output/" + region + "-predictions.csv"
 
-            if not os.path.exists("../../output"):
-                os.makedirs("../../output")
+            if not os.path.exists("./output"):
+                os.makedirs("./output")
 
             with open(file_name, 'w') as output:
                 fp = csv.DictWriter(output, predictions[region][0].keys())
@@ -144,11 +144,11 @@ class Model:
         rounds is the number of rounds to assess (1 to 6), using 2 since that's all we have now.
         '''
         expected = {
-            "east": pd.read_csv('../../results/east-results.csv'),
-            "midwest": pd.read_csv('../../results/midwest-results.csv'),
-            "south": pd.read_csv('../../results/south-results.csv'),
-            "west": pd.read_csv('../../results/west-results.csv'),
-            "final-four": pd.read_csv('../../results/final-four-results.csv')
+            "east": pd.read_csv('./results/east-results.csv'),
+            "midwest": pd.read_csv('./results/midwest-results.csv'),
+            "south": pd.read_csv('./results/south-results.csv'),
+            "west": pd.read_csv('./results/west-results.csv'),
+            "final-four": pd.read_csv('./results/final-four-results.csv')
         }
         if (rounds < 5):
             del expected["final-four"]

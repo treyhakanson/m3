@@ -1,15 +1,16 @@
 from sklearn.linear_model import Perceptron
 import numpy as np
-import json 
+import json
 import warnings
 
-import data_wrangling
+from . import data_wrangling
+from .model import Model
 
 warnings.filterwarnings("ignore")
 
-class MMPerceptron:
+class MMPerceptron(Model):
 	def __init__(self):
-		with open('../cleaned-data/binary-data.json', 'r') as f:
+		with open('./cleaned-data/binary-data.json', 'r') as f:
 			self.training_data = json.loads(f.read())
 		self.models = { team: Perceptron(random_state=0, max_iter=10) for team in self.training_data.keys()}
 		self.feature_vectors = data_wrangling.import_feature_vectors()

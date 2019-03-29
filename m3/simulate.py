@@ -4,7 +4,8 @@ from contextlib import contextmanager
 import sys
 import os
 import pandas as pd
-import utils
+
+from . import utils
 
 warnings.filterwarnings(action="ignore", module="scipy",
                         message="^internal gelsd")

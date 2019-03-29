@@ -22,7 +22,7 @@ To run the crawler, perform the following:
 
 ```sh
 pip3 install -r requirements.txt  # install the required packages
-python3 crawler.py                # run the crawler
+python3 -m m3.crawler             # run the crawler
 ```
 
 The crawler will saved failed attempts in a corresponding log file. Certain parts of the pipeline can be skipped by changing the `PIPELINE` variable. For example, if boxscores are not desired, comment out `'boxscores'`.
@@ -70,7 +70,7 @@ Available stats are:
 Simulate the projected winner of a matchup, based on their previous performances. For example:
 
 ```sh
-python3 simulate.py kentucky alabama
+python3 -m m3.simulate kentucky alabama
 ```
 
 will yield output similar to the following:
@@ -81,7 +81,7 @@ will yield output similar to the following:
 Alternatively, you can also pass in a path to a file containing lines of matchups to run multiple simulations at once:
 
 ```sh
-python3 simulate.py ../matchups/south-matchups.round1.csv
+python3 -m m3.simulate ../matchups/south-matchups.round1.csv
 ```
 
 Lines in this file should be formatted as a CSV with the following structure:

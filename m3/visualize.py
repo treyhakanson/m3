@@ -1,9 +1,10 @@
 import sys
-import utils
 import matplotlib.patches as mpatches
 from matplotlib import pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D  # noqa F401
 import numpy as np
+
+from . import utils
 
 school = sys.argv[1]
 stat = sys.argv[2].upper()

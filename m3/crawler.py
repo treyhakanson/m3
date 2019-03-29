@@ -5,7 +5,8 @@ from os import path
 from dateutil.parser import parse
 from datetime import datetime
 from constants import SCHOOLS
-import utils
+
+from . import utils
 
 PIPELINE = [
     # 'rosters',
@@ -184,11 +185,11 @@ if 'boxscores' in PIPELINE:
                 continue
             get_boxscore(school, row)
 
-with open('../roster-failures.log', 'a') as file:
+with open('./roster-failures.log', 'a') as file:
     file.write('\n'.join(roster_failures))
 
-with open('../schedule-failures.log', 'a') as file:
+with open('./schedule-failures.log', 'a') as file:
     file.write('\n'.join(schedule_failures))
 
-with open('../boxscore-failures.log', 'a') as file:
+with open('./boxscore-failures.log', 'a') as file:
     file.write('\n'.join(boxscore_failures))
