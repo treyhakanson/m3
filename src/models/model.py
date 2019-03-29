@@ -6,6 +6,8 @@ import pandas as pd
 class Model:
     '''
     Base class for building machine learning models to evaluate on March Madness training set.
+
+    Extend this model and implement train and predict :)
     '''
 
     def __init__(self):
@@ -18,6 +20,7 @@ class Model:
         '''
         Given two teams, output the probability team beats opponent.
         Output: float (0 <= output <= 1) representing probability.
+        Or if probabillity is not supported, return 1 if team is winner and 0 otherwise.
         '''
         return 0.5
 
@@ -25,7 +28,7 @@ class Model:
         results = self._generate_march_madness_results(random=True, rounds=6)
         self._evaluate_march_madness_results(results, rounds=2)
 
-    def _generate_march_madness_results(self, random=False, rounds=6):
+    def _generate_march_madness_results(self, random=True, rounds=6):
         '''
         Based on the current model, test on the March Madness 2019 results.
 
