@@ -24,9 +24,9 @@ class Model:
         '''
         return 0.5
 
-    def test(self):
+    def test(self, display=False):
         results = self._generate_march_madness_results(random=True, rounds=6)
-        self._evaluate_march_madness_results(results, rounds=2)
+        self._evaluate_march_madness_results(results, rounds=2, display=display)
 
     def _generate_march_madness_results(self, random=True, rounds=6):
         '''
@@ -128,7 +128,7 @@ class Model:
                 fp.writeheader()
                 fp.writerows(predictions[region])
 
-    def _evaluate_march_madness_results(self, results, rounds=2):
+    def _evaluate_march_madness_results(self, results, rounds=2, display=True):
         '''
         Given March Madness prediction vector, evaluate it against the true results,
         printing matchups and final accuracy.
@@ -154,11 +154,13 @@ class Model:
         total_correct = 0
         total_games = 0
 
-        print("{:<1} {:<22} {:<22} {:<22} {:<8}".format("", "Team 1", "Team 2", "Predicted Winner", "Correct"))
+        if display:
+            print("{:<1} {:<22} {:<22} {:<22} {:<8}".format("", "Team 1", "Team 2", "Predicted Winner", "Correct"))
 
         for region in expected:
             i = 0
-            print("---" + region + "---")
+            if display:
+                print("---" + region + "---")
             for matchup in results[region]:
                 round = matchup["Round"]
                 if (round <= rounds):
@@ -175,7 +177,8 @@ class Model:
                         espn_score += 10 * (2 ** (round - 1))
 
                     correct_string = 'Y' if correct else ''
-                    print("{:<1} {:<22} {:<22} {:<22} {:^8}".format(round, team, opponent, predicted, correct_string))
+                    if display:
+                        print("{:<1} {:<22} {:<22} {:<22} {:^8}".format(round, team, opponent, predicted, correct_string))
 
                 else:
                     break
